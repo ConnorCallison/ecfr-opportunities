@@ -1,77 +1,82 @@
-# EcfrOpportunities
+# eCFR Opportunities
 
-<a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
+This project aims to download the entire electronic Code of Federal Regulations (eCFR), parse it into Markdown format, pass it to OpenAI embeddings, and then build a web application where users can ask natural language questions about the regulations. Additionally, we will develop a node job to evaluate various subsections of the eCFR, generating complexity and cost scores to help identify potential areas of efficiency improvement in the government.
 
-✨ Your new, shiny [Nx workspace](https://nx.dev) is almost ready ✨.
+## Project Plan
 
-[Learn more about this workspace setup and its capabilities](https://nx.dev/getting-started/intro#learn-nx?utm_source=nx_project&amp;utm_medium=readme&amp;utm_campaign=nx_projects) or run `npx nx graph` to visually explore what was created. Now, let's get you up to speed!
+1. **Download eCFR**:
+   - A Node.js job will be set up to download the latest version of the entire eCFR in XML format from the official source.
+2. **Parse eCFR to Markdown**:
 
-## Finish your CI setup
+   - The downloaded XML will be parsed and converted into Markdown format for easier processing and interaction within the web app.
 
-[Click here to finish setting up your workspace!](https://cloud.nx.app/connect/9NF1fsrLQZ)
+3. **OpenAI Embeddings**:
 
+   - After parsing, the content will be passed through OpenAI embeddings, transforming it into a format that can be queried via natural language.
 
-## Run tasks
+4. **Build Web Application**:
+   - A web app will be created where users can ask natural language questions about the eCFR, and receive relevant answers sourced directly from the regulations.
+5. **Complexity and Cost Analysis**:
 
-To run tasks with Nx use:
+   - A separate Node.js job will analyze each subsection of the eCFR by prompting an LLM to evaluate:
+     - Complexity Score
+     - Direct Cost to Businesses
+     - Market Impact
+     - Administrative Costs
+   - These scores will be stored and used to generate insights into which areas of the regulations may present opportunities for greater efficiency through automation or elimination.
 
-```sh
-npx nx <target> <project-name>
+6. **Dashboard**:
+   - A dynamic dashboard will be integrated into the web app to display these analysis scores. Users will be able to sort and filter the results to identify the most promising areas for efficiency improvements.
+
+## Getting Started with Nx
+
+This repo uses Nx to manage our project structure, which includes both backend and frontend components.
+
+### Install Dependencies
+
+Make sure you have Nx installed globally:
+
+```bash
+npm install -g nx
 ```
 
-For example:
+Then, install the dependencies for the repo:
 
-```sh
-npx nx build myproject
+```bash
+npm install
 ```
 
-These targets are either [inferred automatically](https://nx.dev/concepts/inferred-tasks?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) or defined in the `project.json` or `package.json` files.
+### Running the Application
 
-[More about running tasks in the docs &raquo;](https://nx.dev/features/run-tasks?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+To run the project locally:
 
-## Add new projects
-
-While you could add new projects to your workspace manually, you might want to leverage [Nx plugins](https://nx.dev/concepts/nx-plugins?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) and their [code generation](https://nx.dev/features/generate-code?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) feature.
-
-To install a new plugin you can use the `nx add` command. Here's an example of adding the React plugin:
-```sh
-npx nx add @nx/react
+```bash
+nx serve
 ```
 
-Use the plugin's generator to create new projects. For example, to create a new React app or library:
+### Running the Node Jobs
 
-```sh
-# Generate an app
-npx nx g @nx/react:app demo
+You can run the eCFR download and parsing jobs using:
 
-# Generate a library
-npx nx g @nx/react:lib some-lib
+```bash
+nx run [job-name]
 ```
 
-You can use `npx nx list` to get a list of installed plugins. Then, run `npx nx list <plugin-name>` to learn about more specific capabilities of a particular plugin. Alternatively, [install Nx Console](https://nx.dev/getting-started/editor-setup?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) to browse plugins and generators in your IDE.
+### Building and Testing
 
-[Learn more about Nx plugins &raquo;](https://nx.dev/concepts/nx-plugins?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) | [Browse the plugin registry &raquo;](https://nx.dev/plugin-registry?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+You can build and test individual parts of the app using Nx commands:
 
+```bash
+nx build [app-name]
+nx test [app-name]
+```
 
-[Learn more about Nx on CI](https://nx.dev/ci/intro/ci-with-nx#ready-get-started-with-your-provider?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+For more details on how to use Nx in this project, refer to the Nx documentation.
 
-## Install Nx Console
+## Contributing
 
-Nx Console is an editor extension that enriches your developer experience. It lets you run tasks, generate code, and improves code autocompletion in your IDE. It is available for VSCode and IntelliJ.
+If you'd like to contribute to this project, feel free to fork the repository, submit a pull request, or create an issue for any bugs or feature requests.
 
-[Install Nx Console &raquo;](https://nx.dev/getting-started/editor-setup?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+## License
 
-## Useful links
-
-Learn more:
-
-- [Learn more about this workspace setup](https://nx.dev/getting-started/intro#learn-nx?utm_source=nx_project&amp;utm_medium=readme&amp;utm_campaign=nx_projects)
-- [Learn about Nx on CI](https://nx.dev/ci/intro/ci-with-nx?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-- [Releasing Packages with Nx release](https://nx.dev/features/manage-releases?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-- [What are Nx plugins?](https://nx.dev/concepts/nx-plugins?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
-
-And join the Nx community:
-- [Discord](https://go.nx.dev/community)
-- [Follow us on X](https://twitter.com/nxdevtools) or [LinkedIn](https://www.linkedin.com/company/nrwl)
-- [Our Youtube channel](https://www.youtube.com/@nxdevtools)
-- [Our blog](https://nx.dev/blog?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
