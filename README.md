@@ -16,12 +16,16 @@ This project aims to download the entire electronic Code of Federal Regulations 
 - Stores chapters as JSON files in `libs/ecfr-split/src/results/chapters`
 - Recursively finds all chapters regardless of nesting level
 
-🚧 **Markdown Converter**: In Development
+✅ **Markdown Converter**: Operational
 
-- Converting chapter JSON files to markdown format
-- Work in progress...
+- Converts chapter JSON files to readable markdown format
+- Maintains proper document structure and formatting
+- Handles complex elements like citations, authorities, and nested content
+- Stores markdown files in `libs/ecfr-markdown/src/results/markdown`
 
-🔲 **Other Components**: Not Started
+🔲 **OpenAI Embeddings**: Not Started
+🔲 **Web Application**: Not Started
+🔲 **Complexity Analysis**: Not Started
 
 ## Project Plan
 
@@ -83,11 +87,18 @@ nx download ecfr-xml
 nx split ecfr-split
 ```
 
+3. Convert chapters to markdown:
+
+```bash
+nx markdown ecfr-markdown
+```
+
 This will:
 
 - Download all 50 titles of the eCFR
 - Split each title into its constituent chapters
-- Save both the raw XML and processed JSON files
+- Convert chapters into well-formatted markdown documents
+- Save files at each stage of processing
 - Provide detailed summaries of each operation
 
 ### Running the Application
