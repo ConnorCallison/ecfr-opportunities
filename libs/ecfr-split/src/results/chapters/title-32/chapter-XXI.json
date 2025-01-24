@@ -1,0 +1,672 @@
+{
+  "number": "XXI",
+  "title": " CHAPTER XXI—NATIONAL SECURITY COUNCIL",
+  "content": {
+    "$": {
+      "N": "XXI",
+      "NODE": "32:6.2.7",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXI—NATIONAL SECURITY COUNCIL"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2100-2101",
+          "NODE": "32:6.2.7.17.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2100-2101 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "2102",
+          "NODE": "32:6.2.7.17.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2102—RULES AND REGULATIONS TO IMPLEMENT THE PRIVACY ACT OF 1974\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 552a (f) and (k). \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "40 FR 47746, Oct. 9, 1975, unless otherwise noted. \n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2102.1",
+              "NODE": "32:6.2.7.17.2.0.27.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.1   Introduction."
+            ],
+            "P": [
+              "(a) Insofar as the Privacy Act of 1974 (5 U.S.C. 552a) applies to the National Security Council (hereafter NSC), it provides the American public with expanded opportunities to gain access to records maintained by the NSC Staff which may pertain to them as individuals. These regulations are the exclusive means by which individuals may request personally identifiable records and information from the National Security Council. \n",
+              {
+                "_": "(b) The NSC Staff, in addition to performing the functions prescribed in the National Security Act of 1947, as amended (50 U.S.C. 401), also serves as the supporting staff to the President in the conduct of foreign affairs. In doing so the NSC Staff is acting not as an agency but as an extension of the White House Office. In that the White House Office is not considered an agency for the purposes of this Act, the materials which are used by NSC Staff personnel in their role as supporting staff to the President are not subject to the provisions of the Privacy Act of 1974. A description of these White House Office files is, nevertheless, appended to the NSC notices of systems of files and will be published annually in the  \n",
+                "E": [
+                  {
+                    "_": "Federal Register.",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(c) In general, Records in NSC files pertain to individual members of the public only if these individuals have been (1) employed by the NSC, (2) have corresponded on a foreign policy matter with a member of the NSC or its staff, or (3) have, as a U.S. Government official, participated in an NSC meeting or in the preparation of foreign policy-related documents for the NSC. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.2",
+              "NODE": "32:6.2.7.17.2.0.27.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.2   Purpose and scope."
+            ],
+            "P": [
+              "(a) The following regulations set forth procedures whereby individuals may seek and gain access to records concerning themselves and will guide the NSC Staff response to requests under the Privacy Act. In addition, they outline the requirements applicable to the personnel maintaining NSC systems of records. \n",
+              "(b) These regulations, published pursuant to the Privacy Act of 1974, Pub. L. 93-579, Section 552a (f) and (k), 5 U.S.C. (hereinafter the Act), advise of procedures whereby an individual can: \n",
+              "(1) Request notification of whether the NSC Staff maintains or has disclosed a record pertaining to him or her in any non-exempt system of records; \n",
+              "(2) Request a copy of such record or an accounting of that disclosure; \n",
+              "(3) Request an amendment to a record; and, \n",
+              "(4) Appeal any initial adverse determination of any request under the Act. \n",
+              "(c) These regulations also specify those systems of records which the NSC has determined to be exempt from certain provisions of the Act and thus not subject to procedures established by this regulation. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.3",
+              "NODE": "32:6.2.7.17.2.0.27.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.3   Definitions."
+            ],
+            "P": [
+              "As used in these regulations: \n",
+              {
+                "_": "(a)  A citizen of the United States or an alien lawfully admitted for permanent residence. \n",
+                "I": [
+                  "Individual."
+                ]
+              },
+              {
+                "_": "(b)  Includes maintain, collect, use or disseminate. Under the Act it is also used to connote control over, and, therefore, responsibility for, systems of records in support of the NSC statutory function (50 U.S.C. 401, ). \n",
+                "I": [
+                  "Maintain.",
+                  "et seq."
+                ]
+              },
+              {
+                "_": "(c)  A grouping of any records maintained by the NSC from which information is retrieved by the name of the individual or by some other identifying particular assigned to the individual. \n",
+                "I": [
+                  "Systems of Records."
+                ]
+              },
+              {
+                "_": "(d)  Any decision made by the NSC or designated official thereof which affects the individual's rights, opportunities, benefits, etc. and which is based in whole or in part on information contained in that individual's record. \n",
+                "I": [
+                  "Determination."
+                ]
+              },
+              {
+                "_": "(e)  With respect to the disclosure of a record, the use of such a record in a manner which is compatible with the purpose for which it was collected. \n",
+                "I": [
+                  "Routine Use."
+                ]
+              },
+              {
+                "_": "(f)  The granting of access or transfer of a record by any means. \n\n\n",
+                "I": [
+                  "Disclosure."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.4",
+              "NODE": "32:6.2.7.17.2.0.27.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.4   Procedures for determining if an individual is the subject of a record."
+            ],
+            "P": [
+              {
+                "_": "(a) Individuals desiring to determine if they are the subject of a record or system of records maintained by the NSC Staff should address their inquiries, marking them plainly as a  to: \n",
+                "I": [
+                  "PRIVACY ACT REQUEST,"
+                ]
+              },
+              "(1) A specific reference to the system of records maintained by the NSC as listed in the NSC Notices of Systems and Records (copies available upon request); or \n",
+              "(2) A description of the record or systems of records in sufficient detail to allow the NSC to determine whether the record does, in fact, exist in an NSC system of records. \n",
+              "(b) All requests must contain the printed or typewritten name of the individual to whom the record pertains, the signature of the individual making the request, and the address to which the reply should be sent. In instances when the identification is insufficient to insure disclosure to the individual to whom the information pertains in view of the sensitivity of the information, NSC reserves the right to solicit from the requestor additional identifying information. \n",
+              {
+                "_": "(c) Responses to all requests under the Act will be made by the Staff Secretary, or by another designated member of the NSC Staff authorized to act in the name of the Staff Secretary in responding to a request under this Act. Every effort will be made to inform the requestor if he or she is the subject of a specific record or system of records within ten working days (excluding Saturdays, Sundays and legal Federal Holidays) of receipt of the request. Such a response will also contain the procedures to be followed in order to gain access to any record which may exist and a copy of the most recent NSC notice, as published in the  on the system of records in which the record is contained. \n",
+                "E": [
+                  {
+                    "_": "Federal Register,",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(d) Whenever it is not possible to respond in the time period specified above, the NSC Staff Secretary or a designated alternate will, within ten working days (excluding Saturdays, Sundays and legal Federal Holidays), inform the requestor of the reasons for the delay (e.g., insufficient requestor information, difficulties in record location, etc.), steps that need to be taken in order to expedite the request, and the date by which a response is anticipated. \n\n\n"
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": [
+                  "Staff Secretary, National Security Council, Room 374, Old Executive Office Building, Washington, DC 20506."
+                ]
+              }
+            ],
+            "FP": [
+              "All requests must be made in writing and should contain: \n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.13",
+              "NODE": "32:6.2.7.17.2.0.27.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.13   Requirements for access to a record."
+            ],
+            "P": [
+              "(a) Individuals requesting access to a record or system of records in which there is information concerning them must address a request in writing to the Staff Secretary of the NSC (see § 2102.1). Due to restricted access to NSC offices in the Old Executive Office Building where the files are located, requests cannot be made in person. \n",
+              "(b) All written requests should contain a concise description of the records to which access is requested. In addition, the requestor should include any other information which he or she feels would assist in the timely identification of the record. Verification of the requestor's identity will be determined under the same procedures used in requests for learning of the existence of a record. \n",
+              "(c) To the extent possible, any request for access will be answered by the Staff Secretary or a designated alternate within ten working days (excluding Saturdays, Sundays, and legal Federal holidays) of the receipt of the request. In the event that a response cannot be made within this time, the requestor will be notified by mail of the reasons for the delay and the date upon which a reply can be expected. \n",
+              "(d) The NSC response will forward a copy of the requested materials unless further identification or clarification of the request is required. In the event access is denied, the requestor shall be informed of the reasons therefore and the name and address of the individual to whom an appeal should be directed. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.15",
+              "NODE": "32:6.2.7.17.2.0.27.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.15   Requirements for requests to amend records."
+            ],
+            "P": [
+              "(a) Individuals wishing to amend a record contained in the NSC systems of records pertaining to them must submit a request in writing to the Staff Secretary of the NSC in accordance with the procedures set forth herein. \n",
+              "(b) All requests for amendment or correction of a record must state concisely the reason for requesting the amendment. Such requests should include a brief statement which describes the information the requestor believes to be inaccurate, incomplete, or unnecessary and the amendment or correction desired. \n",
+              "(c) To the extent possible, every request for amendment of a record will be answered within ten working days (excluding Saturdays, Sundays, and legal Federal holidays) of the receipt of the request. In the event that a response cannot be made within this time, the requestor will be notified by mail of the reasons for the delay and the date upon which a reply can be expected. A final response to a request for amendment will include the NSC Staff determination on whether to grant or deny the request. If the request is denied, the response will include: \n",
+              "(1) The reasons for the decision; \n",
+              "(2) The name and address of the individual to whom an appeal should be directed; \n",
+              "(3) A description of the process for review of the appeal within the NSC; and \n",
+              "(4) A description of any other procedures which may be required of the individual in order to process the appeal. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.21",
+              "NODE": "32:6.2.7.17.2.0.27.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.21   Procedures for appeal of determination to deny access to or amendment of requested records."
+            ],
+            "P": [
+              "(a) Individuals wishing to appeal an NSC Staff denial of a request for access or to amend a record concerning them must address a letter of appeal to the Staff Secretary of the NSC. The letter must be received within thirty days from the date of the Staff Secretary's notice of denial and, at a minimum, should identify the following: \n",
+              "(1) The records involved; \n",
+              "(2) The dates of the initial request and subsequent NSC determination; and \n",
+              "(3) A brief statement of the reasons supporting the request for reversal of the adverse determination. \n",
+              "(b) Within thirty working days (excluding Saturdays, Sundays and legal Federal holidays) of the date of receipt of the letter of appeal, the Assistant to the President for National Security Affairs (hereinafter the “Assistant”), or the Deputy Assistant to the President for National Security Affairs (hereinafter the “Deputy Assistant”), acting in his name, shall issue a determination on the appeal. In the event that a final determination cannot be made within this time period, the requestor will be informed of the delay, the reasons therefor and the date on which a final response is expected. \n",
+              "(c) If the original request was for access and the initial determination is reversed, a copy of the records sought will be sent to the individual. If the initial determination is upheld, the requestor will be so advised and informed of the right to judicial review pursuant to 5 U.S.C. 552a(g). \n",
+              "(d) If the initial denial of a request to amend a record is reversed, the records will be corrected and a copy of the amended record will be sent to the individual. In the event the original decision is upheld by the Assistant to the President, the requestor will be so advised and informed in writing of his or her right to seek judicial review of the final agency determination, pursuant to section 552a(g) of title 5, U.S.C. In addition, the requestor will be advised of his right to have a concise statement of the reasons for disagreeing with the final determination appended to the disputed records. This statement should be mailed to the Staff Secretary within ten working days (excluding Saturdays, Sundays, and legal Federal Holidays) of the date of the requestor's receipt of the final determination. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.31",
+              "NODE": "32:6.2.7.17.2.0.27.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.31   Disclosure of a record to persons other than the individual to whom it pertains."
+            ],
+            "P": [
+              "(a) Except as provided by the Privacy Act, 5 U.S.C. 552a(b), the NSC will not disclose a record concerning an individual to another person or agency without the prior written consent of the individual to whom the record pertains.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.41",
+              "NODE": "32:6.2.7.17.2.0.27.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.41   Fees."
+            ],
+            "P": [
+              "(a) Individuals will not be charged for: \n",
+              "(1) The first copy of any record provided in response to a request for access or amendment; \n",
+              "(2) The search for, or review of, records in NSC files; \n",
+              "(3) Any copies reproduced as a necessary part of making a record or portion thereof available to the individual. \n",
+              "(b) After the first copy has been provided, records will be reproduced at the rate of twenty-five cents per page for all copying of four pages or more. \n",
+              "(c) The Staff Secretary may provide copies of a record at no charge if it is determined to be in the interest of the Government. \n",
+              "(d) The Staff Secretary may require that all fees be paid in full prior to the issuance of the requested copies. \n",
+              "(e) Remittances shall be in the form of a personal check or bank draft drawn on a bank in the United States, or a postal money order. Remittances shall be made payable to the “United States Treasury” and mailed to the Staff Secretary, National Security Council, Washington, DC 20506. \n",
+              "(f) A receipt for fees paid will be given only upon request. Refund of fees paid for services actually rendered will not be made. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.51",
+              "NODE": "32:6.2.7.17.2.0.27.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.51   Penalties."
+            ],
+            "P": [
+              "Title 18, U.S.C. section 1001, Crimes and Criminal Procedures, makes it a criminal offense, subject to a maximum fine of $10,000 or imprisonment for not more than five years or both, to knowingly and willfully make or cause to be made any false or fraudulent statements or representations in any matter within the jurisdiction of any agency of the United States. Section (i)(3) of the Privacy Act (5 U.S.C. 552a) makes it a misdemeanor, subject to a maximum fine of $5,000, to knowingly and willfully request or obtain any record concerning an individual under false pretenses. Sections (i)(1) and (2) of 5 U.S.C. 552a provide penalties for violations by agency employees, of the Privacy Act or regulations established thereunder. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2102.61",
+              "NODE": "32:6.2.7.17.2.0.27.11",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2102.61   Exemptions."
+            ],
+            "P": [
+              "Pursuant to subsection (k) of the Privacy Act (5 U.S.C. 552a), the Staff Secretary has determined that certain NSC systems of records may be exempt in part from sections 553(c)(3), (d), (e)(1), (e)(4), (G), (H), (I), and (f) of title 5, and from the provisions of these regulations. These systems of records may contain information which is classified pursuant to Executive Order 11652. To the extent that this occurs, records in the following systems would be exempt under the provision of 5 U.S.C. 552a(k)(1): \n"
+            ],
+            "EXTRACT": [
+              {
+                "FP": [
+                  "NSC 1.1—Central Research Index, \n",
+                  "NSC 1.2—NSC Correspondence Files, and \n",
+                  "NSC 1.3—NSC Meetings Registry."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2103",
+          "NODE": "32:6.2.7.17.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2103—REGULATIONS TO IMPLEMENT E.O. 12065—INCLUDING PROCEDURES FOR PUBLIC ACCESS TO DOCUMENTS THAT MAY BE DECLASSIFIED\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "E.O. 12065 and Information Security Oversight Office Directive No. 1.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "44 FR 2384, Jan. 11, 1979, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "32:6.2.7.17.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Introduction"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.1",
+                  "NODE": "32:6.2.7.17.3.1.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.1   References."
+                ],
+                "P": [
+                  "(a) Executive Order 12065, “National Security Information,” dated June 28, 1978.\n",
+                  "(b) Information Security Oversight Office, Directive No. 1, “National Security Information,” dated October 2, 1978.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.2",
+                  "NODE": "32:6.2.7.17.3.1.27.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.2   Purpose."
+                ],
+                "P": [
+                  "The purpose of this regulation is to ensure, consistent with the authorities listed in § 2103.1, that national security information processed by the National Security Council Staff is protected from unauthorized disclosure, but only to the extent, and for such period, as is necessary to safeguard the national security.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.3",
+                  "NODE": "32:6.2.7.17.3.1.27.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.3   Applicability."
+                ],
+                "P": [
+                  "This regulation governs the National Security Council Staff Information Security Program. In consonance with the authorities listed in § 2103.1, it establishes the policy and procedures for the security classification, downgrading, declassification, and safeguarding of information that is owned by, is produced for or by, or is under the control of the National Security Council Staff.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "32:6.2.7.17.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Original Classification"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.11",
+                  "NODE": "32:6.2.7.17.3.2.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.11   Basic policy."
+                ],
+                "P": [
+                  "It is the policy of the National Security Council Staff to make available to the public as much information concerning its activities as is possible, consistent with its responsibility to protect the national security.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.12",
+                  "NODE": "32:6.2.7.17.3.2.27.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.12   Level of original classification."
+                ],
+                "P": [
+                  "Unnecessary classification, and classification at a level higher than is necessary, shall be avoided. If there is reasonable doubt as to which designation in section 1-1 of Executive Order 12065 is appropriate, or whether information should be classified at all, the less restrictive designation should be used, or the information should not be classified.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.13",
+                  "NODE": "32:6.2.7.17.3.2.27.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.13   Duration of original classification."
+                ],
+                "P": [
+                  "Original classification may be extended beyond six years only by officials with Top Secret classification authority. This extension authority shall be used only when these officials determine that the basis for original classification will continue throughout the entire period that the classification will be in effect and only for the following reasons:\n",
+                  "(a) The information is “foreign government information” as defined by the authorities in § 2301.1;\n",
+                  "(b) The information reveals intelligence sources and methods;\n",
+                  "(c) The information pertains to communication security;\n",
+                  "(d) The information reveals vulnerability or capability data, the unauthorized disclosure of which can reasonably be expected to render ineffective a system, installation, or project important to the national security;\n",
+                  "(e) The information concerns plans important to the national security, the unauthorized disclosure of which reasonably can be expected to nullify the effectiveness of the plan;\n",
+                  "(f) The information concerns specific foreign relations matters, the continued protection of which is essential to the national security;\n",
+                  "(g) Disclosure of the information would place a person's life in immediate jeopardy; or\n",
+                  "(h) The continued protection of the information is specifically required by statute.\n"
+                ],
+                "FP": [
+                  "Even when the extension authority is exercised, the period of original classification shall not be greater than twenty years from the date or original classification, except that the original classification of “foreign government information” pursuant to paragraph (a) of this section may be for a period of thirty years. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.14",
+                  "NODE": "32:6.2.7.17.3.2.27.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.14   Challenges to classification."
+                ],
+                "P": [
+                  "If holders of classified information believe that the information is improperly or unnecessarily classified, or that original classification has been extended for too long a period, they should discuss the matter with their immediate superiors or the classifier of the information. If these discussions do not satisfy the concerns of the challenger, the matter should be brought to the attention of the chairperson of the NSC Information Security Oversight Committee (see § 2103.51 of this part).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "32:6.2.7.17.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Derivative Classification"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.21",
+                  "NODE": "32:6.2.7.17.3.3.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.21   Definition and application."
+                ],
+                "P": [
+                  "Derivative classification is the act of assigning a level of classification to information that is determined to be the same in substance as information that is currently classified. Thus, derivative classification may be accomplished by any person cleared for access to that level of information, regardless of whether the person has original classification authority at that level.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "32:6.2.7.17.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Declassification and Downgrading"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.31",
+                  "NODE": "32:6.2.7.17.3.4.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.31   Declassification authority."
+                ],
+                "P": [
+                  "The Staff Secretary, Staff Counsel, and Director of Freedom of Information of the National Security Council Staff are authorized to declassify NSC documents after consultation with the appropriate NSC Staff members.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.32",
+                  "NODE": "32:6.2.7.17.3.4.27.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.32   Mandatory review for declassification."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  (1) Requests for mandatory review for declassification under section 3-501 of Executive Order 12065 must be in writing and should be addressed to :\n",
+                    "I": [
+                      "Receipt."
+                    ]
+                  },
+                  "(2) The requestor shall be informed of the date of receipt of the request. This date will be the basis for the time limits specified in paragraph (b) of this section.\n",
+                  "(3) If the request does not reasonably describe the information sought, the requestor shall be notified that, unless additional information is provided or the request is made more specific, no further action will be taken.\n",
+                  {
+                    "_": "(b)  (1) The requestor shall be informed of the National Security Council Staff determination within sixty days of receipt of the initial request.\n",
+                    "I": [
+                      "Review."
+                    ]
+                  },
+                  "(2) If the determination is to withhold some or all of the material requested, the requestor may appeal the determination. The requestor shall be informed that such an appeal must be made in writing within sixty days of receipt of the denial and should be addressed to the chairperson of the National Security Council Classification Review Committee.\n",
+                  "(3) The requestor shall be informed of the appellate determination within thirty days of receipt of the appeal.\n",
+                  {
+                    "_": "(c)  (1) Fees for the location and reproduction of information that is the subject of a mandatory review request shall be assessed according to the following schedule:\n",
+                    "I": [
+                      "Fees."
+                    ]
+                  },
+                  {
+                    "_": "(i)  $5.00 per hour when the search is conducted by a clerical employee; $8.00 per hour when the search is conducted by a professional employee. No fee shall be assessed for searches of less than one hour. \n",
+                    "I": [
+                      "Search for records."
+                    ]
+                  },
+                  {
+                    "_": "(ii)  Documents will be reproduced at a rate of $.25 per page for all copying of four pages or more. No fee shall be assessed for reproducing documents that are three pages or less, or for the first three pages of longer documents.\n",
+                    "I": [
+                      "Reproduction of documents."
+                    ]
+                  },
+                  "(2) Where it is anticipated that the fees chargeable under this section will amount to more than $25, and the requestor has not indicated in advance a willingness to pay fees as high as are anticipated, the requestor shall be promptly notified of the amount of the anticipated fee or such portion thereof as can readily be estimated. In instances where the estimated fees will greatly exceed $25, an advance deposit may be required. Dispatch of such a notice or request shall suspend the running of the period for response by the NSC Staff until a reply is received from the requestor.\n",
+                  "(3) Remittances shall be in the form either of a personal check or bank draft drawn on a bank in the United States, or a postal money order. Remittances shall be made payable to the Treasury of the United States and mailed to the Staff Secretary, National Security Council, Washington, DC 20506.\n",
+                  "(4) [Reserved]\n",
+                  "(5) A receipt for fees paid will be given only upon request. Refund of fees paid for services actually rendered will not be made.\n",
+                  "(6) If a requestor fails to pay within thirty days for services rendered, further action on any other requests submitted by that requestor shall be suspended.\n",
+                  "(7) The Staff Secretary, National Security Council may waive all or part of any fee provided for in this section when it is deemed to be in either the interest of the NSC Staff or of the general public.\n\n\n"
+                ],
+                "EXTRACT": [
+                  {
+                    "P": [
+                      "National Security Council, ATTN: Staff Secretary (Mandatory Review Request), Old Executive Office Building, Washington, DC 20506."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.33",
+                  "NODE": "32:6.2.7.17.3.4.27.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.33   Downgrading authority."
+                ],
+                "P": [
+                  "The Staff Secretary, Staff Counsel, and Director of Freedom of Information of the National Security Council Staff are authorized to downgrade NSC documents, after consultation with the appropriate NSC Staff members.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "32:6.2.7.17.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Safeguarding"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.41",
+                  "NODE": "32:6.2.7.17.3.5.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.41   Reproduction controls."
+                ],
+                "P": [
+                  "The Staff Secretary shall maintain records to show the number and distribution of all Top Secret documents, of all documents covered by special access programs distributed outside the originating agency, and of all Secret and Confidential documents that are marked with special dissemination or reproduction limitations.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "32:6.2.7.17.3.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Implementation and Review"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2103.51",
+                  "NODE": "32:6.2.7.17.3.6.27.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.51   Information Security Oversight Committee."
+                ],
+                "P": [
+                  "The NCS Information Security Oversight Committee shall be chaired by the Staff Counsel of the National Security Council Staff. The Committee shall be responsible for acting on all suggestions and complaints concerning the administration of the National Security Council information security program. The chairperson, who shall represent the NSC Staff on the Interagency Information Security Committee shall also be responsible for conducting an active oversight program to ensure effective implementation of Executive Order 12065.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2103.52",
+                  "NODE": "32:6.2.7.17.3.6.27.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2103.52   Classification Review Committee."
+                ],
+                "P": [
+                  "The NSC Classification Review Committee shall be chaired by the Staff Secretary of the National Security Council. The Committee shall decide appeals from denials of declassification requests submitted pursuant to section 3-5 of Executive Order 12065. The Committee shall consist of the chairperson, the NSC Director of Freedom of Information, and the NSC Staff member with primary subject matter responsibility for the material under review. \n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2104-2199",
+          "NODE": "32:6.2.7.17.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2104-2199 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

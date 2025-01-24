@@ -1,0 +1,81 @@
+{
+  "number": "XXXVI",
+  "title": " CHAPTER XXXVI—OFFICE OF NATIONAL DRUG CONTROL POLICY, EXECUTIVE OFFICE OF THE PRESIDENT",
+  "content": {
+    "$": {
+      "N": "XXXVI",
+      "NODE": "2:1.2.31",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXXVI—OFFICE OF NATIONAL DRUG CONTROL POLICY, EXECUTIVE OFFICE OF THE PRESIDENT"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "3600-3602",
+          "NODE": "2:1.2.31.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3600-3602 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "3603",
+          "NODE": "2:1.2.31.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3603—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "21 U.S.C. 1706; 21 U.S.C. 1703(d), 1703(f), 21 U.S.C. 1701, 21 U.S.C. 1521-1548, 21 U.S.C. 2001-2003, Office of National Drug Control Policy Reauthorization Act of 2006, P.L 109-469 (2006), 2 CFR part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76105, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3603.1",
+              "NODE": "2:1.2.31.10.2.0.81.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3603.1   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Executive Office of the President, Office of National Drug Control Policy (ONDCP) adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance as needed for ONDCP.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3604-3699",
+          "NODE": "2:1.2.31.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3604-3699 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

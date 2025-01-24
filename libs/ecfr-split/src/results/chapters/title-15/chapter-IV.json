@@ -1,0 +1,2244 @@
+{
+  "number": "IV",
+  "title": " CHAPTER IV—FOREIGN-TRADE ZONES BOARD, DEPARTMENT OF COMMERCE",
+  "content": {
+    "$": {
+      "N": "IV",
+      "NODE": "15:2.1.2",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER IV—FOREIGN-TRADE ZONES BOARD, DEPARTMENT OF COMMERCE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "400",
+          "NODE": "15:2.1.2.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 400—REGULATIONS OF THE FOREIGN-TRADE ZONES BOARD\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Foreign-Trade Zones Act of June 18, 1934, as amended (Pub. L. 73-397, 48 Stat. 998-1003 (19 U.S.C. 81a-81u)).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "77 FR 12139, Feb. 28, 2012, unless otherwise noted.\n"
+            ]
+          }
+        ],
+        "EDNOTE": [
+          {
+            "HED": [
+              "Editorial Note:"
+            ],
+            "PSPACE": [
+              "Nomenclature changes to part 400 appear at 78 FR 69289, Nov. 19, 2013."
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "15:2.1.2.2.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Scope, Definitions and Authority"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.1",
+                  "NODE": "15:2.1.2.2.1.1.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.1   Scope."
+                ],
+                "P": [
+                  "(a) This part sets forth the regulations, including the rules of practice and procedure, of the Foreign-Trade Zones Board with regard to foreign-trade zones (FTZs or zones) in the United States pursuant to the Foreign-Trade Zones Act of 1934, as amended (19 U.S.C. 81a-81u). It includes the substantive and procedural rules for the authorization of zones and for the Board's regulation of zone activity. The purpose of zones as stated in the Act is to “expedite and encourage foreign commerce, and other purposes.” The regulations provide the legal framework for accomplishing this purpose in the context of evolving U.S. economic and trade policy, and economic factors relating to international competition.\n",
+                  "(b) Part 146 of the customs regulations (19 CFR part 146) governs zone operations, including the admission of merchandise into zones, zone activity involving such merchandise, and the transfer of merchandise from zones.\n",
+                  {
+                    "_": "(c) To the extent zones are “activated” under U.S. Customs and Border Protection (CBP) procedures in 19 CFR part 146, and only for the purposes specified in the Act (19 U.S.C. 81c), zones are treated for purposes of the tariff laws and customs entry procedures as being outside the customs territory of the United States. Under zone procedures, foreign and domestic merchandise may be admitted into zones for operations such as storage, exhibition, assembly, manufacture and processing, without being subject to formal customs entry procedures and payment of duties, unless and until the foreign merchandise enters customs territory for domestic consumption. At that time, the importer ordinarily has a choice of paying duties either at the rate applicable to the foreign material in its condition as admitted into a zone, or if used in production activity, to the emerging product. Quota restrictions do not normally apply to foreign goods in zones. The Board can deny or limit the use of zone procedures in specific cases on public interest grounds. Merchandise moved into zones for export (zone-restricted status) may be considered exported for purposes such as federal excise tax rebates and customs drawback. Foreign merchandise (tangible personal property) admitted to a zone and domestic merchandise held in a zone for exportation are exempt from certain state and local  taxes (19 U.S.C. 81o(e)). Articles admitted into zones for purposes not specified in the Act shall be subject to the tariff laws and regular entry procedures, including the payment of applicable duties, taxes, and fees.\n\n\n",
+                    "I": [
+                      "ad valorem"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.2",
+                  "NODE": "15:2.1.2.2.1.1.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.2   Definitions."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  means the Foreign-Trade Zones Act of 1934, as amended (19 U.S.C. 81a-81u).\n",
+                    "I": [
+                      "Act"
+                    ]
+                  },
+                  {
+                    "_": "(b)  is the size of the physical area of a particular zone or subzone authorized by the Board to be simultaneously in activated status with CBP pursuant to 19 CFR 146.6. The activation limit for a particular zone/subzone is a figure explicitly specified by the Board in authorizing the zone (commonly 2,000 acres) or subzone or, in the absence of a specified figure, the total of the sizes of the approved sites of the zone/subzone.\n",
+                    "I": [
+                      "Activation limit"
+                    ]
+                  },
+                  {
+                    "_": "(c)  (ASF) is an optional approach to designation and management of zone sites allowing greater flexibility and responsiveness to serve single-operator/user locations. The ASF was adopted by the Board as a matter of practice in December 2008 (74 FR 1170, January 12, 2009; correction 74 FR 3987, January 22, 2009) and modified by the Board in November 2010 (75 FR 71069, November 22, 2010).\n",
+                    "I": [
+                      "Alternative site framework"
+                    ]
+                  },
+                  {
+                    "_": "(d)  means the Foreign-Trade Zones Board, which consists of the Secretary of the Department of Commerce (chairman) and the Secretary of the Treasury, or their designated alternates.\n",
+                    "I": [
+                      "Board"
+                    ]
+                  },
+                  {
+                    "_": "(e)  is a type of document that indicates a final decision of the Board. Board Orders are generally published in the  after issuance.\n",
+                    "I": [
+                      "Board Order"
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(f)  means U.S. Customs and Border Protection.\n",
+                    "I": [
+                      "CBP"
+                    ]
+                  },
+                  {
+                    "_": "(g)  is the Executive Secretary of the Foreign-Trade Zones Board.\n",
+                    "I": [
+                      "Executive Secretary"
+                    ]
+                  },
+                  {
+                    "_": "(h)  (FTZ or zone) includes all sites/subzones designated under the sponsorship of a zone grantee, in or adjacent (as defined by § 400.11(b)(2)) to a CBP port of entry, operated as a public utility (within the meaning of § 400.42), with zone operations under the supervision of CBP.",
+                    "I": [
+                      "Foreign-trade zone"
+                    ]
+                  },
+                  {
+                    "_": "(i)  is a document issued by the Board that authorizes a zone grantee to establish, operate and maintain a zone, subject to limitations and conditions specified in this part and in 19 CFR part 146. The authority to establish a zone includes the responsibility to manage it.\n",
+                    "I": [
+                      "Grant of authority"
+                    ]
+                  },
+                  {
+                    "_": "(j)  means a site intended to serve or attract multiple operators or users under the ASF.\n",
+                    "I": [
+                      "Magnet site"
+                    ]
+                  },
+                  {
+                    "_": "(k)  A major modification is a proposed change to a zone that requires action by the FTZ Board; a minor modification is a proposed change to a zone that may be authorized by the Executive Secretary.\n",
+                    "I": [
+                      "Modification:"
+                    ]
+                  },
+                  {
+                    "_": "(l)  includes any individual, corporation, or entity.\n",
+                    "I": [
+                      "Person"
+                    ]
+                  },
+                  {
+                    "_": "(m)  means a port of entry in the United States, as defined by part 101 of the customs regulations (19 CFR part 101), or a user fee airport authorized under 19 U.S.C. 58b and listed in part 122 of the customs regulations (19 CFR part 122).\n",
+                    "I": [
+                      "Port of entry"
+                    ]
+                  },
+                  {
+                    "_": "(n)  means any corporation, other than a public corporation, which is organized for the purpose of establishing, operating and maintaining a zone and which is chartered for this purpose under a law of the state in which the zone is located.\n",
+                    "I": [
+                      "Private corporation"
+                    ]
+                  },
+                  {
+                    "_": "(o)  as used in this part, means activity involving the substantial transformation of a foreign article resulting in a new and different article having a different name, character, and use, or activity involving a change in the condition of the article which results in a change in the customs classification of the article or in its eligibility for entry for consumption.\n",
+                    "I": [
+                      "Production,"
+                    ]
+                  },
+                  {
+                    "_": "(p)  means a state, a political subdivision (including a municipality) or public agency thereof, or a corporate municipal instrumentality of one or more states.\n",
+                    "I": [
+                      "Public corporation"
+                    ]
+                  },
+                  {
+                    "_": "(q)  means the jurisdiction(s) within which a grantee proposes to be able to designate sites via minor boundary modifications under the ASF.\n",
+                    "I": [
+                      "Service area"
+                    ]
+                  },
+                  {
+                    "_": "(r)  includes any state of the United States, the District of Columbia, and Puerto Rico.\n",
+                    "I": [
+                      "State"
+                    ]
+                  },
+                  {
+                    "_": "(s)  means a site (or group of sites) established for a specific use.\n",
+                    "I": [
+                      "Subzone"
+                    ]
+                  },
+                  {
+                    "_": "(t)  means a site established for a single operator or user under the ASF.\n\n\n\n\n",
+                    "I": [
+                      "Usage-driven site"
+                    ]
+                  },
+                  {
+                    "_": "(u)  is the corporate recipient of a grant of authority for a zone. Where used in this part, the term “grantee” means “zone grantee” unless otherwise indicated.\n",
+                    "I": [
+                      "Zone grantee"
+                    ]
+                  },
+                  {
+                    "_": "(v)  is a person that operates within a zone or subzone under the terms of an agreement with the zone grantee (or third party on behalf of the grantee), with the concurrence of CBP.\n",
+                    "I": [
+                      "Zone operator"
+                    ]
+                  },
+                  {
+                    "_": "(w)  is a current or prospective zone operator, zone user, or property owner.\n",
+                    "I": [
+                      "Zone participant"
+                    ]
+                  },
+                  {
+                    "_": "(x)  includes all the zone sites that a single grantee is authorized to establish.\n",
+                    "I": [
+                      "Zone plan"
+                    ]
+                  },
+                  {
+                    "_": "(y)  (site) means a physical location of a zone or subzone. A site is composed of one or more generally contiguous parcels of land organized and functioning as an integrated unit, such as all or part of an industrial park or airport facility.\n",
+                    "I": [
+                      "Zone site"
+                    ]
+                  },
+                  {
+                    "_": "(z)  is a party using a zone under agreement with a zone operator.\n",
+                    "I": [
+                      "Zone user"
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.3",
+                  "NODE": "15:2.1.2.2.1.1.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.3   Authority of the Board."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In accordance with the Act and procedures of this part, the Board has authority to:\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  "(1) Prescribe rules and regulations concerning zones;\n",
+                  "(2) Issue grants of authority for zones, and approve subzones and modifications to the original zone;\n",
+                  "(3) Authorize production activity in zones and subzones as described in this part;\n",
+                  "(4) Make determinations on matters requiring Board decisions under this part;\n",
+                  "(5) Decide appeals in regard to certain decisions of the Commerce Department's Assistant Secretary for Enforcement and Compliance or the Executive Secretary;\n",
+                  "(6) Inspect the premises, operations and accounts of zone grantees, operators and users (and persons undertaking zone-related functions on behalf of grantees, where applicable);\n",
+                  "(7) Require zone grantees and operators to report on zone operations;\n",
+                  "(8) Report annually to the Congress on zone operations;\n",
+                  "(9) Restrict or prohibit zone operations;\n",
+                  "(10) Terminate reviews of applications under certain circumstances pursuant to § 400.36(g);\n",
+                  "(11) Authorize under certain circumstances the entry of “zone-restricted merchandise” (19 CFR 146.44) into the customs territory pursuant to § 400.48;\n",
+                  "(12) Impose fines for violations of the Act and this part;\n",
+                  "(13) Instruct CBP to suspend activated status pursuant to § 400.62(h);\n",
+                  "(14) Revoke grants of authority for cause;\n",
+                  "(15) Determine, as appropriate, whether zone activity is or would be in the public interest or detrimental to the public interest, health or safety; and\n",
+                  "(16) Issue and discontinue waivers pursuant to § 400.43(f).\n",
+                  {
+                    "_": "(b)  The Chairman of the Board (Secretary of the Department of Commerce) has the authority to:\n",
+                    "I": [
+                      "Authority of the Chairman of the Board."
+                    ]
+                  },
+                  "(1) Appoint the Executive Secretary of the Board;\n",
+                  "(2) Call meetings of the Board, with reasonable notice given to each member; and\n",
+                  "(3) Submit to the Congress the Board's annual report as prepared by the Executive Secretary.\n",
+                  {
+                    "_": "(c)  Each member of the Board shall designate an alternate with authority to act in an official capacity for that member.\n",
+                    "I": [
+                      "Alternates."
+                    ]
+                  },
+                  {
+                    "_": "(d)  The Commerce Department's Assistant Secretary for Enforcement and Compliance has the authority to:\n",
+                    "I": [
+                      "Authority of the Assistant Secretary for Enforcement and Compliance (Alternate Chairman)."
+                    ]
+                  },
+                  "(1) Terminate reviews of applications under certain circumstances pursuant to § 400.36(g);\n",
+                  "(2) Mitigate and assess fines pursuant to §§ 400.62(e) and (f) and instruct CBP to suspend activated status pursuant to § 400.62(h); and\n",
+                  "(3) Restrict the use of zone procedures under certain circumstances pursuant to § 400.49(c).\n",
+                  {
+                    "_": "(e)  Determinations of the Board shall be by the unanimous vote of the members (or alternate members) of the Board, which shall be recorded.\n\n\n",
+                    "I": [
+                      "Determinations of the Board."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.4",
+                  "NODE": "15:2.1.2.2.1.1.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.4   Authority and responsibilities of the Executive Secretary."
+                ],
+                "P": [
+                  "The Executive Secretary has the following responsibilities and authority:\n",
+                  "(a) Represent the Board in administrative, regulatory, operational, and public affairs matters;\n",
+                  "(b) Serve as director of the Commerce Department's Foreign-Trade Zones staff;\n",
+                  "(c) Execute and implement orders of the Board;\n",
+                  "(d) Arrange meetings and direct circulation of action documents for the Board;\n",
+                  "(e) Arrange with other sections of the Department of Commerce and other governmental agencies for studies and comments on zone issues and proposals;\n",
+                  "(f) Maintain custody of the seal, records, files and correspondence of the Board, with disposition subject to the regulations of the Department of Commerce;\n",
+                  {
+                    "_": "(g) Issue notices on zone matters for publication in the ;\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(h) Direct processing of applications and reviews, including designation of examiners and scheduling of hearings, under various sections of this part;\n",
+                  "(i) Make determinations on questions pertaining to grantees' applications for subzones as provided in § 400.12(d);\n",
+                  "(j) Make recommendations in cases involving questions as to whether zone activity should be prohibited or restricted for public interest reasons, including proceedings and reviews under § 400.5;\n",
+                  "(k) Determine questions of scope under § 400.14(d);\n",
+                  "(l) Determine whether additional information is needed for evaluation of applications and other requests for decisions under this part, as provided for in various sections of this part, including §§ 400.21-400.25;\n",
+                  "(m) Issue instructions, guidelines, forms and related documents specifying time, place, manner and formats for applications, notifications, application fees and zone schedules in various sections of this part, including §§ 400.21(b), 400.29, 400.43(f), and 400.44;\n",
+                  "(n) Determine whether proposed modifications are major modifications or minor modifications under § 400.24(a)(2);\n",
+                  "(o) Determine whether applications meet pre-docketing requirements under § 400.31(b);\n",
+                  "(p) Terminate reviews of applications under certain circumstances pursuant to § 400.36(g);\n",
+                  "(q) Authorize minor modifications to zones under § 400.38, commencement of production activity under § 400.37(d) and subzone designation under § 400.36(f);\n",
+                  "(r) Review notifications for production authority under § 400.37;\n",
+                  "(s) Direct monitoring and reviews of zone operations and activity under § 400.49;\n",
+                  "(t) Review zone schedules and determine their sufficiency under § 400.44(c);\n",
+                  "(u) Assess potential issues and make recommendations pertaining to uniform treatment under § 400.43 and review and decide complaint cases under § 400.45;\n",
+                  "(v) Make certain determinations and authorizations pertaining to retail trade under § 400.47;\n",
+                  "(w) Authorize under certain circumstances the entry of “zone-restricted merchandise” into the customs territory under § 400.48;\n",
+                  "(x) Determine the format and deadlines for the annual reports of zone grantees to the Board and direct preparation of an annual report from the Board to Congress under § 400.51(c);\n",
+                  "(y) Make recommendations and certain determinations regarding violations and fines, and undertake certain procedures related to the suspension of activated status, as provided in § 400.62; and\n",
+                  "(z) Designate an acting Executive Secretary.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.5",
+                  "NODE": "15:2.1.2.2.1.1.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.5   Authority to restrict or prohibit certain zone operations."
+                ],
+                "P": [
+                  "The Board may conduct a proceeding, or the Executive Secretary a review, to consider a restriction or prohibition on zone activity. Such proceeding or review may be either self-initiated or in response to a complaint made to the Board by a person directly affected by the activity in question and showing good cause. After a proceeding or review, the Board may restrict or prohibit any admission of merchandise or process of treatment in an activated FTZ site when it determines that such activity is detrimental to the public interest, health or safety.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.6",
+                  "NODE": "15:2.1.2.2.1.1.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.6   Board headquarters."
+                ],
+                "P": [
+                  "The headquarters of the Board are located within the U.S. Department of Commerce (Herbert C. Hoover Building), 1401 Constitution Avenue NW., Washington, DC 20230, within the office of the Foreign-Trade Zones staff.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.7",
+                  "NODE": "15:2.1.2.2.1.1.1.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.7   CBP officials as Board representatives."
+                ],
+                "P": [
+                  "CBP officials with oversight responsibilities for a port of entry represent the Board with regard to the zones adjacent to the port of entry in question and are responsible for enforcement, including physical security and access requirements, as provided in 19 CFR part 146.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "15:2.1.2.2.1.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Ability To Establish Zone; Limitations and Restrictions on Authority Granted"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.11",
+                  "NODE": "15:2.1.2.2.1.2.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.11   Number and location of zones and subzones."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  (1) Provided that the other requirements of this part are met:\n",
+                    "I": [
+                      "Number of zones—port of entry entitlement."
+                    ]
+                  },
+                  "(i) Each port of entry is entitled to at least one zone;\n",
+                  "(ii) If a port of entry is located in more than one state, each of the states in which the port of entry is located is entitled to a zone; and\n",
+                  "(iii) If a port of entry is defined to include more than one city separated by a navigable waterway, each of the cities is entitled to a zone.\n",
+                  "(2) Applications pertaining to zones in addition to those approved under the entitlement provision of paragraph (a)(1) of this section may be approved by the Board if it determines that the existing zone(s) will not adequately serve the convenience of commerce.\n",
+                  {
+                    "_": "(b)  (1) The Board may approve “zones in or adjacent to ports of entry” (19 U.S.C. 81b).\n",
+                    "I": [
+                      "Location of zones and subzones—port of entry adjacency requirements."
+                    ]
+                  },
+                  "(2) The “adjacency” requirement is satisfied if:\n\n\n",
+                  "(i) A zone site is located within 60 statute miles or 90 minutes' driving time (as determined or concurred upon by CBP) from the outer limits of a port of entry boundary as defined in 19 CFR 101.3.\n",
+                  "(ii) A subzone meets the following requirements relating to CBP supervision:\n",
+                  "(A) Proper CBP oversight can be accomplished with physical and electronic means;\n",
+                  "(B) All electronically produced records are maintained in a format compatible with the requirements of CBP for the duration of the record period; and\n",
+                  "(C) The operator agrees to present merchandise for examination at a CBP site selected by CBP when requested, and further agrees to present all necessary documents directly to the relevant CBP oversight office.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.12",
+                  "NODE": "15:2.1.2.2.1.2.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.12   Eligible applicants."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Subject to the other provisions of this section, public or private corporations may apply for grants of authority to establish zones. The Board shall give preference to public corporations.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The eligibility of public corporations and private non-profit corporations to apply for a grant of authority shall be supported by enabling legislation of the legislature of the state in which the zone is to be located, indicating that the corporation, individually or as part of a class, is authorized to so apply. Any application must not be inconsistent with the charter or organizational papers of the applying entity.\n",
+                    "I": [
+                      "Public corporations and private non-profit corporations."
+                    ]
+                  },
+                  {
+                    "_": "(c)  The eligibility of private for-profit corporations to apply for a grant of authority shall be supported by a special act of the state legislature naming the applicant corporation and by evidence indicating that the corporation is chartered for the purpose of establishing a zone.\n",
+                    "I": [
+                      "Private for-profit corporations."
+                    ]
+                  },
+                  {
+                    "_": "(d) —(1)  The following entities are eligible to apply to establish a subzone:\n",
+                    "I": [
+                      "Applicants for subzones (except pursuant to § 400.24(c))",
+                      "Eligibility."
+                    ]
+                  },
+                  "(i) The grantee of the closest zone in the same state;\n",
+                  "(ii) The grantee of another zone in the same state, which is a public corporation (or a non-public corporation if no such other public corporation exists), if the Board, or the Executive Secretary, finds that such sponsorship better serves the public interest; or\n",
+                  "(iii) A state agency specifically authorized to submit such an application by an act of the state legislature.\n",
+                  {
+                    "_": "(2)  If an application is submitted under paragraph (d)(1)(ii) or (iii) of this section, the Executive Secretary shall:\n",
+                    "I": [
+                      "Notification of closest grantee."
+                    ]
+                  },
+                  "(i) Notify, in writing, the grantee specified in paragraph (d)(1)(i) of this section, which may, within 30 days, object to such sponsorship, in writing, with supporting information as to why the public interest would be better served by its acting as sponsor;\n",
+                  "(ii) Review such objections prior to docketing the application to determine whether the proposed sponsorship is in the public interest, taking into account:\n",
+                  "(A) The objecting zone's structure and operation;\n",
+                  "(B) The views of state and local public agencies; and\n",
+                  "(C) The views of the proposed subzone operator;\n",
+                  "(iii) Notify the applicant and objecting zone in writing of the Executive Secretary's determination;\n",
+                  "(iv) If the Executive Secretary determines that the proposed sponsorship is in the public interest, docket the application (see § 400.63 regarding appeals of decisions of the Executive Secretary).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.13",
+                  "NODE": "15:2.1.2.2.1.2.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.13   General conditions, prohibitions and restrictions applicable to authorized zones."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Grants of authority issued by the Board for the establishment of zones and any authority subsequently approved for such zones, including those already issued, are subject to the Act and this part and the following general conditions or limitations:\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  "(1) Prior to activation of a zone, the zone grantee or operator shall obtain all necessary permits from federal, state and local authorities, and except as otherwise specified in the Act or this part, shall comply with the requirements of those authorities.\n",
+                  "(2) A grant of authority approved under this part includes authority for the grantee to permit the erection of buildings necessary to carry out the approved zone (subject to concurrence of CBP for an activated area of a zone).\n",
+                  "(3) Approvals from the grantee (or other party acting on behalf of the grantee, where applicable) and CBP, pursuant to 19 CFR part 146, are required prior to the activation of any portion of an approved zone.\n",
+                  "(4) Authority for a zone or a subzone shall lapse unless the zone (in case of subzones, the subzone facility) is activated, pursuant to 19 CFR part 146, and in operation not later than five years from the authorization of the zone or subzone, subject to the provisions of Board Order 849 (61 FR 53305, October 11, 1996).\n",
+                  "(5) Zone grantees, operators, and users (and persons undertaking zone-related functions on behalf of grantees, where applicable) shall permit federal government officials acting in an official capacity to have access to the zone and records during normal business hours and under other reasonable circumstances.\n",
+                  "(6) Activity involving production is subject to the specific provisions in § 400.14.\n",
+                  "(7) A grant of authority may not be sold, conveyed, transferred, set over, or assigned (FTZ Act, section 17; 19 U.S.C. 81q).\n",
+                  "(8) Private ownership of zone land and facilities is permitted, provided the zone grantee retains the control necessary to implement the approved zone. Such permission shall not constitute a vested right to zone designation, nor interfere with the Board's regulation of the grantee or the permittee, nor interfere with or complicate the revocation of the grant by the Board. Grantees shall retain a level of control which allows the grantee to carry out its responsibilities as grantee. The sale of zone-designated land/facility for more than its fair market value without zone designation could, depending on the circumstances, be subject to the prohibitions set forth in section 17 of the Act (19 U.S.C. 81q).\n\n\n",
+                  {
+                    "_": "(b)  Pursuant to section 15(c) of the Act (19 U.S.C. 81o(c)), the Board has authority to “order the exclusion from [a] zone of any goods or process of treatment that in its judgment is detrimental to the public interest, health, or safety.” In approvals of proposed production authority pursuant to § 400.14(a), the Board may adopt restrictions to protect the public interest, health, or safety. When evaluating production activity, either as proposed in an application or as part of a review of an operation, the Board shall determine whether the activity is in the public interest by reviewing it in relation to the evaluation criteria contained in § 400.27.\n",
+                    "I": [
+                      "Board authority to restrict or prohibit activity."
+                    ]
+                  },
+                  {
+                    "_": "(c) —(1)  Zone procedures shall not be used to circumvent antidumping duty (AD) and countervailing duty (CVD) actions under 19 CFR part 351.\n",
+                    "I": [
+                      "Restrictions on items subject to antidumping and countervailing duty actions",
+                      "Board policy."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Items subject to AD/CVD orders, or items which would be otherwise subject to suspension of liquidation under AD/CVD procedures if they entered U.S. customs territory, shall be placed in privileged foreign status (19 CFR 146.41) upon admission to a zone or subzone. Upon entry for consumption, such items shall be subject to duties under AD/CVD orders or to suspension of liquidation, as appropriate, under 19 CFR part 351.\n",
+                    "I": [
+                      "Admission of items subject to AD/CVD actions."
+                    ]
+                  },
+                  {
+                    "_": "(d)  Other conditions/requirements, prohibitions and restrictions under Federal, State or local law may apply to authorized zones and subzones.\n",
+                    "I": [
+                      "Additional conditions, prohibitions and restrictions."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.14",
+                  "NODE": "15:2.1.2.2.1.2.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.14   Production—requirement for prior authorization."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Production activity in zones shall not be conducted without prior authorization from the Board. To obtain authorization, the notification process provided for in §§ 400.22 and 400.37 shall be used. If Board review of a notification under § 400.37 results in a determination that further review is warranted for all or part of the notified activity, the application process pursuant to §§ 400.23, 400.31 through 400.32, 400.34, and 400.36 shall apply to the activity. Notifications and applications requesting production authority may be submitted by the zone's grantee or by the operator that proposes to undertake the activity (provided the operator at the same time furnishes a copy of the notification or application to the grantee and that submissions by the operator are consistent with the grantee's zone schedule).\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Production activity that may be conducted in a particular zone operation is limited to the specific foreign-status materials and components and specific finished products described in notifications and applications that have been authorized pursuant to paragraph (a) of this section, including any applicable prohibitions or restrictions. A determination may be requested pursuant to paragraph (d) of this section as to whether particular activity falls within the scope of authorized activity. Unauthorized activity could be subject to penalties pursuant to the customs regulations on foreign-trade zones (19 CFR part 146).\n",
+                    "I": [
+                      "Scope of authority."
+                    ]
+                  },
+                  {
+                    "_": "(c)  The Board shall make available via its Web site information regarding the materials, components, and finished products associated with individual production operations authorized under these and previous regulations, as derived from applications and notifications submitted to the Board.\n",
+                    "I": [
+                      "Information about authorized production activity."
+                    ]
+                  },
+                  {
+                    "_": "(d)  Determinations may be made by the Executive Secretary as to whether changes in activity are within the scope of the production activity already authorized under this part. When warranted, the procedures of §§ 400.32 and 400.34 shall be followed.\n",
+                    "I": [
+                      "Scope determinations."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8527, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.15",
+                  "NODE": "15:2.1.2.2.1.2.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.15   Production equipment."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Pursuant to section 81c(e) of the FTZ Act, merchandise that is admitted into a foreign-trade zone for use within such zone as production equipment or as parts for such equipment, shall not be subject to duty until such merchandise is completely assembled, installed, tested, and used in the production for which it was admitted. Payment of duty may be deferred until such equipment goes into use as production equipment as part of zone production activity, at which time the equipment shall be entered for consumption as completed equipment.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Eligibility for this section is limited to equipment and parts of equipment destined for use in zone production activity as defined in § 400.2(o) of this part. Ineligible for treatment as production equipment under this section are general materials (that are used in the installation of production equipment or in the assembly of equipment) and materials used in the construction or modification of the plant that houses the production equipment.\n",
+                    "I": [
+                      "Definition of production equipment."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Production equipment or parts that are not destined for use in zone production activity shall be treated as normal merchandise eligible for standard zone-related benefits ( benefits not subject to the requirements of § 400.14(a)), provided the equipment is entered for consumption or exported prior to its use.\n\n\n",
+                    "I": [
+                      "Equipment not destined for zone activity.",
+                      "i.e.,"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.16",
+                  "NODE": "15:2.1.2.2.1.2.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  {
+                    "_": "§ 400.16   Exemption from state and local  taxation of tangible personal property.",
+                    "E": [
+                      {
+                        "_": "ad valorem",
+                        "$": {
+                          "T": "0714"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "P": [
+                  {
+                    "_": "Foreign merchandise (tangible personal property) imported from outside the United States and held in the activated area of a zone for the purpose of storage, sale, exhibition, repackaging, assembly, distribution, sorting, grading, cleaning, mixing, display, manufacturing, or processing, and tangible personal property produced in the United States and held in the activated area of a zone for exportation, either in its original form or as altered by any of the processes set out in this section, shall be exempt from state and local  taxation.\n",
+                    "I": [
+                      "ad valorem"
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[89 FR 8528, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "15:2.1.2.2.1.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Applications To Establish and Modify Authority"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.21",
+                  "NODE": "15:2.1.2.2.1.3.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.21   Application to establish a zone."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  An application for a grant of authority to establish a zone (including pursuant to the ASF procedures adopted by the Board (§ 400.2(c))) shall consist of an application letter and detailed contents to meet the requirements of this part.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Applications pursuant to this part shall comply with any instructions, guidelines, and forms or related documents, published in the  and made available on the Board's Web site, as established by the Executive Secretary specific to the type of application in question. An application submitted that uses a superseded format shall be processed unless the format has not been current for a period in excess of one year.\n",
+                    "I": [
+                      "Application format."
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(c)  The application letter shall be dated within six months prior to the submission of the application and signed by an officer of the corporation authorized in the resolution for the application (see § 400.21(d)(1)(iii)). The application letter shall also describe:\n",
+                    "I": [
+                      "Application letter."
+                    ]
+                  },
+                  "(1) The relationship of the proposal to the state enabling legislation and the applicant's charter;\n",
+                  "(2) The specific authority requested from the Board;\n",
+                  "(3) The proposed zone site(s) and facility(ies) and any larger project of which the zone is a part;\n",
+                  "(4) The project background;\n",
+                  "(5) The relationship of the project to the community's and state's international trade-related goals and objectives; and\n",
+                  "(6) Any additional pertinent information needed for a complete summary description of the proposal.\n",
+                  {
+                    "_": "(d)  (1) Legal authority for the application shall be documented with:\n",
+                    "I": [
+                      "Detailed contents."
+                    ]
+                  },
+                  "(i) A current copy of the state enabling legislation described in §§ 400.12(b) and (c);\n",
+                  "(ii) A copy of the relevant sections of the applicant's charter or organization papers; and\n",
+                  "(iii) A certified copy of a resolution of the applicant's governing body specific to the application authorizing the official signing the application letter. The resolution must be dated no more than six months prior to the submission of the application.\n",
+                  "(2) Site descriptions (including a table with site designations when more than one site is involved) shall be documented with:\n",
+                  "(i) A detailed description of the zone site, including size, location, and address (and legal description or its equivalent in instances where the Executive Secretary determines it is needed to supplement the maps in the application), as well as dimensions and types of existing and proposed structures, master planning, and timelines for construction of roads, utilities and planned buildings;\n",
+                  "(ii) Where applicable, a summary description of the larger project of which the site is a part, including type, size, location and address;\n",
+                  "(iii) A statement as to whether the site is within or adjacent to a CBP port of entry (including distance from the limits of the port of entry and, if the distance exceeds 60 miles, driving time from the limits of the port of entry);\n",
+                  "(iv) A description of existing or proposed site qualifications, including appropriate land-use zoning (with environmentally sensitive areas avoided) and physical security;\n",
+                  "(v) A description of current and planned activities associated with the site;\n\n\n",
+                  "(vi) A statement regarding the environmental aspects of the proposal;\n",
+                  "(vii) The estimated time schedules for construction and activation; and\n",
+                  "(viii) A statement as to the possibilities and plans for future expansion of the site.\n",
+                  "(3) Operation and financing shall be documented with:\n",
+                  "(i) A statement as to site ownership (if not owned by the applicant or proposed operator, evidence as to their legal right to use the site);\n",
+                  "(ii) A discussion of plans for operations at the site;\n",
+                  "(iii) A commitment to satisfy the requirements for CBP automated systems; and\n",
+                  "(iv) A summary of the plans for financing the project.\n",
+                  "(4) Economic justification shall be documented with:\n",
+                  "(i) A statement of the community's overall economic and trade-related goals and strategies in relation to those of the region and state, including a reference to the plan or plans on which the goals are based and how they relate to the zone project;\n",
+                  "(ii) An economic profile of the community including discussion of:\n",
+                  "(A) Dominant sectors in terms of employment or income;\n",
+                  "(B) Area strengths and weaknesses;\n",
+                  "(C) Unemployment rates; and\n",
+                  "(D) Area foreign trade statistics;\n",
+                  "(iii) A statement as to the role and objective of the zone project and a discussion of the anticipated economic impact, direct and indirect, of the zone project, including references to public costs and benefits, employment, and U.S. international trade;\n",
+                  "(iv) A separate justification for each proposed site, including a specific explanation addressing the degree to which the site may duplicate types of facilities at other proposed or existing sites in the zone;\n",
+                  "(v) A statement as to the need for zone services in the community, with specific expressions of interest from proposed zone users and letters of intent from those firms that are considered prime prospects for each specific proposed site; and\n",
+                  "(vi) For any production activity to be conducted at a proposed site, the separate requirements of § 400.14(a) must also be met.\n",
+                  "(5) Maps and site plans shall include the following documents:\n",
+                  "(i) State and county maps showing the general location of the proposed site(s) in terms of the area's transportation network;\n",
+                  "(ii) For any proposed site, a legible, detailed site plan of the zone area showing zone boundaries in red, with street name(s), and showing existing and proposed structures; and\n",
+                  "(iii) For proposals involving a change in existing zones, one or more maps showing the relationship between existing zone sites and the proposed changes.\n",
+                  {
+                    "_": "(e)  In addition to the general application requirements of this section, applications under the ASF shall include the following, where applicable:\n",
+                    "I": [
+                      "ASF applications."
+                    ]
+                  },
+                  "(1) Service area.\n",
+                  "(2) Appropriate information regarding magnet sites.\n",
+                  "(3) Appropriate information regarding usage-driven sites or ASF subzones.\n",
+                  {
+                    "_": "(f)  The Board or the Executive Secretary may require additional information needed to evaluate proposals adequately.\n",
+                    "I": [
+                      "Additional information."
+                    ]
+                  },
+                  {
+                    "_": "(g)  The Board or the Executive Secretary may allow amendment of an application. Amendments which substantively expand the scope of an application shall be subject to comment period requirements such as those of § 400.32(c)(2) with a minimum comment period of 30 days.\n",
+                    "I": [
+                      "Amendment of application."
+                    ]
+                  },
+                  {
+                    "_": "(h)  Applicants are encouraged to submit a draft application to the Executive Secretary for review. A draft application must be complete with the possible exception of the application letter and/or resolution from the applicant.\n\n\n",
+                    "I": [
+                      "Drafts."
+                    ]
+                  },
+                  {
+                    "_": "(i)  The applicant shall submit the complete application, including all attachments, via email or by the method prescribed by the Executive Secretary pursuant to § 400.4(m).\n\n\n",
+                    "I": [
+                      "Submission of completed application."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ],
+                "EFFDNOT": [
+                  {
+                    "HED": [
+                      "Effective Date Note:"
+                    ],
+                    "PSPACE": [
+                      "At 77 FR 12139, Feb. 28, 2012, § 400.21 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.22",
+                  "NODE": "15:2.1.2.2.1.3.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.22   Notification for production authority."
+                ],
+                "P": [
+                  {
+                    "_": "Notifications requesting production authority pursuant to § 400.14(a) shall comply with any instructions, guidelines, and forms or related documents, published in the  and made available on the Board's Web site, as established by the Executive Secretary. Notifications shall contain the following information:\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(a) Identity of the user and its location;\n",
+                  "(b) Materials, components and finished products associated with the proposed activity, including the tariff schedule categories (6-digit HTSUS) and tariff rates; and\n",
+                  "(c) Information as to whether any material or component is subject to a trade-related measure or proceeding (e.g., AD/CVD order or proceeding, suspension of liquidation under AD/CVD procedures).\n"
+                ],
+                "EFFDNOT": [
+                  {
+                    "HED": [
+                      "Effective Date Note:"
+                    ],
+                    "PSPACE": [
+                      "At 77 FR 12139, Feb. 28, 2012, § 400.22 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.23",
+                  "NODE": "15:2.1.2.2.1.3.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.23   Application for production authority."
+                ],
+                "P": [
+                  "In addition to any applicable requirements set forth in § 400.21, an application requesting production authority pursuant to § 400.37(c) shall include:\n",
+                  "(a) A summary as to the reasons for the application and an explanation of its anticipated economic effects;\n",
+                  "(b) Identity of the user and its corporate affiliation;\n",
+                  "(c) A description of the proposed activity, including:\n",
+                  "(1) Finished products;\n",
+                  "(2) Imported (foreign-status) materials and components;\n",
+                  "(3) For each finished product and imported material or component, the tariff schedule category (6-digit HTSUS), tariff rate, and whether the material or component is subject to a trade-related measure or proceeding (e.g., AD/CVD order or proceeding, suspension of liquidation under AD/CVD procedures);\n",
+                  "(4) Domestic inputs, foreign inputs, and plant value added as percentages of finished product value;\n",
+                  "(5) Projected shipments to domestic market and export market (percentages);\n",
+                  "(6) Estimated total or range of annual value of benefits to proposed user (broken down by category), including as a percent of finished product value;\n",
+                  "(7) Annual production capacity (current and planned) for the proposed FTZ activity, in units;\n",
+                  "(8) Information to assist the Board in making a determination under § 400.27(a)(3) and 400.27(b);\n",
+                  "(9) Information as to whether alternative procedures have been considered as a means of obtaining the benefits sought;\n",
+                  "(10) Information on the industry involved and extent of international competition; and\n",
+                  "(11) Economic impact of the operation on the area; and\n",
+                  "(d) Any additional information requested by the Board or the Executive Secretary in order to conduct the review.\n"
+                ],
+                "EFFDNOT": [
+                  {
+                    "HED": [
+                      "Effective Date Note:"
+                    ],
+                    "PSPACE": [
+                      "At 77 FR 12139, Feb. 28, 2012, § 400.23 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.24",
+                  "NODE": "15:2.1.2.2.1.3.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.24   Application for expansion or other modification to zone."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  (1) A grantee may apply to the Board for authority to expand or otherwise modify its zone (including pursuant to the ASF procedures adopted by the Board (§ 400.2(c))).\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  "(2) The Executive Secretary, in consultation with CBP as appropriate, shall determine whether the proposed modification involves a major change in the zone plan and is thus subject to paragraph (b) of this section, or is minor and subject to paragraph (c) of this section. In making this determination the Executive Secretary shall consider the extent to which the proposed modification would:\n",
+                  "(i) Substantially modify the plan originally approved by the Board; or\n",
+                  "(ii) Expand the physical dimensions of the approved zone area as they relate to the scope of operations envisioned in the original plan.\n",
+                  {
+                    "_": "(b)  An application for a major modification of an approved zone shall be submitted in accordance with the requirements of § 400.21, except that the content submitted pursuant to § 400.21(d)(4) (economic justification) shall relate specifically to the proposed change.\n",
+                    "I": [
+                      "Major modification to zone."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Other applications or requests under this subpart shall be submitted in letter form with information and documentation necessary for analysis, as determined by the Executive Secretary, who shall determine whether the proposed change is a minor one subject to this paragraph (c) instead of paragraph (b) of this section ( § 400.38). Such applications or requests include those for minor revisions of zone or subzone boundaries based on immediate need, as well as for designation as a subzone of all or part of an existing zone site(s) (or site(s) that qualifies for usage-driven status), where warranted by the circumstances and so long as the subzone remains subject to the activation limit ( § 400.2(b)) for the zone in question.\n\n\n",
+                    "I": [
+                      "Minor modification to zone.",
+                      "see",
+                      "see"
+                    ]
+                  },
+                  {
+                    "_": "(d)  Applications or requests for other revisions to authority, such as for Board action to establish or modify an activation limit for a zone, modification of a restriction, reissuance of a grant of authority or request for a voluntary termination shall be submitted in letter form with information and documentation necessary for analysis, as determined by the Executive Secretary. If the change involves the removal or significant modification of a restriction included by the Board in its approval of authority or the reissuance of a grant of authority, the review procedures of §§ 400.31 through 400.34 and 400.36 shall be followed, where relevant. If not, the procedure set forth in § 400.38 shall generally apply (although the Executive Secretary may elect to follow the procedures of §§ 400.31 through 400.34 and 400.36 when warranted).\n\n\n",
+                    "I": [
+                      "Applications for other revisions to authority."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.25",
+                  "NODE": "15:2.1.2.2.1.3.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.25   Application for subzone designation."
+                ],
+                "P": [
+                  "In addition to the requirements of §§ 400.21(d)(1)(i) and (ii) pertaining to legal authority, § 400.21(d)(2)(vii) pertaining to environmental aspects of the proposal, and § 400.21(d)(3)(i) and (iii) pertaining to operation, a grantee's application for subzone designation shall contain the following information:\n",
+                  "(a) The name of the operator/user for which subzone designation is sought;\n",
+                  "(b) The nature of the activity at the proposed subzone;\n",
+                  "(c) The address(es) and physical size (acreage or square feet) of the proposed subzone location(s); and\n",
+                  "(d) One or more maps conforming to the requirements of section § 400.21(d)(5)(ii). For any production activity to be conducted at a proposed subzone, the separate requirements of § 400.14(a) must be met.\n"
+                ],
+                "EFFDNOT": [
+                  {
+                    "HED": [
+                      "Effective Date Note:"
+                    ],
+                    "PSPACE": [
+                      "At 77 FR 12139, Feb. 28, 2012, § 400.25 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.26",
+                  "NODE": "15:2.1.2.2.1.3.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.26   Criteria for evaluation of proposals, including for zones, expansions, subzones, or other modifications of zones."
+                ],
+                "P": [
+                  "The Board shall consider the following factors in determining whether to approve an application pertaining to a zone:\n",
+                  "(a) The need for zone services in the port of entry area, taking into account existing as well as projected international trade-related activities and employment impact;\n",
+                  "(b) The suitability of each proposed site and its facilities based on the plans presented for the site, including existing and planned buildings, zone-related activities, and the timeframe for development of the site;\n",
+                  "(c) The specific need and justification for each proposed site, taking into account existing sites and/or other proposed sites;\n",
+                  "(d) The extent of state and local government support, as indicated by the compatibility of the zone project with the community's master plan or stated goals for economic development and the views of state and local public officials involved in economic development. Such officials shall avoid commitments that anticipate the outcome of Board decisions; and\n",
+                  "(e) The views of persons likely to be materially affected by proposed zone activity.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.27",
+                  "NODE": "15:2.1.2.2.1.3.1.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.27   Criteria applicable to evaluation of applications for production authority."
+                ],
+                "P": [
+                  "The Board shall apply the criteria set forth in this section in determining whether to approve an application for authority to conduct production activity pursuant to § 400.23. The Board's evaluation shall take into account information such as pertains to market conditions, price sensitivity, degree and nature of foreign competition, intra-industry and intra-firm trade, effect on exports and imports, ability to conduct the proposed activity outside the United States with the same U.S. tariff impact, analyses conducted in connection with prior Board actions, and net effect on U.S. employment and the U.S. economy:\n",
+                  {
+                    "_": "(a)  It is the policy of the Board to authorize zone activity only when it is consistent with public policy and, in regard to activity involving foreign merchandise subject to quotas or inverted tariffs, when zone procedures are not the sole determining cause of imports. Thus, without undertaking a review of the economic factors enumerated in § 400.27(b), the Board shall deny or restrict authority for proposed or ongoing activity if it determines that:\n",
+                    "I": [
+                      "Threshold factors."
+                    ]
+                  },
+                  "(1) The activity is inconsistent with U.S. trade and tariff law, or policy which has been formally adopted by the Executive branch;\n",
+                  "(2) Board approval of the activity under review would seriously prejudice U.S. tariff and trade negotiations or other initiatives; or\n",
+                  "(3) The activity involves items subject to quantitative import controls or inverted tariffs, and the use of zone procedures would be the direct and sole cause of imports that, but for such procedures, would not likely otherwise have occurred, taking into account imports both as individual items and as components of imported products.\n",
+                  {
+                    "_": "(b)  After its review of threshold factors, if there is a basis for further consideration of the application, the Board shall consider the following factors in determining the net economic effect of the proposed activity:\n",
+                    "I": [
+                      "Economic factors."
+                    ]
+                  },
+                  "(1) Overall employment impact;\n",
+                  "(2) Exports and re-exports;\n",
+                  "(3) Retention or creation of value-added activity;\n",
+                  "(4) Extent of value-added activity;\n",
+                  "(5) Overall effect on import levels of relevant products;\n",
+                  "(6) Extent and nature of foreign competition in relevant products;\n",
+                  "(7) Impact on related domestic industry, taking into account market conditions; and\n",
+                  "(8) Other relevant information relating to the public interest and net economic impact considerations, including technology transfers and investment effects.\n",
+                  "(c) The significant public benefit(s) that would result from the production activity, taking into account the factors in paragraphs (a) and (b) of this section.\n",
+                  {
+                    "_": "(d)  In assessing the significance of the economic effect of the proposed zone activity as part of the consideration of economic factors, and considering whether it would result in a significant public benefit(s), the Board may consider the contributory effect zone savings have as an incremental part of cost-effectiveness programs adopted by companies to improve their international competitiveness.\n",
+                    "I": [
+                      "Contributory effect."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.28",
+                  "NODE": "15:2.1.2.2.1.3.1.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.28   Burden of proof."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  An applicant must demonstrate to the Board that its application meets the criteria set forth in these regulations. Applications for production-related authority shall contain evidence regarding the positive economic effect(s) and significant public benefit(s) that would result from the proposed activity and may submit evidence and comments concerning policy considerations.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Comments submitted regarding applications should provide information that is probative and substantial in addressing the matter at issue relative to the nature of the proceeding, including any evidence of the projected direct impact of the proposed authority.\n",
+                    "I": [
+                      "Comments on applications."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Requests for extensions of comment periods shall include a description of the potential impact of the proposed authority and the specific actions or steps for which additional time is necessary.\n",
+                    "I": [
+                      "Requests for extensions of comment periods."
+                    ]
+                  },
+                  {
+                    "_": "(d)  Submissions in response to comments received during the public comment period or pursuant to § 400.33(e)(1) or § 400.34(a)(5)(iv)(A) should contain evidence that is probative and substantial in addressing the matter at issue.\n\n\n",
+                    "I": [
+                      "Responses to comments on applications."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.29",
+                  "NODE": "15:2.1.2.2.1.3.1.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.29   Application fees."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  This section sets forth a uniform system of charges in the form of fees to recover some costs incurred by the Foreign-Trade Zones staff of the Department of Commerce in processing the applications listed in paragraph (b) of this section. The legal authority for the fees is 31 U.S.C. 9701, which provides for the collection of user fees by agencies of the Federal Government.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The following fee schedule establishes fees for certain types of applications and requests for authority on the basis of their estimated average processing time.\n",
+                    "I": [
+                      "Uniform system of user fee charges."
+                    ]
+                  },
+                  "(1) Additional zones (§ 400.21; § 400.11(a)(2))—$3,200.\n",
+                  "(2) Subzones (§ 400.25):\n",
+                  "(i) Not involving production activity or involving production activity with fewer than three products—$4,000.\n",
+                  "(ii) Production activity with three or more products—$6,500.\n",
+                  "(3) Expansions (§ 400.24(b))—$1,600.\n",
+                  {
+                    "_": "(c)  Application fees shall be paid prior to the FTZ Board docketing an application and in a manner specified by the Executive Secretary.\n\n\n",
+                    "I": [
+                      "Timing and manner of payment."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "15:2.1.2.2.1.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Procedures for Application Evaluation and Reviews"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.31",
+                  "NODE": "15:2.1.2.2.1.4.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.31   General application provisions and pre-docketing review."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Sections 400.31-400.36 and 400.38 outline the procedures to be followed in docketing and processing applications submitted under §§ 400.21, 400.23, 400.24(b), and 400.25. In addition, these sections set forth the time schedules which will ordinarily apply in processing applications. The schedules will guide applicants with respect to the time frames for each of the procedural steps involved in the Board's review. Under these schedules, applications for subzone designation will generally be processed within 5 months (3 months for applications subject to § 400.36(f)) and applications to establish or expand zones will generally be processed within 10 months. The general timeframe to process applications for production authority is 12 months, but additional time is most likely to be required for applications requesting production authority when a complex or controversial issue is involved or when the applicant or other party has obtained a time extension for a particular procedural step. The timeframes specified apply from the time of docketing. Each applicant is responsible for submitting an application that meets the docketing requirements in a timeframe consistent with the applicant's need for action on its request.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The applicant shall submit a complete copy of an application for pre-docketing review. The Executive Secretary shall determine whether the application satisfies the requirements of §§ 400.12, 400.21, and 400.23 through 400.25 and other applicable provisions of this part such that the application is sufficient for docketing. The applicant shall be notified within 30 days whether the pre-docketing copy of the application is sufficient. If the application is not sufficient, the applicant will be notified of the specific deficiencies. An affected zone participant may also be contacted regarding relevant application elements requiring additional information or clarification. If the applicant does not correct the deficiencies and submit a corrected pre-docketing application copy within 30 days of notification, the pre-docketing application shall be discarded. For applications subject to § 400.29, the fees shall be paid in accordance with § 400.29 once the application is determined to be sufficient.\n\n\n",
+                    "I": [
+                      "Pre-docketing review."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8528, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.32",
+                  "NODE": "15:2.1.2.2.1.4.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.32   Procedures for docketing applications and commencement of case review."
+                ],
+                "P": [
+                  "(a) Once the pre-docketing copy of the application is determined to be sufficient and any fees under § 400.29 have been paid, the Executive Secretary shall within 15 days:\n",
+                  "(1) Formally docket the application, thereby initiating the proceeding or review;\n",
+                  "(2) Assign a case-docket number; and\n",
+                  "(3) Notify the applicant of the formal docketing action.\n",
+                  "(b) After initiating a proceeding based on an application under §§ 400.21 and 400.23 through 400.25, the Executive Secretary shall:\n",
+                  "(1) Designate an examiner to conduct a review and prepare a report or memorandum with recommendations for the Board;\n",
+                  {
+                    "_": "(2) Publish in the  a notice of the formal docketing of the application and initiation of the review. The notice shall include the name of the applicant, a description of the proposal, and an invitation for public comment. If the application requests authority for production activity and indicates that a component to be used in the activity is subject to a trade-related measure or proceeding (e.g., AD/CVD order or proceeding, suspension of liquidation under AD/CVD procedures), the notice shall include that information. For applications to establish or expand a zone or for production authority, the comment period shall normally close 60 days after the date the notice appears. For applications for subzone designation, the comment period shall normally close 40 days after the date the notice appears. However, if a hearing is held ( § 400.52), the comment period shall not close prior to 15 days after the date of the hearing. The closing date for general comments shall ordinarily be followed by an additional 15-day period for rebuttal comments. Requests for extensions of a comment period will be considered, subject to the standards of § 400.28(c). Submissions must meet the requirements of § 400.28(b). With the exception of submissions by the applicant, any new evidence or new factual information and any written arguments submitted after the deadlines for comments shall not be considered by the examiner or the Board. Submission by the applicant of new evidence or new factual information may result in the (re)opening of a comment period. A comment period may otherwise be opened or reopened for cause;\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ],
+                    "I": [
+                      "see"
+                    ]
+                  },
+                  "(3) Transmit or otherwise make available copies of the docketing notice and the application to CBP;\n",
+                  "(4) Arrange for hearings, as appropriate;\n",
+                  "(5) Transmit the report and recommendations of the examiner and any comments by CBP to the Board for appropriate action; and\n",
+                  {
+                    "_": "(6) Notify the applicant in writing (via electronic means, where appropriate) and publish notice in the  of the Board's determination.\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(c) Any comments by CBP pertaining to the application shall be submitted to the Executive Secretary by the conclusion of the public comment period described in paragraph (b)(2) of this section.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.33",
+                  "NODE": "15:2.1.2.2.1.4.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.33   Examiner's review—application to establish or modify a zone."
+                ],
+                "P": [
+                  "An examiner assigned to review an application to establish, reorganize or expand a zone shall conduct a review taking into account the factors enumerated in § 400.26 and other appropriate sections of this part, which shall include:\n",
+                  "(a) Conducting or participating in hearings scheduled by the Executive Secretary;\n",
+                  "(b) Reviewing case records, including public comments;\n",
+                  "(c) Requesting information and evidence from parties of record;\n",
+                  "(d) Developing information and evidence necessary for evaluation and analysis of the application in accordance with the criteria of the Act and this part; and\n",
+                  "(e) Developing recommendations to the Board and submitting a report to the Executive Secretary, generally within 150 days of the close of the period for public comment (75 days for reorganizations under the ASF) (see § 400.32):\n",
+                  "(1) If the recommendations are unfavorable to the applicant, they shall be considered preliminary and the applicant shall be notified in writing (via electronic means, where appropriate) of the preliminary recommendations and the factors considered in their development. The applicant shall be given 30 days from the date of notification, subject to extensions upon request by the applicant, which shall not be unreasonably withheld, in which to respond to the recommendations and submit additional evidence pertinent to the factors considered in the development of the preliminary recommendations. Public comment may be invited on preliminary recommendations when warranted.\n",
+                  {
+                    "_": "(2) If the response contains new evidence on which there has been no opportunity for public comment, the Executive Secretary shall publish a notice in the  after completion of the review of the response. The new material shall be made available for public inspection and the  notice shall invite further public comment for a period of not less than 30 days, with an additional 15-day period for rebuttal comments.\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      },
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(3) If the factors considered for an examiner's recommendation(s) change as a result of new evidence, the applicable procedures of paragraphs (e)(1) and (2) of this section shall be followed.\n\n\n",
+                  "(4) When necessary, a request may be made to CBP to provide further comments, which shall be submitted within 45 days after the request.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.34",
+                  "NODE": "15:2.1.2.2.1.4.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.34   Examiner's review—application for production authority."
+                ],
+                "P": [
+                  "(a) The examiner shall conduct a review taking into account the factors enumerated in this section, § 400.27, and other appropriate sections of this part, which shall include:\n",
+                  "(1) Conducting or participating in hearings scheduled by the Executive Secretary;\n",
+                  "(2) Reviewing case records, including public comments;\n",
+                  "(3) Requesting information and evidence from parties of record and others, as warranted;\n",
+                  "(4) Developing information and evidence necessary for analysis of the threshold factors and the economic factors enumerated in § 400.27; and\n",
+                  "(5) Conducting an analysis to include:\n",
+                  "(i) An evaluation of policy considerations pursuant to §§ 400.27(a)(1) and (2);\n",
+                  "(ii) An evaluation of the economic factors enumerated in §§ 400.27(a)(3) and 400.27(b), which shall include an evaluation of the economic impact on domestic industry, considering both producers of like products and producers of components/materials used in the production activity;\n",
+                  "(iii) Conducting appropriate industry research and surveys, as necessary; and\n",
+                  "(iv) Developing recommendations to the Board and submitting a report to the Executive Secretary, generally within 150 days of the close of the period for public comment (although additional time may be required in circumstances such as when the applicant or other party has obtained a time extension for a particular procedural step):\n",
+                  "(A) If the recommendations are unfavorable to the applicant, they shall be considered preliminary and the applicant shall be notified in writing (via electronic transmission where appropriate) of the preliminary recommendations and the factors considered in their development. The applicant shall be given 45 days from the date of notification in which to respond to the recommendations and submit additional evidence pertinent to the factors considered in the development of the preliminary recommendations. Public comment may be invited on preliminary recommendations when warranted.\n",
+                  {
+                    "_": "(B) If the response contains new evidence on which there has not been an opportunity for public comment, the Executive Secretary shall publish notice in the  after completion of the review of the response. The new material shall be made available for public inspection and the  notice shall invite further public comment for a period of not less than 30 days, with an additional 15-day period for rebuttal comments.\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      },
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(C) If the factors considered for an examiner's recommendation(s) change as a result of new evidence, the applicable procedures of paragraphs (a)(5)(iv)(A) and (B) of this section shall be followed.\n",
+                  {
+                    "_": "(b)  The evaluation of an application for production authority shall include the following steps:\n",
+                    "I": [
+                      "Methodology and evidence."
+                    ]
+                  },
+                  "(1) The first phase (§ 400.27(a)) involves consideration of threshold factors. If an examiner or reviewer makes a negative finding on any of the factors in § 400.27(a) in the course of a review, the applicant shall be informed pursuant to § 400.34(a)(5)(iv)(A). When threshold factors are the basis for a negative recommendation in a review of ongoing activity, the zone grantee and directly affected party shall be notified and given an opportunity to submit evidence pursuant to § 400.34(a)(5)(iv)(A). If the Board determines in the negative regarding any of the factors in § 400.27(a), it shall deny or restrict authority for the proposed or ongoing activity.\n",
+                  "(2) The second phase (§ 400.27(b)) involves consideration of the enumerated economic factors, taking into account their relative weight and significance under the circumstances. Previous evaluations in similar cases shall be considered.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.35",
+                  "NODE": "15:2.1.2.2.1.4.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.35   Examiner's review—application for subzone designation."
+                ],
+                "P": [
+                  "The examiner shall develop a memorandum with a recommendation on whether to approve the application, taking into account the criteria enumerated in § 400.26. To develop that memorandum, the examiner shall review the case records including public comments, and may request information and evidence from parties of record, as necessary. The examiner's memorandum shall generally be submitted to the Board within 30 days of the close of the period for public comment. However, additional time may be taken as necessary for analysis of any public comment in opposition to the application or if other complicating factors arise.\n",
+                  "(a) If the examiner's recommendation is unfavorable to the applicant, it shall be considered preliminary and the applicant shall be notified in writing (via electronic means, where appropriate) of the preliminary recommendation and the factors considered in its development. The applicant shall be given 30 days from the date of notification, subject to extensions upon request by the applicant, which shall not be unreasonably withheld, in which to respond to the recommendation and submit additional evidence pertinent to the factors considered in the development of the preliminary recommendations. Public comment may be invited on preliminary recommendations when warranted.\n",
+                  {
+                    "_": "(b) If the response contains new evidence on which there has not been an opportunity for public comment, the Executive Secretary shall publish notice in the  after completion of the review of the response. The new material shall be made available for public inspection and the  notice shall invite further public comment for a period of not less than 30 days, with an additional 15-day period for rebuttal comments.\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      },
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(c) If the factors considered for an examiner's recommendation(s) change as a result of new evidence, the applicable procedures of paragraphs (a) and (b) of this section shall be followed.\n\n\n",
+                  "(d) The CBP adviser shall be requested, when necessary, to provide further comments, which shall be submitted within 45 days after the request.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.36",
+                  "NODE": "15:2.1.2.2.1.4.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.36   Completion of case review."
+                ],
+                "P": [
+                  "(a) The Executive Secretary shall circulate the examiner's report (memorandum in the case of subzone applications) with recommendations to CBP headquarters staff and to the Treasury Board member for review and action.\n",
+                  "(b) In its advisory role to the Board, CBP headquarters staff shall provide any comments within 15 days for applications under § 400.25 and within 30 days for all other applications.\n",
+                  "(c) The vote of the Treasury Board member shall be returned to the Executive Secretary within 30 days, unless a formal meeting is requested (see, § 400.3(b)).\n",
+                  "(d) The Commerce Department shall complete the decision process within 15 days of receiving the vote of the Treasury Board member, and the Executive Secretary shall publish the Board decision.\n",
+                  "(e) If the Board is unable to reach a unanimous decision, the applicant shall be notified and provided an opportunity to meet with the Board members or their delegates.\n",
+                  "(f) The Board delegates to the Executive Secretary authority to approve applications requesting subzone designation, on the condition that such approved subzones will be subject to the activation limit for the zone in question.\n",
+                  "(g) The Board or the Commerce Department's Assistant Secretary for Enforcement and Compliance may opt to terminate review of an application with no further action if the applicant has failed to provide in a timely manner information needed for evaluation of the application. A request from an applicant for an extension of time to provide information needed for evaluation of an application shall not be unreasonably withheld. The Executive Secretary may terminate review of an application where the overall circumstances presented in the application no longer exist as a result of a material change, and shall notify the applicant in writing of the intent to terminate review and allow 30 days for a response prior to completion of any termination action. The Executive Secretary shall confirm the termination in writing (by electronic means, where appropriate) to the applicant.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.37",
+                  "NODE": "15:2.1.2.2.1.4.1.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.37   Procedure for notification of proposed production activity."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A notification for production authority pursuant to §§ 400.14(a) and 400.22 shall be submitted simultaneously to the Board's Executive Secretary and to CBP.\n",
+                    "I": [
+                      "Submission of notification."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Upon receipt of a complete notification conforming to the requirements of the notification format established by the Executive Secretary pursuant to § 400.22, the Executive Secretary shall commence processing the notification. Unless the Executive Secretary determines, based on the content of the notification, to recommend further review to the Board without inviting public comment on the notification, the Executive Secretary shall transmit to the  a notice inviting public comment on the notification (with such comment subject to the standards of § 400.28(b)). The notice shall be transmitted to the  within 15 days of the commencement of the processing of the notification, and the comment period shall normally close 40 days after the date the notice appears. If the notification indicates that a material or component to be used in the activity is subject to an AD/CVD order or proceeding, or suspension of liquidation under AD/CVD procedures, the notice shall include that information. Evidence, factual information and written arguments submitted in response to the notice must be submitted by the deadline for comments. Any comments by CBP pertaining to the notification shall be submitted to the Executive Secretary by the end of the comment period. Within 80 days of receipt of the notification, the Executive Secretary shall submit to the Board a recommendation on whether further review of all or part of the activity subject to the notification is warranted. The Executive Secretary's recommendation shall consider comments submitted during the comment period, any guidance from specialists within government, and other relevant factors based on the Board staff's assessment of the notification, in the context of the factors set forth in § 400.27.\n",
+                    "I": [
+                      "Initial processing of notification."
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      },
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(c)  Within 30 days of receipt of the Executive Secretary's recommendation, the Board members shall provide to the Executive Secretary their determinations on whether further review is warranted concerning all or part of the activity that is the subject of the notification. If either Board member makes a determination that further review is warranted, the activity that is subject to further review (which may constitute all or part of the notified activity) shall not be conducted without authorization pursuant to the application requirements of § 400.23 and the procedural requirements of §§ 400.31-400.34 and 400.36 (or the provisions of paragraph (d) of this section, where applicable). Within 120 days of receipt of the notification, the Executive Secretary shall notify the party that submitted the notification (and the zone grantee, if it did not submit the notification) that:\n",
+                    "I": [
+                      "Determinations regarding further review."
+                    ]
+                  },
+                  "(1) Further review is not needed for all or part of the activity that is the subject of the notification, and that the activity in question may be conducted; or\n",
+                  "(2) Further review is needed for all or part of the activity that is the subject of the notification, with such activity precluded absent specific authorization.\n",
+                  {
+                    "_": "(d)  For an activity notified pursuant to § 400.14(a), the Executive Secretary may authorize the commencement of some or all of the activity on an interim basis. Such authorization shall only be made based on a showing that commencement of the activity is time-sensitive, with such showing to include comments from CBP that specifically address the projected timeframe for commencement of the activity. Interim authorization shall not apply to materials or components subject to an AD/CVD order or proceeding or suspension of liquidation under AD/CVD procedures. As warranted, a determination that further review is needed for all or some of the notified activity pursuant to § 400.37(c) may also revoke the interim authorization until the Board makes a determination after conduct of that further review.\n",
+                    "I": [
+                      "Authorization for commencement of an activity on an interim basis."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.38",
+                  "NODE": "15:2.1.2.2.1.4.1.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.38   Procedure for request for minor modification of zone."
+                ],
+                "P": [
+                  "(a) The Executive Secretary shall make a determination in cases under § 400.24(c) involving minor modifications of zones that do not require Board action, such as boundary modifications, including certain relocations, and shall notify the requestor in writing of the decision on the request within 30 days of the Executive Secretary's receipt of the complete request and the CBP comments under paragraph (b) of this section. Depending on the specific request, the decision could be that the request cannot be processed under § 400.24(c). The requestor shall submit a copy of its request to CBP no later than the time of the requestor's submission of the request to the Executive Secretary.\n",
+                  "(b) If not previously provided to the requestor for inclusion with the requestor's submission of the request to the Executive Secretary, any CBP comments on the request shall be provided to the Executive Secretary within 20 days of the requestor's submission of the request to the Executive Secretary.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[89 FR 8529, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "15:2.1.2.2.1.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Operation of Zones and Administrative Requirements"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.41",
+                  "NODE": "15:2.1.2.2.1.5.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.41   General operation of zones; requirements for commencement of operations."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Zones shall be operated by or under the general management of zone grantees, subject to the requirements of the FTZ Act and this part, as well as those of other federal, state and local agencies having jurisdiction over the site(s) and operation(s). Zone grantees shall ensure that the reasonable zone needs of the business community are served by their zones. CBP officials with oversight responsibilities for a port of entry represent the Board with regard to the zones adjacent to the port of entry in question and are responsible for enforcement, including physical security and access requirements, as provided in 19 CFR part 146.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The following actions are required before operations in a zone may commence:\n",
+                    "I": [
+                      "Requirements for commencement of operations in a zone."
+                    ]
+                  },
+                  "(1) The grantee shall submit the zone schedule to the Executive Secretary, as provided in § 400.44.\n",
+                  "(2) Approval or concurrence from the grantee and approval from CBP, pursuant to 19 CFR part 146, are required prior to the activation of any portion of an approved zone; and\n",
+                  "(3) Prior to activation of a zone, the operator shall obtain all necessary permits from federal, state and local authorities, and except as otherwise specified in the Act or this part, shall comply with the requirements of those authorities.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.42",
+                  "NODE": "15:2.1.2.2.1.5.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.42   Operation as public utility."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), each zone shall be operated as a public utility, and all rates and charges for all services or privileges within the zone shall be fair and reasonable. A rate or charge (fee) may be imposed on zone participants to recover costs incurred by or on behalf of the grantee for the performance of the grantee function. Such a rate or charge must be directly related to the service provided by the grantee (for which the fee recovers some or all costs incurred) to the zone participants. Rates or charges may incorporate a reasonable return on investment. Rates or charges may not be tied to the level of benefits derived by zone participants. Other than the uniform rates and charges assessed by, or on behalf of, the grantee, zone participants shall not be required (either directly or indirectly) to utilize or pay for a particular provider's zone-related products or services.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  "(b) [Reserved]\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.43",
+                  "NODE": "15:2.1.2.2.1.5.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.43   Uniform treatment."
+                ],
+                "P": [
+                  "Pursuant to Section 14 of the FTZ Act (19 U.S.C. 81n), a grantee shall afford to all who may apply to make use of or participate in the zone uniform treatment under like conditions. Treatment of zone participants within a zone (including application of rates and charges) shall not vary depending on whether a zone participant has procured any zone-related product or service or engaged a particular supplier to provide any such product or service.\n",
+                  {
+                    "_": "(a)  Any agreement or contract related to one or more grantee function(s) and involving a zone participant (e.g., agreements with property owners and agreements with zone operators) must be in writing.\n",
+                    "I": [
+                      "Agreements to be made in writing."
+                    ]
+                  },
+                  {
+                    "_": "(b)  A grantee (or person undertaking a zone-related function(s) on behalf of a grantee, where applicable) shall apply uniform treatment in the evaluation of proposals from zone participants. Uniform treatment does not require acceptance of all proposals by zone participants, but the bases for a grantee's decision on a particular proposal must be consistent with the uniform treatment requirement.\n",
+                    "I": [
+                      "Evaluation of proposals."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Given the requirement for uniform treatment under like conditions, for any instance of different treatment of different zone participants, a grantee (or person undertaking a zone-related function(s) on behalf of a grantee, where applicable) must be able to provide upon request by the Executive Secretary a documented justification for any difference in treatment.\n",
+                    "I": [
+                      "Justification for differing treatment."
+                    ]
+                  },
+                  {
+                    "_": "(d)  To avoid non-uniform treatment of zone participants, persons (as defined in § 400.2(l)) within key categories set out in paragraph (d)(2) of this section shall not undertake any of the key functions set out in paragraph (d)(1) of this section (except in specific circumstances where the Board has authorized a waiver pursuant to paragraph (f) of this section).\n",
+                    "I": [
+                      "Avoidance of non-uniform treatment."
+                    ]
+                  },
+                  "(1) Key functions are:\n",
+                  "(i) Taking action on behalf of a grantee, or making recommendations to a grantee, regarding the disposition of proposals or requests by zone participants pertaining to FTZ authority or activity (including activation by CBP);\n",
+                  "(ii) Approving, or being a party to, a zone participant's agreement with the grantee (or person acting on behalf of the grantee) pertaining to FTZ authority or activity (including activation by CBP); or\n",
+                  "(iii) Overseeing zone participants' operations on behalf of a grantee.\n",
+                  "(2) Key categories of persons are:\n",
+                  "(i) A person that currently engages in, or which has during the preceding twelve months engaged in, offering/providing a zone-related product/service to or representing a zone participant in the grantee's zone;\n",
+                  "(ii) Any person that stands to gain from a person's offer/provision of a zone-related product/service to or representation of a zone participant in the zone; or\n",
+                  "(iii) Any person related, as defined in paragraph (e) of this section, to the person identified in paragraphs (d)(2)(i) and (ii) of this section.\n",
+                  {
+                    "_": "(e)  For purposes of this section, persons that are related include:\n",
+                    "I": [
+                      "Definition of related persons."
+                    ]
+                  },
+                  "(1) Members of a family or members of a household. The term members of a family means spouses, parents, grandparents, children, grandchildren, siblings (including half-siblings and step-siblings), aunts, uncles, nieces, nephews, and first cousins, as well as the parents, children, and siblings of a spouse, and the spouse of a sibling, child or parent;\n",
+                  "(2) Organizations that are wholly or majority-owned by members of the same family or members of the same household;\n",
+                  "(3) An officer or director of an organization and that organization;\n",
+                  "(4) Partners;\n",
+                  "(5) Employers and their employees;\n",
+                  "(6) An organization and any person directly or indirectly owning, controlling, or holding with power to vote, 20 percent or more of the outstanding voting stock or shares of that organization;\n",
+                  "(7) Any person that controls any other person and that other person (the term control means the power, direct or indirect, whether or not exercised, through any means, to determine, direct, or decide important matters affecting an entity); or\n",
+                  "(8) Any two or more persons who directly control, are controlled by, or are under common control with, any person (see definition of control in paragraph (e)(7) of this section).\n",
+                  {
+                    "_": "(f)  The grantee or other person subject to paragraph (d) of this section may submit an application requesting that the Board issue a waiver exempting from the prohibition of that paragraph a person's undertaking a specific key function(s) listed in paragraph (d)(1) of this section. Using the format developed by the Executive Secretary, an application for a waiver shall explain in detail how the person falls within a key category(ies) set out in paragraph (d)(2) of this section, and the specific key function(s) listed in paragraph (d)(1) of this section that would be undertaken by the person. After receipt of an application requesting a waiver, the Executive Secretary may solicit additional information or clarification, as necessary, including from the person submitting the application and from the grantee. Based on the information presented in the application, the Executive Secretary shall make a recommendation to the Board. A waiver shall be authorized only by an affirmative vote by the Board. If the Board votes not to authorize a waiver or to discontinue a waiver, the applicant shall be notified in writing and allowed 30 days to present evidence in response. In deciding whether to grant a waiver, the Board shall determine whether there is an unacceptable risk that the waiver would result in non-uniform treatment being afforded by the person undertaking a key function(s) listed in paragraph (d)(1) of this section. In its assessment, the Board shall consider the specific circumstances presented, including the nature and extent of the person's involvement in undertaking a key function(s) listed in paragraph (d)(1) of this section. In general, the more significant the requester's involvement or interest in the undertaking of a key function(s) listed in paragraph (d)(1) of this section or activity(ies) identified in paragraph (d)(2)(i) of this section, the greater the risk will be that non-uniform treatment will be afforded and, thus, the less likely it will be that a waiver will be granted. The Board may attach to individual waivers such conditions or limitations (including, for example, the length of time a waiver is to be effective) as it deems necessary.\n",
+                    "I": [
+                      "Waivers."
+                    ]
+                  },
+                  {
+                    "_": "(g)  A grantee or other party may request a determination by the Executive Secretary regarding the consistency of an actual or potential arrangement with the requirements of this section.\n",
+                    "I": [
+                      "Requests for determinations."
+                    ]
+                  },
+                  {
+                    "_": "(h)  The Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance, or the Executive Secretary, may require a zone grantee to identify any person undertaking a zone-related function(s) on behalf of the grantee.\n",
+                    "I": [
+                      "Identification of person undertaking function(s) on behalf of grantee."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ],
+                "EFFDNOT": [
+                  {
+                    "HED": [
+                      "Effective Date Note:"
+                    ],
+                    "PSPACE": [
+                      "At 77 FR 12139, Feb. 28, 2012, § 400.43 was added. Paragraph (f) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.44",
+                  "NODE": "15:2.1.2.2.1.5.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.44   Zone schedule."
+                ],
+                "P": [
+                  "(a) The zone grantee shall submit to the Executive Secretary (electronic copy or as specified by the Executive Secretary) a zone schedule which sets forth the elements required in this section. No element of a zone schedule (including any amendment to the zone schedule) may be considered to be in effect until such submission has occurred. If warranted, the Board may subsequently amend the requirements of this section by Board Order.\n",
+                  "(b) Each zone schedule shall include:\n",
+                  "(1) A title page, which shall include the name of the zone grantee and the date of the current schedule;\n",
+                  "(2) A table of contents;\n",
+                  "(3) Internal rules/regulations and policies for the zone;\n",
+                  "(4) All rates or charges assessed by or on behalf of the grantee;\n",
+                  "(5) Information identifying any operator which offers services to the public and which has requested that its information be included in the zone schedule; and\n",
+                  "(6) An appendix with definitions of any FTZ-related terms used in the zone schedule (as needed).\n",
+                  "(c) The Executive Secretary may review the zone schedule (or any amendment to the zone schedule) to determine whether it contains sufficient information for zone participants concerning the operation of the zone and the grantee's rates and charges as provided in paragraphs (b)(3) and (b)(4) of this section. If the Executive Secretary determines that the zone schedule (or amendment) does not satisfy these requirements, the Executive Secretary shall notify the zone grantee. The Executive Secretary may also conduct a review under 400.45(b).\n",
+                  "(d) Amendments to the zone schedule shall be prepared and submitted in the manner described in paragraph (a) of this section, and listed in the concluding section of the zone schedule, with dates. No rates/charges or other provisions required for the zone schedule may be applied by, or on behalf of, the grantee unless those specific rates/charges or provisions are included in the most recent zone schedule submitted to the Board and made available to the public in compliance with paragraph (e) of this section.\n",
+                  "(e) A complete copy of the zone schedule shall be freely available for public inspection at the offices of the zone grantee. The Board shall make copies of zone schedules available on its website.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.45",
+                  "NODE": "15:2.1.2.2.1.5.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.45   Complaints related to public utility and uniform treatment."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A zone participant may submit to the Executive Secretary a complaint regarding conditions or treatment that the complaining party believes are inconsistent with the public utility and uniform treatment requirements of the FTZ Act and these regulations. Complaints may be made on a confidential basis, if necessary. Grantees (and persons undertaking zone-related functions on behalf of grantees, where applicable) shall not enter into or enforce provisions of agreements or contracts with zone participants that would require zone participants to disclose to other parties, including the grantee (or person undertaking a zone-related function(s) on behalf of a grantee, where applicable), any confidential communication with the Board under this section.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  A zone participant showing good cause may object to any rate or charge related to the zone on the basis that it is not fair and reasonable by submitting to the Executive Secretary a complaint in writing with supporting information. If necessary, such a complaint may be made on a confidential basis pursuant to paragraph (a) of this section. The Executive Secretary shall review the complaint and issue a report and decision, which shall be final unless appealed to the Board within 30 days. The Board or the Executive Secretary may otherwise initiate a review for cause. The primary factor considered in reviewing fairness and reasonableness is the cost of the specific services rendered. Where those costs incorporate charges to the grantee by one or more parties undertaking functions on behalf of the grantee, the Board may consider the costs incurred by those parties or evidence regarding market rates for the undertaking of those functions. The Board may rely on best estimates, as necessary. The Board will also give consideration to any extra costs incurred relative to non-zone operations, including return on investment and reasonable out-of-pocket expenses.\n",
+                    "I": [
+                      "Objections to rates and charges."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.46",
+                  "NODE": "15:2.1.2.2.1.5.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.46   Grantee liability."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A grant of authority,  shall not be construed to make the zone grantee liable for violations by zone participants. The role of the zone grantee under the FTZ Act and the Board's regulations is to provide general management of the zone to ensure that the reasonable needs of the business community are served. It would not be in the public interest to discourage public entities from zone sponsorship because of concern about liability without fault.\n",
+                    "I": [
+                      "Exemption from liability.",
+                      "per se,"
+                    ]
+                  },
+                  {
+                    "_": "(b)  A grantee could create liability for itself that otherwise would not exist if the grantee undertakes detailed operational oversight of or direction to zone participants. Examples of detailed operational oversight or direction include review of an operator's inventory-control or record-keeping systems, specifying requirements for such a system to be used by an operator, and review of CBP documentation related to an operator's zone receipts and shipments.\n\n\n",
+                    "I": [
+                      "Exception to exemption from liability."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.47",
+                  "NODE": "15:2.1.2.2.1.5.1.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.47   Retail trade."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Retail trade is prohibited in activated areas of zones, except that 1) sales or other commercial activity involving domestic, duty-paid, and duty-free goods may be conducted within an activated area of a zone under a permit issued by the zone grantee and approved by the Board, and 2) no permits shall be necessary for sales involving domestic, duty-paid or duty-free food and non-alcoholic beverage products sold within the zone or subzone for consumption on premises by individuals working therein. The Executive Secretary shall determine whether an activity is retail trade, subject to review by the Board when the zone grantee requests such a review with a good cause. Determinations on whether an activity constitutes retail trade shall be based on precedent established through prior rulings by CBP, as appropriate. Such prior rulings shall remain effective unless a determination is issued to modify their effect (after a notice-and-comment process, as appropriate). Determinations made by the Executive Secretary pursuant to this section shall be made available to the public via the Board's Web site.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Requests for Board approval under this section shall be submitted in letter form, with supporting documentation, to the Executive Secretary, who is authorized to act for the Board in these cases, after consultation with CBP as necessary.\n",
+                    "I": [
+                      "Procedure."
+                    ]
+                  },
+                  {
+                    "_": "(c)  In evaluating requests under this section, the Executive Secretary and CBP shall consider factors that may include:\n",
+                    "I": [
+                      "Criteria."
+                    ]
+                  },
+                  "(1) Whether any public benefits would result from approval; and\n",
+                  "(2) The economic effect such activity would have on the retail trade outside the zone in the port of entry area.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.48",
+                  "NODE": "15:2.1.2.2.1.5.1.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.48   Zone-restricted merchandise."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Merchandise in zone-restricted status (19 CFR 146.44) may be entered into the customs territory of the United States only when the Board determines that the entry would be in the public interest. Such entries are subject to the customs laws and the payment of applicable duties and excise taxes (19 U.S.C. 81c(a), 4th proviso).\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  In making the determination described in paragraph (a) of this section, the Board shall consider:\n",
+                    "I": [
+                      "Criteria."
+                    ]
+                  },
+                  "(1) The intent of the parties;\n",
+                  "(2) Why the merchandise cannot be exported;\n",
+                  "(3) The public benefit involved in allowing entry of the merchandise; and\n",
+                  "(4) The recommendation of CBP.\n",
+                  {
+                    "_": "(c)  (1) A request for authority to enter “zone-restricted” merchandise into U.S. customs territory shall be made to the Executive Secretary in letter form by the zone grantee or by the operator responsible for the merchandise (with copy to the grantee), with supporting information and documentation.\n",
+                    "I": [
+                      "Procedure."
+                    ]
+                  },
+                  "(2) The Executive Secretary shall investigate the request and prepare a report for the Board.\n",
+                  "(3) The Executive Secretary may act for the Board under this section with respect to requests that involve merchandise valued at 500,000 dollars or less and that are accompanied by a letter of concurrence from CBP.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.49",
+                  "NODE": "15:2.1.2.2.1.5.1.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.49   Monitoring and reviews of zone operations and activity."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Ongoing zone operation(s) and activity may be reviewed by the Board or the Executive Secretary at any time to determine whether they are in the public interest and in compliance and conformity with the Act and regulations, as well as authority approved by the Board. Reviews involving production activity may also be conducted to determine whether there are changed circumstances that raise questions as to whether the activity is detrimental to the public interest, taking into account the factors enumerated in § 400.27. The Board may prescribe special monitoring requirements in its decisions when appropriate.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Reviews may be initiated by the Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance, or the Executive Secretary; or, they may be undertaken in response to requests from parties directly affected by the activity in question showing good cause based on the provision of information that is probative and substantial in addressing the matter in issue. After initiation of a review, any affected party shall provide in a timely manner any information requested as part of the conduct of the review. If a party fails to timely provide information requested as part of such a review, a presumption unfavorable to that party may be made.\n",
+                    "I": [
+                      "Conduct of reviews."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Upon review, if a finding is made that zone activity is no longer in the public interest (taking into account the factors enumerated in § 400.27 where production activity is involved), the Board or the Commerce Department's Assistant Secretary for Enforcement and Compliance may prohibit or restrict the activity in question. Such prohibitions or restrictions may be put in place after a preliminary review (e.g., prior to potential steps such as a public comment period) if circumstances warrant such action until further review can be completed. The procedures of § 400.34(a)(5)(iv)(A) shall be followed to notify the grantee of the affected zone and allow for a response prior to the final imposition of a prohibition or restriction. The appropriateness of a delayed effective date shall be considered.\n\n\n",
+                    "I": [
+                      "Prohibition or restriction."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "15:2.1.2.2.1.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Records, Reports, Notice, Hearings and Information"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.51",
+                  "NODE": "15:2.1.2.2.1.6.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.51   Records and reports."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Zone records and forms shall be prepared and maintained in accordance with the requirements of CBP and the Board, consistent with documents issued by the Board specific to the zone in question, and the zone grantee shall retain copies of applications/requests it submits to the Board in electronic or paper format.\n",
+                    "I": [
+                      "Records and forms."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Zone grantees or operators, and CBP, shall keep current layout drawings of approved sites as described in § 400.21(d)(5), showing activated portions, and a file showing required activation approvals. The zone grantee shall furnish necessary maps to CBP.\n",
+                    "I": [
+                      "Maps and drawings."
+                    ]
+                  },
+                  {
+                    "_": "(c)  (1) Each zone grantee shall submit a complete and accurate annual report to the Board within 90 days after the end of the reporting period. Each zone operator shall submit a complete and accurate annual report to the zone grantee in a timeframe that will enable the grantee's timely submission of a complete and accurate annual report to the Board. A zone grantee may request an extension of the deadline for its report, as warranted. The Executive Secretary may authorize such extensions, with decisions on such authorizations taking into account both the circumstances presented and the importance of the Board submitting its annual report to Congress in a timely manner. Annual reports must be submitted in accordance with any instructions, guidelines, forms and related documents specifying place, manner and format(s) prescribed by the Executive Secretary. In the event that a grantee has not received all necessary annual report information from an operator in a timely manner, the grantee may submit its annual report on time and note the absence of the missing information.\n",
+                    "I": [
+                      "Annual reports."
+                    ]
+                  },
+                  "(2) The Board shall submit an annual report to Congress.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.52",
+                  "NODE": "15:2.1.2.2.1.6.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.52   Notices and hearings."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Executive Secretary shall publish notice in the  inviting public comment on applications and notifications for Board action (see, §§ 400.32 and 400.37(b)), and with regard to other reviews or matters considered under this part when public comment is necessary. An applicant under §§ 400.21, 400.24(b) and 400.25 shall give appropriate notice of its proposal in a local, general-circulation newspaper at least 15 days prior to the close of the public comment period for the proposal in question. The Board, the Secretary of Commerce, the Commerce Department's Assistant Secretary for Enforcement and Compliance, or the Executive Secretary, as appropriate, may schedule and/or hold hearings during any proceedings or reviews conducted under this part whenever necessary or appropriate.\n",
+                    "I": [
+                      "In general."
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(b)  (1) A party who may be materially affected by the zone activity in question and who shows good cause may request a hearing during a proceeding or review.\n",
+                    "I": [
+                      "Requests for hearings."
+                    ]
+                  },
+                  {
+                    "_": "(2) The request must be made within 30 days of the beginning of the initial period for public comment ( § 400.32) and must be accompanied by information establishing the need for the hearing and the basis for the requesting party's interest in the matter.\n",
+                    "I": [
+                      "see"
+                    ]
+                  },
+                  "(3) A determination as to the need for the hearing shall be made by the Commerce Department's Assistant Secretary for Enforcement and Compliance within 15 days after the receipt of such a request.\n",
+                  {
+                    "_": "(c)  The Board shall publish notice in the  of the date, time and location of a public hearing. All participants shall have the opportunity to make a presentation. Applicants and their witnesses shall ordinarily appear first. The presiding officer may adopt time limits for individual presentations.\n",
+                    "I": [
+                      "Procedure for public hearings."
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.53",
+                  "NODE": "15:2.1.2.2.1.6.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.53   Official records; public access."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Executive Secretary shall maintain at the location stated in § 400.54(e) an official record of each proceeding within the Board's jurisdiction. The Executive Secretary shall include in the official record all timely evidence, factual information, and written argument, and other material developed by, presented to, or obtained by the Board in connection with the proceeding. While there is no requirement that a  record shall be kept of public hearings, the proceedings of such hearings shall ordinarily be recorded and transcribed when significant opposition to a proposal is involved.\n",
+                    "I": [
+                      "Content.",
+                      "verbatim"
+                    ]
+                  },
+                  {
+                    "_": "(b)  The official record opens on the date the Executive Secretary dockets an application or receives a request or notification that satisfies the applicable requirements of this part and closes on the date of the final determination in the proceeding or review, as applicable.\n",
+                    "I": [
+                      "Opening and closing of official record."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Unless otherwise ordered in a particular case by the Executive Secretary, the official record shall not be removed from the Department of Commerce. A certified copy of the record shall be made available to any court before which any aspect of a proceeding is under review, with appropriate safeguards to prevent disclosure of business proprietary or privileged information.\n\n\n",
+                    "I": [
+                      "Protection of the official record."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.54",
+                  "NODE": "15:2.1.2.2.1.6.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.54   Information."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Executive Secretary, on behalf of the Board, may request submission of any information, including business proprietary information, and written argument necessary or appropriate to the proceeding.\n",
+                    "I": [
+                      "Request for information."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Except as provided in paragraph (c) of this section, the Board shall consider all information submitted in a proceeding to be public information, and if the person submitting the information does not agree to its public disclosure, the Board shall return the information and not consider it in the proceeding. Information to meet the basic requirements of §§ 400.21-400.25 is inherently public information to allow meaningful public evaluation pursuant to those sections and § 400.32.\n",
+                    "I": [
+                      "Public information."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Persons submitting business proprietary information and requesting that it be protected from public disclosure shall mark the cover page, as well as the top of each page on which such information appears, “business proprietary.” Any business proprietary document submitted for a proceeding other than pursuant to § 400.45 shall contain brackets at the beginning and end of each specific piece of business proprietary information contained in the submission. Any such business proprietary submission shall also be accompanied by a public version that contains all of the document's contents except the information bracketed in the business proprietary version, with the cover page and the top of each additional page marked “public version.” Any information for which business proprietary treatment is claimed must be ranged ( presented as a number or upper and lower limits that approximate the specific business proprietary figure) or summarized in the public version. If a submitting party maintains that certain information is not susceptible to summarization or ranging, the public version must provide a full explanation specific to each such piece of information regarding why summarization or ranging is not feasible.\n",
+                    "I": [
+                      "Business proprietary information.",
+                      "i.e.,"
+                    ]
+                  },
+                  {
+                    "_": "(d)  Disclosure of public information shall be governed by 15 CFR part 4.\n",
+                    "I": [
+                      "Disclosure of information."
+                    ]
+                  },
+                  {
+                    "_": "(e)  Public information in the official record shall be available at the Office of the Executive Secretary, Foreign-Trade Zones Board, U.S. Department of Commerce Building, 1401 Constitution Avenue NW., Washington, DC 20230 and may also be available electronically over the Internet via  (or a successor Internet address).\n\n\n",
+                    "I": [
+                      "Availability of information.",
+                      "http://www.trade.gov/ftz"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "G",
+              "NODE": "15:2.1.2.2.1.7",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart G—Penalties and Appeals to the Board"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 400.61",
+                  "NODE": "15:2.1.2.2.1.7.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.61   Revocation of authority."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  As provided in this section, the Board can revoke in whole or in part authority for a zone ( § 400.2(h)) whenever it determines that the zone grantee has violated, repeatedly and willfully, the provisions of the Act.\n",
+                    "I": [
+                      "In general.",
+                      "see"
+                    ]
+                  },
+                  {
+                    "_": "(b)  When the Board has reason to believe that the conditions for revocation, as described in paragraph (a) of this section, are met, the Board shall:\n",
+                    "I": [
+                      "Procedure."
+                    ]
+                  },
+                  "(1) Notify the grantee of the zone in question in writing stating the nature of the alleged violations, provide the grantee an opportunity to request a hearing on the proposed revocation, and notify any known operators in the zone;\n",
+                  "(2) Conduct a hearing, if requested or otherwise if appropriate;\n",
+                  "(3) Make a determination on the record of the proceeding not earlier than four months after providing notice to the zone grantee under paragraph (b)(1) of this section; and\n",
+                  {
+                    "_": "(4) If the Board's determination is affirmative, publish a notice of revocation of authority, in whole or in part, in the \n",
+                    "E": [
+                      {
+                        "_": "Federal Register.",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(c)  As provided in section 18 of the Act (19 U.S.C. 81r(c)), the grantee of the zone in question may appeal an order of the Board revoking authority.\n",
+                    "I": [
+                      "Appeals."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[77 FR 12139, Feb. 28, 2012, as amended at 89 FR 8530, Feb. 8, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.62",
+                  "NODE": "15:2.1.2.2.1.7.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.62   Fines, penalties and instructions to suspend activated status."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Fines are authorized solely for specific violations of the FTZ Act or the Board's regulations as detailed in §§ 400.62(b) and (c). Each specific violation is subject to a fine of not more than 1,000 dollars (as adjusted for inflation pursuant to § 400.62(j)), with each day during which a violation continues constituting a separate offense subject to imposition of such a fine (FTZ Act, section 19; 19 U.S.C. 81s). This section also establishes the party subject to the fine which, depending on the type of violation, would be the zone operator, grantee, or a person undertaking one or more zone-related functions on behalf of the grantee, where applicable. In certain circumstances, the Board or the Assistant Secretary for Enforcement and Compliance could instruct CBP to suspend the activated status of all or part of a zone or subzone. Violations of the FTZ Act or the Board's regulations (including the sections pertaining to uniform treatment and submission of annual reports), failure to pay fines, or failure to comply with an order prohibiting or restricting activity may also result in the Executive Secretary's suspending the processing of any requests to the Board and staff relating to the zone or subzone in question. In circumstances where non-compliance pertains to only a subset of the operations in a zone, suspensions of activated status and suspensions of the processing of requests shall be targeted to the specific non-compliant operation(s).\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  A grantee's failure to submit a complete and accurate annual report pursuant to section 16 of the FTZ Act (19 U.S.C. 81p(b)) and § 400.51(c)(1) of these regulations constitutes a violation subject to a fine, with each day of continued failure to submit the report constituting a separate offense subject to a fine of not more than 1,000 dollars (as adjusted for inflation pursuant to § 400.62(j)). Further, each day during which a zone operator fails to submit to the zone's grantee the information required for the grantee's timely submission of a complete and accurate annual report to the Board shall constitute a separate offense subject to a fine of not more than 1,000 dollars (as adjusted for inflation pursuant to § 400.62(j)). Consistent with § 400.46, if the grantee submits a timely report to the Board identifying any operator that has not provided complete and timely information in response to a timely request(s) by the grantee, the grantee shall not be subject to a fine-assessment action stemming from the operator's failure to timely provide its report.\n",
+                    "I": [
+                      "Violations involving requirement to submit annual report."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Failure by a grantee or a person undertaking one or more zone-related functions on behalf of the grantee to comply with the uniform treatment requirement of section 14 of the FTZ Act (19 U.S.C. 81n) or the provisions of § 400.43 of these regulations constitutes a violation, with each day of continued violation constituting a separate offense subject to a fine of not more than 1,000 dollars (as adjusted for inflation pursuant to § 400.62(j)).\n",
+                    "I": [
+                      "Violations involving uniform treatment."
+                    ]
+                  },
+                  {
+                    "_": "(d)  When the Board or the Executive Secretary has reason to believe that a violation pursuant to §§ 400.62(b) and (c) has occurred and that the violation warrants the imposition of a fine (such as a situation where a party has previously been notified of action required for compliance and has failed to take such action within a reasonable period of time), the following steps shall be taken:\n",
+                    "I": [
+                      "Procedures for determination of violations and imposition of fines."
+                    ]
+                  },
+                  "(1) The Executive Secretary shall notify the party or parties responsible for the violation and the zone grantee in writing stating the nature of the alleged violation, and provide the party(ies) a specified period (no less than 30 days, with consideration given to any requests for an extension, which shall not be unreasonably withheld) to respond in writing;\n",
+                  "(2) The Executive Secretary shall conduct a hearing, if requested or otherwise if appropriate. Parties may be represented by counsel at the hearing, and any evidence and testimony of witnesses in the proceeding shall be presented. A transcript of the hearing shall be produced and a copy shall be made available to the parties;\n",
+                  "(3) The Executive Secretary shall make a recommendation on the record of the proceeding not earlier than the later of 15 days after the deadline for the party(ies)'s response under paragraph (d)(1) of this section or 15 days after the date of a hearing held under paragraph (d)(2) of this section. If the recommendation is for an affirmative determination of a violation, the Executive Secretary shall also recommend the amount of the fine to be imposed; and\n",
+                  "(4) The Board shall make a determination regarding the finding of a violation and imposition of a fine based on the Executive Secretary's recommendation under paragraph (d)(3) of this section. For related actions where the total sum of recommended fines is no more than 10,000 dollars (50,000 dollars in the case of violations pursuant to paragraph (b) of this section), the Board delegates to the Executive Secretary the authority to make a determination.\n",
+                  {
+                    "_": "(e) —(1)  The Commerce Department's Assistant Secretary for Enforcement and Compliance may approve the mitigation (reduction or elimination) of an imposed fine based on specific evidence presented by the affected party. Authority is delegated to the Executive Secretary to mitigate a fine where the total sum of fines imposed on a party for related actions does not exceed 10,000 dollars (50,000 dollars in the case of violations pursuant to paragraph (b) of this section). Mitigating evidence and argument pertaining to mitigating factors must be submitted within 30 days of the determination described in paragraph (d)(4) of this section, subject to requests for extension for cause, the granting of which shall not be unreasonably withheld.\n",
+                    "I": [
+                      "Mitigation",
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Factors to be taken into account in evaluating potential mitigation include:\n",
+                    "I": [
+                      "Mitigating factors."
+                    ]
+                  },
+                  "(i) A good record of a violator over the preceding five years with regard to the type of violation(s) at issue;\n",
+                  "(ii) The violation was due to the action of another party despite violator's adherence to the requirements of the FTZ Act and the Board's regulations;\n",
+                  "(iii) Immediate remedial action by the violator to avoid future violations;\n",
+                  "(iv) A violator's cooperation with the Board (beyond the degree of cooperation expected from a person under investigation for a violation) in ascertaining the facts establishing the violation;\n",
+                  "(v) A violation's resulting from a clerical error or similar unintentional negligence; and\n",
+                  "(vi) Such other factors as the Board, or the Executive Secretary, deems appropriate to consider in the specific circumstances presented.\n",
+                  {
+                    "_": "(f)  After evaluating submitted mitigating evidence and argument, where applicable, the Commerce Department's Assistant Secretary for Enforcement and Compliance may assess an imposed fine (in whole or in part). Authority is delegated to the Executive Secretary to assess a fine where the total sum of the imposed fines for related actions does not exceed 10,000 dollars (50,000 dollars in the case of violations pursuant to paragraph (b) of this section).\n",
+                    "I": [
+                      "Assessment of fines."
+                    ]
+                  },
+                  {
+                    "_": "(g)  Full payment of an assessed fine must be made within 30 days of the date of the assessment or within such longer period of time as may be specified. Payment shall be made in the manner specified by the Commerce Department's Assistant Secretary for Enforcement and Compliance or the Executive Secretary.\n",
+                    "I": [
+                      "Time for payment."
+                    ]
+                  },
+                  {
+                    "_": "(h)  If a fine assessed pursuant to §§ 400.62(d) through (g) has not been paid within 90 days of the specified deadline for payment, if there is a repeated and willful failure to comply with a requirement of the FTZ Act or the Board's regulations, or if there is a repeated and willful failure to comply with a prohibition or restriction on activity imposed by an order of the Board or an order of the Commerce Department's Assistant Secretary for Enforcement and Compliance pursuant to § 400.49(c), the Board or the Commerce Department's Assistant Secretary for Enforcement and Compliance may instruct CBP to suspend the activated status of the zone operation(s) in question (or, if appropriate, the suspension may be limited to a particular activity of a zone operator, such as suspension of the privilege to admit merchandise), and the suspension shall remain in place until the failure to pay a fine, failure to comply with a requirement of the FTZ Act or the Board's regulations, or failure to comply with an order's prohibition or restriction on activity has been remedied. In determining whether to instruct CBP to suspend the activated status of a zone operation in the circumstances noted, the following steps shall be taken:\n",
+                    "I": [
+                      "Procedures for instruction to suspend activated status."
+                    ]
+                  },
+                  {
+                    "_": "(1)  The Executive Secretary shall notify the responsible party(ies) in writing stating the nature of the failure to timely pay a fine, to comply with a requirement of the FTZ Act or the Board's regulations or to comply with a prohibition or restriction on activity imposed by an order of the Board or an order of the Commerce Department's Assistant Secretary for Enforcement and Compliance. If the grantee is not one of the responsible parties notified, the Executive Secretary shall also provide a copy of the notification to the grantee. The responsible party(ies) shall be provided a specified period (of not less than 15 days) to respond in writing to the notification;\n",
+                    "I": [
+                      "Notification of party(ies)."
+                    ]
+                  },
+                  {
+                    "_": "(2)  If the notified responsible party(ies) or the zone's grantee requests a hearing (or if a hearing is determined to be warranted by the Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance or the Executive Secretary), it shall be held before the Executive Secretary (or a member of the Board staff designated by the Executive Secretary) within 30 days following the request for a hearing (or the determination by the Board, the Commerce Department's Assistant Secretary for Enforcement and Compliance or the Executive Secretary). Parties may be represented by counsel at the hearing, and any evidence and testimony of witnesses in the proceeding shall be presented. A transcript of the hearing shall be produced and a copy shall be made available to the parties;\n",
+                    "I": [
+                      "Hearing."
+                    ]
+                  },
+                  "(3) The Executive Secretary shall make a recommendation on the record of the proceeding not earlier than 15 days after the later of:\n",
+                  "(i) The deadline for the party(ies)'s response under paragraph (h)(1) of this section; or\n",
+                  "(ii) The date of a hearing held under paragraph (h)(2) of this section; and\n",
+                  "(4) The Board or the Commerce Department's Assistant Secretary for Enforcement and Compliance shall determine whether to instruct CBP to suspend the activated status of the zone operation(s) in question. If the determination is affirmative, the Executive Secretary shall convey the instruction to CBP, with due consideration to allow for the transfer of any affected merchandise from the applicable zone site(s).\n",
+                  {
+                    "_": "(i)  Upon any failure to pay an assessed fine, the Board may request the U.S. Department of Justice to recover the amount assessed in any appropriate district court of the United States or may commence any other lawful action.\n",
+                    "I": [
+                      "Enforcement of assessment."
+                    ]
+                  },
+                  {
+                    "_": "(j)  The maximum dollar value of a fine for a violation of the FTZ Act or the Board's regulations is subject to adjustment for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134).\n\n\n",
+                    "I": [
+                      "Adjustment for inflation."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 400.63",
+                  "NODE": "15:2.1.2.2.1.7.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 400.63   Appeals to the Board of decisions of the Assistant Secretary for Enforcement and Compliance and the Executive Secretary."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Decisions of the Commerce Department's Assistant Secretary for Enforcement and Compliance and the Executive Secretary made pursuant to this part may be appealed to the Board by adversely affected parties showing good cause.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Parties appealing a decision under paragraph (a) of this section shall submit a request for review to the Board in writing, stating the basis for the request, and attaching a copy of the decision in question, as well as supporting information and documentation. After a review, the Board shall notify the appealing party of its decision in writing.\n\n\n",
+                    "I": [
+                      "Procedures."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "401-499",
+          "NODE": "15:2.1.2.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 401-499 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

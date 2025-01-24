@@ -1,0 +1,335 @@
+{
+  "number": "XXVII",
+  "title": " CHAPTER XXVII—OFFICE OF INFORMATION RESOURCES MANAGEMENT, DEPARTMENT OF AGRICULTURE",
+  "content": {
+    "$": {
+      "N": "XXVII",
+      "NODE": "7:15.1.6",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXVII—OFFICE OF INFORMATION RESOURCES MANAGEMENT, DEPARTMENT OF AGRICULTURE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2700",
+          "NODE": "7:15.1.6.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2700—ORGANIZATION AND FUNCTIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 552; 7 CFR 2.81.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "47 FR 39128, Sept. 7, 1982, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2700.1",
+              "NODE": "7:15.1.6.2.1.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2700.1   General statement."
+            ],
+            "P": [
+              "This part is issued in accordance with 5 U.S.C. 552(a) to provide guidance for the general public as to the organization and functions of the Office of Information Resources Management.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2700.2",
+              "NODE": "7:15.1.6.2.1.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2700.2   Organization."
+            ],
+            "P": [
+              "The Office of Information Resources Management (OIRM) was established on January 12, 1982. Delegations of authority to the Director, OIRM appear at 7 CFR 2.81. The organization is comprised of five headquarters divisions, an administrative staff and three computer centers to serve the Department. The organization is headed by the Director or, in the Director's absence, by the Deputy Director or, in the absence of both, by the Director's desginee.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2700.3",
+              "NODE": "7:15.1.6.2.1.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2700.3   Functions."
+            ],
+            "P": [
+              {
+                "_": "(a)  Provides executive direction for OIRM. Develops and recommends Departmental information resources management principles, policies, and objectives; develops and disseminates Departmental information resources management standards, guidelines, rules, and regulations necessary to implement approved principles, policies, and programs; designs, develops, implements, and revises systems, processes, work methods, and techniques to improve the management of information resources and the operational effectiveness of the Department; provides telecommunications and automated data processing services to the Department's agencies and staff offices.\n",
+                "I": [
+                  "Director."
+                ]
+              },
+              {
+                "_": "(b)  Assists the Director and, in the absence of the Director, serves as the Acting Director.\n",
+                "I": [
+                  "Deputy Director."
+                ]
+              },
+              {
+                "_": "(c)  Provides support for agency management regarding budget, accounting, personnel, and other administrative matters.\n",
+                "I": [
+                  "Administrative Management Staff."
+                ]
+              },
+              {
+                "_": "(d)  Defines, develops, guides, and administers the Department's long-range planning process for information resources.\n",
+                "I": [
+                  "Planning Division."
+                ]
+              },
+              {
+                "_": "(e)  Develops policy, standards and guidelines for collection, protection, access, use and management of information.\n",
+                "I": [
+                  "Information Management Division."
+                ]
+              },
+              {
+                "_": "(f)  Reviews and evaluates information resources programs and activities of Department agencies and staff offices for conformance with plans, policies, and standards.\n",
+                "I": [
+                  "Review and Evaluation Division."
+                ]
+              },
+              {
+                "_": "(g)  Advises and consults with and assists Department agencies and staff offices on activities related to the development and implementation of automated information systems.\n",
+                "I": [
+                  "Agency Technical Services Division."
+                ]
+              },
+              {
+                "_": "(h)  Coordinates the development and implementation of programs for ADP and telecommunications resource planning within Departmental computer centers and the National Finance Center, and for the acquisition and use of Department-wide telecommunications facilities and services.\n",
+                "I": [
+                  "Operations and Telecommunications Division."
+                ]
+              },
+              {
+                "_": "(i)  The following centers provide ADP facilities and services to agencies and staff offices of the Department.\n",
+                "I": [
+                  "Departmental Computer Centers."
+                ]
+              },
+              "(1) Washington Computer Center, 14th and Independence Ave., SW., Rm. S-107-South, Washington, DC 20250.\n",
+              "(2) Fort Collins Computer Center, 3825 E. Mulberry Street (P.O. Box 1206), Fort Collins, CO 80524.\n",
+              "(3) Kansas City Computer Center, 8930 Ward Parkway (P.O. Box 205), Kansas City, MO 64141. \n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2710",
+          "NODE": "7:15.1.6.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2710—AVAILABILITY OF INFORMATION TO THE PUBLIC\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 552; 7 CFR 1.1-1.16.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "47 FR 39129, Sept. 7, 1982, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2710.1",
+              "NODE": "7:15.1.6.2.2.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2710.1   General statement."
+            ],
+            "P": [
+              "This part is issued in accordance with 7 CFR 1.4 of the U.S. Department of Agriculture regulations governing the availability of records (7 CFR 1.1-1.16 and Appendix A) under the Freedom of Information Act (5 U.S.C. 552). The Department's regulations, as supplemented by the regulations in this part, provide guidance for any person wishing to request records from the Office of Information Resources Management (OIRM).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2710.2",
+              "NODE": "7:15.1.6.2.2.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2710.2   Public inspection and copying."
+            ],
+            "P": [
+              {
+                "_": "(a)  5 U.S.C. 552(a)(2) required that each agency make certain kinds of records available for public inspection and copying.\n",
+                "I": [
+                  "Background."
+                ]
+              },
+              {
+                "_": "(b)  Persons wishing to gain access to OIRM records should contact the Information Access & Disclosure Officer by writing to the address shown in 2710.4(b)(2).\n\n\n",
+                "I": [
+                  "Procedure."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2710.3",
+              "NODE": "7:15.1.6.2.2.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2710.3   Indexes."
+            ],
+            "P": [
+              {
+                "_": "(a)  5 U.S.C. 552(a)(2) also required that each agency maintain and make available for public inspection and copying current indexes providing identifying information for the public with regard to any records which are made available for public inspection and copying.\n",
+                "I": [
+                  "Background."
+                ]
+              },
+              {
+                "_": "(b)  Persons wishing to get an index may contact the division or center that maintains the records. Publication of these indexes as a separate document is unnecessary and impractical.\n\n\n",
+                "I": [
+                  "Procedure."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2710.4",
+              "NODE": "7:15.1.6.2.2.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2710.4   Initial request for records."
+            ],
+            "P": [
+              {
+                "_": "(a)  The Information Access and Disclosure Officer is authorized to:\n",
+                "I": [
+                  "Background."
+                ]
+              },
+              "(1) Grant or deny requests for OIRM records.\n",
+              "(2) Make discretionary releases of OIRM records when it is determined that the public interests in disclosure outweigh the public and/or private ones in withholding.\n",
+              "(3) Reduce or waive fees to be charged where determined to be appropriate.\n",
+              {
+                "_": "(b)  Persons wishing to request records from the Office of Information Resources Management may do so as follows:\n",
+                "I": [
+                  "Procedure."
+                ]
+              },
+              {
+                "_": "(1)  Submit each initial request for OIRM records as prescribed in 7 CFR 1.3(a).\n",
+                "I": [
+                  "How."
+                ]
+              },
+              {
+                "_": "(2)  Submit each initial request to the Information Access and Disclosure Officer, Office of Information Resources Management, USDA, 14th and Independence Ave., SW., Room 407-W, Washington, DC 20250.\n\n\n",
+                "I": [
+                  "Where."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2710.5",
+              "NODE": "7:15.1.6.2.2.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2710.5   Appeals."
+            ],
+            "P": [
+              {
+                "_": " Any person whose initial request is denied in whole or in part may appeal that denial, in accordance with 7 CFR 1.3(e) and 1.7, to the Director, Office of Information Resources Management, by sending the appeal to the Information Access and Disclosure Officer, Office of Information Resources Management, USDA, 14th and Independence Ave., SW., Room 407-W, Washington, DC 20250. The Director, Office of Information Resources Management, will make the determination on the appeal.\n\n\n",
+                "I": [
+                  "Procedure."
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV9": [
+          {
+            "$": {
+              "N": "Appendix A",
+              "NODE": "7:15.1.6.2.2.0.1.6.2",
+              "TYPE": "APPENDIX"
+            },
+            "HEAD": [
+              "Appendix A to Part 2710—List of Addresses\n"
+            ],
+            "HD2": [
+              "Section 1. General\n",
+              "Section 2. List of Addresses\n"
+            ],
+            "P": [
+              "This list provides the titles and mailing addresses of officials who have custody of OIRM records. This list also identifies the normal working hours, Monday through Friday, excluding holidays, during which public inspection and copying of certain kinds of records, and indexes to those records, is permitted.\n"
+            ],
+            "FP-1": [
+              "Director, Office of Information Resources Management, 14th and Independence Ave., SW., Rm. 113-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, Planning Division, OIRM, 14th and Independence Ave., SW., Rm. 446-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, Review and Evaluation Division, OIRM, 14th and Independence Ave., SW., Rm. 442-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, Agency Technical Services Division, OIRM, 14th and Independence Ave., SW., Rm. 416-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, Operations and Telecommunications Division, OIRM, 14th and Independence Ave., SW., Rm. 419-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, Information Management Division, OIRM, 14th and Independence Ave., SW., Rm. 404-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n",
+              "Chief, St. Louis Computer Center, OIRM, 1520 Market Street, Rm. 3441, St. Louis, MO 63101; Hours: 8:00 a.m.-4:40 p.m.\n",
+              "Director, Kansas City Computer Center, OIRM, 8930 Ward Parkway, (P.O. Box 205), Kansas City, MO 64141; Hours: 8:00 a.m.-4:45 p.m.\n",
+              "Director, Fort Collins Computer Center, OIRM, 3825 E. Mulberry Street, (P.O. Box 1206), Fort Collins, CO 80521; Hours: 8:00 a.m.-4:30 p.m. \n",
+              "Director, Washington Computer Center, OIRM, 14th and Independence Ave., SW., Rm. S-107-S, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m. \n",
+              "Information Access and Disclosure Officer, OIRM, 14th and Independence Ave., SW., Rm. 407-W, Washington, DC 20250; Hours: 8:30 a.m.-5:00 p.m.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2711-2799",
+          "NODE": "7:15.1.6.2.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2711-2799 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

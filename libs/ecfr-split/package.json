@@ -15,6 +15,9 @@
     }
   },
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "xml2js": "^0.6.2",
+    "@types/xml2js": "^0.4.14",
+    "@ecfr-opportunities/ecfr-xml": "*"
   }
 }

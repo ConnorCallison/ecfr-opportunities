@@ -1,0 +1,1103 @@
+{
+  "number": "XII",
+  "title": " CHAPTER XII—UNITED STATES INTERNATIONAL DEVELOPMENT COOPERATION AGENCY",
+  "content": {
+    "$": {
+      "N": "XII",
+      "NODE": "22:2.0.8",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XII—UNITED STATES INTERNATIONAL DEVELOPMENT COOPERATION AGENCY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1200",
+          "NODE": "22:2.0.8.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1200 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "1201",
+          "NODE": "22:2.0.8.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1201—PUBLIC INFORMATION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 621, 22 U.S.C. 2381, as amended; 5 U.S.C. 552.\n"
+            ]
+          }
+        ],
+        "CROSSREF": [
+          {
+            "HED": [
+              "Cross Reference:"
+            ],
+            "P": [
+              "The regulations establishing procedures under the Freedom of Information Act for the United States International Development Cooperation Agency are codified in 22 CFR 212.1 through 212.51, prescribed jointly by the United States International Development Cooperation Agency and the Agency for International Development."
+            ]
+          }
+        ],
+        "CITA": [
+          {
+            "_": "[45 FR 20790, Mar. 31, 1980] \n\n\n",
+            "$": {
+              "TYPE": "N"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1202",
+          "NODE": "22:2.0.8.2.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1202—REGULATIONS TO IMPLEMENT THE PRIVACY ACT OF 1974\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 621, 22 U.S.C. 2381, as amended; 5 U.S.C. 552a.\n"
+            ]
+          }
+        ],
+        "CROSSREF": [
+          {
+            "HED": [
+              "Cross Reference—\n"
+            ],
+            "P": [
+              "The regulations establishing procedures by which an individual may obtain notification of the existence of agency records pertaining to that individual, gain access to those records, request an amendment to those records, and appeal adverse decisions to requests for amendment or correction of agency records are codified as 22 CFR 215.1 through 215.14, prescribed jointly by the United States International Development Cooperation Agency and the Agency for International Development."
+            ]
+          }
+        ],
+        "CITA": [
+          {
+            "_": "[45 FR 20791, Mar. 31, 1980] \n\n\n",
+            "$": {
+              "TYPE": "N"
+            }
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1203",
+          "NODE": "22:2.0.8.2.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1203—EMPLOYEE RESPONSIBILITIES AND CONDUCT \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "E.O. 11222 of May 8, 1965, as amended; 5 CFR 735.104.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "43 FR 18976, May 2, 1978; 45 FR 18922, Mar. 24, 1980, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "22:2.0.8.2.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General Provisions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1203.735-101",
+                  "NODE": "22:2.0.8.2.4.1.9.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-101   Purpose."
+                ],
+                "P": [
+                  "The maintenance of the highest standards of honesty, integrity, impartiality, and conduct by Government employees and special Government employees is essential to assure the proper performance of the Government business and the maintenance of confidence by citizens in their Government. The avoidance of misconduct and conflicts of interest on the part of Government employees and special Government employees through informed judgment is indispensable to the maintenance of these standards. To accord with these concepts the regulations in this part prescribe standards of conduct and responsibilities for employees and special Government employees and require statements reporting employment and financial interests.\n"
+                ],
+                "NOTE": [
+                  {
+                    "HED": [
+                      "Note:"
+                    ],
+                    "P": [
+                      "These regulations are codified in State 3 FAM 620, AID Handbook 24, and ICA MOA V-A 550."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-102",
+                  "NODE": "22:2.0.8.2.4.1.9.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-102   Definitions."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  means the United States International Development Cooperation Agency (IDCA).\n",
+                    "I": [
+                      "Agency"
+                    ]
+                  },
+                  {
+                    "_": "(b)  means an officer or employee at home or abroad, of an agency named in paragraph (a) of this section, but does not include a special Government employee or a member of the Army, Navy, Air Force, Marine Corps, Coast Guard, National Oceanic and Atmospheric Administration, or Public Health Service.\n",
+                    "I": [
+                      "Employee"
+                    ]
+                  },
+                  {
+                    "_": "(c)  means Executive Order 11222 of May 8, 1965, as amended.\n",
+                    "I": [
+                      "Executive order"
+                    ]
+                  },
+                  {
+                    "_": "(d)  means an individual, a corporation, a company, an association, a firm, a partnership, a society, a joint stock company, or any other organization or institution.\n",
+                    "I": [
+                      "Person"
+                    ]
+                  },
+                  {
+                    "_": "(e)  means an officer or employee of an agency who is retained, designated, appointed, or employed to perform, with or without compensation, for not to exceed 130 days during any period of 365 consecutive days, temporary duties either on a full-time or intermittent basis.\n",
+                    "I": [
+                      "Special Government employee"
+                    ]
+                  },
+                  {
+                    "_": "(f)  means a spouse, minor child, or other member of an employee's immediate household. For the purpose of these regulations  means those blood relations who are residents of the employee's household.\n",
+                    "I": [
+                      "Member of an employee's family",
+                      "member of an employee's immediate or in-law household"
+                    ]
+                  },
+                  {
+                    "_": "(g)  means the agency's Counselor on Ethical Conduct and Conflicts of Interest.\n\n\n",
+                    "I": [
+                      "Counselor"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-103",
+                  "NODE": "22:2.0.8.2.4.1.9.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-103   Interpretation and advisory service."
+                ],
+                "P": [
+                  "(a) Counseling services on employee responsibilities and conduct are available in each agency. These services are to be coordinated by a Counselor appointed by the agency head. The Counselor for IDCA is the General Counsel. The Counselor serves as the agency's designee to the Civil Service Commission on matters covered by the regulations in this part and is responsible for coordination of the agency's counseling services under paragraph (b) of this section and for assuring that counseling and interpretations on questions of conflicts of interest and other matters covered by these sections are available to deputy counselors designated under paragraph (b) of this section. \n",
+                  "(b) Each agency head may designate deputy counselors for the agency's employees and special Government employees. Deputy Counselors designated under this section must be qualified and in a position to give authoritative advice and guidance to each employee and special Government employee who seeks advice and guidance on questions of conflicts of interest and on other matters covered by the regulations in this part. A Washington employee or special Government employee should address any inquiries concerning the regulations in this part to the Counselor. At missions abroad the chief of each agency's establishment designates an officer, preferably the legal officer where one is available, to provide counseling services under the guidance of the Counselor; a single officer may serve all agencies. An employee or special Government employee serving abroad should submit inquiries to the officer designated.\n",
+                  "(c) Each agency shall periodically notify its employees and special Government employees of the availability of counseling services and how and when these services are available. A new employee or special Government employee shall be notified at the time of entrance on duty.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-104",
+                  "NODE": "22:2.0.8.2.4.1.9.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-104   Applicability to detailed employees."
+                ],
+                "P": [
+                  "All the regulations of subparts A, B, and D of this part are applicable to an employee of another U.S. Government agency who may be serving on detail or assignment, formally or informally, on a reimbursable or nonreimbursable basis through a Participating Agency Service Agreement or otherwise, with an agency named in § 1203.735-102(a). However, disciplinary action shall be taken against such an employee only by the employing agency.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-105",
+                  "NODE": "22:2.0.8.2.4.1.9.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-105   Disciplinary action."
+                ],
+                "P": [
+                  "A violation of the regulations in this part by an employee or special Government employee may be cause for appropriate disciplinary action, including separation for cause, which may be in addition to any penalty prescribed by law. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "22:2.0.8.2.4.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Ethical and Other Conduct and Responsibilities of Employees"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1203.735-201",
+                  "NODE": "22:2.0.8.2.4.2.9.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-201   General."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  An employee shall avoid any action, whether or not specifically prohibited by the regulations in this part, which might result in, or create the appearance of:\n",
+                    "I": [
+                      "Proscribed actions."
+                    ]
+                  },
+                  "(1) Using public office for private gain;\n",
+                  "(2) Giving preferential treatment to any person;\n",
+                  "(3) Impeding Government efficiency or economy;\n",
+                  "(4) Losing independence or impartiality;\n",
+                  "(5) Making a Government decision outside official channels; or\n",
+                  "(6) Affecting adversely the confidence of the public in the integrity of the Government.\n",
+                  {
+                    "_": "(b)  A U.S. citizen employee shall take care that certain responsibilities placed on the employee are also observed by members of the employee's family. These are the restrictions in regard to: Acceptance of gifts (§§ 1203.735-202 and 1203.735-203); economic and financial activities abroad (§ 1203.735-206); teaching, lecturing, and writing (§ 1203.735-204(c)); participation in activities of private organizations (§ 1203.735-211(c)); and political activities abroad (§ 1203.735-211(g)). \n\n\n",
+                    "I": [
+                      "Applicability to members of families of employees."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-202",
+                  "NODE": "22:2.0.8.2.4.2.9.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-202   Gifts, entertainment, and favors."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Except as provided in paragraphs (b), (c), and (d) of this section, an employee shall not solicit or accept, directly or indirectly, any gift, gratuity, favor, entertainment, loan, or any other thing of monetary value, from a person who:\n",
+                    "I": [
+                      "Acceptance prohibited."
+                    ]
+                  },
+                  "(1) Has, or is seeking to obtain, contractual or other business or financial relations with the employee's agency;\n",
+                  "(2) Conducts operations or activities that are regulated by the employee's agency;\n",
+                  "(3) Has interests that may be substantially affected by the performance or nonperformance of the employee's official duty; or\n",
+                  "(4) Appears to be offering the gift with the hope or expectation of obtaining advantage or preferment in dealing with the U.S. Government for any purpose.\n",
+                  {
+                    "_": "(b)  The provisions of paragraph (a) of this section do not apply to:\n",
+                    "I": [
+                      "Acceptance permitted."
+                    ]
+                  },
+                  "(1) Gifts, gratuities, favors, entertainments, loans, or any other thing of monetary value received on account of close family or personal relationships when the circumstances make it clear that it is that relationship rather than the business of the persons concerned which is the motivating factor;\n",
+                  "(2) Acceptance of loans from banks or other financial institutions on customary terms to finance proper and usual activities of employees, such as home mortgage loans;\n",
+                  "(3) Acceptance of unsolicited advertising or promotional material, such as pens, pencils, note pads, calendars, and other items of nominal intrinsic value;\n",
+                  "(4) Acceptance of rates and discounts offered to employees as a class.\n",
+                  {
+                    "_": "(c)  For IDCA employees the provisions of paragraph (a) of this section do not apply to: Acceptance of food and refreshments of nominal value on infrequent occasions in the ordinary course of a luncheon or dinner meeting or other meeting or on an inspection tour where an employee may properly be in attendance.\n",
+                    "I": [
+                      "Acceptance permitted for IDCA employees."
+                    ]
+                  },
+                  {
+                    "_": "(d)  For AID employees the provisions of paragraph (a) of this section do not apply in the following situations:\n",
+                    "I": [
+                      "Acceptance permitted for AID employees."
+                    ]
+                  },
+                  "(1) Acceptance of food, refreshments, or entertainment of nominal value on infrequent occasions offered in the ordinary course of luncheons, dinners, or other meetings and gatherings hosted by foreign governments or agencies and officials thereof, embassies, and international organizations, where the primary purpose of the function is representational or social, rather than the transaction of business. Where the primary purpose of the function is the transaction of business, acceptance is not permitted, except if there is justification and reporting in accordance with paragraph (d)(4) of this section.\n",
+                  "(2) Participation in widely attended lunches, dinners, and similar gatherings sponsored by industrial, technical, and professional associations for the discussion of matters of mutual interest to Government and industry. \n",
+                  "(3) Acceptance of food, refreshments, or entertainment in the unusual situation where the employee, by virtue of the location of the person, firm, corporation, or other entity, or the regulations governing its dining facilities, finds it inconvenient or impracticable not to accept the offer. Each case of acceptance shall be reported in accordance with the requirement of paragraph (d)(4) of this section. In no other case shall employees accept food, refreshments, or entertainment from private corporations, entities, firms, or individual contractors at occasions which are other than widely attended functions whose purposes are unrelated to Agency business.\n",
+                  {
+                    "_": "(4) In exceptional circumstances where acceptance of food, refreshments, or entertainment is not authorized by paragraphs (d) (1), (2), and (3) of this section, but where, in the judgment of the individual concerned, the Government's interest would be served by such acceptance directly or indirectly from any foreign government, agency, or official thereof or a private person, firm, corporation, or other entity which is engaged or is endeavoring to engage in business transactions of any sort with AID, an employee may accept the offer:  That a report of the circumstances, together with the employee's statement as to how the Government's interests were served, will be made within 48 hours to the employee's supervisor, or, if the employee is serving abroad, or on temporary duty abroad, to the Mission Director.\n",
+                    "I": [
+                      "Provided,"
+                    ]
+                  },
+                  {
+                    "_": "(e)  An employee shall for a gift to an official superior, make a donation as a gift to an official superior, or accept a gift from an employee receiving less pay than the employee (5 U.S.C. 7351). However, this paragraph does not prohibit a voluntary gift of nominal value or donation in a nominal amount made on a special occasion such as marriage, illness, or retirement.\n",
+                    "I": [
+                      "Gifts to superiors."
+                    ]
+                  },
+                  {
+                    "_": "(f)  precludes an employee from receipt of bona fide reimbursement, unless prohibited by law, for expenses of travel and such other necessary subsistence as is compatible with this part for which no Government payment or reimbursement is made. However, this paragraph does not allow an employee to be reimbursed, or payment to be made on the employee's behalf, for excessive personal living expenses, gifts, entertainment, or other personal benefits, nor does it allow an employee to be reimbursed by a person for travel on official business under agency orders when reimbursement is proscribed by Decision B-128527 of the Comptroller General dated March 7, 1967.\n\n\n",
+                    "I": [
+                      "Neither this section nor § 1203.735-204"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-203",
+                  "NODE": "22:2.0.8.2.4.2.9.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-203   Gifts from foreign governments."
+                ],
+                "P": [
+                  "An employee shall not accept a gift, present, decoration, or other thing from a foreign government unless authorized by Congress as provided by the Constitution and in 5 U.S.C. 7342, and the regulations promulgated thereunder pursuant to E.O. 11320, 31 FR 15789. These regulations are set forth in part 3 of this title (as added, 32 FR 6569, Apr. 28, 1967), and in 3 FAM 621.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-204",
+                  "NODE": "22:2.0.8.2.4.2.9.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-204   Outside employment and other activity."
+                ],
+                "P": [
+                  "(a) An employee shall not engage in outside employment or other outside activity not compatible with the full and proper discharge of the duties and responsibilities of Government employment. Incompatible activities include but are not limited to:\n",
+                  "(1) Acceptance of a fee, compensation, gift, payment of expense, or any other thing of monetary value in circumstances in which acceptance may result in, or create the appearance of, conflicts of interest; or \n",
+                  "(2) Outside employment which tends to impair the employee's mental or physical capacity to perform Government duties and responsibilities in an acceptable manner.\n",
+                  "(b) An employee shall not receive any salary or anything of monetary value from a private source as compensation for the employee's services to the Government (18 U.S.C. 209).\n",
+                  "(c) Employees are encouraged to engage in teaching, lecturing, and writing that is not prohibited by law, the Executive order, this part, or the agency regulations. However, an employee shall not, either for or without compensation, engage in teaching, lecturing, or writing including teaching, lecturing, or writing for the purpose of the special preparation of a person or class of persons for an examination of the Civil Service Commission or Board of Examiners for the Foreign Service, that is dependent on information obtained as a result of Government employment, except when that information has been made available to the general public or will be made available on request or when the agency head gives written authorization for use of nonpublic information on the basis that the use is in the public interest. In addition, an employee who is a Presidential appointee covered by section 401(a) of the Executive order shall not receive compensation or anything of monetary value for any consultation, lecture, discussion, writing, or appearance the subject matter of which is devoted substantially to the responsibilities, programs, or operations of the employee's agency, or which draws substantially on official data or ideas which have not become part of the body of public information. Employees are referred to the detailed rules of their agency with respect to clearance and acceptance of compensation (See AID Handbook 18)\n",
+                  "(d) [Reserved]\n",
+                  "(e) An employee shall not render any services, whether or not compensated, to any foreign government, state, province, or semigovernmental agency, or municipality of any foreign government, or to any international organization of states. However, this shall not prevent the rendering of such services by employees acting on behalf of the United States. Nor shall this provision prevent the rendering of services to an international organization of states when otherwise consistent with law and when authorized by the appropriate officer. The appropriate officer for IDCA is the Assistant Director for Administration.\n",
+                  "(f) [Reserved]\n",
+                  "(g) This section does not preclude an employee from:\n",
+                  "(1) Participation in the activities of national or State political parties not proscribed by law.\n",
+                  "(2) Participation in the affairs of or acceptance of an award for a meritorious public contribution or achievement given by a charitable, religious, professional, social, fraternal, nonprofit educational and recreational, public service, or civic organization. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-205",
+                  "NODE": "22:2.0.8.2.4.2.9.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-205   Financial interests."
+                ],
+                "P": [
+                  "(a) An employee shall not: (1) Have a direct or indirect financial interest that conflicts substantially, or appears to conflict substantially with the employee's Government duties and responsibilities; or\n",
+                  "(2) Engage in, directly or indirectly, a financial transaction as a result of, or primarily relying on, information obtained through Government employment.\n",
+                  "(b) This section does not preclude an employee from having a financial interest or engaging in financial transactions to the same extent as a private citizen not employed by the Government so long as it is not prohibited by law or the regulations in this part.\n",
+                  "(c) Pursuant to the provision of 18 U.S.C. 208(b) the following described financial interests of an employee are hereby exempted from the requirements of 18 U.S.C. 208(a) and 208(b)(1) as being too remote or too inconsequential to affect the integrity of the services of an employee. The exemption applies to the financial interests held directly by an employee, by the employee's spouse or minor child whether individually or jointly with the employee, or by an employee and any partner or partners as joint assets of the partnership:\n",
+                  "(1) Investments in State and local government bonds; and stocks, bonds, or policies in a mutual fund, investment company, bank or insurance company, provided that in the case of a mutual fund, investment company, or bank, the fair value of such stock or bond holding does not exceed one percent of the value of the reported assets of the mutual fund, investment company, or bank. In the case of a mutual fund or investment company, this exemption applies only where the assets of the fund or company are diversified; it does not apply where the fund or company specializes in a particular industry or commodity.\n",
+                  {
+                    "_": "(2) Interest in an investment club or other group organized for the purpose of investing in equity or debt securities:  That the fair value of the interest involved does not exceed $10,000 and that the interest does not exceed one-fourth of the total assets of the investment club or group. Where an employee covered by this exemption is a member of a group organized for the purpose of investing in equity or debt securities, the interest of the employee in any enterprise in which the group holds securities shall be based upon the employee's equity share of the holdings of the group in that enterprise.\n",
+                    "I": [
+                      "Provided,"
+                    ]
+                  },
+                  "(3) If an employee, or the employee's spouse or minor child has a present beneficial interest or a vested remainder interest under a trust, the ownership of stocks, bonds, or other corporate securities under the trust will be exempt to the same extent as provided in paragraphs (c)(1) and (2) of this section for the direct ownership of such securities. The ownership of bonds other than corporate bonds, or of shares in a mutual fund or regulated investment company, under the trust will be equally exempt and to the same extent as under paragraphs (c) (1) and (2) of this section. \n",
+                  {
+                    "_": "(4) If an employee is an officer, director, trustee, or employee of an educational institution, or if the employee is negotiating for, or has an arrangement concerning prospective employment with such an institution, a direct financial interest which the institution has in any matter will not itself be exempt, but any financial interest that the institution may have in the matter through its holdings of securities issued by business entities will be exempt:  The employee is not serving as a member of the investment committee of the institution or is not otherwise advising it on its investment portfolio.\n",
+                    "I": [
+                      "Provided,"
+                    ]
+                  },
+                  "(5) An employee may continue to participate in a bona fide pension, retirement, group life, health or accident insurance plan, or other employee welfare or benefit plan that is maintained by a business or nonprofit organization by which the employee was formerly employed. Such financial interest in that organization will be exempt, except to the extent that the welfare or benefit plan is a profit-sharing or stock-bonus plan and the employee's financial interest thereunder exceeds $10,000. This exemption extends also to any financial interests that the organization may have in other business activities.\n",
+                  {
+                    "_": "(d) Nothing in this part shall be deemed to prohibit an employee from acting, with or without compensation, as agent or attorney for the employee's parents, spouse, child, or any person for whom, or for any estate for which, the employee is serving as guardian, executor, administrator, trustee, or other personal fiduciary, except in those matters in which the employee has participated personally and substantially as a Government employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or which are the subject of the employee's official responsibility, as defined in 18 U.S.C. 202(b):  The head of the employee's division approves in writing.\n\n\n",
+                    "I": [
+                      "Provided,"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-206",
+                  "NODE": "22:2.0.8.2.4.2.9.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-206   Economic and financial activities of employees abroad."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A U.S. citizen employee abroad is specifically prohibited from engaging in the activities listed below in any foreign country.\n",
+                    "I": [
+                      "Prohibitions in any foreign country."
+                    ]
+                  },
+                  "(1) Speculation in currency exchange.\n",
+                  "(2) Transactions at exchange rates differing from local legally available rates, unless such transactions are duly authorized in advance by the agency.\n",
+                  "(3) Sales to unauthorized persons (whether at cost or for profit) of currency acquired at preferential rates through diplomatic or other restricted arrangements.\n",
+                  "(4) Transactions which entail the use, without official sanction, of the diplomatic pouch.\n",
+                  "(5) Transfers of funds on behalf of blocked nationals, or otherwise in violation of U.S. foreign funds and assets control.\n",
+                  "(6) Independent and unsanctioned private transactions which involve an employee as an individual in violation of applicable control regulations of foreign governments.\n",
+                  "(7) Acting as an intermediary in the transfer of private funds from persons in one country to persons in another country, including the United States. \n",
+                  "(8) Permitting use of one's official title in any private business transactions or in advertisements for business purposes.\n",
+                  "(b)-(c) [Reserved]\n",
+                  {
+                    "_": "(d)  A non-U.S citizen employee abroad may engage in outside business activities with the prior approval of the head of the overseas establishment on the basis of the standards expressed in § 1203.735-204(a). \n\n\n",
+                    "I": [
+                      "Business activities of non-U.S. citizen employees."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-207",
+                  "NODE": "22:2.0.8.2.4.2.9.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-207   Use of Government property."
+                ],
+                "P": [
+                  "An employee shall not directly or indirectly use, or allow the use of Government property of any kind, including property leased to the Government, for other than officially approved activities. An employee has a positive duty to protect and conserve Government property, including equipment, supplies, and other property entrusted or issued to the employee.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-208",
+                  "NODE": "22:2.0.8.2.4.2.9.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-208   Misuse of information."
+                ],
+                "P": [
+                  "For the purpose of furthering a private interest, an employee shall not, except as provided in § 1203.735-204(c) directly or indirectly use, or allow the use of, official information obtained through or in connection with Government employment which has not been made available to the general public.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-209",
+                  "NODE": "22:2.0.8.2.4.2.9.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-209   Indebtedness."
+                ],
+                "P": [
+                  {
+                    "_": "An employee shall pay each just financial obligation in a proper and timely manner, especially one imposed by law such as Federal, State, or local taxes. For the purpose of this section, a  means one acknowledged by the employee or reduced to judgement by a court or one imposed by law such as Federal, State, or local taxes, and “in a proper and timely manner” means in a manner which the agency determines does not, under the circumstances, reflect adversely on the Government as the employer. In the event of dispute between an employee and an alleged creditor, this section does not require an agency to determine the validity or amount of the disputed debt.\n\n\n",
+                    "I": [
+                      "just financial obligation"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-210",
+                  "NODE": "22:2.0.8.2.4.2.9.10",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-210   Gambling, betting, and lotteries."
+                ],
+                "P": [
+                  "An employee shall not participate, while on Government-owned or leased property or while on duty for the Government, in any gambling activity including the operation of a gambling device, in conducting a lottery or pool, in a game for money or property, or in selling or purchasing a numbers slip or ticket. However, this section does not preclude activities:\n",
+                  "(a) Necessitated by an employee's law enforcement duties; or\n",
+                  "(b) Under section 3 of Executive Order 10927 and similar agency-approved activities.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-211",
+                  "NODE": "22:2.0.8.2.4.2.9.11",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-211   Activities relating to private organizations and politics."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  For the purpose of this section, the term  denotes any group of persons or associations organized for any purpose whatever, except an organization established by the Government of the United States, or officially participated in by IDCA.\n",
+                    "I": [
+                      "Definition.",
+                      "private organization"
+                    ]
+                  },
+                  {
+                    "_": "(b)  An employee may join or refrain from joining employee organizations or associations without interference, coercion, restraint, or fear of discrimination or reprisal.\n",
+                    "I": [
+                      "Participation in activities of employee organizations."
+                    ]
+                  },
+                  {
+                    "_": "(c)  In participating in the program and activities of any private organization, an employee shall make clear that the employee's agency has no official connection with such organization and does not necessarily sponsor or sanction the viewpoints which it may express. \n",
+                    "I": [
+                      "Participation in activities of private organizations."
+                    ]
+                  },
+                  {
+                    "_": "(d)  An employee shall not have membership in any organization that advocates the overthrow of our constitutional form of Government in the United States, knowing that such organization so advocates (5 U.S.C. 7311, 18 U.S.C. 1918).\n",
+                    "I": [
+                      "Legal restrictions on membership in certain organizations."
+                    ]
+                  },
+                  {
+                    "_": "(e)  (1) Limitation on participation. When a private organization is concerned primarily with foreign policy or international relations or other matters of concern to an employee's agency, an employee shall limit connection therewith as follows: Unless specifically permitted to do so, the employee may not serve as advisor, officer, director, teacher, sponsor, committee chairman, or in any other official capacity or permit the employee's name to be used on a letterhead, in a publication, in an announcement or news story, or at a public meeting, regardless of whether the employee's official title or connection is mentioned. The provisions of this section are not intended to prohibit the normal and active participation of an employee in professional organizations such as the American Political Science Association, the American Economic Association, the American Foreign Service Association, and similar organizations, since such participation is in the interest of both the employee and the Government. Employees are expected, however, to exercise discretion in such activities and are held personally accountable for any improper use of their relationship with IDCA.\n",
+                    "I": [
+                      "Private organizations concerned with foreign policy or other matters of concern to agencies."
+                    ]
+                  },
+                  "(2) Request for special permission. Special permission to assume or continue a connection prohibited by paragraph (e)(1) of this section may be granted in cases where the public interest will not be adversely affected. To request such permission, or to determine whether the provisions are applicable to a particular case, the employee shall address a memorandum setting forth all of the circumstances to the appropriate officer. The appropriate officer for IDCA is the Assistant Director for Administration. \n",
+                  "(3) Application to senior officers. Because of the prominence resulting from their official positions, chiefs of mission and other senior officers should recognize the particular bearing of the provisions of paragraph (e)(1) of this section upon their activities. They should restrict association with any organizations involving foreign nations and the United States to simple membership and should not accept even honorary office in such organizations except with the specific prior approval as provided in paragraph (e)(2) of this section. \n",
+                  {
+                    "_": "(f)  When the purpose and program of the organization do not fall primarily within the field of foreign policy or international relations, the employee's activity is limited only to the following extent: \n",
+                    "I": [
+                      "Private organizations not concerned with foreign policy."
+                    ]
+                  },
+                  "(1) The employee's official title or connection may be used to identify the employee, as in a civic association election, but may not be used on a letterhead, in a publication, or otherwise so as to employ the prestige of the U.S. Government to enhance that of the organization or to imply official sponsorship.\n",
+                  "(2) When the employee is a representative of an association consisting of IDCA employees, or of a group of such employees, the employee's connection with the agency may be freely used so long as there is no implication of official sponsorship beyond that which may have been officially approved.\n",
+                  {
+                    "_": "(g)  A U.S. citizen employee shall not engage in any form of political activity in any foreign country.\n",
+                    "I": [
+                      "Political activities abroad."
+                    ]
+                  },
+                  {
+                    "_": "(h)  The law (5 U.S.C. 7324, formerly the Hatch Act) provides in summary that it is unlawful for any Federal employee of the executive branch to use the employee's official authority or influence for the purpose of interfering with an election or affecting the result thereof, or to take any active part in political management or in political campaigns. These restrictions do not in any way affect the right of a Federal employee (1) to vote as the employee chooses; (2) to express personal political opinions, except as part of a campaign; (3) to make or refrain from making contributions to political organizations, provided contributions are not made in a Federal building or to another Federal officer or employee (see 18 U.S.C. 602, 603, 607, and 608); (4) to participate in local, nonpartisan activities.\n\n\n",
+                    "I": [
+                      "Activities relating to U.S. politics."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-212",
+                  "NODE": "22:2.0.8.2.4.2.9.12",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-212   Wearing of uniforms."
+                ],
+                "P": [
+                  "(a) An employee of the Foreign Service may not wear any uniform except as may be authorized by law or as a military commander may require civilians to wear in a theater of military operations (22 U.S.C. 803). When an employee is authorized by law or required by a military commander of the United States to wear a uniform, care shall be taken that the uniform is worn only at authorized times and for authorized purposes.\n",
+                  "(b) Conventional attire worn by chauffeurs, elevator operators, and other miscellaneous employees are not considered uniforms within the meaning of this section except that, for ICA, MOA VII 917.2b prohibits the purchase from Agency funds of uniforms or any item of personal wearing apparel other than special protective clothing.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-213",
+                  "NODE": "22:2.0.8.2.4.2.9.13",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-213   Recommendations for employment."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In general, an employee shall not, in the employee's official capacity, make any recommendations in connection with the employment of persons unless the position concerned are with the Government of the United States and the recommendations are made in response to an inquiry from a Government official authorized to employ persons or to investigate applicants for employment. A principal officer in answer to a letter of inquiry from outside the U.S. Government concerning a former employee assigned to the post, may state the length of time the person was employed at the post and the fact that the former employee performed duties in a satisfactory manner, if such is the case. Also, an AID Mission Director may provide names of persons or firms from which a cooperating government may select an employee or firm to be used in some phase of the AID program. \n",
+                    "I": [
+                      "Making recommendations in official capacity."
+                    ]
+                  },
+                  {
+                    "_": "(b)  An employee may make a personal recommendation in connection with the employment of any person, including present or former employees, their spouses and/or members of their families, except for employment in a position of trust or profit under the government of the country to which the employee is accredited or assigned (22 U.S.C. 806(b)):  That the employee does not divulge any information concerning the person derived from official sources. When a letter of introduction or recommendation is written by an employee, precautionary measures should be taken to prevent its being construed as official correspondence and used by an unscrupulous individual to impress American or foreign officials. Accordingly, official stationery should not be used for this purpose. The letter may, however, show the recommending employee's status as an employee of the U. S. Government. Every personal letter of recommendation shall contain a statement clearly indicating that the letter constitutes a personal recommendation and is not to be construed as an official recommendation by the Government of the United States. \n\n\n",
+                    "I": [
+                      "Making personal recommendations.",
+                      "Provided,"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-214",
+                  "NODE": "22:2.0.8.2.4.2.9.14",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-214   Transmitting communications and gifts."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In corresponding with anyone other than the proper official of the United States with regard to the public affairs of a foreign government, an employee shall use discretion and judgment to ensure that neither the United States nor the employee will be embarrassed or placed in a compromising position (22 U.S.C. 806(a)).\n",
+                    "I": [
+                      "Correspondence."
+                    ]
+                  },
+                  {
+                    "_": "(b)  An employee shall not act as an agent for the transmission of communications from private persons or organizations in foreign countries to the President or to Federal, State, or municipal officials in the United States. A chief of mission may, however, accept communications of this nature and forward them to the Department of State for such further action as may be appropriate, whenever the chief of mission determines it to be clearly in the public interest to do so.\n",
+                    "I": [
+                      "Communications."
+                    ]
+                  },
+                  {
+                    "_": "(c)  An employee shall not act as an agent for the transmission of gifts from persons or organizations in foreign countries to the President or to Federal, State, or municipal officials of the United States. However, principal officers may, according to regulations prescribed by the President, accept, and forward to the Office of Protocol of the Department of State, gifts made to the United States or to any political subdivision thereof by the Government to which they are accredited or from which they hold exequaturs. Employees shall not, without the approval of the Secretary of State, transmit gifts from persons or organizations in the United States to heads or other officials of foreign states. \n\n\n",
+                    "I": [
+                      "Gifts."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-215",
+                  "NODE": "22:2.0.8.2.4.2.9.15",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-215   General conduct prejudicial to the Government."
+                ],
+                "P": [
+                  "(a) An employee shall not engage in criminal, infamous, dishonest, immoral, or notoriously disgraceful conduct, or other conduct prejudicial to the Government.\n",
+                  "(b) An employee abroad is also obligated to obey the laws of the country in which the employee is present.\n",
+                  "(c) An employee shall observe the requirements of courtesy, consideration, and promptness in dealing with or serving the public.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-216",
+                  "NODE": "22:2.0.8.2.4.2.9.16",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-216   Miscellaneous statutory provisions."
+                ],
+                "P": [
+                  "Each employee shall become acquainted with each statute that relates to the employee's ethical and other conduct as an agency employee of and of the Government.\n",
+                  "(a) The attention of employees is directed to the following statutory provisions:\n",
+                  "(1) House Concurrent Resolution 175, 85th Congress, 2d session, 72 Stat. B12, the “Code of Ethics for Government Service.”\n",
+                  "(2) Chapter 11 of title 18, United States Code, relating to bribery, graft, and conflicts of interest, as appropriate to the employees concerned.\n",
+                  "(3) The prohibition against lobbying with appropriated funds (18 U.S.C. 1913).\n",
+                  {
+                    "_": "(4) The prohibitions against disloyalty and striking (5 U.S.C. 7311, 18 U.S.C. 1918). \n\n\n",
+                    "SU": [
+                      "1"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  "(5) The prohibitions against (i) the disclosure of classified information (18 U.S.C. 798, 50 U.S.C. 783); and (ii) the disclosure of confidential information (18 U.S.C. 1905).\n",
+                  "(6) The provision relating to the habitual use of intoxicants to excess (5 U.S.C. 7352).\n",
+                  "(7) The prohibition against the misuse of a Government vehicle (31 U.S.C. 638a(c)).\n",
+                  "(8) The prohibition against the misuse of the franking privilege (18 U.S.C. 1719).\n",
+                  "(9) The prohibition against the use of deceit in an examination or personnel action in connection with Government employment (18 U.S.C. 1917).\n",
+                  "(10) The prohibition against fraud or false statements in a Government matter (18 U.S.C. 1001).\n",
+                  "(11) The prohibition against mutilating or destroying a public record (18 U.S.C. 2071).\n",
+                  "(12) The prohibition against counterfeiting and forging transportation requests (18 U.S.C. 508).\n",
+                  "(13) The prohibition against (i) embezzlement of Government money or property (18 U.S.C. 641); (ii) failing to account for public money (18 U.S.C. 643); and (iii) embezzlement of the money or property of another person in the possession of an employee by reason of the employee's employment (18 U.S.C. 654).\n",
+                  "(14) The prohibition against unauthorized use of documents relating to claims from or by the Government (18 U.S.C. 285).\n",
+                  "(15) The prohibition against political activities in subchapter III of chapter 73 of title 5, United States Code and 18 U.S.C. 602, 603, 607, and 608.\n",
+                  "(16) The prohibition against an employee acting as the agent of a foreign principal registered under the Foreign Agents Registration Act (18 U.S.C. 219).\n",
+                  "(17) The prohibition against discrimination because of politics, race, religion, or color (22 U.S.C. 807). \n",
+                  "(18) The prohibition against officers or employees accepting any honorarium in excess of $2,000 or honoraria aggregating more than $25,000 in any calendar year (sec. 112, Pub. L. 94-283, 90 Stat. 494 (2 U.S.C. 441i)).\n",
+                  "(b) The attention of consular officers is directed to the following statutory provisions:\n",
+                  "(1) The provisions relating to the duty to account for fees received (22 U.S.C. 9, 812, 1194), liability for exaction of excessive fees (22 U.S.C. 1182, 1189), and liability for failure to collect proper fees (22 U.S.C. 1190).\n",
+                  "(2) The provisions relating to liability for failure to give bond and for embezzlement (22 U.S.C. 1179), liability for embezzlement of fees or effects of American citizens (22 U.S.C. 1198), and liability for falsely certifying as to the ownership of property (22 U.S.C. 1200).\n",
+                  "(3) The prohibition against profiting from dealings with discharged seamen (22 U.S.C. 1187).\n",
+                  "(4) The provision relating to liability for failure to collect the wages of discharged seamen (46 U.S.C. 683).\n\n\n"
+                ],
+                "FTNT": [
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Courts have stricken from the Code any prohibition against assertion of the right to strike on the basis that such an assertion is a protected right under the First Amendment to the Constitution.",
+                        "SU": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-217",
+                  "NODE": "22:2.0.8.2.4.2.9.17",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-217   Requesting exceptions from certain statutory prohibitions."
+                ],
+                "P": [
+                  "(a) Any employee desiring a written advance determination that the prohibitions of 18 U.S.C. 208(a) do not apply will prepare a written request addressed to an appropriate agency official. For purposes of this section, the appropriate agency official is: The Deputy Under Secretary for Management for State, the Administrator for AID, and the Director for ICA. The request will describe the particular matter giving rise to the conflict of interest, the nature and extent of the employee's anticipated participation in the particular matter, and the exact nature and amount of the financial interest related to the particular matter.\n",
+                  "(b) The employee will forward the request to the appropriate agency official through the immediate supervisor and the assistant agency head in charge of the organizational agency component to which the employee is assigned, or will be assigned in the case of a new employee. The assistant agency head will forward the written request to the appropriate agency official through the agency's Counselor. The Counselor shall attach a written opinion to the request, prepare a recommended written determination in final form for signature by the appropriate agency official, and shall forward all documents to that official.\n",
+                  "(c) The determination of the appropriate agency official will be sent to the employee by the Counselor. If the appropriate agency official grants the requested exception, the original written advance determination will be sent to the employee. A duplicate original shall be retained among the appropriate agency records under the control of the Counselor. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "22:2.0.8.2.4.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Ethical and Other Conduct and Responsibilities of Special Government Employees"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1203.735-301",
+                  "NODE": "22:2.0.8.2.4.3.9.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-301   Conflicts of interest."
+                ],
+                "P": [
+                  "Special Government employees are subject to the conflicts of interest statutes (18 U.S.C. 202). An explanation of these conflicts of interest statutes their effects upon special Government employees and guidelines for obtaining and utilizing the services of special Government employees are in appendix C of chapter 735 of the Federal Personnel Manual. A special Government employee shall not have a direct or indirect financial interest that conflicts substantially, or appears to conflict substantially, with Government duties and responsibilities. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-302",
+                  "NODE": "22:2.0.8.2.4.3.9.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-302   Use of Government employment."
+                ],
+                "P": [
+                  "A special Government employee shall not use Government employment for a purpose that is, or gives the appearance of being, motivated by the desire for private gain for the employee or another person, particularly one with whom the employee has family, business, or financial ties.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-303",
+                  "NODE": "22:2.0.8.2.4.3.9.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-303   Use of inside information."
+                ],
+                "P": [
+                  "(a) A special Government employee shall not use inside information obtained as a result of Government employment for private gain for the employee or another person either by direct action on the employee's part or by counsel, recommendation, or suggestion to another person, particularly one with whom the employee has family, business, or financial ties. For the purpose of this section, “inside information” means information obtained under Government authority which has not become part of the body of public information.\n",
+                  "(b) A special Government employee may engage in teaching, lecturing, or writing that is not prohibited by law, Executive Order 11222 or the restrictions in this part; however, a special Government employee shall not, either for or without compensation, engage in teaching, lecturing, or writing that is dependent on information obtained as a result of his Government employment, except when that information has been made available to the general public or will be made available, or when the head of the agency gives written authoritzation for the use of nonpublic information on the basis that the use is in the public interest. A special Government employee who wishes to request the agency head to authorize the use of nonpublic information should submit such request through the Counselor. The request should contain complete information concerning the nonpublic information which the employee wishes to disclose and should contain in addition an indication of the intended use of such information and how disclosure of it would be in the public interest.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-304",
+                  "NODE": "22:2.0.8.2.4.3.9.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-304   Coercion."
+                ],
+                "P": [
+                  "A special Government employee shall not use Government employment to coerce, or give the appearance of coercing, a person to provide financial benefit to the employee or another person, particularly one with whom the employee has family, business, or financial ties.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-305",
+                  "NODE": "22:2.0.8.2.4.3.9.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-305   Gifts, entertainment, and favors."
+                ],
+                "P": [
+                  "(a) Except as provided in paragraph (b) of this section, a special Government employee, while so employed or in connection with Government employment, shall not receive or solicit from a person having business with the employee's agency anything of value as a gift, gratuity, loan, entertainment, or favor for the employee or another person, particularly one with whom the employee has family, business or financial ties.\n",
+                  "(b) The exceptions to the prohibition against the acceptance of gifts which have been granted to employees in § 1203.735-202 (b), (c), and (d) are also applicable to special Government employees. \n",
+                  "(c) A special Government employee shall not accept a gift, present, decoration, or other thing from a foreign government unless authorized by Congress as provided by the Constitution and in 5 U.S.C. 7342, and the regulations promulgated thereunder pursuant to E.O. 11320; 31 FR 15789. These regulations are set forth in part 3 of this title (as added, 32 FR 6569, April 28, 1967), and in 3 FAM 621.\n",
+                  "(d) A special Government employee shall avoid any action, whether or not specifically prohibited by these sections on special Government employees, which might result in, or create the appearance of:\n",
+                  "(1) Using public office for private gain;\n",
+                  "(2) Giving preferential treatment to any person;\n",
+                  "(3) Impeding Government efficiency or economy;\n",
+                  "(4) Losing independence or impartiality;\n",
+                  "(5) Making a Government decision outside official channels; or\n",
+                  "(6) Affecting adversely the confidence of the public in the integrity of the Government.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-306",
+                  "NODE": "22:2.0.8.2.4.3.9.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-306   Miscellaneous statutory provisions."
+                ],
+                "P": [
+                  "Each special Government employee shall become acquainted with each statute that relates to the employee's ethical and other conduct as a special Government employee of an agency and of the Government. The attention of special Government employees is directed to the statutes listed in § 1203.735-216. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "22:2.0.8.2.4.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Statements of Employment and Financial Interests"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1203.735-401",
+                  "NODE": "22:2.0.8.2.4.4.9.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-401   Employees required to submit statements."
+                ],
+                "P": [
+                  "The following employees of IDCA shall submit statements of employment and financial interests:\n",
+                  "(a) All special Government employees including experts or consultants serving on a full-time or intermittent basis, except when waived under § 1203.735-402(c).\n",
+                  "(b) Employees paid at a level of the Executive Schedule in subchapter II of chapter 53 of title 5, United States Code, except as provided in § 1203.735-402(b).\n",
+                  "(c) Except as provided in § 1203.735-402, employees classified at GS-13, FSO-4, FSR-5, FSS-2, AD-13, FC-5, or above, who are in positions hereby identified either as positions the basic duties of which impose upon the incumbent the responsibility for a Government decision or taking a Government action in regard to:\n",
+                  "(1) Contracting or procurement;\n",
+                  "(2) Administering or monitoring grants or subsidies;\n",
+                  "(3) Regulating or auditing private or other non-Federal enterprise;\n",
+                  "(4) Other activities where the decision or action has an economic impact on the interests of any non-Federal enterprise, or as positions which have duties and responsibilities which require the incumbent to report employment and financial interests in order to avoid involvement in a possible conflict of interest situation and carry out the purpose of law, Executive order, and the agency's regulations:\n"
+                ],
+                "EXTRACT": [
+                  {
+                    "HD1": [
+                      "State\n",
+                      "ICA\n",
+                      "AID \n"
+                    ],
+                    "P": [
+                      "Director General; of the Foreign Service and the Director of Personnel; Director of the Policy Planning Staff; Inspector General; Director, FSI; Special Assistant to Secretary; Deputy Secretary, Under Secretaries, or Deputy Under Secretary; Deputy Assistant Secretary and others at this level or above; Assistant Legal Adviser for Management; Director, Office of Operations; Office Director; Country Director; Division Chief in Bureau of Economic and Business Affairs, in the Office of Operations, (O/OPR), or in the Office of Foreign Buildings; Executive Director; Deputy Chief of Mission; Principal Officer; Economic Counselor; Commercial Counselor; Administrative Counselor; Civil Air Attache; Petroleum Officer; Minerals Officer; Contracting Specialist; Procurement Specialist; Despatch Agent; Traffic Manager; and Traffic Management Specialist.\n",
+                      "Deputy Director, Associate Directors, Directors and Deputy Directors of Offices or Services, Executive or Special Assistants to the Director; Chief Inspector; Associate Chief Inspector; Commissioner General, Deputy Commissioner General, Staff Director (Advisory Commission), Director of Engineering and Technical Operations; Director of Audio-Visual Procurement and Production; Country Public Affairs Officer, Deputy Country Public Affairs Officer, Public Affairs Counselor, Deputy Public Affairs Counselor, Director or Manager of Regional Service Center, Radio Relay Station, Radio Program Center or Radio Relay Station Construction Site, Administrative Officer or Executive Officer at a post abroad, Administrative Officer, Executive Officer and Business Manager (occupational codes 301, 340, 341, and 1101, or FAS code 200); Contracting Specialist and Procurement Specialist (occupational code 1102, or FAS codes 210 and 211); Auditor and Accountant (occupational code 510, or FAS code 207); General Counsel, Deputy General Counsel, or Attorney (occupational code 905, or FAS code 512).\n",
+                      "(1) AID/W: Deputy Assistant Administrators, Associate Assistant Administrators, Deputy Associate Assistant Administrators; Heads and Deputy Heads of Offices, Staffs, and Divisions; Desk Officers and Deputy Desk Officers.\n",
+                      "(2) Overseas: Mission Directors, Deputy Directors, Assistant Directors, AID Representatives, Aid Affairs Officers, Chairman, Development Assistance Committee; U.S. Representative to Development Assistance Committee; Development Coordination Officer.\n",
+                      "(3) Any person serving as chief of an operational branch responsible for housing, loans, guarantees, or other commercial type transactions with the public.\n",
+                      "(4) In addition, employees in AID/W or overseas whose positions fall within the following series or position titles (occupational code given in parenthesis): Economist Series (0110); International Cooperation Series (0136); Auditor General (0301.21); Supervisory Housing Development Officer (0301.31); Chief, Housing and Urban Development (0301.35); Contract Compliance Specialist (0301.48); Director for Regional Activities (0340.08); Development Officer (0340.09); Regional Development Officer (0340.10); Executive Officer (0341.01); Deputy Executive Officer (0341.02); Regional Executive Officer (0341.03); Administrative Officer (0341.05); Executive Officer—Administrative Support (0341.15); Executive Officer, Operations (0341.16); Executive Officer, Real Property (0341.18); Executive Officer, Personnel (0341.19); General Services Officer (0342.01); Assistant General Services Officer (0342.03); Assistant General Services Officer, Property and Supply (0342.20); Assistant General Services Officer, Procurement (0342.23); Assistant General Services Officer, Housing (0342.25); Program Officer (0345.01); Deputy Program Officer (0345.02); Food and Agriculture Officer (0401.01); Deputy Food and Agriculture Officer (0401.02); Budget and Accounting Series (0504); Financial Management Series (0505); Accounting Series (0510); Budget Administration Series (0560); General Attorney Series (0905); General Business and Industry Series (1101); Contract and Procurement Series (1102); Property Disposal Series (1104); Purchasing Series (1105); Trade Specialist Series (1140); Private Resources Development Series (1150); Financial Analysis Series (1160); General Investigating Series (1810); Criminal Investigating Series (1811); Import Specialist Series (1889); General Supply Series (2001); Supply Program Management Series (2003)."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-402",
+                  "NODE": "22:2.0.8.2.4.4.9.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-402   Employees not required to submit statements."
+                ],
+                "P": [
+                  "(a) Employees in positions that meet the criteria in paragraph (c) of § 1203.735-401 may be excluded from the reporting requirement when the agency head or designee determines that:\n",
+                  "(1) The duties of the position are such that the likelihood of the incumbent's involvement in a conflict-of-interest situation is remote;\n",
+                  "(2) The duties of the position are at such a level of responsibility that the submission of a statement of employment and financial interests is not necessary because of the degree of supervision and review over incumbent or the inconsequential effect on the integrity of the Government.\n",
+                  "(b) A statement of employment and financial interests is not required by the regulations in this part from an agency head, or a full-time member of a committee, board, or commission appointed by the President. These employees are subject to separate reporting requirements under section 401 of Exective Order 11222.\n",
+                  "(c) Special Government employees not required to submit statements. An agency head may waive the requirement of this section for the submission of a statement of employment and financial interest in the case of a special Government employee who is not a consultant or an expert when the agency finds that the duties of the position held by that special Government employee are of a nature and at such a level of responsibility that the submission of the statement by the incumbent is not necessary to protect the integrity of the Government. For the purpose of this paragraph, “consultant” and “expert” have the meanings given those terms by chapter 304 of the Federal Personnel Manual, but do not include a physician, dentist, or allied medical specialist whose services are procured to provide care and service to patients.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-403",
+                  "NODE": "22:2.0.8.2.4.4.9.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-403   Employee's complaint on filing requirement."
+                ],
+                "P": [
+                  "Each employee shall have the opportunity for review through agency grievance procedure of the employee's complaint that the employee's position has been improperly included within § 1203.735-401 as one requiring the submission of a statement of employment and financial interests. Employees are reminded that they may obtain counseling pursuant to § 1203.735-103 prior to filing a complaint.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-404",
+                  "NODE": "22:2.0.8.2.4.4.9.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-404   Time and place of submission, and forms."
+                ],
+                "P": [
+                  "(a) An employee or special Government employee shall submit a statement to the Counselor (in the case of a State employee, through the employee's Bureau) no later than:\n",
+                  "(1) Ninety days after the effective date of this part if the employee has entered on duty on or before that effective date; or\n",
+                  "(2) At least 10 days prior to entrance on duty, if the employee enters on duty after that effective date; except that an employee or special Government employee who enters on duty within 90 days of the effective date of this part may submit such statement within 90 days after entrance on duty.\n",
+                  "(b) Only the original of the statement or supplement thereto required by this part shall be submitted. The individual submitting a statement should retain a copy for the individual's own records. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-405",
+                  "NODE": "22:2.0.8.2.4.4.9.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-405   Information required."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Employees' statement of employment and financial interests required by the regulations in this part shall be submitted on the form, “Confidential Statement of Employment and Financial Interests (for use by Government Employees)”, Form OF-106, and shall contain all the information therein required.\n",
+                    "I": [
+                      "Employees."
+                    ]
+                  },
+                  {
+                    "_": "(b)  All special Government employees shall submit statements of employment and financial interest on the form, “Confidential Statement of Employment and Financial Interests (for use by Special Government Employees)”, Form AID 4-450 for IDCA, and shall contain all the information therein required.\n",
+                    "I": [
+                      "Special Government employees."
+                    ]
+                  },
+                  {
+                    "_": "(c)  The interest of a member of an employee's family is considered to be an interest of the employee. The term “member of an employee's family” is defined in § 1203.735-102(f).\n",
+                    "I": [
+                      "Interests of employee's relatives."
+                    ]
+                  },
+                  {
+                    "_": "(d)  If any information required to be included on a statement of employment and financial interests or supplementary statement, including holdings placed in trust, is not known to the employee but is known to another person, the employee shall request that other person to submit information in the employee's behalf.\n",
+                    "I": [
+                      "Information not known by employees."
+                    ]
+                  },
+                  {
+                    "_": "(e)  An employee need not disclose those financial interests described in § 1203.735-205(c) as being too remote or too inconsequential to affect the integrity of employees' services.\n",
+                    "I": [
+                      "Interests not required to be reported."
+                    ]
+                  },
+                  {
+                    "_": "(f)  The regulations in this part do not require an employee to submit on a statement of employment and financial interests or supplementary statement any information relating to the employee's connection with, or interest in, a professional society or a charitable, religious, social, fraternal, recreational, public service, civic, or political organization or a similar organization not conducted as a business enterprise. For the purpose of this section, educational and other institutions doing research and development or related work involving grants or money from or contracts with the Government are deemed “business enterprises” and are required to be included in an employee's statement of employment and financial interests.\n\n\n",
+                    "I": [
+                      "Information not required."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-406",
+                  "NODE": "22:2.0.8.2.4.4.9.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-406   Submission of position description."
+                ],
+                "P": [
+                  "Each Statement of Employment and Financial Interests or annual supplement thereto must be accompanied by a full description of the employee's principal governmental duties. The description should be particularly detailed in regard to those duties which might possibly be an element in a conflict of interest. If the statement indicates that the employee has no outside employment or financial interests, the employee need not submit a description of duties. For a special Government employee, the employing office shall submit the description.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-407",
+                  "NODE": "22:2.0.8.2.4.4.9.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-407   Supplementary statements."
+                ],
+                "P": [
+                  "(a) Employees, as defined in paragraphs (b) and (c) of § 1203.735-401, shall report changes in, or additions to, the information contained in their statements of employment and financial interests in supplementary statements as of June 30 each year. If no changes or additions occur, a negative report is required. \n",
+                  "(b) All special Government employees, as defined in paragraph (a) of § 1203.735-401, shall submit a current statement at the time their appointments are extended. A supplementary report indicating any changes in, or additions to the information already submitted will be accepted in lieu of a full submission. If there are no changes or additions, a negative report is required. \n",
+                  "(c) Notwithstanding the filing of reports required by this section, each employee shall at all times avoid acquiring a financial interest that could result, or taking an action that would result, in a violation of the conflicts-of-interest provisions of section 208 of title 18, United States Code, or subpart B of this part.\n",
+                  "(d) An employee is also to keep current the employee's description of principal duties as to changes or additions which might possibly be an element in a conflict of interest. The employing office shall submit descriptions of changes in the principal duties of a special Government employee as they occur.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-408",
+                  "NODE": "22:2.0.8.2.4.4.9.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-408   Review of statements and determination as to conflicts of interest."
+                ],
+                "P": [
+                  "(a) On the basis of the Statement of Employment and Financial Interests submitted by each employee or special Government employee, or on the basis of information received from other sources, the Counselor shall determine, in the light of the duties which that employee or special Government employee is or will be performing, whether any conflicts of interest, real or apparent, are indicated. The Counselor shall make this determination based on the applicable statutes, the Executive order, and the applicable regulations of the Civil Service Commission, and of the agency.\n",
+                  "(b) Where the Counselor's determination in a particular case is that a conflict of interest, real or apparent, is indicated, the Counselor shall initiate informal discussions with the employee or special Government employee concerned. These discussions shall have as their objectives:\n",
+                  "(1) Providing the individual with a full opportunity to explain the conflict or appearance of conflict; and\n",
+                  "(2) Arriving at an agreement (acceptable to the Counselor, the individual and the individual's immediate superior) whereby the conflict of interest may be removed or avoided. Such an agreement may include, but is not limited to: (i) Changes in assigned duties; (ii) divestiture of the financial or employment interest creating the conflict or apparent conflict; or (iii) disqualification for a particular assignment.\n",
+                  "(c) Where an acceptable agreement cannot be obtained pursuant to paragraph (b) of this section, the Counselor shall present findings and recommendations to the officer designated by the agency head, who shall decide which remedy is most appropriate to remove or correct that conflict or apparent conflict. Remedial action under this paragraph may include disciplinary action, including separation for cause, or any of the actions enumerated in paragraph (b)(2) of this section and shall be effective in accordance with applicable laws, Executive orders, and regulations. \n",
+                  "(d) Written summaries of all agreements and decisions arrived at pursuant to paragraph (b) or (c) of this section shall be placed in the Counselor's files. Copies shall also be made available to the employee or special Government employee concerned.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-409",
+                  "NODE": "22:2.0.8.2.4.4.9.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-409   Confidentiality of employees' statements."
+                ],
+                "P": [
+                  "An agency shall hold each statement of employment and financial interests, and each supplementary statement, in confidence. To insure this confidentiality only the Counselor and Deputy Counselors are authorized to review and retain the statements. The Counselor and Deputy Counselors are responsible for maintaining the statements in confidence and shall not allow access to, or allow information to be disclosed from, a statement except to carry out the purpose of this part. An agency may not disclose information from a statement except as the Civil Service Commission or the agency head may determine for good cause shown.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-410",
+                  "NODE": "22:2.0.8.2.4.4.9.10",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-410   Effect of employees' statements on other requirements."
+                ],
+                "P": [
+                  "The statements of employment and financial interests and supplementary statements required for employees are in addition to, and not in substitution for, or in derogation of, any similar requirement imposed by law, order, or regulation. The submission of a statement or supplementary statement by an employee does not permit the employee or any other person to participate in a matter in which the employee or the other person's participation is prohibited by law, order, or regulation. Save with respect to those financial interests excepted from the conflict of interest prohibitions of 18 U.S.C. 208(a) pursuant to a written advance determination under § 1203.735-217 or exempted by the provisions of § 1203.735-205(c), an employee must disqualify himself or herself from participating in any matter in which the employee has a financial interest.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1203.735-411",
+                  "NODE": "22:2.0.8.2.4.4.9.11",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1203.735-411   Disqualification procedures."
+                ],
+                "P": [
+                  "(a) Where an employee is prohibited from participating in a matter because of a conflicting financial interest that is not exempt under § 1203.735-205(c) or has not been specifically excepted by the appropriate agency official pursuant to § 1203.735-217 in advance of the employee's participation in the particular matter, the employee shall conduct himself or herself in accordance with the following provisions:\n",
+                  "(1) The employee shall promptly disclose the financial interest in such matter to the employee's immediate superior. The superior will thereupon relieve the employee of duty and responsibility in the matter.\n",
+                  "(2) In foreign posts, it may be impossible or highly impracticable for an employee, who has a disqualifying financial interest, to assign the matter for official action to anyone other than a subordinate. In this event, the employee must instruct the subordinate to report fully and directly to the immediate superior to whom the employee himself or herself would normally report. The employee must concurrently direct such subordinate to take such action as may be appropriate in the matter, and without thereafter revealing to the disqualified employee in any way any aspect of the particular matter.\n",
+                  "(b) Nothing herein precludes the employee from disposing of such disqualifying financial interest, thereby wholly eliminating the conflict of interest. In some circumstances, where the employee may not obtain an exception under § 1203.735-217, or may not disqualify himself or herself and refer or assign the matter to another employee, the performance of duty may even require divestiture.\n",
+                  "(c) Where a supervisor has reason to believe that a subordinate employee may have a conflicting financial interest, the supervisor should discuss the matter with the employee. If the supervisor finds that a conflict of interest does exist, the supervisor must relieve the subordinate employee of duty and responsibility in the particular matter.\n",
+                  "(d) The obligation to avoid conflicts of interest is upon each employee. It is a continuing obligation calling for alert vigilance.\n",
+                  "(e) Notwithstanding any other provision of this part to the contrary, if an employee's holdings rise in value above the amount exempted by § 1203.735-205(c), then the statutory and regulation prohibitions apply in a conflict of interest situation.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1204-1299",
+          "NODE": "22:2.0.8.2.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1204-1299 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

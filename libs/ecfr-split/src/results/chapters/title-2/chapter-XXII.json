@@ -1,0 +1,644 @@
+{
+  "number": "XXII",
+  "title": " CHAPTER XXII—CORPORATION FOR NATIONAL AND COMMUNITY SERVICE ",
+  "content": {
+    "$": {
+      "N": "XXII",
+      "NODE": "2:1.2.17",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXII—CORPORATION FOR NATIONAL AND COMMUNITY SERVICE "
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2200",
+          "NODE": "2:1.2.17.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2200—NONPROCUREMENT DEBARMENT AND SUSPENSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235; 22 U.S.C. 2503(b).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "72 FR 28826, May 23, 2007, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2200.10",
+              "NODE": "2:1.2.17.10.1.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Corporation for National and Community Service policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for the Corporation for National and Community Service to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.20",
+              "NODE": "2:1.2.17.10.1.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction.” (see subpart B of 2 CFR part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970.\n",
+              "(b) Respondent in a Corporation for National and Community Service suspension or debarment action;\n",
+              "(c) Corporation for National and Community Service debarment or suspension official; or\n",
+              "(d) Corporation for National and Community Service grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.30",
+              "NODE": "2:1.2.17.10.1.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "The Corporation for National and Community Service policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (, 2 CFR 180.220) as supplemented by section 220 in this part (, Sec. 2200.220). For any section of OMB guidance in subparts A through I of 2 CFR part 180 that has no corresponding section in this part, Corporation for National and Community Service policies and procedures are those in the OMB guidance.\n\n\n",
+                "I": [
+                  "i.e.",
+                  "i.e."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.137",
+              "NODE": "2:1.2.17.10.1.0.69.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.137   Who in the Corporation for National and Community Service may grant an exception to let an excluded person participate in a covered transaction?"
+            ],
+            "P": [
+              "The Chief Executive Officer (or another official designated by the Chief Executive Officer) has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.220",
+              "NODE": "2:1.2.17.10.1.0.69.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+            ],
+            "P": [
+              "Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see optional lower tier coverage in the figure in the appendix to 2 CFR part 180), Corporation for National and Community Service does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.332",
+              "NODE": "2:1.2.17.10.1.0.69.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+            ],
+            "P": [
+              "You as a participant must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with Subpart C of the OMB guidance in 2 CFR part 180.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2200.437",
+              "NODE": "2:1.2.17.10.1.0.69.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2200.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+            ],
+            "P": [
+              "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, you as an agency official must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2205",
+          "NODE": "2:1.2.17.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2205—IMPLEMENTATION OF AND EXEMPTIONS TO 2 CFR\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "42 U.S.C. 12571(d), 12571(e)(2)(B), 12581(l), 12581a(a), 12616(c)(2), 12651c(c), 12651d(h), 12651g(b), 12653(a), 12653(h), 12653o(a), and 12657(a); 2 CFR part 200; 45 CFR 2521.95, and 2540.110.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76076, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2205.100",
+              "NODE": "2:1.2.17.10.2.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2205.100   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Corporation for National and Community Service adopts the Office of Management and Budget's (OMB) Guidance in 2 CFR part 200, except as specified in this part. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance for recipients of awards from the Corporation.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2205.201",
+              "NODE": "2:1.2.17.10.2.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2205.201   Use of grant agreements (including fixed amount awards), cooperative agreements, and contracts."
+            ],
+            "P": [
+              "(a) The Corporation will determine the appropriate instrument in accordance with its authorities under the national service laws, and in accordance with the Federal Grant and Cooperative Agreement Act (31 U.S.C. 6301-6308), as appropriate.\n",
+              "(b) The Corporation and pass through entities may also provide fixed amount awards in the manner and in the amounts permitted under the national service laws.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2205.306",
+              "NODE": "2:1.2.17.10.2.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2205.306   Cost sharing or matching."
+            ],
+            "P": [
+              "(a) Shared costs or matching funds must meet the criteria of 2 CFR 200.306(b), with the exception of 2 CFR 200.306(b)(5). Federal funds from other agencies may be used as match or cost sharing as authorized by 42 U.S.C. 12571(e) under the national service laws.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2205.332",
+              "NODE": "2:1.2.17.10.2.0.69.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2205.332   Fixed amount subawards."
+            ],
+            "P": [
+              "Fixed amount subawards may be made in the manner and in amounts determined under the national service laws, as authorized by the Corporation, without respect to the Simplified Acquisition Threshold.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2205.414",
+              "NODE": "2:1.2.17.10.2.0.69.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2205.414   Indirect (F&A) costs."
+            ],
+            "P": [
+              "Administrative costs for programs funded under subtitles B and C of the National and Community Service Act of 1990, as amended, shall be subject to 45 CFR 2521.95 and 2540.110.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2245",
+          "NODE": "2:1.2.17.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2245—REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "41 U.S.C. 701-707; 42 U.S.C. 12644.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "75 FR 22206, Apr. 28, 2010, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2245.10",
+              "NODE": "2:1.2.17.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2245.10   What does this part do?"
+            ],
+            "P": [
+              "This part requires that the award and administration of the Corporation's grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended, hereafter referred to as “the Act”) that applies to grants. It thereby—\n",
+              "(a) Gives regulatory effect to the OMB guidance (Subparts A through F of 2 CFR part 182) for the Corporation's grants and cooperative agreements; and\n",
+              "(b) Establishes the Corporation's policies and procedures for compliance with the Act that are the same as those of other Federal agencies, in conformance with the requirement in 41 U.S.C. 705 for Government-wide implementing regulations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2245.20",
+              "NODE": "2:1.2.17.10.3.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2245.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in Subparts A through F of 2 CFR part 182 (see table at 2 CFR 182.115(b)) apply to you if you are a—\n",
+              "(a) Recipient of a Corporation grant or cooperative agreement; or\n",
+              "(b) A Corporation awarding official.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2245.30",
+              "NODE": "2:1.2.17.10.3.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2245.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "(a)  You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table. For each of those sections, you must follow the policies and procedures in the OMB guidance, as supplemented by this part.\n",
+                "I": [
+                  "Specific sections of OMB guidance that this part supplements."
+                ]
+              },
+              {
+                "_": "(c)  For any section of OMB guidance in Subparts A through F of 2 CFR part 182 that is not listed in paragraph (b) of this section, the Corporation's policies and procedures are the same as those in the OMB guidance.\n\n\n",
+                "I": [
+                  "Sections of the OMB guidance that this part does not supplement."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Section of OMB guidance\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Section in this part where\nsupplemented\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                },
+                                "br": [
+                                  ""
+                                ]
+                              },
+                              {
+                                "_": "What the supplementation clarifies\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(1) 2 CFR 182.225(a)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2245.225",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in the Corporation a recipient other than an individual must notify if an employee is convicted for a violation of a criminal drug statute in the workplace.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(2) 2 CFR 182.300(b)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2245.300",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in the Corporation a recipient who is an individual must notify if he or she is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(3) 2 CFR 182.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2245.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in the Corporation is authorized to determine that a recipient other than an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(4) 2 CFR 182.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2245.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in the Corporation is authorized to determine that a recipient who is an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.17.10.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Purpose and Coverage [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.17.10.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Requirements for Recipients Other Than Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2245.225",
+                  "NODE": "2:1.2.17.10.3.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2245.225   Whom in the Corporation does a recipient other than an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify the Corporation's awarding official or other designee.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.17.10.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Requirements for Recipients Who Are Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2245.300",
+                  "NODE": "2:1.2.17.10.3.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2245.300   Whom in the Corporation does a recipient who is an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient who is an individual and is required under 2 CFR 182.300(b) to notify Federal agencies about a conviction for a criminal drug offense must notify the Corporation's awarding official or other designee.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.17.10.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Agency Awarding Officials"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2245.400",
+                  "NODE": "2:1.2.17.10.3.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2245.400   What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance?"
+                ],
+                "P": [
+                  "To obtain a recipient's agreement to comply with applicable requirements in the OMB guidance at 2 CFR part 182, you must obtain each recipient's agreement, as a condition of the award, to comply with the requirements in subpart B (or subpart C, if the recipient is an individual) of 2245, which adopts the Government-wide implementation (2 CFR part 182) of sec. 5152-5158 of the Drug-Free Workplace Act of 1988 (Pub. L. 100-690, Title V, Subtitle D; 41 U.S.C. 701-707).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.17.10.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Violations of this Part and Consequences"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2245.500",
+                  "NODE": "2:1.2.17.10.3.5.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2245.500   Who in the Corporation determines that a recipient other than an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The Corporation's Chief Executive Officer or designee is authorized to make the determination under 2 CFR 182.500.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2245.505",
+                  "NODE": "2:1.2.17.10.3.5.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2245.505   Who in the Corporation determines that a recipient who is an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The Corporation's Chief Executive Officer or designee is authorized to make the determination under 2 CFR 182.500.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.17.10.3.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2246-2299",
+          "NODE": "2:1.2.17.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2246-2299 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

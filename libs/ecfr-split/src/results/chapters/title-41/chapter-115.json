@@ -1,0 +1,185 @@
+{
+  "number": "115",
+  "title": " CHAPTER 115—ENVIRONMENTAL PROTECTION AGENCY",
+  "content": {
+    "$": {
+      "N": "115",
+      "NODE": "41:3.1.6",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 115—ENVIRONMENTAL PROTECTION AGENCY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "115",
+          "NODE": "41:3.1.6.13.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 115-1—INTRODUCTION \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 205(c), 63 Stat. 377, as amended; 40 U.S.C. 486(c). \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "36 FR 8568, May 8, 1971, unless otherwise noted. \n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "115",
+              "NODE": "41:3.1.6.13.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart 115-1.1—Regulation System"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 115-1.100",
+                  "NODE": "41:3.1.6.13.1.1.622.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.100   Scope of subpart."
+                ],
+                "P": [
+                  "This subpart establishes the Environmental Protection Agency Property Management Regulations (EPPMR), chapter 115 of the Federal Property Management Regulations System (FPMR) (41 CFR chapter 101); states its relationship to the FPMR, and provides instructions governing the property management policies and procedures of the Environmental Protection Agency (EPA). \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.103",
+                  "NODE": "41:3.1.6.13.1.1.622.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.103   Temporary-type FPMR."
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.103-50",
+                  "NODE": "41:3.1.6.13.1.1.622.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.103-50   Temporary-type changes to EPPMR."
+                ],
+                "P": [
+                  "Where required, temporary changes will be published as EPPMR-Temporary Regulations. Temporary Regulations will be cross-referenced to related EPPMR subparts and will indicate dates for compliance with, and cancellation of each issuance. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.104",
+                  "NODE": "41:3.1.6.13.1.1.622.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.104   Publication of FPMR."
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.104-50",
+                  "NODE": "41:3.1.6.13.1.1.622.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.104-50   Publication of EPPMR."
+                ],
+                "P": [
+                  {
+                    "_": "(a) Material published in the EPPMR will generally not be of interest to nor directly affect the public. Therefore, most EPPMR material will not be published in the  \n",
+                    "E": [
+                      {
+                        "_": "Federal Register.",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(b) Arrows printed in the margin of a page indicate material changed, deleted, or added by the EPPMR Transmittal Notice cited at the bottom of that page. (See GSA, FPMR Amendment Transmittal pages for illustrations.) \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.106",
+                  "NODE": "41:3.1.6.13.1.1.622.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.106   Applicability of FPMR."
+                ],
+                "P": [
+                  "The FPMR apply to all EPA activities unless otherwise specified, or unless a deviation is approved. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.108",
+                  "NODE": "41:3.1.6.13.1.1.622.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.108   Agency implementation and supplementation of FPMR."
+                ],
+                "P": [
+                  "(a) EPPMR implements and supplements the FPMR and follows the FPMR in style, arrangement and numbering sequence. Except to assure continuity and understanding FPMR material will not be repeated or paraphrased in the EPPMR. \n",
+                  "(b) Implementing material expands upon related material in the FPMR. Supplementing material deals with subject material not covered in the FPMR. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.109",
+                  "NODE": "41:3.1.6.13.1.1.622.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.109   Numbering in FPMR system."
+                ],
+                "P": [
+                  "(a) The numbering system used in EPPMR conforms to that of the FPMR except for the chapter number. The first three digits represent the Chapter number assigned to this Agency in title 41, Code of Federal Regulations (CFR). In FPMR the chapter number is 101 and in EPPMR the Chapter number is 115. \n",
+                  "(b) Where EPA Chapter 115 implements Chapter 101 the material will be numbered and captioned to correspond to the FPMR part, subpart, section or subsection, e.g., 115-1.106 “Applicability of FPMR” implements 101-1.106 of FPMR. \n",
+                  "(c) Where Chapter 115 supplements the FPMR and deals with subject matter not contained in the FPMR, the EPPMR material is numbered to follow that which is most closely related to similar material in the FPMR, Supplementing material is numbered “50” or higher. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 115-1.110",
+                  "NODE": "41:3.1.6.13.1.1.622.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 115-1.110   Deviations."
+                ],
+                "P": [
+                  "Where deemed necessary that regulations set forth in the FPMR or EPPMR be changed in the interest of program effectiveness, a proposed revision will be submitted in accordance with FPR § 1-1.009, to the Division of Data and Support Systems (DSSD) for review and consideration. \n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

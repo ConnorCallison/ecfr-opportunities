@@ -1,0 +1,81 @@
+{
+  "number": "LX",
+  "title": " CHAPTER LX—FEDERAL COMMUNICATIONS COMMISSION",
+  "content": {
+    "$": {
+      "N": "LX",
+      "NODE": "2:1.2.35",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER LX—FEDERAL COMMUNICATIONS COMMISSION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "6000",
+          "NODE": "2:1.2.35.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 6000—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n\n\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "47 U.S.C. 154(i), 1752(b)(10)(C); 2 CFR Part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "87 FR 54327, Sept. 6, 2022, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 6000.1",
+              "NODE": "2:1.2.35.10.1.0.81.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 6000.1   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Except as otherwise may be provided by this part, the Federal Communications Commission adopts the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth at 2 CFR part 200.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 6000.2",
+              "NODE": "2:1.2.35.10.1.0.81.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 6000.2   [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "6001-6099",
+          "NODE": "2:1.2.35.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 6001-6099 [Reserved]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

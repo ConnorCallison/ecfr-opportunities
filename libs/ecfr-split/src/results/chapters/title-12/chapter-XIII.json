@@ -1,0 +1,2402 @@
+{
+  "number": "XIII",
+  "title": " CHAPTER XIII—FINANCIAL STABILITY OVERSIGHT COUNCIL",
+  "content": {
+    "$": {
+      "N": "XIII",
+      "NODE": "12:10.0.3",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XIII—FINANCIAL STABILITY OVERSIGHT COUNCIL"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1300",
+          "NODE": "12:10.0.3.6.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1300 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "1301",
+          "NODE": "12:10.0.3.6.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1301—FREEDOM OF INFORMATION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "12 U.S.C. 5322; 5 U.S.C. 552.\n\n\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "82 FR 55744, Nov. 24, 2017, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1301.1",
+              "NODE": "12:10.0.3.6.2.0.5.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.1   General."
+            ],
+            "P": [
+              "This subpart contains the regulations of the Financial Stability Oversight Council (the “Council”) implementing the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, as amended. These regulations set forth procedures for requesting access to records maintained by the Council. These regulations should be read together with the FOIA, which provides additional information about this topic.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.2",
+              "NODE": "12:10.0.3.6.2.0.5.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.2   Information made available."
+            ],
+            "P": [
+              {
+                "_": "(a)  The FOIA provides for access to records developed or maintained by a Federal agency. The provisions of the FOIA are intended to assure the right of the public to information. Generally, this section divides agency records into three major categories and provides methods by which each category of records is to be made available to the public. The three major categories of records are as follows:\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(1) Information required to be published in the  (see § 1301.3);\n",
+                "E": [
+                  {
+                    "_": "Federal Register",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(2) Information required to be made available for public inspection in an electronic format or, in the alternative, to be published and offered for sale (see § 1301.4); and\n",
+              "(3) Information required to be made available to any member of the public upon specific request (see §§ 1301.5 through 1301.12).\n",
+              {
+                "_": "(b)  Subject to the exemptions and exclusions set forth in the FOIA (5 U.S.C. 552(b) and (c)), and the regulations set forth in this subpart, any person shall be afforded access to records.\n",
+                "I": [
+                  "Right of access."
+                ]
+              },
+              {
+                "_": "(c)  (1) The disclosure requirements of 5 U.S.C. 552(a) do not apply to certain records which are exempt under 5 U.S.C. 552(b); nor do the disclosure requirements apply to certain records which are excluded under 5 U.S.C. 552(c).\n",
+                "I": [
+                  "Exemptions."
+                ]
+              },
+              "(2) The Council shall withhold records or information under the FOIA only when it reasonably foresees that disclosure would harm an interest protected by a FOIA exemption or when disclosure is prohibited by law. Whenever the Council determines that full disclosure of a requested record is not possible, the Council shall consider whether partial disclosure is possible and shall take reasonable steps to segregate and release nonexempt information. Nothing in this paragraph requires disclosure of information that is otherwise exempted from disclosure under 12 U.S.C. 552(b)(3).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.3",
+              "NODE": "12:10.0.3.6.2.0.5.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.3   Publication in the Federal Register."
+            ],
+            "P": [
+              {
+                "_": "Subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)) and subject to the limitations provided in 5 U.S.C. 552(a)(1), the Council shall state, publish and maintain current in the  for the guidance of the public:\n",
+                "E": [
+                  {
+                    "_": "Federal Register",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(a) Descriptions of its central and field organization and the established places at which, the persons from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;\n",
+              "(b) Statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;\n",
+              "(c) Rules of procedure, descriptions of forms available or the places at which forms may be obtained, and instructions as to the scope and contents of all papers, reports, or examinations;\n",
+              "(d) Substantive rules of general applicability adopted as authorized by law, and statements of general policy or interpretations of general applicability formulated and adopted by the Council; and\n",
+              "(e) Each amendment, revision, or repeal of matters referred to in paragraphs (a) through (d) of this section.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.4",
+              "NODE": "12:10.0.3.6.2.0.5.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.4   Public inspection."
+            ],
+            "P": [
+              {
+                "_": "(a)  Subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)), the Council shall, in conformance with 5 U.S.C. 552(a)(2), make available for public inspection in an electronic format, or, in the alternative, promptly publish and offer for sale:\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              "(1) Final opinions, including concurring and dissenting opinions, and orders, made in the adjudication of cases;\n",
+              {
+                "_": "(2) Those statements of policy and interpretations which have been adopted by the Council but which are not published in the ;\n",
+                "E": [
+                  {
+                    "_": "Federal Register",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(3) Its administrative staff manuals and instructions to staff that affect a member of the public;\n",
+              "(4) Copies of all records, regardless of form or format, that have been released previously to any person under 5 U.S.C. 552(a)(3) and §§ 1301.5 through 1301.12, and that the Council determines have become or are likely to become the subject of subsequent requests for substantially the same records. When the Council receives three (3) or more requests for substantially the same records, then the Council shall place those requests in front of any existing processing backlog and make the released records available in the Council's public reading room and in the electronic reading room on the Council's Web site.\n",
+              "(5) A general index of the records referred to in paragraph (a)(4) of this section.\n",
+              {
+                "_": "(b)  For records required to be made available for public inspection in an electronic format pursuant to 5 U.S.C. 552(a)(2) and paragraphs (a)(1) through (4) of this section, the Council shall make such records available on its Web site as soon as practicable but in any case no later than one year after such records are created.\n",
+                "I": [
+                  "Information made available online."
+                ]
+              },
+              {
+                "_": "(c)  Based upon applicable exemptions in 5 U.S.C. 552(b), the Council may redact certain information contained in any matter described in paragraphs (a)(1) through (4) of this section before making such information available for inspection or publishing it. The justification for the redaction shall be explained in writing, and the extent of such redaction shall be indicated on the portion of the record which is made available or published, unless including that indication would harm an interest protected by the exemption in 5 U.S.C. 552(b) under which the redaction is made. If technically feasible, the extent of the redaction shall be indicated at the place in the record where the redaction was made.\n",
+                "I": [
+                  "Redaction."
+                ]
+              },
+              {
+                "_": "(d)  The Council shall make available for public inspection in an electronic format, in a reading room or otherwise, the material described in paragraphs (a)(1) through (5) of this section. Fees for duplication shall be charged in accordance with § 1301.12. The location of the Council's reading room is the Department of the Treasury's Library. The Library is located in the Freedman's Bank Building (formerly the Treasury Annex), Room 1020, 1500 Pennsylvania Avenue NW., Washington, DC 20220. For building security purposes, visitors are required to make an appointment by calling (202) 622-0990.\n",
+                "I": [
+                  "Public reading room."
+                ]
+              },
+              {
+                "_": "(e)  (1) The Council shall maintain and make available for public inspection in an electronic format current indices identifying any material described in paragraphs (a)(1) through (3) of this section. In addition, the Council shall promptly publish, quarterly or more frequently, and distribute (by sale or otherwise) copies of each index or supplement unless the Council determines by order published in the  that the publication would be unnecessary and impractical, in which case the Council shall nonetheless provide copies of the index on request at a cost not to exceed the direct cost of duplication.\n",
+                "I": [
+                  "Indices."
+                ],
+                "E": [
+                  {
+                    "_": "Federal Register",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(2) The Council shall make the indices referred to in paragraphs (a)(5) and (e)(1) of this section available on its Web site.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.5",
+              "NODE": "12:10.0.3.6.2.0.5.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.5   Requests for Council records."
+            ],
+            "P": [
+              {
+                "_": "(a)  Except for records made available under 5 U.S.C. 552(a)(1) and (a)(2) and subject to the application of the FOIA exemptions and exclusions (5 U.S.C. 552(b) and (c)), the Council shall promptly make its records available to any person pursuant to a request that conforms to the rules and procedures of this section.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  A request for records of the Council shall be made as follows:\n",
+                "I": [
+                  "Form and content of request."
+                ]
+              },
+              "(1) The request for records shall be made in writing and submitted by mail or via the Internet and should state, both in the request itself and on any envelope that encloses it, that it comprises a FOIA request. A request that does not explicitly state that it is a FOIA request, but clearly indicates or implies that it is a request for records, may also be processed under the FOIA.\n",
+              "(2) If a request is sent by mail, it shall be addressed and submitted as follows: FOIA Request—Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW., Washington DC 20220. If a request is made via the Internet, it shall be submitted as set forth on the Council's Web site.\n",
+              "(3) In order to ensure the Council's ability to respond in a timely manner, a FOIA request must describe the records that the requester seeks in sufficient detail to enable Council personnel to locate them with a reasonable amount of effort. Whenever possible, the request must include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record. If known, the requester must include any file designations or descriptions for the records requested. In general, a requester is encouraged to provide more specific information about the records or types of records sought to increase the likelihood that responsive records can be located.\n",
+              "(4) The request shall include the name of and contact information for the requester, including a mailing address, telephone number, and, if available, an email address at which the Council may contact the requester regarding the request.\n",
+              "(5) For the purpose of determining any fees that may apply to processing a request, a requester shall indicate in the request whether the requester is a commercial user, an educational institution, non-commercial scientific institution, representative of the news media, or “other” requester, as those terms are defined in § 1301.12(c), or in the alternative, state how the records released will be used. The Council shall use this information solely for the purpose of determining the appropriate fee category that applies to the requester and shall not use this information to determine whether to disclose a record in response to the request.\n",
+              "(6) If a requester seeks a waiver or reduction of fees associated with processing a request, then the request shall include a statement to that effect, pursuant to § 1301.12(f). Any request that does not seek a waiver or reduction of fees shall constitute an agreement of the requester to pay any and all fees (of up to $25) that may apply to the request, unless or until a request for waiver is sought and granted. The requester also may specify in the request an upper limit (of not less than $25) that the requester is willing to pay to process the request.\n",
+              "(i) Any request for waiver or reduction of fees should be filed together with or as part of the FOIA request, or at a later time prior to the Council incurring costs to process the request.\n",
+              "(ii) A waiver request submitted after the Council incurs costs will be considered in accordance with § 1301.12(f); however, the requester must agree in writing to pay the fees already incurred if the waiver is denied.\n",
+              "(7) If a requester seeks expedited processing of a request, then the request must include a statement to that effect as is required by § 1301.7(c).\n",
+              {
+                "_": "(c)  The Council shall deem itself to have received a request on the date that it receives a complete request containing the information required by paragraph (b) of this section. The Council need not accept a request, process a request, or be bound by any deadlines in this subpart for processing a request that fails materially to conform to the requirements of paragraph (b) of this section. If the Council determines that it cannot process a request because the request is deficient, then the Council shall return it to the requester and advise the requester in what respect the request is deficient. The requester may then resubmit the request, which the Council shall treat as a new request. A determination by the Council that a request is deficient in any respect is not a denial of a request for records, and such determinations are not subject to appeal.\n",
+                "I": [
+                  "Request receipt; effect of request deficiencies."
+                ]
+              },
+              {
+                "_": "(d)  Notwithstanding paragraph (c) of this section, the Council shall not reject a request solely due to one or more technical deficiencies contained in the request. For the purposes of this paragraph, the term “technical deficiency” means an error or omission with respect to an item of information required by paragraph (b) of this section which, by itself, does not prevent that part of the request from conforming to the applicable requirement, and includes without limitation a non-material error relating to the contact information for the requester, or similar error or omission regarding the date, title or name, author, recipient, or subject matter of the record requested.\n\n\n",
+                "I": [
+                  "Processing of request containing technical deficiency."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.6",
+              "NODE": "12:10.0.3.6.2.0.5.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.6   Responsibility for responding to requests for Council records."
+            ],
+            "P": [
+              {
+                "_": "(a)  In determining which records are responsive to a request, the Council ordinarily will include only information contained in records that the Council maintains, or are in its possession and control, as of the date the Council begins its search for responsive records. If any other date is used, the Council shall inform the requester of that date.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  The records officer shall be authorized to make an initial determination to grant or deny, in whole or in part, a request for a record.\n",
+                "I": [
+                  "Authority to grant or deny requests."
+                ]
+              },
+              {
+                "_": "(c)  When the Council receives a request for a record or any portion of a record in its possession that originated with another agency, including but not limited to a constituent agency of the Council, it shall:\n",
+                "I": [
+                  "Referrals."
+                ]
+              },
+              "(1) In the case of a record originated by a federal agency subject to the FOIA, refer the responsibility for responding to the request regarding that record to the originating agency to determine whether to disclose it; and\n",
+              "(2) In the case of a record originated by a state agency, respond to the request after giving notice to the originating state agency and a reasonable opportunity to provide input or to assert any applicable privileges.\n",
+              {
+                "_": "(d)  Whenever the Council refers all or any part of the responsibility for responding to a request to another agency, the Council shall notify the requester of the referral and inform the requester of the name of each agency to which the request has been referred and of the part of the request that has been referred.\n\n\n",
+                "I": [
+                  "Notice of referral."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.7",
+              "NODE": "12:10.0.3.6.2.0.5.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.7   Timing of responses to requests for Council records."
+            ],
+            "P": [
+              {
+                "_": "(a)  Except as set forth in paragraphs (b) through (d) of this section, the Council shall respond to requests according to their order of receipt.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  (1) The Council may establish tracks to process separately simple and complex requests. The Council may assign a request to the simple or complex track based on the amount of work and/or time needed to process the request. The Council shall process requests in each track according to the order of their receipt.\n",
+                "I": [
+                  "Multitrack processing."
+                ]
+              },
+              "(2) The Council may provide a requester in its complex track with an opportunity to limit the scope of the request to qualify for faster processing within the specified limits of the simple track(s).\n",
+              {
+                "_": "(c)  (1) The Council shall respond to a request out of order and on an expedited basis whenever a requester demonstrates a compelling need for expedited processing in accordance with the requirements of this paragraph (c).\n",
+                "I": [
+                  "Requests for expedited processing."
+                ]
+              },
+              {
+                "_": "(2)  A request for expedited processing shall be made as follows:\n",
+                "I": [
+                  "Form and content of a request for expedited processing."
+                ]
+              },
+              "(i) A request for expedited processing shall be made in writing or via the Internet and submitted as part of the initial request for records. When a request for records includes a request for expedited processing, both the envelope and the request itself must be clearly marked “Expedited Processing Requested.” A request for expedited processing that is not clearly so marked, but satisfies the requirements in paragraphs (c)(2)(ii) and (iii) of this section, may nevertheless be granted.\n",
+              "(ii) A request for expedited processing shall contain a statement that demonstrates a compelling need for the requester to obtain expedited processing of the requested records. A “compelling need” may be established under the standard in either paragraph (c)(2)(ii)(A) or (B) of this section by demonstrating that:\n",
+              "(A) Failure to obtain the requested records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual. The requester shall fully explain the circumstances warranting such an expected threat so that the Council may make a reasoned determination that a delay in obtaining the requested records would pose such a threat; or\n",
+              "(B) With respect to a request made by a person primarily engaged in disseminating information, urgency to inform the public concerning actual or alleged Federal Government activity. A person “primarily engaged in disseminating information” does not include individuals who are engaged only incidentally in the dissemination of information. The standard of “urgency to inform” requires that the records requested pertain to a matter of current exigency to the American general public and that delaying a response to a request for records would compromise a significant recognized interest to and throughout the American general public. The requester must adequately explain the matter or activity and why the records sought are necessary to be provided on an expedited basis.\n",
+              "(iii) The requester shall certify the written statement that purports to demonstrate a compelling need for expedited processing to be true and correct to the best of the requester's knowledge and belief. The certification must be in the form prescribed by 28 U.S.C. 1746: “I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge and belief. Executed on [date].”\n",
+              {
+                "_": "(3)  Within ten (10) calendar days of its receipt of a request for expedited processing, the Council shall decide whether to grant the request and shall notify the requester of the determination in writing.\n",
+                "I": [
+                  "Determinations of requests for expedited processing."
+                ]
+              },
+              {
+                "_": "(4)  If the Council grants a request for expedited processing, then the Council shall give the expedited request priority over non-expedited requests and shall process the expedited request as soon as practicable. The Council may assign expedited requests to their own simple and complex processing tracks based upon the amount of work and/or time needed to process them. Within each such track, an expedited request shall be processed in the order of its receipt.\n",
+                "I": [
+                  "Effect of granting expedited processing."
+                ]
+              },
+              {
+                "_": "(5)  If the Council denies a request for expedited processing, then the requester shall have the right to submit an appeal of the denial determination in accordance with § 1301.11. The Council shall communicate this appeal right as part of its written notification to the requester denying expedited processing. The requester shall clearly mark its appeal request and any envelope that encloses it with the words “Appeal for Expedited Processing.”\n",
+                "I": [
+                  "Appeals of denials of requests for expedited processing."
+                ]
+              },
+              {
+                "_": "(d)  Ordinarily, the Council shall have twenty (20) days (excepting Saturdays, Sundays, and legal public holidays) from when a request that satisfies the requirements of § 1301.5(b) is received by the Council to determine whether to grant or deny a request for records. The twenty-day time period set forth in this paragraph shall not be tolled by the Council except that the Council may:\n",
+                "I": [
+                  "Time period for responding to requests for records."
+                ]
+              },
+              "(1) Make one reasonable demand to the requester for clarifying information about the request and toll the twenty-day time period while it awaits the clarifying information; or\n",
+              "(2) Toll the twenty-day time period while awaiting receipt of the requester's response to the Council's request for clarification regarding the assessment of fees.\n",
+              {
+                "_": "(e) —(1)  Except as provided in paragraph (e)(2) of this section, if the Council determines that, due to unusual circumstances, it cannot respond either to a request within the time period set forth in paragraph (d) of this section or to an appeal within the time period set forth in § 1301.11, the Council may extend the applicable time periods by informing the requester in writing of the unusual circumstances and of the date by which the Council expects to complete its processing of the request or appeal. Any extension or extensions of time shall not cumulatively total more than ten (10) days (exclusive of Saturdays, Sundays, and legal public holidays).\n",
+                "I": [
+                  "Unusual circumstances",
+                  "In general."
+                ]
+              },
+              {
+                "_": "(2)  If the Council determines that it needs additional time beyond a ten-day extension to process the request or appeal, then the Council shall notify the requester and provide the requester with an opportunity to limit the scope of the request or appeal or to arrange for an alternative time frame for processing the request or appeal or a modified request or appeal. The requester shall retain the right to define the desired scope of the request or appeal, as long as it meets the requirements contained in this part. To aid the requester, the Council shall make available its FOIA Public Liaison, who shall assist in defining the desired scope of the request, and shall notify the requester of the right to seek dispute resolution services from the Office of Government Information Services.\n",
+                "I": [
+                  "Additional time."
+                ]
+              },
+              "(3) As used in this paragraph (e), “unusual circumstances” means, but only to the extent reasonably necessary to the proper processing of the particular requests:\n",
+              "(i) The need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;\n",
+              "(ii) The need to search for, collect, and appropriately examine a voluminous amount of separate and distinct records which are demanded in a single request; or\n",
+              "(iii) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request, or among two or more components or component offices having substantial subject matter interest therein.\n",
+              "(4) Where the Council reasonably believes that multiple requests submitted by a requester, or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances, and the requests involve clearly related matters, they may be aggregated. Multiple requests involving unrelated matters will not be aggregated. The Council may disaggregate and treat as separate requests a single request that has multiple unrelated components. The Council shall notify the requester if a request is disaggregated.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.8",
+              "NODE": "12:10.0.3.6.2.0.5.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.8   Responses to requests for Council records."
+            ],
+            "P": [
+              {
+                "_": "(a)  Upon receipt of a request that meets the requirements of § 1301.5(b), the Council ordinarily shall assign to the request a unique tracking number and shall send an acknowledgement letter or email to the requester that contains the following information:\n",
+                "I": [
+                  "Acknowledgement of requests."
+                ]
+              },
+              "(1) A brief description of the request;\n",
+              "(2) The applicable request tracking number;\n",
+              "(3) The date of receipt of the request, as determined in accordance with § 1301.5(c); and\n",
+              "(4) A confirmation, with respect to any fees that may apply to the request pursuant to § 1301.12, that the requester has sought a waiver or reduction in such fees, has agreed to pay any and all applicable fees, or has specified an upper limit (of not less than $25) that the requester is willing to pay in fees to process the request.\n",
+              {
+                "_": "(b) —(1)  The Council records officer (as designated in § 1301.6(b)) shall make initial determinations to grant or to deny in whole or in part requests for records.\n",
+                "I": [
+                  "Initial determination to grant or deny a request",
+                  "In general."
+                ]
+              },
+              {
+                "_": "(2)  If the request is granted in full or in part, the Council shall provide the requester with a copy of the releasable records, and shall do so in the format specified by the requester to the extent that the records are readily producible by the Council in the requested format. The Council also shall send the requester a statement of the applicable fees, broken down by search, review and duplication fees, either at the time of the determination or shortly thereafter. The Council shall also advise the requester of the right to seek assistance from the FOIA Public Liaison.\n",
+                "I": [
+                  "Granting of request."
+                ]
+              },
+              {
+                "_": "(3)  If the Council determines that the request for records should be denied in whole or in part, the Council shall notify the requester in writing. The notification shall:\n",
+                "I": [
+                  "Denial of requests."
+                ]
+              },
+              "(i) State the exemptions relied on in not granting the request;\n",
+              "(ii) If technically feasible, indicate the volume of information redacted (including the number of pages withheld in part and in full) and the exemptions under which the redaction is made at the place in the record where such redaction is made (unless providing such indication would harm an interest protected by the exemption relied upon to deny such material);\n",
+              "(iii) Set forth the name and title or position of the responsible official;\n",
+              "(iv) Advise the requester of the right to administrative appeal in accordance with § 1301.11 and specify the official or office to which such appeal shall be submitted; and\n",
+              "(v) Advise the requester of the right to seek assistance from the FOIA Public Liaison or seek dispute resolution services offered by the Office of Government Information Services.\n",
+              {
+                "_": "(4)  If it is determined, after an adequate search for records by the responsible official or his/her delegate, that no records could be located, the Council shall so notify the requester in writing. The notification letter shall advise the requester of the right to seek assistance from the FOIA Public Liaison, seek dispute resolution services offered by the Office of Government Information Services, and administratively appeal the Council's determination that no records could be located ( to challenge the adequacy of the Council's search for responsive records) in accordance with § 1301.11. The response shall specify the official to whom the appeal shall be submitted for review.\n\n\n",
+                "I": [
+                  "No records found.",
+                  "i.e.,"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.9",
+              "NODE": "12:10.0.3.6.2.0.5.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.9   Classified information."
+            ],
+            "P": [
+              {
+                "_": "(a)  Whenever a request is made for a record containing information that has been classified, or may be appropriate for classification, by another agency under Executive Order 13526 or any other executive order concerning the classification of records, the Council shall refer the responsibility for responding to the request regarding that information to the agency that classified the information, should consider the information for classification, or has the primary interest in it, as appropriate. Whenever a record contains information that has been derivatively classified by the Council because it contains information classified by another agency, the Council shall refer the responsibility for responding to the request regarding that information to the agency that classified the underlying information or shall consult with that agency prior to processing the record for disclosure or withholding.\n",
+                "I": [
+                  "Referrals of requests for classified information."
+                ]
+              },
+              {
+                "_": "(b)  Requests for information classified pursuant to Executive Order 13526 require the Council to review the information to determine whether it continues to warrant classification. Information which no longer warrants classification under the Executive Order's criteria shall be declassified and made available to the requester, unless the information is otherwise exempt from disclosure.\n\n\n",
+                "I": [
+                  "Determination of continuing need for classification of information."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.10",
+              "NODE": "12:10.0.3.6.2.0.5.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.10   Requests for business information provided to the Council."
+            ],
+            "P": [
+              {
+                "_": "(a)  Business information provided to the Council by a submitter shall not be disclosed pursuant to a FOIA request except in accordance with this section.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  For purposes of this section:\n",
+                "I": [
+                  "Definitions."
+                ]
+              },
+              {
+                "_": "(1)  means information from a submitter that is trade secrets or other commercial or financial information that may be protected from disclosure under Exemption 4.\n",
+                "I": [
+                  "Business information"
+                ]
+              },
+              {
+                "_": "(2)  means any person or entity from whom the Council obtains business information, directly or indirectly. The term includes corporations, state, local, and tribal governments, and foreign governments.\n",
+                "I": [
+                  "Submitter"
+                ]
+              },
+              {
+                "_": "(3)  means Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).\n",
+                "I": [
+                  "Exemption 4"
+                ]
+              },
+              {
+                "_": "(c)  A submitter of business information shall use good-faith efforts to designate, by appropriate markings, either at the time of submission or at a reasonable time thereafter, any portions of its submission that it considers to be protected from disclosure under Exemption 4. These designations will expire ten (10) years after the date of the submission unless the submitter on his or her own initiative requests otherwise, and provides justification for, a longer designation period.\n",
+                "I": [
+                  "Designation of business information."
+                ]
+              },
+              {
+                "_": "(d)  The Council shall provide a submitter with prompt written notice of receipt of a request or appeal encompassing the business information of the submitter whenever required in accordance with paragraph (e) of this section. Such written notice shall either describe the exact nature of the business information requested or provide copies of the records or portions of records containing the business information. When a voluminous number of submitters must be notified, the Council may post or publish such notice in a place reasonably likely to accomplish such notification.\n",
+                "I": [
+                  "Notice to submitters."
+                ]
+              },
+              {
+                "_": "(e)  The Council shall provide a submitter with notice of receipt of a request or appeal whenever:\n",
+                "I": [
+                  "When notice is required."
+                ]
+              },
+              "(1) The information has been designated in good faith by the submitter as information considered protected from disclosure under Exemption 4; or\n",
+              "(2) The Council has reason to believe that the information may be protected from disclosure under Exemption 4 because disclosure could reasonably be expected to cause substantial competitive harm to the submitter.\n",
+              {
+                "_": "(f)  (1) Through the notice described in paragraph (d) of this section, the Council shall notify the submitter in writing that the submitter shall have ten (10) days from the date of the notice (exclusive of Saturdays, Sundays, and legal public holidays) to provide the Council with a detailed statement of any objection to disclosure. Such statement shall specify all grounds for withholding any of the information under Exemption 4, including a statement of why the information is considered to be a trade secret or commercial or financial information that is privileged or confidential. In the event that the submitter fails to respond to the notice within the time specified, the submitter shall be considered to have no objection to disclosure of the information. Information provided by a submitter pursuant to this paragraph (f) may itself be subject to disclosure under the FOIA.\n",
+                "I": [
+                  "Opportunity to object to disclosure."
+                ]
+              },
+              "(2) When notice is given to a submitter under this section, the Council shall advise the requester that such notice has been given to the submitter. The requester shall be further advised that a delay in responding to the request may be considered a denial of access to records and that the requester may proceed with an administrative appeal or seek judicial review, if appropriate. However, the Council shall invite the requester to agree to an extension of time so that the Council may review the submitter's objection to disclosure.\n",
+              {
+                "_": "(g)  The Council shall consider carefully a submitter's objections and specific grounds for nondisclosure prior to determining whether to disclose business information responsive to the request. If the Council decides to disclose business information over the objection of a submitter, the Council shall provide the submitter with a written notice which shall include:\n",
+                "I": [
+                  "Notice of intent to disclose."
+                ]
+              },
+              "(1) A statement of the reasons for which the submitter's disclosure objections were not sustained;\n",
+              "(2) A description of the business information to be disclosed; and\n",
+              "(3) A specified disclosure date which is not less than ten (10) days (exclusive of Saturdays, Sundays, and legal public holidays) after the notice of the final decision to release the requested information has been provided to the submitter. Except as otherwise prohibited by law, notice of the final decision to release the requested information shall be forwarded to the requester at the same time.\n",
+              {
+                "_": "(h)  Whenever a requester brings suit seeking to compel disclosure of business information covered in paragraph (c) of this section, the Council shall promptly notify the submitter.\n",
+                "I": [
+                  "Notice of FOIA lawsuit."
+                ]
+              },
+              {
+                "_": "(i)  The notice requirements of this section shall not apply if:\n",
+                "I": [
+                  "Exception to notice requirement."
+                ]
+              },
+              "(1) The Council determines that the information shall not be disclosed;\n",
+              "(2) The information lawfully has been published or otherwise made available to the public; or\n",
+              "(3) Disclosure of the information is required by statute (other than the FOIA) or by a regulation issued in accordance with the requirements of Executive Order 12600 (3 CFR, 1987 Comp., p. 235).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.11",
+              "NODE": "12:10.0.3.6.2.0.5.11",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.11   Administrative appeals and dispute resolution."
+            ],
+            "P": [
+              {
+                "_": "(a)  A requester may appeal an initial determination of the Council, including but not limited to a determination:\n",
+                "I": [
+                  "Grounds for administrative appeals."
+                ]
+              },
+              "(1) To deny access to records in whole or in part (as provided in § 1301.8(b)(3));\n",
+              "(2) To assign a particular fee category to the requester (as provided in § 1301.12(c));\n",
+              "(3) To deny a request for a reduction or waiver of fees (as provided in § 1301.12(f)(7));\n",
+              "(4) That no records could be located that are responsive to the request (as provided in § 1301.8(b)(4)); or\n",
+              "(5) To deny a request for expedited processing (as provided in § 1301.7(c)(5)).\n",
+              {
+                "_": "(b)  An appeal must be submitted within ninety (90) days of the date of the initial determination or the date of the letter transmitting the last records released, whichever is later, or, in the case of an appeal of a denial of expedited processing, within ninety (90) days of the date of the initial determination to deny expedited processing (see § 1301.7).\n",
+                "I": [
+                  "Time limits for filing administrative appeals."
+                ]
+              },
+              {
+                "_": "(c)  The appeal shall—\n",
+                "I": [
+                  "Form and content of administrative appeals."
+                ]
+              },
+              "(1) Be made in writing or, as set forth on the Council's Web site, via the Internet;\n",
+              "(2) Be clearly marked on the appeal request and any envelope that encloses it with the words “Freedom of Information Act Appeal” and addressed to Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW., Washington, DC 20220;\n",
+              "(3) Set forth the name of and contact information for the requester, including a mailing address, telephone number, and, if available, an email address at which the Council may contact the requester regarding the appeal;\n",
+              "(4) Specify the date of the initial request and date of the letter of initial determination, and, where possible, enclose a copy of the initial request and the initial determination being appealed; and\n",
+              "(5) Set forth specific grounds for the appeal.\n",
+              {
+                "_": "(d)  Appeals shall be stamped with the date of their receipt by the office to which addressed, and shall be processed in the approximate order of their receipt. The receipt of the appeal shall be acknowledged by the Council and the requester advised of the date the appeal was received and the expected date of response.\n",
+                "I": [
+                  "Processing of administrative appeals."
+                ]
+              },
+              {
+                "_": "(e)  The Chairperson of the Council or his/her designee is authorized to and shall decide whether to affirm or reverse the initial determination (in whole or in part), and shall notify the requester of this decision in writing within twenty (20) days (exclusive of Saturdays, Sundays, and legal public holidays) after the date of receipt of the appeal, unless extended pursuant to § 1301.7(e).\n",
+                "I": [
+                  "Determinations to grant or deny administrative appeals."
+                ]
+              },
+              "(1) If it is decided that the appeal is to be denied (in whole or in part) the requester shall be—\n",
+              "(i) Notified in writing of the denial;\n",
+              "(ii) Notified of the reasons for the denial, including the FOIA exemptions relied upon;\n",
+              "(iii) Notified of the name and title or position of the official responsible for the determination on appeal;\n",
+              "(iv) Provided with a statement that judicial review of the denial is available in the United States District Court for the judicial district in which the requester resides or has a principal place of business, the judicial district in which the requested records are located, or the District of Columbia in accordance with 5 U.S.C. 552(a)(4)(B); and\n",
+              "(v) Provided with notification that mediation services may be available to the requester as a non-exclusive alternative to litigation through the Office of Government Information Services in accordance with 5 U.S.C. 552(h)(3).\n",
+              "(2) If the Council grants the appeal in its entirety, the Council shall so notify the requester and promptly process the request in accordance with the decision on appeal.\n",
+              {
+                "_": "(f)  Requesters may seek dispute resolution by contacting the FOIA Public Liaison or the Office of Government Information Services as set forth on the Council's Web site.\n\n\n",
+                "I": [
+                  "Dispute resolution."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1301.12",
+              "NODE": "12:10.0.3.6.2.0.5.12",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1301.12   Fees for processing requests for Council records."
+            ],
+            "P": [
+              {
+                "_": "(a)  The Council shall charge the requester for processing a request under the FOIA in the amounts and for the services set forth in paragraphs (b) through (d) of this section, except if a waiver or reduction of fees is granted under paragraph (f) of this section, or if, pursuant to paragraph (e)(2) of this section, the failure of the Council to comply with certain time limits precludes it from assessing certain fees. No fees shall be charged if the amount of fees incurred in processing the request is below $25.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  The fees for services performed by the Council shall be imposed and collected as set forth in this paragraph (b).\n",
+                "I": [
+                  "Fees chargeable for specific services."
+                ]
+              },
+              {
+                "_": "(1)  The Council shall charge a requester fees for the cost of copying records as follows:\n",
+                "I": [
+                  "Duplicating records."
+                ]
+              },
+              {
+                "_": "(i) $0.08 per page, up to 8\n x 14″, made by photocopy or similar process.\n",
+                "FR": [
+                  "1/2"
+                ]
+              },
+              "(ii) Photographs, films, and other materials—actual cost of duplication.\n",
+              "(iii) Other types of duplication services not mentioned above—actual cost.\n",
+              "(iv) Material provided to a private contractor for copying shall be charged to the requester at the actual cost charged by the private contractor.\n",
+              {
+                "_": "(2)  The Council shall charge a requester for all time spent by its employees searching for records that are responsive to a request, including page-by-page or line-by-line identification of responsive information within records, even if no responsive records are found. The Council shall charge the requester fees for search time as follows:\n",
+                "I": [
+                  "Search services."
+                ]
+              },
+              {
+                "_": "(i)  The Council shall charge for search time at the salary rate(s) (basic pay plus sixteen (16) percent) of the employee(s) who conduct the search. This charge shall also include transportation of employees and records at actual cost. Fees may be charged for search time even if the search does not yield any responsive records, or if records are exempt from disclosure.\n",
+                "I": [
+                  "Searches for other than electronic records."
+                ]
+              },
+              {
+                "_": "(ii)  The Council shall charge the requester for the actual direct cost of the search, including computer search time, runs, and the operator's salary. The fee for computer output shall be the actual direct cost. For a requester in the “other” category, when the cost of the search (including the operator time and the cost of operating the computer to process a request) equals the equivalent dollar amount of two hours of the salary of the person performing the search ( the operator), the charge for the computer search will begin.\n",
+                "I": [
+                  "Searches for electronic records.",
+                  "i.e.,"
+                ]
+              },
+              {
+                "_": "(3)  The Council shall charge a requester for time spent by its employees examining responsive records to determine whether any portions of such record are withholdable from disclosure, pursuant to the FOIA exemptions of 5 U.S.C. 552(b). The Council shall also charge a requester for time spent by its employees redacting any such withholdable information from a record and preparing a record for release to the requester. The Council shall charge a requester for time spent reviewing records at the salary rate(s) ( basic pay plus sixteen (16) percent) of the employees who conduct the review. Fees may be charged for review time even if records ultimately are not disclosed.\n",
+                "I": [
+                  "Review of records.",
+                  "i.e.,"
+                ]
+              },
+              {
+                "_": "(4)  Fees for all services provided shall be charged whether or not copies are made available to the requester for inspection. However, no fee shall be charged for monitoring a requester's inspection of records.\n",
+                "I": [
+                  "Inspection of records in the reading room."
+                ]
+              },
+              {
+                "_": "(5)  Other services and materials requested which are not covered by this part nor required by the FOIA are chargeable at the actual cost to the Council. Charges permitted under this paragraph may include:\n",
+                "I": [
+                  "Other services."
+                ]
+              },
+              "(i) Certifying that records are true copies; and\n",
+              "(ii) Sending records by special methods (such as by express mail, etc.).\n",
+              {
+                "_": "(c) —(1)  The Council shall assess the fees set forth in paragraph (b) of this section in accordance with the requester fee categories set forth below.\n",
+                "I": [
+                  "Fees applicable to various categories of requesters",
+                  "Generally."
+                ]
+              },
+              {
+                "_": "(2)  A requester shall identify, in the initial FOIA request, the purpose of the request in one of the following categories:\n",
+                "I": [
+                  "Requester selection of fee category."
+                ]
+              },
+              {
+                "_": "(i)  A commercial use request refers to a request from or on behalf of a person who seeks information for a use or purpose that furthers the commercial, trade, or profit interests of the requester or the person on whose behalf the request is made, which can include furthering those interests through litigation. The Council may determine from the use specified in the request that the requester is a commercial user.\n",
+                "I": [
+                  "Commercial."
+                ]
+              },
+              {
+                "_": "(ii)  This refers to a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of undergraduate higher education, an institution of professional education, and an institution of vocational education, which operates a program or programs of scholarly research. This includes a request from a teacher or student at any such institution making the request in connection with his or her role at the educational institution.\n",
+                "I": [
+                  "Educational institution."
+                ]
+              },
+              {
+                "_": "(iii)  This refers to an institution that is not operated on a “commercial” basis, as that term is defined in paragraph (c)(2)(i) of this section, and which is operated solely for the purpose of conducting scientific research, the results of which are not intended to promote any particular product or industry.\n",
+                "I": [
+                  "Non-commercial scientific institution."
+                ]
+              },
+              {
+                "_": "(iv)  This refers to any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. In this paragraph (c)(2)(iv), the term “news” means information that is about current events or that would be of current interest to the public. Examples of news-media entities are television or radio stations broadcasting to the public at large and publishers of periodicals (but only if such entities qualify as disseminators of “news”) who make their products available for purchase by subscription or by free distribution to the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example, the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news media entities. A freelance journalist shall be regarded as working for a news media entity if the journalist can demonstrate a solid basis for expecting publication through that entity, whether or not the journalist is actually employed by the entity. A publication contract would present a solid basis for such an expectation; the Council may also consider the past publication record of the requester in making such a determination.\n",
+                "I": [
+                  "Representative of the news media."
+                ]
+              },
+              {
+                "_": "(v)  This refers to a requester who does not fall within any of the categories described in paragraphs (c)(2)(i)-(iv) of this section.\n",
+                "I": [
+                  "Other requester."
+                ]
+              },
+              {
+                "_": "(d)  The Council shall apply the fees set forth in this paragraph, for each category described in paragraph (c) of this section, to requests processed by the Council under the FOIA.\n",
+                "I": [
+                  "Fees applicable to each category of requester."
+                ]
+              },
+              {
+                "_": "(1)  A requester seeking records for commercial use shall be charged the full direct costs of searching for, reviewing, and duplicating the records they request as set forth in paragraph (b) of this section. Moreover, when a request is received for disclosure that is primarily in the commercial interest of the requester, the Council is not required to consider a request for a waiver or reduction of fees based upon the assertion that disclosure would be in the public interest. The Council may recover the cost of searching for and reviewing records even if there is ultimately no disclosure of records or no records are located.\n",
+                "I": [
+                  "Commercial use."
+                ]
+              },
+              {
+                "_": "(2)  A requester seeking records for educational or non-commercial scientific use shall be charged only for the cost of duplicating the records they request, except that the Council shall provide the first one hundred (100) pages of duplication free of charge. To be eligible, the requester must show that the request is made in connection with the requester's role at an educational institution or is made under the auspices of a non-commercial scientific institution and that the records are not sought for a commercial use, but are sought in furtherance of scholarly (if the request is from an educational institution) or scientific (if the request is from a non-commercial scientific institution) research.\n",
+                "I": [
+                  "Educational and non-commercial scientific uses."
+                ]
+              },
+              {
+                "_": "(3)  A requester seeking records under the news media use category shall be charged only for the cost of duplicating the records they request, except that the Council shall provide the requester with the first one hundred (100) pages of duplication free of charge.\n",
+                "I": [
+                  "News media uses."
+                ]
+              },
+              {
+                "_": "(4)  A requester seeking records for any other use shall be charged the full direct cost of searching for and duplicating records that are responsive to the request, as set forth in paragraph (b) of this section, except that the Council shall provide the first one hundred (100) pages of duplication and the first two hours of search time free of charge. The Council may recover the cost of searching for records even if there is ultimately no disclosure of records, or no records are located.\n",
+                "I": [
+                  "Other requests."
+                ]
+              },
+              {
+                "_": "(e)  (1) Notwithstanding paragraphs (b), (c), and (d) of this section, the Council may not charge a requester a fee for processing a FOIA request if—\n",
+                "I": [
+                  "Other circumstances when fees are not charged."
+                ]
+              },
+              "(i) Services were performed without charge;\n",
+              "(ii) The cost of collecting a fee would be equal to or greater than the fee itself; or\n",
+              "(iii) The fees were waived or reduced in accordance with paragraph (f) of this section.\n",
+              "(2) Notwithstanding paragraphs (b), (c), and (d) of this section, the Council may not charge a requester search fees or, in the case of a requester described in paragraphs (c)(2)(ii) through (iv) of this section, duplication fees if the Council fails to comply with any time limit under § 1301.7 or § 1301.11; provided that:\n",
+              "(i) If unusual circumstances (as that term is defined in § 1301.7(e)) apply to the processing of the request and the Council has provided a timely notice to the requester in accordance with § 1301.7(e)(1), then a failure to comply with such time limit shall be excused for an additional ten days;\n",
+              "(ii) If unusual circumstances (as that term is defined in § 1301.7(e)) apply to the processing of the request, more than 5,000 pages are necessary to respond to the request, the Council has provided a timely written notice to the requester in accordance with § 1301.7(e)(2), and the Council has discussed with the requester via written mail, electronic mail, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with § 1301.7(e)(2), then the Council may charge a requester such fees; and\n",
+              "(iii) If a court has determined that exceptional circumstances exist, then a failure to comply with such time limit shall be excused for the length of time provided by the court order.\n",
+              {
+                "_": "(f)  (1) A requester shall be entitled to receive from the Council a waiver or reduction in the fees otherwise applicable to a FOIA request whenever the requester:\n",
+                "I": [
+                  "Waiver or reduction of fees."
+                ]
+              },
+              "(i) Requests such waiver or reduction of fees in writing and submits the written request to the Council together with or as part of the FOIA request, or at a later time consistent with § 1301.5(b)(7) to process the request; and\n",
+              "(ii) Demonstrates that the fee reduction or waiver request is in the public interest because:\n",
+              "(A) Furnishing the information is likely to contribute significantly to public understanding of the operations or activities of the government; and\n",
+              "(B) Furnishing the information is not primarily in the commercial interest of the requester.\n",
+              "(2) To determine whether the requester has satisfied the requirements of paragraph (f)(1)(ii)(A) of this section, the Council shall consider:\n",
+              "(i) The subject of the requested records must concern identifiable operations or activities of the federal government, with a connection that is direct and clear, not remote or attenuated;\n",
+              "(ii) The disclosable portions of the requested records must be meaningfully informative about government operations or activities in order to be “likely to contribute” to an increased public understanding of those operations or activities. The disclosure of information that already is in the public domain, in either a duplicative or a substantially identical form, would not be as likely to contribute to such understanding where nothing new would be added to the public's understanding;\n",
+              "(iii) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area and ability and intention to effectively convey information to the public shall be considered. It shall be presumed that a representative of the news media will satisfy this consideration.\n",
+              "(iv) The public's understanding of the subject in question, as compared to the level of public understanding existing prior to the disclosure, must be enhanced by the disclosure to a significant extent.\n",
+              "(3) To determine whether the requester satisfies the requirement of paragraph (f)(1)(ii)(B) of this section, the Council shall consider:\n",
+              "(i) Any commercial interest of the requester (with reference to the definition of “commercial use” in paragraph (c)(2)(i) of this section), or of any person on whose behalf the requester may be acting, that would be furthered by the requested disclosure. In the administrative process, a requester may provide explanatory information regarding this consideration; and\n",
+              "(ii) Whether the public interest is greater in magnitude than that of any identified commercial interest in disclosure. The Council ordinarily shall presume that, if a news media requester satisfies the public interest standard, the public interest will be the interest primarily served by disclosure to that requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.\n",
+              "(4) Where only some of the records to be released satisfy the requirements for a waiver or reduction of fees, a waiver or reduction shall be granted for those records.\n",
+              {
+                "_": "(5)  The Council shall notify the requester in writing regarding its determinations to reduce or waive fees.\n",
+                "I": [
+                  "Determination of request to reduce or waive fees."
+                ]
+              },
+              {
+                "_": "(6)  If the Council denies a request to reduce or waive fees, then the Council shall advise the requester, in the denial notification letter, that the requester may incur fees as a result of processing the request. In the denial notification letter, the Council shall advise the requester that the Council will not proceed to process the request further unless the requester, in writing, directs the Council to do so and either agrees to pay any fees that may apply to processing the request or specifies an upper limit (of not less than $25) that the requester is willing to pay to process the request. If the Council does not receive this written direction and agreement/specification within thirty (30) days of the date of the denial notification letter, then the Council shall deem the FOIA request to be withdrawn.\n",
+                "I": [
+                  "Effect of denying request to reduce or waive fees."
+                ]
+              },
+              {
+                "_": "(7)  If the Council denies a request to reduce or waive fees, then the requester shall have the right to submit an appeal of the denial determination in accordance with § 1301.11. The Council shall communicate this appeal right as part of its written notification to the requester denying the fee reduction or waiver request. The requester shall clearly mark its appeal request and any envelope that encloses it with the words “Appeal for Fee Reduction/Waiver.”\n",
+                "I": [
+                  "Appeals of denials of requests to reduce or waive fees."
+                ]
+              },
+              {
+                "_": "(g)  (1) When the Council estimates the fees for processing a request will exceed the limit set by the requester, and that amount is less than $250, the Council shall notify the requester of the estimated costs, broken down by search, review and duplication fees. The requester must provide an agreement to pay the estimated costs, except that the requester may reformulate the request in an attempt to reduce the estimated fees.\n",
+                "I": [
+                  "Notice of estimated fees; advance payments."
+                ]
+              },
+              "(2) If the requester fails to state a limit and the costs are estimated to exceed $250, the requester shall be notified of the estimated costs, broken down by search, review and duplication fees, and must pay such amount prior to the processing of the request, or provide satisfactory assurance of full payment if the requester has a history of prompt payment of FOIA fees. Alternatively, the requester may reformulate the request in such a way as to constitute a request for responsive records at a reduced fee.\n",
+              "(3) The Council reserves the right to request advance payment after a request is processed and before records are released.\n",
+              "(4) If a requester previously has failed to pay a fee within thirty (30) calendar days of the date of the billing, the requester shall be required to pay the full amount owed plus any applicable interest, and to make an advance payment of the full amount of the estimated fee before the Council begins to process a new request or the pending request.\n",
+              {
+                "_": "(h)  Payment may be made by check or money order paid to the Treasurer of the United States.\n",
+                "I": [
+                  "Form of payment."
+                ]
+              },
+              {
+                "_": "(i)  The Council may charge interest on any unpaid bill starting on the 31st day following the date of billing the requester. Interest charges will be assessed at the rate provided in 31 U.S.C. 3717 and will accrue from the date of the billing until payment is received by the Council. The Council will follow the provisions of the Debt Collection Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended, and its administrative procedures, including the use of consumer reporting agencies, collection agencies, and offset.\n",
+                "I": [
+                  "Charging interest."
+                ]
+              },
+              {
+                "_": "(j)  If the Council reasonably determines that a requester or a group of requesters acting together is attempting to divide a request into a series of requests for the purpose of avoiding fees, the Council may aggregate those requests and charge accordingly. The Council may presume that multiple requests involving related matters submitted within a thirty (30) calendar day period have been made in order to avoid fees. The Council shall not aggregate multiple requests involving unrelated matters.\n\n\n",
+                "I": [
+                  "Aggregating requests."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1310",
+          "NODE": "12:10.0.3.6.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1310—AUTHORITY TO REQUIRE SUPERVISION AND REGULATION OF CERTAIN NONBANK FINANCIAL COMPANIES\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "12 U.S.C. 5321; 12 U.S.C. 5322; 12 U.S.C. 5323.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "77 FR 21651, Apr. 11, 2012, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "12:10.0.3.6.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1310.1",
+                  "NODE": "12:10.0.3.6.3.1.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.1   Authority and purpose."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  This part is issued by the Council under sections 111, 112 and 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) (12 U.S.C. 5321, 5322, and 5323).\n",
+                    "I": [
+                      "Authority."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The principal purposes of this part are to set forth the standards and procedures governing Council determinations under section 113 of the Dodd-Frank Act (12 U.S.C. 5323), including whether material financial distress at a nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States, and whether a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards in accordance with title I of the Dodd-Frank Act.\n\n\n",
+                    "I": [
+                      "Purpose."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.2",
+                  "NODE": "12:10.0.3.6.3.1.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.2   Definitions."
+                ],
+                "P": [
+                  "The terms used in this part have the following meanings—\n",
+                  {
+                    "_": " The term “Board of Governors” means the Board of Governors of the Federal Reserve System.\n",
+                    "I": [
+                      "Board of Governors."
+                    ]
+                  },
+                  {
+                    "_": " The term “Commission” means the Securities and Exchange Commission, except in the context of the Commodity Futures Trading Commission.\n",
+                    "I": [
+                      "Commission."
+                    ]
+                  },
+                  {
+                    "_": " The term “Council” means the Financial Stability Oversight Council.\n",
+                    "I": [
+                      "Council."
+                    ]
+                  },
+                  {
+                    "_": " The term “Federal Insurance Office” means the office established within the Department of the Treasury by section 502(a) of the Dodd-Frank Act (31 U.S.C. 301 (note)).\n",
+                    "I": [
+                      "Federal Insurance Office."
+                    ]
+                  },
+                  {
+                    "_": " The term “foreign nonbank financial company” means a company (other than a company that is, or is treated in the United States as, a bank holding company) that is—\n",
+                    "I": [
+                      "Foreign nonbank financial company."
+                    ]
+                  },
+                  "(1) Incorporated or organized in a country other than the United States; and\n",
+                  "(2) “Predominantly engaged in financial activities,” as that term is defined in section 102(a)(6) of the Dodd-Frank Act (12 U.S.C. 5311(a)(6)) and pursuant to any requirements for determining if a company is predominantly engaged in financial activities as established by regulation of the Board of Governors pursuant to section 102(b) of the Dodd-Frank Act (12 U.S.C. 5311(b)), including through a branch in the United States.\n",
+                  {
+                    "_": " The term “hearing date” means the latest of—\n",
+                    "I": [
+                      "Hearing date."
+                    ]
+                  },
+                  "(1) The date on which the Council has received all of the written materials timely submitted by a nonbank financial company for a hearing that is conducted without oral testimony pursuant to § 1310.21 or § 1310.22, as applicable;\n",
+                  "(2) The final date on which the Council or its representatives convene to hear oral testimony presented by a nonbank financial company pursuant to § 1310.21 or § 1310.22, as applicable; and\n",
+                  "(3) The date on which the Council has received all of the written materials timely submitted by a nonbank financial company to supplement any oral testimony and materials presented by the nonbank financial company pursuant to § 1310.21 or § 1310.22, as applicable.\n",
+                  {
+                    "_": " The term “member agency” means an agency represented by a voting member of the Council under section 111(b)(1) of the Dodd-Frank Act (12 U.S.C. 5321).\n",
+                    "I": [
+                      "Member agency."
+                    ]
+                  },
+                  {
+                    "_": " The term “nonbank financial company” means a U.S. nonbank financial company or a foreign nonbank financial company.\n",
+                    "I": [
+                      "Nonbank financial company."
+                    ]
+                  },
+                  {
+                    "_": " The term “Office of Financial Research” means the office established within the Department of the Treasury by section 152 of the Dodd-Frank Act (12 U.S.C. 5342).\n",
+                    "I": [
+                      "Office of Financial Research."
+                    ]
+                  },
+                  {
+                    "_": " The term “primary financial regulatory agency” means—\n",
+                    "I": [
+                      "Primary financial regulatory agency."
+                    ]
+                  },
+                  "(1) The appropriate Federal banking agency, with respect to institutions described in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), except to the extent that an institution is or the activities of an institution are otherwise described in paragraph (2), (3), (4), or (5) of this definition;\n",
+                  "(2) The Commission, with respect to—\n",
+                  "(i) Any broker or dealer that is registered with the Commission under the Securities Exchange Act of 1934, with respect to the activities of the broker or dealer that require the broker or dealer to be registered under that Act;\n",
+                  "(ii) Any investment company that is registered with the Commission under the Investment Company Act of 1940, with respect to the activities of the investment company that require the investment company to be registered under that Act;\n",
+                  "(iii) Any investment adviser that is registered with the Commission under the Investment Advisers Act of 1940, with respect to the investment advisory activities of such company and activities that are incidental to such advisory activities;\n",
+                  "(iv) Any clearing agency registered with the Commission under the Securities Exchange Act of 1934, with respect to the activities of the clearing agency that require the agency to be registered under such Act;\n",
+                  "(v) Any nationally recognized statistical rating organization registered with the Commission under the Securities Exchange Act of 1934;\n",
+                  "(vi) Any transfer agent registered with the Commission under the Securities Exchange Act of 1934;\n",
+                  "(vii) Any exchange registered as a national securities exchange with the Commission under the Securities Exchange Act of 1934;\n",
+                  "(viii) Any national securities association registered with the Commission under the Securities Exchange Act of 1934;\n",
+                  "(ix) Any securities information processor registered with the Commission under the Securities Exchange Act of 1934;\n",
+                  "(x) The Municipal Securities Rulemaking Board established under the Securities Exchange Act of 1934;\n",
+                  {
+                    "_": "(xi) The Public Company Accounting Oversight Board established under the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 );\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(xii) The Securities Investor Protection Corporation established under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa ); and\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  "(xiii) Any security-based swap execution facility, security-based swap data repository, security-based swap dealer or major security-based swap participant registered with the Commission under the Securities Exchange Act of 1934, with respect to the security-based swap activities of the person that require such person to be registered under such Act;\n",
+                  "(3) The Commodity Futures Trading Commission, with respect to—\n",
+                  {
+                    "_": "(i) Any futures commission merchant registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ), with respect to the activities of the futures commission merchant that require the futures commission merchant to be registered under that Act;\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(ii) Any commodity pool operator registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ), with respect to the activities of the commodity pool operator that require the commodity pool operator to be registered under that Act, or a commodity pool, as defined in that Act;\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(iii) Any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading advisor or introducing broker to be registered under that Act;\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(iv) Any derivatives clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ), with respect to the activities of the derivatives clearing organization that require the derivatives clearing organization to be registered under that Act;\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(v) Any board of trade designated as a contract market by the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 );\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(vi) Any futures association registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 );\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(vii) Any retail foreign exchange dealer registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ), with respect to the activities of the retail foreign exchange dealer that require the retail foreign exchange dealer to be registered under that Act;\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": "(viii) Any swap execution facility, swap data repository, swap dealer, or major swap participant registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 ) with respect to the swap activities of the person that require such person to be registered under that Act; and\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  "(ix) Any registered entity as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a), with respect to the activities of the registered entity that require the registered entity to be registered under that Act;\n",
+                  "(4) The State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision by the State insurance authority under State insurance law; and\n",
+                  "(5) The Federal Housing Finance Agency, with respect to Federal Home Loan Banks or the Federal Home Loan Bank System, and with respect to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.\n",
+                  {
+                    "_": " The term “prudential standards” means enhanced supervision and regulatory standards established by the Board of Governors under section 165 of the Dodd-Frank Act (12 U.S.C. 5365).\n",
+                    "I": [
+                      "Prudential standards."
+                    ]
+                  },
+                  {
+                    "_": " The terms “significant nonbank financial company” and “significant bank holding company” have the meanings ascribed to such terms by regulation of the Board of Governors issued under section 102(a)(7) of the Dodd-Frank Act (12 U.S.C. 5311(a)(7)).\n",
+                    "I": [
+                      "Significant companies."
+                    ]
+                  },
+                  {
+                    "_": " The term “U.S. nonbank financial company” means a company (other than a bank holding company; a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 ); a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission; a board of trade designated as a contract market by the Commodity Futures Trading Commission (or parent thereof); or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility, or swap data repository registered with the Commodity Futures Trading Commission), that is—\n",
+                    "I": [
+                      "U.S. nonbank financial company.",
+                      "et seq."
+                    ]
+                  },
+                  "(1) Incorporated or organized under the laws of the United States or any State; and\n",
+                  "(2) “Predominantly engaged in financial activities,” as that term is defined in section 102(a)(6) of the Dodd-Frank Act (12 U.S.C. 5311(a)(6)), and pursuant to any requirements for determining if a company is predominantly engaged in financial activities as established by regulation of the Board of Governors pursuant to section 102(b) of the Dodd-Frank Act (12 U.S.C. 5311(b)).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.3",
+                  "NODE": "12:10.0.3.6.3.1.5.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.3   Amendments."
+                ],
+                "P": [
+                  "The Council shall not amend or rescind appendix A to this part without providing the public with notice and an opportunity to comment in accordance with the procedures applicable to legislative rules under 5 U.S.C. 553.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[84 FR 8959, Mar. 13, 2019]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "12:10.0.3.6.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Determinations"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1310.10",
+                  "NODE": "12:10.0.3.6.3.2.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.10   Council determinations regarding nonbank financial companies."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Council may determine that a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with title I of the Dodd-Frank Act, if the Council determines that material financial distress at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States.\n",
+                    "I": [
+                      "Determinations."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Any proposed or final determination under paragraph (a) of this section shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council and shall not be delegated by the Council; and\n",
+                  "(2) Require the vote of not fewer than two-thirds of the voting members of the Council then serving, including the affirmative vote of the Chairperson of the Council.\n",
+                  {
+                    "_": "(c)  (1) If the Council is unable to determine whether the financial activities of a U.S. nonbank financial company, including a U.S. nonbank financial company that is owned by a foreign nonbank financial company, pose a threat to the financial stability of the United States, based on information or reports obtained by the Council under § 1310.20, including discussions with management, and publicly available information, the Council may request the Board of Governors, and the Board of Governors is authorized, to conduct an examination of the U.S. nonbank financial company and its subsidiaries for the sole purpose of determining whether the nonbank financial company should be supervised by the Board of Governors for purposes of title I of the Dodd-Frank Act (12 U.S.C. 5311-5374).\n",
+                    "I": [
+                      "Back-up examination by the Board of Governors."
+                    ]
+                  },
+                  "(2) The Council shall review the results of the examination of a nonbank financial company, including its subsidiaries, conducted by the Board of Governors under this paragraph (c) in connection with any proposed or final determination under paragraph (a) of this section with respect to the nonbank financial company.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.11",
+                  "NODE": "12:10.0.3.6.3.2.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.11   Considerations in making proposed and final determinations."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In making a proposed or final determination under § 1310.10(a) with respect to a U.S. nonbank financial company, the Council shall consider—\n",
+                    "I": [
+                      "Considerations for U.S. nonbank financial companies."
+                    ]
+                  },
+                  "(1) The extent of the leverage of the U.S. nonbank financial company and its subsidiaries;\n",
+                  "(2) The extent and nature of the off-balance-sheet exposures of the U.S. nonbank financial company and its subsidiaries;\n",
+                  "(3) The extent and nature of the transactions and relationships of the U.S. nonbank financial company and its subsidiaries with other significant nonbank financial companies and significant bank holding companies;\n",
+                  "(4) The importance of the U.S. nonbank financial company and its subsidiaries as a source of credit for households, businesses, and State and local governments and as a source of liquidity for the United States financial system;\n",
+                  "(5) The importance of the U.S. nonbank financial company and its subsidiaries as a source of credit for low-income, minority, or underserved communities, and the impact that the failure of such U.S. nonbank financial company would have on the availability of credit in such communities;\n",
+                  "(6) The extent to which assets are managed rather than owned by the U.S. nonbank financial company and its subsidiaries, and the extent to which ownership of assets under management is diffuse;\n",
+                  "(7) The nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the U.S. nonbank financial company and its subsidiaries;\n",
+                  "(8) The degree to which the U.S. nonbank financial company and its subsidiaries are already regulated by 1 or more primary financial regulatory agencies;\n",
+                  "(9) The amount and nature of the financial assets of the U.S. nonbank financial company and its subsidiaries;\n",
+                  "(10) The amount and types of the liabilities of the U.S. nonbank financial company and its subsidiaries, including the degree of reliance on short-term funding; and\n",
+                  "(11) Any other risk-related factor that the Council deems appropriate, either by regulation or on a case-by-case basis.\n",
+                  {
+                    "_": "(b)  In making a proposed or final determination under § 1310.10(a) with respect to a foreign nonbank financial company, the Council shall consider—\n",
+                    "I": [
+                      "Considerations for foreign nonbank financial companies."
+                    ]
+                  },
+                  "(1) The extent of the leverage of the foreign nonbank financial company and its subsidiaries;\n",
+                  "(2) The extent and nature of the United States related off-balance-sheet exposures of the foreign nonbank financial company and its subsidiaries;\n",
+                  "(3) The extent and nature of the transactions and relationships of the foreign nonbank financial company and its subsidiaries with other significant nonbank financial companies and significant bank holding companies;\n",
+                  "(4) The importance of the foreign nonbank financial company and its subsidiaries as a source of credit for United States households, businesses, and State and local governments and as a source of liquidity for the United States financial system;\n",
+                  "(5) The importance of the foreign nonbank financial company and its subsidiaries as a source of credit for low-income, minority, or underserved communities in the United States, and the impact that the failure of such foreign nonbank financial company would have on the availability of credit in such communities;\n",
+                  "(6) The extent to which assets are managed rather than owned by the foreign nonbank financial company and its subsidiaries and the extent to which ownership of assets under management is diffuse;\n",
+                  "(7) The nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the foreign nonbank financial company and its subsidiaries;\n",
+                  "(8) The extent to which the foreign nonbank financial company and its subsidiaries are subject to prudential standards on a consolidated basis in the foreign nonbank financial company's home country that are administered and enforced by a comparable foreign supervisory authority;\n",
+                  "(9) The amount and nature of the United States financial assets of the foreign nonbank financial company and its subsidiaries;\n",
+                  "(10) The amount and nature of the liabilities of the foreign nonbank financial company and its subsidiaries used to fund activities and operations in the United States, including the degree of reliance on short-term funding; and\n",
+                  "(11) Any other risk-related factor that the Council deems appropriate, either by regulation or on a case-by-case basis.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.12",
+                  "NODE": "12:10.0.3.6.3.2.5.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.12   Anti-evasion provision."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In order to avoid evasion of title I of the Dodd-Frank Act (12 U.S.C. 5311-5374) or this part, the Council, on its own initiative or at the request of the Board of Governors, may require that the financial activities of a company shall be supervised by the Board of Governors and subject to prudential standards if the Council determines that—\n",
+                    "I": [
+                      "Determinations."
+                    ]
+                  },
+                  "(1) Material financial distress related to, or the nature, scope, size, scale, concentration, interconnectedness, or mix of, the financial activities conducted directly or indirectly by a company incorporated or organized under the laws of the United States or any State or the financial activities in the United States of a company incorporated or organized in a country other than the United States would pose a threat to the financial stability of the United States, based on consideration of the factors in—\n",
+                  "(i) § 1310.11(a) if the company is incorporated or organized under the laws of the United States or any State; or\n",
+                  "(ii) § 1310.11(b) if the company is incorporated or organized in a country other than the United States; and\n",
+                  "(2) The company is organized or operates in such a manner as to evade the application of title I of the Dodd-Frank Act (12 U.S.C. 5311-5374) or this part.\n",
+                  {
+                    "_": "(b)  Any proposed or final determination under paragraph (a) of this section shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council and shall not be delegated by the Council; and\n",
+                  "(2) Require the vote of not fewer than two-thirds of the voting members of the Council then serving, including the affirmative vote of the Chairperson of the Council.\n",
+                  {
+                    "_": "(c)  For purposes of this section, the term “financial activities”—\n",
+                    "I": [
+                      "Definition of covered financial activities."
+                    ]
+                  },
+                  "(1) Means activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956);\n",
+                  "(2) Includes the ownership or control of one or more insured depository institutions; and\n",
+                  "(3) Does not include internal financial activities conducted for the company or any affiliate thereof, including internal treasury, investment, and employee benefit functions.\n",
+                  {
+                    "_": "(d)  Sections 1310.20(a), 1310.20(b), 1310.20(c), 1310.20(e), 1310.21, 1310.22, and 1310.23, and the definitions referred to therein, shall apply to proposed and final determinations of the Council with respect to the financial activities of a company pursuant to this section in the same manner as such sections apply to proposed and final determinations of the Council with respect to nonbank financial companies.\n\n\n",
+                    "I": [
+                      "Application of other provisions."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "12:10.0.3.6.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Information Collection; Proposed and Final Determinations; Evidentiary Hearings"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1310.20",
+                  "NODE": "12:10.0.3.6.3.3.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.20   Council information collection; consultation; coordination; confidentiality."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Council may receive, and may request the submission of, such data or information from the Office of Financial Research, member agencies, the Federal Insurance Office, and (acting through the Office of Financial Research, to the extent the Council determines necessary) other Federal and State financial regulatory agencies as the Council deems necessary to carry out the provisions of title I of the Dodd-Frank Act (12 U.S.C. 5311-5374) or this part.\n",
+                    "I": [
+                      "Information collection from the Office of Financial Research, member agencies, the Federal Insurance Office, and other Federal and State financial regulatory agencies."
+                    ]
+                  },
+                  {
+                    "_": "(b)  (1) The Council may, to the extent the Council determines appropriate, direct the Office of Financial Research to require the submission of periodic and other reports from any nonbank financial company, including a nonbank financial company that is being considered for a proposed or final determination under § 1310.10(a), for the purpose of assessing the extent to which a nonbank financial company poses a threat to the financial stability of the United States.\n",
+                    "I": [
+                      "Information collection from nonbank financial companies."
+                    ]
+                  },
+                  "(2) Before requiring the submission of reports under this paragraph (b) from any nonbank financial company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agency or agencies and shall, whenever possible, rely on information available from the Office of Financial Research or such agency or agencies.\n",
+                  "(3) Before requiring the submission of reports under this paragraph (b) from a company that is a foreign nonbank financial company, the Council shall, acting through the Office of Financial Research, to the extent appropriate, consult with the appropriate foreign regulator of such foreign nonbank financial company and, whenever possible, rely on information already being collected by such foreign regulator, with English translation.\n",
+                  "(4) The Council may, to the extent the Council determines appropriate, accept the submission of any data, information, and reports voluntarily submitted by any nonbank financial company that is being considered for a proposed or final determination under § 1310.10(a), for the purpose of assessing the extent to which a nonbank financial company poses a threat to the financial stability of the United States.\n",
+                  {
+                    "_": "(c)  The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under § 1310.10(a) in a timely manner before the Council makes any final determination under § 1310.10(a) with respect to such nonbank financial company.\n",
+                    "I": [
+                      "Consultation."
+                    ]
+                  },
+                  {
+                    "_": "(d)  In exercising its duties under this part with respect to foreign nonbank financial companies and cross-border activities and markets, the Council, acting through its Chairperson or other authorized designee, shall consult with appropriate foreign regulatory authorities, to the extent appropriate.\n",
+                    "I": [
+                      "International coordination."
+                    ]
+                  },
+                  {
+                    "_": "(e) —(1)  The Council shall maintain the confidentiality of any data, information, and reports submitted under this part.\n",
+                    "I": [
+                      "Confidentiality",
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(2)  The submission of any non-publicly available data or information under this part shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.\n",
+                    "I": [
+                      "Retention of privilege."
+                    ]
+                  },
+                  {
+                    "_": "(3)  Section 552 of title 5, United States Code, including the exceptions thereunder, and any regulations thereunder adopted by the Council, shall apply to any data, information, and reports submitted under this part.\n\n\n",
+                    "I": [
+                      "Freedom of Information Act."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.21",
+                  "NODE": "12:10.0.3.6.3.3.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.21   Proposed and final determinations; notice and opportunity for an evidentiary hearing."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Before providing a nonbank financial company written notice of a proposed determination pursuant to paragraph (b) of this section, the Council shall provide the nonbank financial company—\n",
+                    "I": [
+                      "Written notice of consideration of determination; submission of materials."
+                    ]
+                  },
+                  "(1) Written notice that the Council is considering whether to make a proposed determination with respect to the nonbank financial company under § 1310.10(a);\n",
+                  "(2) An opportunity to submit written materials, within such time as the Council determines to be appropriate (which shall be not less than 30 days after the date of receipt by the nonbank financial company of the notice described in paragraph (a)(1)), to the Council to contest the Council's consideration of the nonbank financial company for a proposed determination, including materials concerning whether, in the nonbank financial company's view, material financial distress at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States; and\n",
+                  "(3) Notice when the Council deems its evidentiary record regarding such nonbank financial company to be complete.\n",
+                  {
+                    "_": "(b)  If the Council determines under § 1310.10(a) that a nonbank financial company should be supervised by the Board of Governors and be subject to prudential standards, the Council shall provide to the nonbank financial company written notice of the proposed determination, including an explanation of the basis of the proposed determination and the date by which an evidentiary hearing may be requested by the nonbank financial company under paragraph (c) of this section.\n",
+                    "I": [
+                      "Notice of proposed determination."
+                    ]
+                  },
+                  {
+                    "_": "(c)  (1) Not later than 30 days after the date of receipt by a nonbank financial company of the notice of proposed determination under paragraph (b) of this section, the nonbank financial company may request, in writing, an opportunity for a nonpublic, written or oral evidentiary hearing before the Council or its representatives to contest the proposed determination under § 1310.10(a).\n",
+                    "I": [
+                      "Evidentiary hearing."
+                    ]
+                  },
+                  "(2) Upon receipt by the Council of a timely request under paragraph (c)(1), the Council shall fix a time (not later than 30 days after the date of receipt by the Council of the request) and place at which such nonbank financial company may appear, personally or through counsel, for a nonpublic evidentiary hearing at which the nonbank financial company may submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument) to contest the proposed determination under § 1310.10(a), including materials concerning whether, in the nonbank financial company's view, material financial distress at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States.\n",
+                  {
+                    "_": "(d)  If the nonbank financial company makes a timely request for an evidentiary hearing under paragraph (c) of this section, the Council shall, not later than 60 days after the hearing date—\n",
+                    "I": [
+                      "Final determination after evidentiary hearing."
+                    ]
+                  },
+                  "(1) Determine whether to make a final determination under § 1310.10(a);\n",
+                  "(2) Notify the nonbank financial company, in writing, of any final determination of the Council under § 1310.10(a), which notice shall contain a statement of the basis for the decision of the Council; and\n",
+                  "(3) If the Council makes a final determination under § 1310.10(a), publicly announce the final determination of the Council.\n",
+                  {
+                    "_": "(e)  If a nonbank financial company does not make a timely request for an evidentiary hearing under paragraph (c) of this section or notifies the Council in writing that it is not requesting an evidentiary hearing under paragraph (c) of this section, the Council shall, not later than 10 days after the date by which the nonbank financial company could have requested a hearing under paragraph (c) of this section or 10 days after the date on which the Council receives notice from the nonbank financial company that it is not requesting an evidentiary hearing, as applicable—\n",
+                    "I": [
+                      "No evidentiary hearing requested."
+                    ]
+                  },
+                  "(1) Determine whether to make a final determination under § 1310.10(a);\n",
+                  "(2) Notify the nonbank financial company, in writing, of any final determination of the Council under § 1310.10(a), which notice shall contain a statement of the basis for the decision of the Council; and\n",
+                  "(3) If the Council makes a final determination under § 1310.10(a), publicly announce the final determination of the Council.\n",
+                  {
+                    "_": "(f)  (1) If the Council does not make a proposed determination under § 1310.10(a) with respect to a nonbank financial company within 180 days after the date on which the nonbank financial company receives the notice of completion of the Council's evidentiary record described in paragraph (a)(3) of this section, the nonbank financial company shall not be eligible for a proposed determination under § 1310.10(a) unless the Council issues a subsequent written notice of consideration of determination under paragraph (a) of this section to such nonbank financial company.\n",
+                    "I": [
+                      "Time period for consideration."
+                    ]
+                  },
+                  "(2) This paragraph (f) shall not limit the Council's ability to issue a subsequent written notice of consideration of determination under § 1310.21(a) to any nonbank financial company that, within 180 days after the date on which such nonbank financial company received a notice described in paragraph (a)(3) of this section, does not become subject to a proposed determination under § 1310.10(a).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.22",
+                  "NODE": "12:10.0.3.6.3.3.5.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.22   Emergency exception to § 1310.21."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Notwithstanding anything to the contrary in § 1310.21, the Council may waive or modify any or all of the notice and other procedural requirements of § 1310.21 with respect to a nonbank financial company if—\n",
+                    "I": [
+                      "Exception to § 1310.21."
+                    ]
+                  },
+                  "(1) The Council determines that such waiver or modification is necessary or appropriate to prevent or mitigate threats posed by the nonbank financial company to the financial stability of the United States; and\n",
+                  "(2) The Council provides written notice of the waiver or modification under this section to the nonbank financial company as soon as practicable, but not later than 24 hours after the waiver or modification is granted. Any such notice shall set forth the manner and form for transmitting a request for an evidentiary hearing under paragraph (c) of this section.\n",
+                  {
+                    "_": "(b)  (1) In making a determination under paragraph (a) of this section with respect to a nonbank financial company, the Council shall consult with the primary financial regulatory agency, if any, for such nonbank financial company, in such time and manner as the Council may deem appropriate.\n",
+                    "I": [
+                      "Consultation."
+                    ]
+                  },
+                  "(2) In making a determination under paragraph (a) of this section with respect to a foreign nonbank financial company, the Council shall consult with the appropriate home country supervisor, if any, of such foreign nonbank financial company, in such time and manner as the Council may deem appropriate.\n",
+                  {
+                    "_": "(c)  (1) If the Council, pursuant to paragraph (a) of this section, waives or modifies any of the notice or other procedural requirements of § 1310.21 with respect to a nonbank financial company, the nonbank financial company may request, in writing, an opportunity for a nonpublic, written or oral evidentiary hearing before the Council or its representatives to contest such waiver or modification, not later than 10 days after the date of receipt by the nonbank financial company of the notice described in paragraph (a)(2) of this section.\n",
+                    "I": [
+                      "Opportunity for evidentiary hearing."
+                    ]
+                  },
+                  "(2) Upon receipt of a timely request for an evidentiary hearing under paragraph (c)(1), the Council shall fix a time (not later than 15 days after the date of receipt by the Council of the request) and place at which the nonbank financial company may appear, personally or through counsel, for a nonpublic evidentiary hearing at which the nonbank financial company may submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument) regarding the waiver or modification under this section.\n",
+                  {
+                    "_": "(d)  If the nonbank financial company makes a timely request for an evidentiary hearing under paragraph (c) of this section, the Council shall, not later than 30 days after the hearing date—\n",
+                    "I": [
+                      "Notice of final determination."
+                    ]
+                  },
+                  "(1) Make a final determination regarding the waiver or modification under this § 1310.22;\n",
+                  "(2) Notify the nonbank financial company, in writing, of the final determination of the Council regarding the waiver or modification under this § 1310.22, which notice shall contain a statement of the basis for the final decision of the Council; and\n",
+                  "(3) If the Council makes a final determination under § 1310.10(a), publicly announce the final determination of the Council.\n",
+                  {
+                    "_": "(e)  Any determination of the Council under paragraph (a)(1) of this section to waive or modify any of the notice or other procedural requirements of § 1310.21 shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council and shall not be delegated by the Council; and\n",
+                  "(2) Require the vote of not fewer than two-thirds of the voting members of the Council then serving, including the affirmative vote of the Chairperson of the Council.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1310.23",
+                  "NODE": "12:10.0.3.6.3.3.5.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1310.23   Council reevaluation and rescission of determinations."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Council shall, not less frequently than annually—\n",
+                    "I": [
+                      "Reevaluation and rescission."
+                    ]
+                  },
+                  "(1) Reevaluate each currently effective determination made under § 1310.10(a); and\n",
+                  "(2) Rescind any such determination, if the Council determines that the nonbank financial company no longer meets the standard under § 1310.10(a), taking into account the considerations in § 1310.11(a) or § 1310.11(b), as applicable.\n",
+                  {
+                    "_": "(b)  The Council shall provide written notice to each nonbank financial company subject to a currently effective determination prior to the Council's reevaluation of such determination under paragraph (a) of this section and shall provide such nonbank financial company an opportunity to submit written materials, within such time as the Council determines to be appropriate (which shall be not less than 30 days after the date of receipt by the nonbank financial company of such notice), to the Council to contest the determination, including materials concerning whether, in the nonbank financial company's view, material financial distress at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company, could pose a threat to the financial stability of the United States.\n",
+                    "I": [
+                      "Notice of reevaluation; submission of materials."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Any determination of the Council under paragraph (a)(2) of this section to rescind a determination made with respect to a nonbank financial company shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council and shall not be delegated by the Council; and\n",
+                  "(2) Require the vote of not fewer than two-thirds of the voting members of the Council then serving, including the affirmative vote of the Chairperson of the Council.\n",
+                  {
+                    "_": "(d)  If the Council rescinds a determination with respect to any nonbank financial company under paragraph (a) of this section, the Council shall notify the nonbank financial company, in writing, of such rescission and publicly announce such rescission.\n\n\n\n\n\n\n",
+                    "I": [
+                      "Notice of rescission."
+                    ]
+                  }
+                ]
+              }
+            ],
+            "DIV9": [
+              {
+                "$": {
+                  "N": "Appendix A",
+                  "NODE": "12:10.0.3.6.3.3.5.5.7",
+                  "TYPE": "APPENDIX"
+                },
+                "HEAD": [
+                  "Appendix A to Part 1310—Financial Stability Oversight Council Guidance for Nonbank Financial Company Determinations\n\n\n"
+                ],
+                "HD1": [
+                  "I. Introduction\n",
+                  "II. Process for Nonbank Financial Company Determinations\n",
+                  "III. Annual Reevaluations of Nonbank Financial Company Determinations\n"
+                ],
+                "P": [
+                  {
+                    "_": "Section 113 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act) \n\n authorizes the Financial Stability Oversight Council (the Council) to determine that a nonbank financial company will be supervised by the Board of Governors of the Federal Reserve System (the Federal Reserve Board) and be subject to prudential standards, in accordance with Title I of the Dodd-Frank Act, if either (1) the Council determines that material financial distress at the nonbank financial company could pose a threat to U.S. financial stability, or (2) the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the nonbank financial company could pose a threat to U.S. financial stability. Section 113 of the Dodd-Frank Act lists the considerations that the Council must take into account in making a determination. This guidance supplements the Council's rule regarding nonbank financial company determinations.\n\n\n",
+                    "SU": [
+                      "1",
+                      "2"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "Section II of this appendix outlines a two-stage process that the Council generally expects to follow when determining whether to subject a nonbank financial company to Federal Reserve Board supervision and prudential standards.\n\n Section III sets forth the process the Council expects to follow in conducting reevaluations of its previous determinations.\n",
+                    "SU": [
+                      "3"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "Under section 113 of the Dodd-Frank Act, the Council may evaluate a nonbank financial company \n\n for an entity-specific determination. This section describes the process the Council expects to follow in general for those reviews.\n",
+                    "SU": [
+                      "4"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "As described in detail below, the Council expects generally to follow a two-stage process of evaluation and analysis when evaluating a nonbank financial company under section 113 of the Dodd-Frank Act. During the first stage of the process (Stage 1), a nonbank financial company identified for review will be notified as provided below and subject to a preliminary analysis, based on quantitative and qualitative information available to the Council primarily through public and regulatory sources. During Stage 1, the Council will permit, but not require, the company to submit relevant information. The Council will also consult with the company's primary financial regulatory agency \n\n or home country supervisor, as appropriate. This approach will enable the Council to fulfill its statutory obligation to rely whenever possible on information available through the Office of Financial Research (the OFR), Council member agencies, or the nonbank financial company's primary financial regulatory agency before requiring the submission of reports from any nonbank financial company.\n\n\n",
+                    "SU": [
+                      "5",
+                      "6"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "Following Stage 1, any nonbank financial company that is selected for additional review will receive notice that it is being considered for a proposed determination that the company will be supervised by the Federal Reserve Board and be subject to prudential standards under Title I of the Dodd-Frank Act (a Proposed Determination) and that the company will be subject to in-depth evaluation during the second stage of review (Stage 2). Stage 2 will also involve the evaluation of additional information collected directly from the nonbank financial company. At the end of Stage 2, the Council may consider whether to make a Proposed Determination with respect to the nonbank financial company. If the Council makes a Proposed Determination, the nonbank financial company may request a hearing in accordance with section 113(e) of the Dodd-Frank Act and § 1310.21(c) of the Council's rule regarding nonbank financial company determinations.\n\n After making a Proposed Determination and holding any written or oral hearing if requested, the Council may vote to make a final determination (a Final Determination).\n",
+                    "SU": [
+                      "7"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  "Stage 1 involves a preliminary analysis of nonbank financial companies to assess the risks they could pose to U.S. financial stability. In light of the preliminary nature of a review in Stage 1, the Council expects that not all companies reviewed in Stage 1 will proceed to Stage 2 or a Final Determination.\n",
+                  {
+                    "_": "The Council may evaluate one or more individual nonbank financial companies for an entity-specific determination under section 113 of the Dodd-Frank Act. The Council's staff-level committees are responsible for monitoring and analyzing financial markets, financial companies, the financial system, and issues related to financial stability. These committees monitor a broad range of asset classes, institutions, and activities, as described in the Council's Analytic Framework for Financial Stability Risk Identification, Assessment, and Response (the Analytic Framework), and as reflected in the Council's annual reports. In assessing potential risks, these committees consider the vulnerabilities, types of metrics, and transmission channels described in the Analytic Framework. These committees, in the course of their duties, will monitor each sector of the financial system at least annually and will report to the Deputies Committee \n\n regarding potential risks to U.S. financial stability that they identify. With respect to these monitoring and reporting activities, the Council's Systemic Risk Committee is responsible for monitoring and reporting on each financial sector, including information on identified firms and activities that may pose risks that merit further review, unless another Council committee or working group provides such updates to the Deputies Committee on a particular sector. The updates to the Deputies Committee will use applicable metrics as described in the Analytic Framework. The Deputies Committee is responsible for directing, coordinating, and overseeing the work of the Systemic Risk Committee and all of the Council's other staff-level committees and working groups in accordance with this guidance. If an identified risk relates to one or more financial companies that may merit review in the context of a potential determination under section 113, the Council may review those companies in Stage 1. Alternatively, the Deputies Committee may direct a staff-level committee or working group to further assess the identified risks, including consideration of whether the risks could be addressed by a designation under section 113 or by use of a different Council authority, such as recommendations to existing regulators. The Deputies Committee may also direct the Council's Nonbank Financial Companies Designations Committee (the Nonbank Designations Committee) \n\n to conduct an initial analysis of the companies based on the risk-assessment approach described in the Analytic Framework. The purpose of such an analysis by the Nonbank Designations Committee would be to further inform the determination regarding whether one or more companies should be reviewed in Stage 1, if needed. Following any such analysis by the Nonbank Designations Committee, the Council may review one or more companies in Stage 1. Any Council committee's identification, reporting, direction, analysis, or recommendation described in this paragraph will be made in accordance with such committee's bylaws or charter.\n",
+                    "SU": [
+                      "8",
+                      "9"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  "When evaluating the potential risks associated with a nonbank financial company, the Council may consider the company and its subsidiaries separately or together. This approach enables the Council to consider potential risks arising across the entire organization, while retaining the ability to make a determination regarding either the parent or any individual nonbank financial company subsidiary (or neither), depending on which entity the Council determines could pose a threat to financial stability.\n",
+                  "The Council will provide a notice to any nonbank financial company under review in Stage 1 no later than 60 days before the Council votes on whether to evaluate the company in Stage 2. In Stage 1, the Council will consider available public and regulatory information. In order to reduce the burdens of review on the company, the Council will not require the company to submit information during Stage 1; however, a company under review in Stage 1 may submit to the Council any information relevant to the Council's evaluation and may, upon request, meet with staff of Council members and member agencies who are leading the Council's analysis. The Council may request a page-limited summary of the company's submissions. In addition, staff representing the Council will, upon request, provide the company with a list of the primary public sources of information being considered during the Stage 1 analysis, so that the company has an opportunity to understand the information the Council may rely upon during Stage 1. In addition, during discussions in Stage 1 with the company, the Council intends for representatives of the Council to indicate to the company potential risks that have been identified in the analysis. However, any potential risks identified at this stage are preliminary and may continue to develop until the Council makes a Final Determination. Through this engagement, the Council seeks to provide the company under review an opportunity to understand the focus of the Council's analysis, which may enable the company to act to mitigate any risks to financial stability and thereby potentially avoid becoming subject to a Council determination.\n",
+                  {
+                    "_": "The Council will also consider in Stage 1 information available from relevant existing regulators of the company. Under the Dodd-Frank Act, the Council is required to consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for a determination before the Council makes any Final Determination with respect to such company.\n\n For any company under review in Stage 1 that is regulated by a primary financial regulatory agency or home country supervisor, the Council will notify the regulator or supervisor that the company is under review no later than the time the company is notified. The Council will also consult with the primary financial regulatory agency, if any, of each significant subsidiary of the nonbank financial company, to the extent the Council deems appropriate in Stage 1. The Council will actively solicit the regulator's views regarding risks at the company and potential mitigants or aggravating factors. In order to enable the regulator to provide relevant information, the Council will share its preliminary views regarding potential risks at the company, if any and to the extent practicable, and request that the regulator provide information regarding those specific risks, including the extent to which the risks are adequately mitigated by factors such as existing regulation or the company's business practices. During the determination process, the Council will encourage the regulator to address any risks to U.S. financial stability using the regulator's existing authorities; if the Council believes regulators' or the company's actions have adequately addressed the potential risks to U.S. financial stability the Council has identified, the Council may discontinue its consideration of the company for a potential determination under section 113 of the Dodd-Frank Act.\n",
+                    "SU": [
+                      "10"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  "Based on the preliminary evaluation in Stage 1, the Council, on a nondelegable basis, may vote to commence a more detailed analysis of the company by advancing the company to Stage 2, or it may decide not to evaluate the company further. If the Council votes not to advance a company that has been reviewed in Stage 1 to Stage 2, the Council will notify the company in writing of the Council's decision. The notice will clarify that a decision not to advance the company from Stage 1 to Stage 2 at that time does not preclude the Council from reinitiating review of the company in Stage 1.\n",
+                  "Stage 2 involves an in-depth evaluation of a nonbank financial company that the Council has determined merits additional review.\n",
+                  {
+                    "_": "In Stage 2, the Council will review a nonbank financial company using information collected directly from the company, through the OFR, as well as public and regulatory information. The review will focus on whether material financial distress \n\n at the nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the company, could pose a threat to U.S. financial stability. The Analytic Framework describes the Council's approach to evaluating potential risks to U.S. financial stability, including in the context of a review under section 113 of the Dodd-Frank Act.\n",
+                    "SU": [
+                      "11"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "A nonbank financial company to be evaluated in Stage 2 will receive a notice (a Notice of Consideration) that the company is under consideration for a Proposed Determination. The Council also will submit to the company a request that the company provide information that the Council deems relevant to the Council's evaluation, and the nonbank financial company will be provided an opportunity to submit written materials to the Council.\n\n This information will generally be collected by the OFR.\n\n Before requiring the submission of reports from any nonbank financial company that is regulated by a Council member agency or a primary financial regulatory agency, the Council, acting through the OFR, will coordinate with such agencies and will, whenever possible, rely on information available from the OFR or such agencies. Council members and their agencies and staffs will maintain the confidentiality of such information in accordance with applicable law. During Stage 2, the company may also submit any other information that it deems relevant to the Council's evaluation. Information that may be considered by the Council includes details regarding the company's financial activities, legal structure, liabilities, counterparty exposures, resolvability, and existing regulatory oversight. Information requests likely will involve both qualitative and quantitative information. Information relevant to the Council's analysis may include confidential business information such as detailed information regarding financial assets, terms of funding arrangements, counterparty exposure or position data, strategic plans, and interaffiliate transactions.\n",
+                    "SU": [
+                      "12",
+                      "13"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  "The Council will make staff representing Council members available to meet with the representatives of any company that enters Stage 2, to explain the evaluation process and the framework for the Council's analysis. In addition, the Council expects that its Deputies Committee will grant a request to meet with a company in Stage 2 to allow the company to present any information or arguments it deems relevant to the Council's evaluation. If the analysis in Stage 1 has identified specific aspects of the company's operations or activities as the primary focus for the evaluation, staff will notify the company of those specific aspects, although the areas of analytic focus may change based on the ongoing analysis.\n",
+                  "During Stage 2 the Council will also seek to continue its consultation with the company's primary financial regulatory agency or home country supervisor in a timely manner before the Council makes a Proposed or Final Determination with respect to the company. The Council will continue to encourage the regulator during the determination process to address any risks to U.S. financial stability using the regulator's existing authorities; as noted above, if the Council believes regulators' or the company's actions adequately address the potential risks to U.S. financial stability the Council has identified, the Council would expect to discontinue its consideration of the company for a potential determination under section 113 of the Dodd-Frank Act.\n",
+                  {
+                    "_": "Before making a Proposed Determination regarding a nonbank financial company, the Council will notify the company when the Council believes that the evidentiary record regarding the company is complete.\n\n The Council will notify any nonbank financial company in Stage 2 if the company ceases to be considered for a determination. Any nonbank financial company that ceases to be considered at any time in the Council's determination process may be considered for a potential determination in the future at the Council's discretion, consistent with the processes described above.\n",
+                    "SU": [
+                      "14"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "Based on the analysis performed in Stage 2, a nonbank financial company may be considered for a Proposed Determination. A Proposed Determination requires a vote, on a nondelegable basis, of two-thirds of the voting members of the Council then serving, including an affirmative vote by the Chairperson of the Council.\n\n Following a Proposed Determination, the Council will issue a written notice of the Proposed Determination to the nonbank financial company, which will include an explanation of the basis of the Proposed Determination.\n\n Promptly after the Council votes to make a Proposed Determination regarding a company, the Council will provide the company's primary financial regulatory agency or home country supervisor with the nonpublic written explanation of the basis of the Council's Proposed Determination (subject to appropriate protections for confidential information).\n",
+                    "SU": [
+                      "15",
+                      "16"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "A nonbank financial company that is subject to a Proposed Determination may request a nonpublic hearing to contest the Proposed Determination in accordance with section 113(e) of the Dodd-Frank Act and § 1310.21(c) of the Council's rule regarding nonbank financial company determinations.\n\n If the nonbank financial company requests a hearing in accordance with the procedures set forth in § 1310.21(c), the Council will set a time and place for such hearing. The Council has published hearing procedures on its website.\n\n In light of the statutory timeframe for conducting a hearing, and the fact that the purpose of the hearing is to benefit the company, if a company requests that the Council waive the statutory deadline for conducting the hearing, the Council may do so in appropriate circumstances.\n",
+                    "SU": [
+                      "17",
+                      "18"
+                    ],
+                    "FTREF": [
+                      "",
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "After making a Proposed Determination and holding any requested written or oral hearing, the Council, on a nondelegable basis, may, by a vote of not fewer than two-thirds of the voting members of the Council then serving (including an affirmative vote by the Chairperson of the Council), make a Final Determination that the company will be subject to supervision by the Federal Reserve Board and prudential standards. If the Council makes a Final Determination, it will provide the company with a written notice of the Council's Final Determination, including an explanation of the basis for the Council's decision.\n\n The Council will also provide the company's primary financial regulatory agency or home country supervisor with the nonpublic written explanation of the basis of the Council's Final Determination (subject to appropriate protections for confidential information). The Council expects that its explanation of the basis for any Final Determination will highlight the key risks that led to the determination and include guidance regarding the factors that were important in the Council's determination. When practicable and consistent with the purposes of the determination process, the Council will provide a nonbank financial company with notice of a Final Determination at least one business day before publicly announcing the determination pursuant to § 1310.21(d)(3), § 1310.21(e)(3), or § 1310.22(d)(3) of the Council's rule.\n\n In accordance with the Dodd-Frank Act, a nonbank financial company that is subject to a Final Determination may bring an action in U.S. district court for an order requiring that the determination be rescinded.\n\n\n",
+                    "SU": [
+                      "19",
+                      "20",
+                      "21"
+                    ],
+                    "FTREF": [
+                      "",
+                      "",
+                      ""
+                    ]
+                  },
+                  {
+                    "_": "The Council does not intend to publicly announce the name of any nonbank financial company that is under evaluation prior to a Final Determination with respect to such company. However, if a company that is under review in Stage 1 or Stage 2 publicly announces the status of its review by the Council, the Council intends, upon the request of a third party, to confirm the status of the company's review. In addition, the Council will publicly release the explanation of the Council's basis for any Final Determination or rescission of a determination, following such an action by the Council. The Council is subject to statutory and regulatory requirements to maintain the confidentiality of certain information submitted to it by a nonbank financial company or its regulators.\n\n In light of these confidentiality obligations, such confidential information will be redacted from the materials that the Council makes publicly available, although the Council does not expect to restrict a company's ability to disclose such information.\n",
+                    "SU": [
+                      "22"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  "After the Council makes a Final Determination regarding a nonbank financial company, the Council intends to encourage the company or its regulators to take steps to mitigate the potential risks identified in the Council's written explanation of the basis for its Final Determination. Except in cases where new material risks arise over time, if the potential risks identified in writing by the Council at the time of the Final Determination and in subsequent reevaluations have been adequately addressed, generally the Council would expect to rescind its determination regarding the company.\n",
+                  {
+                    "_": "For any nonbank financial company that is subject to a Final Determination, the Council is required to reevaluate the determination at least annually, and to rescind the determination if the Council determines that the company no longer meets the statutory standards for a determination.\n\n The Council may also consider a request from a company for a reevaluation before the next required annual reevaluation, in the case of an extraordinary change that materially affects the Council's analysis.\n",
+                    "SU": [
+                      "23"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  "The Council will apply the same standards of review in its annual reevaluations as the standards for an initial determination regarding a nonbank financial company: either material financial distress at the company, or the nature, scope, size, scale, concentration, interconnectedness, or the mix of the company's activities, could pose a threat to U.S. financial stability. If the Council determines that the company does not meet either of those standards, the Council will rescind its determination.\n",
+                  "The Council's annual reevaluations will generally assess whether any material changes since the previous reevaluation and since the Final Determination justify a rescission of the determination. The Council expects that its reevaluation process will focus on whether any material changes that have taken effect—including changes at the company, changes in its markets or its regulation, changes in the impact of relevant factors, or otherwise—result in the company no longer meeting the standards for a determination. In light of the frequent reevaluations, the Council's analyses will generally focus on material changes since the Council's previous review, but the ultimate question the Council will seek to assess is whether changes in the aggregate since the Council's Final Determination regarding the company have caused the company to cease meeting either of the statutory standards for a determination.\n",
+                  "During the Council's annual reevaluation of a determination regarding a nonbank financial company, the Council will provide the company with an opportunity to meet with representatives of the Council to discuss the scope and process for the review and to present information regarding any change that may be relevant to the threat the company could pose to financial stability. In addition, during an annual reevaluation, the company may submit any written information to the Council the company deems relevant to the Council's analysis. During annual reevaluations, a company is encouraged to submit information regarding any changes related to the company's risk profile that mitigate the potential risks previously identified by the Council. Such changes could include updates regarding company restructurings, regulatory developments, market changes, or other factors. If the company or its regulators have taken steps to address the potential risks previously identified by the Council, the Council will assess whether the risks have been adequately mitigated to merit a rescission of the determination regarding the company. If the company explains in detail and in a timely manner potential changes it could make to its business to address the potential risks previously identified by the Council, representatives of the Council will endeavor to provide their feedback on the extent to which those changes may address the potential risks.\n",
+                  "If a company contests the Council's determination during the Council's annual reevaluation, the Council will vote on whether to rescind the determination and provide the company, its primary financial regulatory agency or home country supervisor, and the primary financial regulatory agency of its significant subsidiaries with a notice explaining the primary basis for any decision not to rescind the determination. If the Council does not rescind the determination, the written notice provided to the company will address the most material factors raised by the company in its submissions to the Council contesting the determination during the annual reevaluation. The written notice from the Council will also explain why the Council did not find that the company no longer met the standard for a determination under section 113 of the Dodd-Frank Act. In general, due to the sensitive, company-specific nature of its analyses in annual reevaluations, the Council generally would not publicly release the written findings that it provides to the company, although the Council does not expect to restrict a company's ability to disclose such information.\n",
+                  "Finally, the Council will provide each nonbank financial company subject to a Council determination an opportunity for an oral hearing before the Council once every five years at which the company can contest the determination.\n\n\n"
+                ],
+                "FTNT": [
+                  {
+                    "P": [
+                      {
+                        "_": "\n 12 U.S.C. 5323.",
+                        "SU": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR part 1310.",
+                        "SU": [
+                          "2"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Council may waive or modify this process in its discretion if it determines that emergency circumstances exist, including if necessary or appropriate to prevent or mitigate threats posed by a nonbank financial company to U.S. financial stability in accordance with section 113(f) of the Dodd-Frank Act, 12 U.S.C. 5323(f).",
+                        "SU": [
+                          "3"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Council intends to interpret the term “company” to include any corporation, limited liability company, partnership, business trust, association, or similar organization. See Dodd-Frank Act section 102(a)(4), 12 U.S.C. 5311(a)(4). In addition, the Council intends to interpret “nonbank financial company supervised by the Board of Governors” as including any nonbank financial company that acquires, directly or indirectly, a majority of the assets or liabilities of a company that is subject to a final determination of the Council. As a result, if a nonbank financial company subject to a final determination of the Council sells or otherwise transfers a majority of its assets or liabilities, the acquirer will succeed to, and become subject to, the Council's determination. As discussed in section III of this appendix A, a nonbank financial company that is subject to a final determination of the Council may request a reevaluation of the determination before the next required annual reevaluation, in an appropriate case. Such an acquirer can use this reevaluation process to seek a rescission of the determination upon consummation of its transaction.",
+                        "SU": [
+                          "4"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 2(12), 12 U.S.C. 5301(12). In each stage of the Council's process under section 113 of the Dodd-Frank Act, the Council may also consult with, solicit information from, or coordinate with other state or federal financial regulatory agencies that have jurisdiction over the nonbank financial company or its activities.",
+                        "SU": [
+                          "5"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 112(d)(3), 12 U.S.C. 5322(d)(3).",
+                        "SU": [
+                          "6"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR 1310.21(c).",
+                        "SU": [
+                          "7"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Council's Deputies Committee is composed of senior officials from each Council member and member agency. See Bylaws of the Deputies Committee of the Financial Stability Oversight Council, available at ",
+                        "SU": [
+                          "8"
+                        ],
+                        "I": [
+                          "https://fsoc.gov."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Nonbank Designations Committee supports the Council in fulfilling the Council's responsibilities to consider, make, and review Council determinations regarding nonbank financial companies under section 113 of the Dodd-Frank Act. See Charter of the Nonbank Financial Companies Designations Committee of the Financial Stability Oversight Council, available at ",
+                        "SU": [
+                          "9"
+                        ],
+                        "I": [
+                          "https://fsoc.gov."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n Dodd-Frank Act section 113(g), 12 U.S.C. 5323(g).",
+                        "SU": [
+                          "10"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n The Council intends to interpret the term “material financial distress” as a nonbank financial company being in imminent danger of insolvency or defaulting on its financial obligations.",
+                        "SU": [
+                          "11"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR 1310.21(a).",
+                        "SU": [
+                          "12"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 112(d), 12 U.S.C. 5322(d).",
+                        "SU": [
+                          "13"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR 1310.21(a)(3).",
+                        "SU": [
+                          "14"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n 12 CFR 1310.10(b).",
+                        "SU": [
+                          "15"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 113(e)(1), 12 U.S.C. 5323(e)(1).",
+                        "SU": [
+                          "16"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR 1310.21(c).",
+                        "SU": [
+                          "17"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n Financial Stability Oversight Council Hearing Procedures for Proceedings Under Title I or Title VIII of the Dodd-Frank Wall Street Reform and Consumer Protection Act, available at .",
+                        "SU": [
+                          "18"
+                        ],
+                        "I": [
+                          "https://fsoc.gov"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n Dodd-Frank Act section 113(e)(3), 12 U.S.C. 5323(e)(3); see also 12 CFR 1310.21(d)(2) and (e)(2).",
+                        "SU": [
+                          "19"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See 12 CFR 1310.21(d)(3) and (e)(3) and 1310.22(d)(3).",
+                        "SU": [
+                          "20"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 113(h), 12 U.S.C. 5323(h).",
+                        "SU": [
+                          "21"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n See Dodd-Frank Act section 112(d)(5), 12 U.S.C. 5322(d)(5); see also 12 CFR 1310.20(e).",
+                        "SU": [
+                          "22"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "P": [
+                      {
+                        "_": "\n Dodd-Frank Act section 113(d), 12 U.S.C. 5323(d).",
+                        "SU": [
+                          "23"
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "HD2": [
+                  "a. Overview of the Determination Process\n",
+                  "b. Stage 1: Preliminary Evaluation of Nonbank Financial Companies\n",
+                  "c. Stage 2: In-Depth Evaluation\n",
+                  "d. Proposed and Final Determinations\n"
+                ],
+                "HD3": [
+                  "Identification of Company for Review in Stage 1\n",
+                  "Engagement With Company and Regulators in Stage 1\n",
+                  "Engagement With Company and Regulators in Stage 2\n",
+                  "Proposed Determination\n",
+                  "Hearing\n",
+                  "Final Determination\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[88 FR 80127, Nov. 17, 2023]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1320",
+          "NODE": "12:10.0.3.6.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1320—DESIGNATION OF FINANCIAL MARKET UTILITIES\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "12 U.S.C. 5321; 12 U.S.C. 5322; 12 U.S.C. 5463; 12 U.S.C. 5468; 12 U.S.C. 5469\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "76 FR 44773, July 27, 2011, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "12:10.0.3.6.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1320.1",
+                  "NODE": "12:10.0.3.6.4.1.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.1   Authority and purpose."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  This part is issued by the Financial Stability Oversight Council under sections 111, 112, 804, 809, and 810 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”) (12 U.S.C. 5321, 5322, 5463, 5468, and 5469).\n",
+                    "I": [
+                      "Authority."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The purpose of this part is to set forth the standards and procedures governing the Council's designation of a financial market utility that the Council determines is, or is likely to become, systemically important.\n\n\n",
+                    "I": [
+                      "Purpose."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.2",
+                  "NODE": "12:10.0.3.6.4.1.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.2   Definitions."
+                ],
+                "P": [
+                  "The terms used in this part have the following meanings:\n",
+                  {
+                    "_": " The term “ has the same meaning as in section 3(q) of the Federal Deposit Insurance Act (12 U.S.C. 1813(q)), as amended.\n",
+                    "I": [
+                      "Appropriate Federal banking agency.",
+                      "appropriate Federal banking agency”"
+                    ]
+                  },
+                  {
+                    "_": " The term “ means the Board of Governors of the Federal Reserve System.\n",
+                    "I": [
+                      "Board of Governors.",
+                      "Board of Governors”"
+                    ]
+                  },
+                  {
+                    "_": " The term “ means the Financial Stability Oversight Council.\n",
+                    "I": [
+                      "Council.",
+                      "Council”"
+                    ]
+                  },
+                  {
+                    "_": " The term “ means a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act (7 U.S.C. 7a-1) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q-1).\n",
+                    "I": [
+                      "Designated clearing entity.",
+                      "designated clearing entity”"
+                    ]
+                  },
+                  {
+                    "_": " The term “ means a financial market utility that the Council has designated as systemically important under § 1320.13.\n",
+                    "I": [
+                      "Designated financial market utility.",
+                      "designated financial market utility”"
+                    ]
+                  },
+                  {
+                    "_": " The term “—\n",
+                    "I": [
+                      "Financial institution.",
+                      "financial institution”"
+                    ]
+                  },
+                  "(1) Means—\n",
+                  "(i) A depository institution as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813);\n",
+                  "(ii) A branch or agency of a foreign bank, as defined in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101);\n",
+                  "(iii) An organization operating under section 25 or 25A of the Federal Reserve Act (12 U.S.C. 601-604a and 611 through 631);\n",
+                  "(iv) A credit union, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752);\n",
+                  "(v) A broker or dealer, as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);\n",
+                  "(vi) An investment company, as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a-3);\n",
+                  "(vii) An insurance company, as defined in section 2 of the Investment Company Act of 1940 (15 U.S.C. 80a-2);\n",
+                  "(viii) An investment adviser, as defined in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-2);\n",
+                  "(ix) A futures commission merchant, commodity trading advisor, or commodity pool operator, as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a); and\n",
+                  "(x) Any company engaged in activities that are financial in nature or incidental to a financial activity, as described in section 4 of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)).\n",
+                  {
+                    "_": "(2) Does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 ), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a ), or designated clearing entities, provided that the exclusions in this paragraph apply only with respect to the activities that require the entity to be so registered.\n",
+                    "I": [
+                      "et seq.",
+                      "et seq."
+                    ]
+                  },
+                  {
+                    "_": " The term “financial market utility”—\n",
+                    "I": [
+                      "Financial market utility."
+                    ]
+                  },
+                  "(1) Means any person that manages or operates a multilateral system for the purpose of transferring, clearing, or settling payments, securities, or other financial transactions among financial institutions or between financial institutions and the person; and\n",
+                  "(2) Does not include—\n",
+                  {
+                    "_": "(i) Designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 ), or national securities exchanges, national securities associations, alternative trading systems, security-based swap data repositories, and swap data execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a ), solely by reason of their providing facilities for comparison of data respecting the terms of settlement of securities or futures transactions effected on such exchange or by means of any electronic system operated or controlled by such entities, provided that the exclusions in this clause apply only with respect to the activities that require the entity to be so registered; and\n",
+                    "I": [
+                      "et seq.",
+                      "et seq."
+                    ]
+                  },
+                  "(ii) Any broker, dealer, transfer agent, or investment company, or any futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator, solely by reason of functions performed by such institution as part of brokerage, dealing, transfer agency, or investment company activities, or solely by reason of acting on behalf of a financial market utility or a participant therein in connection with the furnishing by the financial market utility of services to its participants or the use of services of the financial market utility by its participants, provided that services performed by such institution do not constitute critical risk management or processing functions of the financial market utility.\n",
+                  {
+                    "_": " The term “hearing date” means the later of—\n",
+                    "I": [
+                      "Hearing date."
+                    ]
+                  },
+                  "(1) The date on which the Council receives all of the written materials timely submitted by the financial market utility for a hearing that is conducted without oral testimony; or\n",
+                  "(2) The final date on which the Council convenes for the financial market utility to present oral testimony.\n",
+                  {
+                    "I": [
+                      "Payment, clearing, or settlement activity."
+                    ]
+                  },
+                  {
+                    "_": "(1) The term “payment, clearing, or settlement activity” means an activity carried out by 1 or more financial institutions to facilitate the completion of financial transactions, but shall not include any offer or sale of a security under the Securities Act of 1933 (15 U.S.C. 77a ), or any quotation, order entry, negotiation, or other pre-trade activity or execution activity.\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  },
+                  "(2) For purposes of paragraph (1) of this definition, the term “financial transaction” includes—\n",
+                  "(i) Funds transfers;\n",
+                  "(ii) Securities contracts;\n",
+                  "(iii) Contracts of sale of a commodity for future delivery;\n",
+                  "(iv) Forward contracts;\n",
+                  "(v) Repurchase agreements;\n",
+                  "(vi) Swaps;\n",
+                  "(vii) Security-based swaps;\n",
+                  "(viii) Swap agreements;\n",
+                  "(ix) Security-based swap agreements;\n",
+                  "(x) Foreign exchange contracts;\n",
+                  "(xi) Financial derivatives contracts; and\n",
+                  "(xii) Any similar transaction that the Council determines to be a financial transaction for purposes of this part.\n",
+                  "(3) When conducted with respect to a financial transaction, payment, clearing, and settlement activities may include—\n",
+                  "(i) The calculation and communication of unsettled financial transactions between counterparties;\n",
+                  "(ii) The netting of transactions;\n",
+                  "(iii) Provision and maintenance of trade, contract, or instrument information;\n",
+                  "(iv) The management of risks and activities associated with continuing financial transactions;\n",
+                  "(v) Transmittal and storage of payment instructions;\n",
+                  "(vi) The movement of funds;\n",
+                  "(vii) The final settlement of financial transactions; and\n",
+                  "(viii) Other similar functions that the Council may determine.\n",
+                  "(4) Payment, clearing, and settlement activities shall not include public reporting of swap transactions under section 727 or 763(i) of the Dodd-Frank Act.\n",
+                  {
+                    "_": " (1) The term “Supervisory Agency” means the Federal agency that—\n",
+                    "I": [
+                      "Supervisory Agency."
+                    ]
+                  },
+                  "(i) Has primary jurisdiction over a designated financial market utility under Federal banking, securities, or commodity futures laws as follows—\n",
+                  "(A) The Securities and Exchange Commission, with respect to a designated financial market utility that is a clearing agency registered with the Securities and Exchange Commission;\n",
+                  "(B) The Commodity Futures Trading Commission, with respect to a designated financial market utility that is a derivatives clearing organization registered with the Commodity Futures Trading Commission;\n",
+                  "(C) The appropriate Federal banking agency, with respect to a designated financial market utility that is an institution described in section 3(q) of the Federal Deposit Insurance Act;\n",
+                  "(D) The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the jurisdiction of any agency listed in paragraphs (1)(i), (ii), and (iii) of this definition; or\n",
+                  "(ii) Would have primary jurisdiction over a financial market utility if the financial market utility were a designated financial market utility under paragraph (1) of this definition.\n",
+                  "(2) If a financial market utility is subject to the jurisdictional supervision of more than one agency listed in paragraph (1) of this definition, then such agencies should agree on one agency to act as the Supervisory Agency, and if such agencies cannot agree on which agency has primary jurisdiction, the Council shall decide which is the Supervisory Agency for purposes of this part.\n",
+                  {
+                    "_": " The terms “systemically important” and “systemic importance” mean a situation where the failure of or a disruption to the functioning of a financial market utility could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.\n\n\n",
+                    "I": [
+                      "Systemically important and systemic importance."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "12:10.0.3.6.4.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Consultations, Determinations and Hearings"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1320.10",
+                  "NODE": "12:10.0.3.6.4.2.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.10   Factors for consideration in designations."
+                ],
+                "P": [
+                  "In making any proposed or final determination with respect to whether a financial market utility is, or is likely to become, systemically important under this part, the Council shall take into consideration:\n",
+                  "(a) The aggregate monetary value of transactions processed by the financial market utility, including without limitation—\n",
+                  "(1) The number of transactions processed, cleared or settled;\n",
+                  "(2) The value of transactions processed, cleared or settled; and\n",
+                  "(3) The value of other financial flows.\n",
+                  "(b) The aggregate exposure of the financial market utility to its counterparties, including without limitation—\n",
+                  "(1) Credit exposures, which includes but is not limited to potential future exposures; and\n",
+                  "(2) Liquidity exposures.\n",
+                  "(c) The relationship, interdependencies, or other interactions of the financial market utility with other financial market utilities or payment, clearing, or settlement activities, including without limitation interactions with different types of participants in those utilities or activities.\n",
+                  "(d) The effect that the failure of or a disruption to the financial market utility would have on critical markets, financial institutions, or the broader financial system, including without limitation—\n",
+                  "(1) Role of the financial market utility in the market served;\n",
+                  "(2) Availability of substitutes;\n",
+                  "(3) Concentration of participants;\n",
+                  "(4) Concentration by product type;\n",
+                  "(5) Degree of tiering; and\n",
+                  "(6) Potential impact or spillover in the event of a failure or disruption.\n",
+                  "(e) Any other factors that the Council deems appropriate.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.11",
+                  "NODE": "12:10.0.3.6.4.2.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.11   Consultation with financial market utility."
+                ],
+                "P": [
+                  "Before providing a financial market utility notice of a proposed determination under § 1320.12, the Council shall provide the financial market utility with—\n",
+                  "(a) Written notice that the Council is considering whether to make a proposed determination with respect to the financial market utility under § 1320.13; and\n",
+                  "(b) An opportunity to submit written materials to the Council, within such time as the Council determines to be appropriate, concerning—\n",
+                  "(1) Whether the financial market utility is systemically important taking into consideration the factors set out in § 1320.10; and\n",
+                  "(2) Proposed changes by the financial market utility that could—\n",
+                  "(i) Reduce or increase the inherent systemic risk the financial market utility poses and the need for designation under § 1320.13; or\n",
+                  "(ii) Reduce or increase the appropriateness of rescission under § 1320.13.\n",
+                  "(3) The Council shall consider any written materials timely submitted by the financial market utility under this section before making a proposed determination under section 1320.13.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.12",
+                  "NODE": "12:10.0.3.6.4.2.5.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.12   Advance notice of proposed determination."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Before making any final determination on designation or rescission under § 1320.13, the Council shall propose a determination and provide the financial market utility with advance notice of the proposed determination, and proposed findings of fact supporting that determination. A proposed determination shall be made by a vote of the Council in the manner described in § 1320.13(c).\n",
+                    "I": [
+                      "Notice of proposed determination and opportunity for hearing."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Within 30 calendar days from the date of any provision of notice of the proposed determination of the Council, the financial market utility may request, in writing, an opportunity for a written or oral hearing before the Council to demonstrate that the proposed designation or rescission of designation is not supported by substantial evidence.\n",
+                    "I": [
+                      "Request for hearing."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Upon receipt of a timely request, the Council shall fix a time, not more than 30 calendar days after receipt of the request, unless extended by the Council at the request of the financial market utility, and place at which the financial market utility may appear, personally or through counsel, to submit written materials, or, at the sole discretion of the Council, oral testimony and oral argument.\n\n\n",
+                    "I": [
+                      "Written submissions."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.13",
+                  "NODE": "12:10.0.3.6.4.2.5.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.13   Council determination regarding systemic importance."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Council shall designate a financial market utility if the Council determines that the financial market utility is, or is likely to become, systemically important.\n",
+                    "I": [
+                      "Designation determination."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The Council shall rescind a designation of systemic importance for a designated financial market utility if the Council determines that the financial market utility no longer meets the standards for systemic importance.\n",
+                    "I": [
+                      "Rescission determination."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Any determination under paragraph (a) or (b) of this section and any proposed determination under § 1320.12 shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council and must not be delegated by the Council; and\n",
+                  "(2) Require the vote of not fewer than two-thirds of the members of the Council then serving, including the affirmative vote of the Chairperson of the Council.\n",
+                  {
+                    "_": "(d)  Before making any determination under paragraph (a) or (b) of this section or any proposed determination under § 1320.12, the Council shall consult with the relevant Supervisory Agency and the Board of Governors.\n\n\n",
+                    "I": [
+                      "Consultations."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.14",
+                  "NODE": "12:10.0.3.6.4.2.5.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.14   Emergency exception."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Notwithstanding §§ 1320.11 and 1320.12, the Council may waive or modify any or all of the notice, hearing, and other requirements of §§ 1320.11 and 1320.12 with respect to a financial market utility if—\n",
+                    "I": [
+                      "Emergency exception."
+                    ]
+                  },
+                  "(1) The Council determines that the waiver or modification is necessary to prevent or mitigate an immediate threat to the financial system posed by the financial market utility; and\n",
+                  "(2) The Council provides notice of the waiver or modification, and an explanation of the basis for the waiver or modification, to the financial market utility concerned, as soon as practicable, but not later than 24 hours after the waiver or modification.\n",
+                  {
+                    "_": "(b)  Any determination by the Council under paragraph (a) to waive or modify any of the requirements of §§ 1320.11 and 1320.12 shall—\n",
+                    "I": [
+                      "Vote required."
+                    ]
+                  },
+                  "(1) Be made by the Council; and\n",
+                  "(2) Require the affirmative vote of not fewer than two-thirds of members then serving, including the affirmative vote of the Chairperson of Council.\n",
+                  {
+                    "_": "(c)  Within 10 calendar days from the date of any provision of notice of waiver or modification of the Council, the financial market utility may request, in writing, an opportunity for a written or oral hearing before the Council to demonstrate that the basis for the waiver or modification is not supported by substantial evidence.\n",
+                    "I": [
+                      "Request for hearing."
+                    ]
+                  },
+                  {
+                    "_": "(d)  Upon receipt of a timely request, the Council shall fix a time, not more than 30 calendar days after receipt of the request, and place at which the financial market utility may appear, personally or through counsel, to submit written materials, or, at the sole discretion of the Counsel, oral testimony and oral argument.\n",
+                    "I": [
+                      "Written submissions."
+                    ]
+                  },
+                  {
+                    "_": "(e)  If a financial market utility makes a timely request for a hearing under paragraph (c) of this section, the Council shall, not later than 30 calendar days after the hearing date, notify the financial market utility of the determination of the Council, which shall include a statement of the basis for the determination of the Council.\n\n\n",
+                    "I": [
+                      "Notification of hearing determination."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.15",
+                  "NODE": "12:10.0.3.6.4.2.5.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.15   Notification of final determination regarding systemic importance."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Within 60 calendar days of the hearing date, the Council shall provide to the financial market utility written notification of the final determination of the Council under § 1320.13, which shall include findings of fact upon which the determination of the Council is based.\n",
+                    "I": [
+                      "Notification of final determination after a hearing."
+                    ]
+                  },
+                  {
+                    "_": "(b)  If the Council does not receive a timely request for a hearing under § 1320.12, the Council shall provide the financial market utility written notification of the final determination of the Council under § 1320.13 not later than 30 calendar days after the expiration of the date by which a financial market utility could have requested a hearing.\n\n\n",
+                    "I": [
+                      "Notification of final determination if no hearing."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1320.16",
+                  "NODE": "12:10.0.3.6.4.2.5.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.16   Extension of time periods."
+                ],
+                "P": [
+                  "The Council may extend any time period established in § 1320.12, § 1320.14, or § 1320.15 as the Council determines to be necessary or appropriate.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "12:10.0.3.6.4.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Information Collection"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1320.20",
+                  "NODE": "12:10.0.3.6.4.3.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1320.20   Council information collection and coordination."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Council may require any financial market utility to submit such information to the Council as the Council may require for the sole purpose of assessing whether the financial market utility is systemically important.\n",
+                    "I": [
+                      "Information collection to assess systemic importance."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Before requiring any financial market utility to submit information to the Council under paragraph (a) of this section, the Council shall—\n",
+                    "I": [
+                      "Prerequisites to information collection."
+                    ]
+                  },
+                  "(1) Determine that it has reasonable cause to believe that the financial market utility is, or is likely to become, systemically important, considering the standards set out in § 1320.10; or\n",
+                  "(2) Determine that it has reasonable cause to believe that the designated financial market utility is no longer, or is no longer likely to become, systemically important, considering the standards set out in § 1320.10; and\n",
+                  "(3) Coordinate with the Supervisory Agency for the financial market utility to determine if the information is available from, or may be obtained by, the Supervisory Agency in the form, format, or detail required by the Council.\n",
+                  {
+                    "_": "(c)  If the information, reports, records, or data requested by the Council under paragraph (b)(3) of this section are not provided in full by the Supervisory Agency in less than 15 calendar days after the date on which the material is requested, the Council may request the information directly from the financial market utility with notice to the Supervisory Agency.\n",
+                    "I": [
+                      "Timing of response from the appropriate Supervisory Agency."
+                    ]
+                  },
+                  {
+                    "_": "(d)  In requiring a financial market utility to submit information to the Council, the Council shall provide to the financial market utility the following—\n",
+                    "I": [
+                      "Notice to financial market utility of information collection requirement."
+                    ]
+                  },
+                  "(1) Written notice that the Council is considering whether to make a proposed determination under § 1320.12; and\n",
+                  "(2) A description of the basis for the Council's belief under paragraphs (b)(1) or (b)(2) of this section.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1321-1399",
+          "NODE": "12:10.0.3.6.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1321-1399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

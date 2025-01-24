@@ -1,0 +1,750 @@
+{
+  "number": "25",
+  "title": " CHAPTER 25—NATIONAL SCIENCE FOUNDATION",
+  "content": {
+    "$": {
+      "N": "25",
+      "NODE": "48:6.0.10",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 25—NATIONAL SCIENCE FOUNDATION"
+    ],
+    "DIV4": [
+      {
+        "$": {
+          "N": "A",
+          "NODE": "48:6.0.10.56",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER A—GENERAL\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "2500",
+              "NODE": "48:6.0.10.56.1",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2500 [RESERVED]\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "2501",
+              "NODE": "48:6.0.10.56.2",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2501—FEDERAL ACQUISITION REGULATIONS SYSTEM\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "42 U.S.C. 1870(a).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "49 FR 46744, Nov. 28, 1984, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "2501.1",
+                  "NODE": "48:6.0.10.56.2.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2501.1—Purpose, Authority, Issuance"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2501.101",
+                      "NODE": "48:6.0.10.56.2.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.101   Purpose."
+                    ],
+                    "P": [
+                      "These regulations implement and supplement the Federal Acquisition Regulations (FAR). \n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.102",
+                      "NODE": "48:6.0.10.56.2.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.102   Authority."
+                    ],
+                    "P": [
+                      "The NSF Acquisition Regulations are issued under the authority of section 11(a) of the National Science Foundation Act of 1950, as amended (42 U.S.C. 1870(a)).\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.103",
+                      "NODE": "48:6.0.10.56.2.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.103   Applicability."
+                    ],
+                    "P": [
+                      "Except where a deviation is specifically authorized in accordance with subpart 2501.4 or otherwise authorized by law, the FAR and the NSFAR govern all NSF acquisitions.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.104",
+                      "NODE": "48:6.0.10.56.2.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.104   Issuance."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.104-1",
+                      "NODE": "48:6.0.10.56.2.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.104-1   Publication and code arrangement."
+                    ],
+                    "P": [
+                      {
+                        "_": "(a) The NSFAR is published in the daily issues of the  and, in cumulative form, in the Code of Federal Regulations.\n",
+                        "E": [
+                          {
+                            "_": "Federal Register",
+                            "$": {
+                              "T": "04"
+                            }
+                          }
+                        ]
+                      },
+                      "(b) The NSFAR is issued as chapter 25 of title 48, CFR.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.104-2",
+                      "NODE": "48:6.0.10.56.2.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.104-2   Arrangement of regulations."
+                    ],
+                    "P": [
+                      "The NSFAR uses the same numbering system and arrangement used in the FAR. Where the NSFAR implements the FAR it is numbered and captioned to correspond to the FAR. Where there is no corresponding material in the FAR, Parts 70 and up are used by the NSFAR. Where the subject matter in the FAR requires no implementation the NSFAR contains no corresponding part.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "2501.4",
+                  "NODE": "48:6.0.10.56.2.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2501.4—Deviations From the FAR"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2501.403",
+                      "NODE": "48:6.0.10.56.2.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.403   Individual deviations."
+                    ],
+                    "P": [
+                      "Individual deviations, affecting only one contracting action may be authorized by the NSF Procurement Executive.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.404",
+                      "NODE": "48:6.0.10.56.2.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.404   Class deviations."
+                    ],
+                    "P": [
+                      "Class deviations may be authorized by the NSF Procurement Executive subject to the limitations set forth in FAR subpart 1.4.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "2501.6",
+                  "NODE": "48:6.0.10.56.2.3",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2501.6—Contracting Authority and Responsibilities"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2501.601",
+                      "NODE": "48:6.0.10.56.2.3.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.601   General."
+                    ],
+                    "P": [
+                      {
+                        "_": "Authority and responsibility to contract for authorized supplies and services is vested in the Director, NSF, within the limits expressly provided by the National Science Foundation Act of 1950 (42 U.S.C. 1861 ). The NSF Procurement Executive is delegated overall responsibility by the Director for the Foundation's contracting activities. \n\n\n",
+                        "I": [
+                          "et seq."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.602",
+                      "NODE": "48:6.0.10.56.2.3.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.602   Contracting officers."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2501.602-1",
+                      "NODE": "48:6.0.10.56.2.3.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2501.602-1   Authority."
+                    ],
+                    "P": [
+                      "NSF Contracting Officers have authority to enter into, administer, or terminate contracts and make related determinations and findings to the extent of the authority delegated to them in writing by the NSF Procurement Executive.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "B",
+          "NODE": "48:6.0.10.57",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER B—ACQUISITION PLANNING\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "2509",
+              "NODE": "48:6.0.10.57.3",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2509—CONTRACTOR QUALIFICATIONS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "Sec. 11(a), National Science Foundation Act of 1950, as amended (42 U.S.C. 1870(a)).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "57 FR 34881, Aug. 7, 1992, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "2509.4",
+                  "NODE": "48:6.0.10.57.3.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2509.4—Debarment, Suspension, and Ineligibility"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2509.400",
+                      "NODE": "48:6.0.10.57.3.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.400   Scope of subpart."
+                    ],
+                    "P": [
+                      "This subpart supplements subpart 9.4 of the Federal Acquisition Regulation by prescribing NSF policies and procedures and assigning responsibility for making debarment and suspension decisions. Nothing in this subpart is intended to alter the effect of subpart 9.4.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.403",
+                      "NODE": "48:6.0.10.57.3.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.403   Definitions."
+                    ],
+                    "P": [
+                      "The NSF Deputy Director is the “debarring official” and “suspending official” for the Foundation. All duties assigned to the NSF Deputy Director by this regulation or by subpart 9.4 of the Federal Acquisition Regulation may be delegated by him or her to any officer or employee of the Foundation.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.405",
+                      "NODE": "48:6.0.10.57.3.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.405   Effect of listing."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.405-1",
+                      "NODE": "48:6.0.10.57.3.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.405-1   Continuation of current contracts."
+                    ],
+                    "P": [
+                      "(a) The NSF Deputy Director will decide whether to continue NSF contracts or subcontracts in existence at the time a contractor is debarred, suspended, or proposed for debarment.\n",
+                      "(b) The NSF Deputy Director will decide whether to renew or otherwise extend the duration of NSF contracts, or consent to subcontracts, with contractors debarred, suspended, or proposed for debarment. He or she will prepare a written statement of the compelling reasons for renewal and extension.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.405-2",
+                      "NODE": "48:6.0.10.57.3.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.405-2   Restrictions on subcontracting."
+                    ],
+                    "P": [
+                      "The NSF Deputy Director may authorize a contracting officer to consent to a subcontract with a contractor debarred, suspended, or proposed for debarment. He or she will prepare a written statement of the compelling reasons for such approval.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.406",
+                      "NODE": "48:6.0.10.57.3.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.406   Debarment."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.406-1",
+                      "NODE": "48:6.0.10.57.3.1.1.7",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.406-1   General."
+                    ],
+                    "P": [
+                      "(c) The NSF Deputy Director will decide whether to enter into a contract with a contractor that is debarred or proposed for debarment. He or she will prepare a written statement of the compelling reasons justifying continued business dealings between the Foundation and the contractor.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.406-3",
+                      "NODE": "48:6.0.10.57.3.1.1.8",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.406-3   Procedures."
+                    ],
+                    "P": [
+                      "(a) Any NSF employee who becomes aware of circumstances that may serve as the basis for debarment of a contractor will promptly report them to the NSF Office of Inspector General (OIG) and the debarring official. OIG will investigate the circumstances and, if it determines appropriate, prepare a written referral of the matter to the debarring official.\n",
+                      "(b) Upon receipt of a referral from the NSF Office of Inspector General, the debarring official will determine, in consultation as appropriate with OIG, the NSF Office of the General Counsel, the NSF Procurement Executive, and program officials, what additional steps are necessary and appropriate to make a decision in accordance with the requirements of 48 CFR 9.406-3.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.407",
+                      "NODE": "48:6.0.10.57.3.1.1.9",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.407   Suspension."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.407-1",
+                      "NODE": "48:6.0.10.57.3.1.1.10",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.407-1   General."
+                    ],
+                    "P": [
+                      "(d) The NSF Deputy Director will decide whether to enter into a contract with a suspended contractor. He or she will prepare a written statement of the compelling reasons justifying continued business dealings between the Foundation and the contractor.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.407-3",
+                      "NODE": "48:6.0.10.57.3.1.1.11",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.407-3   Procedures."
+                    ],
+                    "P": [
+                      "(a) Any NSF employee who becomes aware of circumstances that may serve as the basis for suspension of a contractor will promptly report them to the NSF Office of Inspector General (OIG) and the suspending official. OIG will investigate the circumstances and, if it determines appropriate, prepare a written referral of the matter to the suspending official.\n",
+                      "(b) Upon receipt of a referral from the NSF Office of Inspector General, the suspending official will determine, in consultation as appropriate with OIG, the NSF Office of the General Counsel, the NSF Procurement Executive, and program officials, what additional steps are necessary and appropriate to make a decision in accordance with the requirements of 48 CFR 9.407-3.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.408",
+                      "NODE": "48:6.0.10.57.3.1.1.12",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.408   Certification regarding debarment, suspension, proposed debarment, and other responsibility matters."
+                    ],
+                    "P": [
+                      "(a)(2) NSF contracting officers will notify the Office of Inspector General and the Deputy Director whenever information submitted by offerors in compliance with the Certifications Regarding Debarment, Suspension, Proposed Debarment, and Other Responsibility Matters provisions in solicitations indicates the existence of an indictment, charge, conviction, or civil judgment.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2509.410",
+                      "NODE": "48:6.0.10.57.3.1.1.13",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2509.410   Appeals."
+                    ],
+                    "P": [
+                      "(a) A debarred or suspended contractor may appeal to the Director in writing within 30 days after receiving notice of the debarring or suspending official's decision in accordance with 48 CFR 9.406-3(e) or 9.407-3(d)(4). The debarring or suspending official's decision becomes a final administrative action if not appealed within the 30 day period.\n",
+                      "(b) The Director may appoint an uninvolved NSF officer or employee to review an appeal and make recommendations.\n",
+                      "(c) The Director will inform the appellant of a final decision within 30 days after receiving the appeal. That decision will be the final administrative action of the Foundation.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "C",
+          "NODE": "48:6.0.10.58",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "2515",
+              "NODE": "48:6.0.10.58.4",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2515—CONTRACTING BY NEGOTIATION\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "42 U.S.C. 1870(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "49 FR 46744, Nov. 28, 1984, unless otherwise noted. \n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "2515.2",
+                  "NODE": "48:6.0.10.58.4.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2515.2—Negotiation Authorities"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2515.215-70",
+                      "NODE": "48:6.0.10.58.4.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2515.215-70   NSF negotiation authorities."
+                    ],
+                    "P": [
+                      {
+                        "_": "(a)  Citation: 42 U.S.C. 1870(c).\n",
+                        "I": [
+                          "Authorities."
+                        ]
+                      },
+                      {
+                        "_": "(b)  When an NSF contract is for scientific activities which are determined by the NSF contracting officer to be “necessary to carry out the purposes of the NSF Act,” then 41 U.S.C. 252(c)(15) is applicable and the contract may be entered into through negotiation rather than formal advertising. The Foundation's contracting officer may, in lieu of reliance on 42 U.S.C. 1870(c) and 41 U.S.C. 252(c)(15), utilize other applicable negotiating authorities at his or her discretion. 42 U.S.C. 1870(c) and 41 U.S.C. 252(c)(15) may also be used to authorize negotiation if the Foundation is carrying out, “at the request of the Secretary of State or Secretary of Defense, specific scientific activities in connection with matters relating to international cooperation or national security.” Contracts or their modifications entered into under this authority may be done so without legal consideration and without performance or other bonds.\n\n\n",
+                        "I": [
+                          "Application."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "E",
+          "NODE": "48:6.0.10.59",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "2527",
+              "NODE": "48:6.0.10.59.5",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2527—PATENTS, DATA, AND COPYRIGHTS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "35 U.S.C. 200-212; 42 U.S.C. 1870(e) and 1871); and the Presidential Memorandum entitled “Government Patent Policy”, issued February 18, 1983. \n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "2527.70",
+                  "NODE": "48:6.0.10.59.5.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2527.70—Disposition of Rights in Inventions"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2527.7001",
+                      "NODE": "48:6.0.10.59.5.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2527.7001   General."
+                    ],
+                    "P": [
+                      "National Science Foundation policies, procedures, and clauses governing allocation of rights to inventions made under NSF contracts, grants, and cooperative agreements are codified as part 650 of title 45 of the Code of Federal Regulations. \n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[57 FR 34882, Aug. 7, 1992, as amended at 61 FR 51022, Sept. 30, 1996]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2527.7002",
+                      "NODE": "48:6.0.10.59.5.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2527.7002   NSF patent policy."
+                    ],
+                    "P": [
+                      "As authorized by the National Science Board at its 230th meeting, October 15-16, 1981, the Director of the National Science Foundation has adopted the following statement of NSF patent policy. \n",
+                      "(a) In accordance with by the Bayh-Dole Act and the Presidential Memorandum entitled “Government Patent Policy” issued February 18, 1983, the Foundation will use the Patent Rights clause prescribed by the Department of Commerce in all its funding agreements for the performance of experimental, developmental, or research work, including awards made to foreign entities, unless the Foundation determines that some other provision would better serve the purposes of that Act or the interests of the United States and the general public. \n",
+                      "(b) In funding agreements covered by a treaty or agreement that provides that an international organization or foreign government, research institute, or inventor will own or share patent rights, the Foundation will acquire such patent rights as are necessary to comply with the applicable treaty or agreement. \n",
+                      "(c) If an awardee elects not to retain rights to an invention, the Foundation will allow the inventor to retain the principal patent rights unless the awardee, or the inventor's employer if other than the awardee, shows that it would be harmed by that action. \n",
+                      "(d) The Foundation will normally allow any patent rights not wanted by the awardee or inventor to be dedicated to the public through publication in scientific journals or as a statutory invention registration. However, if another Federal agency is known to be interested in the relevant technology, the Foundation may give it an opportunity to review and patent the invention so long as that does not inhibit the dissemination of the research results to the scientific community. \n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[57 FR 34882, Aug. 7, 1992]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "2527.71",
+                  "NODE": "48:6.0.10.59.5.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2527.71—Data Rights [Reserved]"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "2532",
+              "NODE": "48:6.0.10.59.6",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 2532—CONTRACT FINANCING\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "42 U.S.C. 1870(d).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "49 FR 46745, Nov. 28, 1984, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "2532.4",
+                  "NODE": "48:6.0.10.59.6.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 2532.4—Advance Payments"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "2532.401",
+                      "NODE": "48:6.0.10.59.6.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2532.401   Statutory authority."
+                    ],
+                    "P": [
+                      "The NSF Act (42 U.S.C. 1870(d)) provides that advance, progress, or other payments which relate to scientific activities or scientific information may be made without regard to the provisions of section 3324 of title 31 of the United States Code. \n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[49 FR 46745, Nov. 28, 1984, as amended at 61 FR 51022, Sept. 30, 1996]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "2532.403",
+                      "NODE": "48:6.0.10.59.6.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "2532.403   Applicability."
+                    ],
+                    "P": [
+                      "Advance payments may be made in any amount not exceeding the contract price, provided (a) the amount of the advance payment is based upon an analysis of the financing required by the contractor for the contract and does not exceed reasonable financial requirements between payments, and (b) such advance payment is appropriate in order to contract for the required work.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "2533-2599",
+              "NODE": "48:6.0.10.59.7",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PARTS 2533-2599 [RESERVED]\n\n\n"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

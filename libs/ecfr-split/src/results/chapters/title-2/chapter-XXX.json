@@ -1,0 +1,835 @@
+{
+  "number": "XXX",
+  "title": " CHAPTER XXX—DEPARTMENT OF HOMELAND SECURITY",
+  "content": {
+    "$": {
+      "N": "XXX",
+      "NODE": "2:1.2.25",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXX—DEPARTMENT OF HOMELAND SECURITY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "3000",
+          "NODE": "2:1.2.25.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3000—NONPROCUREMENT DEBARMENT AND SUSPENSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 2455, Public Law 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235; Public Law 107-296, 116 Stat. 2135.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "74 FR 34497, July 16, 2009, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3000.10",
+              "NODE": "2:1.2.25.10.1.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3000.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in Subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Homeland Security policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for the Department of Homeland Security to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3000.20",
+              "NODE": "2:1.2.25.10.1.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3000.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in Subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” (see Subpart B of 2 CFR Part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970);\n",
+              "(b) Respondent in a Department of Homeland Security suspension or debarment action;\n",
+              "(c) Department of Homeland Security debarment or suspension official;\n",
+              "(d) Department of Homeland Security grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3000.30",
+              "NODE": "2:1.2.25.10.1.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3000.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "The Department of Homeland Security policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in Subparts A through I of 2 CFR Part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance ( 2 CFR 180.220) as supplemented by section 220 in this part ( § 3000.220). For any section of OMB guidance in Subparts A through I of 2 CFR Part 180 that has no corresponding section in this part, Department of Homeland Security policies and procedures are those in the OMB guidance.\n\n\n",
+                "I": [
+                  "i.e.,",
+                  "i.e.,"
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.25.10.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3000.137",
+                  "NODE": "2:1.2.25.10.1.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3000.137   Who in the Department of Homeland Security may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "Within the Department of Homeland Security, the Secretary of Homeland Security has delegated the authority to grant an exception to let an excluded person participate in a covered transaction to the Head of the Contracting Activity for each DHS component as provided in the OMB guidance at 2 CFR 180.135.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.25.10.1.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3000.220",
+                  "NODE": "2:1.2.25.10.1.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3000.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "Department of Homeland Security extends coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.25.10.1.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3000.332",
+                  "NODE": "2:1.2.25.10.1.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3000.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "You as a participant in a covered transaction must include a term or condition in any lower-tier covered transaction into which you enter, to require the participant of that transaction to—\n",
+                  "(a) Comply with Subpart C of the OMB guidance in 2 CFR part 180; and\n",
+                  "(b) Include a similar term or condition in any covered transaction into which it enters at the next lower tier.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.25.10.1.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Department of Homeland Security Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3000.437",
+                  "NODE": "2:1.2.25.10.1.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3000.437   What method do I use to communicate to a participant the requirements described in the Office of Management and Budget guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "You as a DHS component official must include a term or condition in each covered transaction into which you enter, to communicate to the participant the requirements to—\n",
+                  "(a) Comply with subpart C of the OMB guidance in 2 CFR part 180; and\n",
+                  "(b) Include a similar term or condition in any lower-tier covered transactions into which the participant enters.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.25.10.1.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-I [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3001",
+          "NODE": "2:1.2.25.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3001—REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 41 U.S.C. 701-707; OMB Guidance for Drug-Free Workplace Requirements, codified at 2 CFR part 182.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "76 FR 10207, Feb. 24, 2011, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3001.10",
+              "NODE": "2:1.2.25.10.2.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3001.10   What does this part do?"
+            ],
+            "P": [
+              "This part requires that the award and administration of Department of Homeland Security (DHS) grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended, hereafter referred to as “the Act”) that applies to grants. It thereby—\n",
+              "(a) Gives regulatory effect to the OMB guidance, as supplemented by this part (Subparts A through F of 2 CFR part 182) for DHS's grants and cooperative agreements; and\n",
+              "(b) Establishes DHS policies and procedures, as supplemented by this part, for compliance with the Act that are the same as those of other Federal agencies, in conformance with the requirement in 41 U.S.C. 705 for Government-wide implementing regulations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3001.20",
+              "NODE": "2:1.2.25.10.2.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3001.20   Does this part apply to me?"
+            ],
+            "P": [
+              {
+                "_": "This part and, through this part, pertinent portions of the OMB guidance in Subparts A through F of 2 CFR part 182 ( table at 2 CFR 182.115(b)) apply to you if you are a—\n",
+                "I": [
+                  "see"
+                ]
+              },
+              "(a) Recipient of a DHS grant or cooperative agreement; or\n",
+              "(b) DHS awarding official.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3001.30",
+              "NODE": "2:1.2.25.10.2.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3001.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "(a)  You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  This part supplements the OMB guidance in 2 CFR part 182 as shown in the following table. For each of those sections, you must follow the policies and procedures in the OMB guidance, as supplemented by this part.\n",
+                "I": [
+                  "Specific sections of OMB guidance that this part supplements."
+                ]
+              },
+              {
+                "_": "(c)  For any section of OMB guidance in Subparts A through F of 2 CFR part 182 that is not listed in paragraph (b) of this section, DHS policies and procedures are the same as those in the OMB guidance.\n\n\n",
+                "I": [
+                  "Sections of the OMB guidance that this part does not supplement."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Section of OMB >guidance\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Section in this part where supplemented\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "What the supplementation clarifies\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.225(a)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.225",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in DHS a recipient other than an individual must notify if an employee is convicted for a violation of a criminal drug statute in the workplace.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.300(b)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.300",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in DHS a recipient who is an individual must notify if he or she is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.400",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.400",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in DHS is authorized to determine that a recipient other than an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in DHS is authorized to determine that a recipient who is an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.510",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.510",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "What actions the Federal Government will take against a recipient determined to have violated 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "2 CFR 182.605",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.605",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "What types of assistance are included in the definition of “award.”\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "None",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3001.661",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "What types of assistance are included in the definition of “reimbursable agreement.”",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.25.10.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Purpose and Coverage [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.25.10.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Requirements for Recipients Other Than Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3001.225",
+                  "NODE": "2:1.2.25.10.2.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.225   Who in DHS does a recipient other than an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify the DHS Office of Inspector General and each DHS office from which the recipient currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.25.10.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Requirements for Recipients Who Are Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3001.300",
+                  "NODE": "2:1.2.25.10.2.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.300   Who in DHS does a recipient who is an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient who is an individual and is required under 2 CFR 182.300(b) to notify Federal agencies about a conviction for a criminal drug offense must notify the DHS Office of Inspector General and each DHS office from which the recipient currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.25.10.2.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Agency Awarding Officials"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3001.400",
+                  "NODE": "2:1.2.25.10.2.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.400   What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance?"
+                ],
+                "P": [
+                  "To obtain a recipient's agreement to comply with applicable requirements in the OMB guidance at 2 CFR part 182, you must include the following term or condition in the award:\n"
+                ],
+                "FP": [
+                  "Drug-free workplace. You as the recipient must comply with drug-free workplace requirements in Subpart B (or Subpart C, if the recipient is an individual) of 2 CFR part 3001, which adopts the Government-wide implementation (2 CFR part 182) of sec. 5152-5158 of the Drug-Free Workplace Act of 1988 (Pub. L. 100-690, Title V, Subtitle D; 41 U.S.C. 701-707).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.25.10.2.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Violations of This Part and Consequences"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3001.500",
+                  "NODE": "2:1.2.25.10.2.5.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.500   Who in DHS determines that a recipient other than an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The Secretary of Homeland Security, or his or her official designee, will make the determination that a recipient other than an individual violated the requirements of this part.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3001.505",
+                  "NODE": "2:1.2.25.10.2.5.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.505   Who in DHS determines that a recipient who is an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The Secretary of Homeland Security, or his or her official designee, will make the determination that a recipient who is an individual violated the requirements of this part.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3001.510",
+                  "NODE": "2:1.2.25.10.2.5.69.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.510   What actions will the Federal Government take against a recipient determined to have violated this part?"
+                ],
+                "P": [
+                  "If a recipient is determined to have violated 2 CFR part 182, as implemented by this part, the agency will take one or more of the following actions—\n",
+                  "(a) Suspension of payments under the award;\n",
+                  "(b) Suspension or termination of the award; and\n",
+                  "(c) Suspension or debarment of the recipient under 2 CFR part 180 and 2 CFR part 3000, for a period not to exceed five years.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.25.10.2.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Definitions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3001.605",
+                  "NODE": "2:1.2.25.10.2.6.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.605   Award."
+                ],
+                "P": [
+                  {
+                    "_": " means an award of financial assistance by a Federal agency directly to a recipient.\n",
+                    "I": [
+                      "Award"
+                    ]
+                  },
+                  "(a) The term award includes:\n",
+                  "(1) A Federal grant, cooperative agreement or reimbursable agreement, in the form of money or property in lieu of money.\n",
+                  "(2) A block grant or a grant in an entitlement program, whether or not the grant is exempted from coverage under 2 CFR part 182 and specifies uniform administrative requirements.\n",
+                  "(b) The term “award” does not include:\n",
+                  "(1) Technical assistance that provides services instead of money.\n",
+                  "(2) Loans.\n",
+                  "(3) Loan guarantees.\n",
+                  "(4) Interest subsidies.\n",
+                  "(5) Insurance.\n",
+                  "(6) Direct appropriations.\n",
+                  {
+                    "_": "(7) Veterans' benefits to individuals (, any benefit to veterans, their families, or survivors by virtue of the service of a veteran in the Armed Forces of the United States).\n",
+                    "I": [
+                      "i.e."
+                    ]
+                  },
+                  "(8) Other Transactional Authority Award.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3001.661",
+                  "NODE": "2:1.2.25.10.2.6.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3001.661   Reimbursable Agreement."
+                ],
+                "P": [
+                  {
+                    "_": " means an award in which the recipient is reimbursed for expenditures only, and is not eligible for advance payments.\n\n\n",
+                    "I": [
+                      "Reimbursable Agreement"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3002",
+          "NODE": "2:1.2.25.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3002—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "31 U.S.C. 503, 2 CFR part 200, and as noted in specific sections.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76084, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3002.10",
+              "NODE": "2:1.2.25.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3002.10   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Department of Homeland Security adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance as needed for the Department.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3003-3099",
+          "NODE": "2:1.2.25.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3003-3099 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

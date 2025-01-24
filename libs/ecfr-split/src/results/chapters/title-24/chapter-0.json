@@ -1,0 +1,26 @@
+{
+  "number": "0",
+  "title": "CHAPTER VI—OFFICE OF ASSISTANT SECRETARY FOR COMMUNITY PLANNING AND DEVELOPMENT, DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT [RESERVED]\n\n\n",
+  "content": {
+    "$": {
+      "N": "0",
+      "NODE": "24:3.1.2",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      "CHAPTER VI—OFFICE OF ASSISTANT SECRETARY FOR COMMUNITY PLANNING AND DEVELOPMENT, DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT [RESERVED]\n\n\n"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "600-699",
+          "NODE": "24:3.1.2.4.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 600-699 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

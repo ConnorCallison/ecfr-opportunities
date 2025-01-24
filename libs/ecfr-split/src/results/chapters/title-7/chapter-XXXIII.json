@@ -1,0 +1,973 @@
+{
+  "number": "XXXIII",
+  "title": " CHAPTER XXXIII—OFFICE OF TRANSPORTATION, DEPARTMENT OF AGRICULTURE",
+  "content": {
+    "$": {
+      "N": "XXXIII",
+      "NODE": "7:15.1.12",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXXIII—OFFICE OF TRANSPORTATION, DEPARTMENT OF AGRICULTURE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "3300",
+          "NODE": "7:15.1.12.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3300—AGREEMENT ON THE INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS AND ON THE SPECIAL EQUIPMENT TO BE USED FOR SUCH CARRIAGE (ATP); INSPECTION, TESTING, AND CERTIFICATION OF SPECIAL EQUIPMENT \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 4, Pub. L. 97-325, International Carriage of Perishable Foodstuffs Act (7 U.S.C. 4403). \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "51 FR 33879, Sept. 24, 1986, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "7:15.1.12.2.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Introduction"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.1",
+                  "NODE": "7:15.1.12.2.1.1.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.1   Scope of authority and purpose."
+                ],
+                "P": [
+                  "The International Carriage of Perishable Foodstuffs Act assigns to the Secretary of Agriculture the responsibility for implementation of the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage (ATP). The purpose of this rule is to establish procedures for the inspection, testing, and certification of insulated, refrigerated, mechanically refrigerated, and heated transport equipment in accordance with the Act and the standards specified in the Agreement. In the process, the intent is to utilize existing industry organizations and facilities for testing and inspection of equipment. The Secretary is the sole authority to issue certificates of compliance. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.4",
+                  "NODE": "7:15.1.12.2.1.1.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.4   Definitions."
+                ],
+                "P": [
+                  {
+                    "_": " means the Administrator, Office of Transportation, U.S. Department of Agriculture, whose address is: 1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250. \n",
+                    "I": [
+                      "Administrator"
+                    ]
+                  },
+                  {
+                    "_": " means the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for Such Carriage (ATP), and the annexes and appendices thereto, done at Geneva, September 1, 1970, under the auspices of the Economic Commission for Europe, and any subsequent amendments thereto. \n\n \n",
+                    "I": [
+                      "ATP"
+                    ],
+                    "SU": [
+                      "1"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  },
+                  {
+                    "_": " means the person designated by the Administrator to manage the program established by this rule, whose address is: ATP Manager, Office of Transportation, U.S Department of Agriculture, 1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250. \n",
+                    "I": [
+                      "ATP manager"
+                    ]
+                  },
+                  {
+                    "_": " means a country which is signatory to the ATP. \n",
+                    "I": [
+                      "Contracting party"
+                    ]
+                  },
+                  {
+                    "_": " means an organization incorporated or chartered under the laws of, and with principal office in, the United States, and to which one of the following applies: \n",
+                    "I": [
+                      "Domestic owner"
+                    ]
+                  },
+                  "(a) The organization owns and operates the equipment directly. \n",
+                  "(b) The organization owns and operates the equipment through a wholly owned subsidiary in a foreign country. \n",
+                  "(c) The organization is a lessee or bailee of the equipment, and a written lease or bailment provides that the organization is responsible for any inspection, testing, and certification of the equipment with respect to the ATP rule. \n",
+                  {
+                    "_": " means the special transport equipment that meets the definitions and standards set forth in ATP, Annex 1, including, but not limited to, railcars, trucks, trailers, semitrailers, and intermodal freight containers that have an insulated body only, or an insulated body equipped with a refrigerating, mechanically refrigerating, or heating appliance. \n",
+                    "I": [
+                      "Equipment"
+                    ]
+                  },
+                  {
+                    "_": " means an organization which producers or assembles the complete unit of equipment, that is, the insulated body with the thermal appliance installed. \n",
+                    "I": [
+                      "Equipment manufacturer"
+                    ]
+                  },
+                  {
+                    "_": " means an organization registered under the laws of, or with principal office in, a country outside the United States, and which owns or operates the equipment. \n",
+                    "I": [
+                      "Foreign owner"
+                    ]
+                  },
+                  {
+                    "_": " means a certificate issued by a foreign country which is a contracting party to the ATP, attesting that the equipment listed in the certificate complies with pertinent standards in the ATP. \n",
+                    "I": [
+                      "Foreign-ATP certificate"
+                    ]
+                  },
+                  {
+                    "_": " means an appliance which is of the same model number and design as the reference mechanical refrigerating appliance. \n",
+                    "I": [
+                      "Identical mechanical refrigerating appliance"
+                    ]
+                  },
+                  {
+                    "_": " means the six-sided structural component of equipment, consisting of insulated doors, sidewalls, roof, floor, and endwall, inside which perishable foodstuffs are carried. \n",
+                    "I": [
+                      "Insulated body"
+                    ]
+                  },
+                  {
+                    "_": " means transportation of perishable foodstuffs if such foodstuffs are loaded in equipment or the equipment containing them is loaded onto a rail or road vehicle, in the territory of any country and such foodstuffs are, or the equipment containing them is, unloaded in the territory of another country that is a contracting party, where such transportation is by: \n",
+                    "I": [
+                      "International carriage"
+                    ]
+                  },
+                  "(a) Rail, \n",
+                  "(b) Road, \n",
+                  "(c) Any combination of rail and road, or \n",
+                  "(d) Any sea crossing of less than one hundred and fifty kilometers, if preceded or followed by one or more land journeys as referred to in clauses (a), (b), and (c) of this definition, and the perishable foodstuffs are shipped in the same equipment used for such land journeys without transloading of such foodstuffs. \n",
+                  {
+                    "_": " means equipment produced or assembled on or after the effective date of this rule. \n",
+                    "I": [
+                      "New equipment"
+                    ]
+                  },
+                  {
+                    "_": " means the quick deep-frozen and frozen food products listed in Annex 2, and the chilled food products listed in Annex 3 to the ATP. \n",
+                    "I": [
+                      "Perishable foodstuffs"
+                    ]
+                  },
+                  {
+                    "_": " means a unit of equipment which has passed a test in an approved testing station, and can thereby serve as a basis for certification of related serially-produced equipment. \n",
+                    "I": [
+                      "Reference equipment"
+                    ]
+                  },
+                  {
+                    "_": " means an insulated body which has passed a test in an approved testing station for measurement of the K-coefficient of the body, and can thereby serve as the basis for approval of serially-produced bodies in the case in which the body and the mechanical refrigerating appliance of the equipment are tested separately. \n",
+                    "I": [
+                      "Reference insulated body"
+                    ]
+                  },
+                  {
+                    "_": " means an appliance which has passed a test in an approved testing laboratory, and can thereby serve as the basis for approval of identical mechanical refrigerating appliances in the case in which the appliance and the insulated body of the equipment are tested separately. \n",
+                    "I": [
+                      "Reference mechanical refrigerating appliance"
+                    ]
+                  },
+                  {
+                    "_": " means insulated bodies which meet the definition in ATP, Annex 1 Appendix 1, paragraph 2(c)(i). \n",
+                    "I": [
+                      "Serially-produced bodies"
+                    ]
+                  },
+                  {
+                    "_": " means equipment of a specific type (container, semi-trailer, trailer, truck, or container), which meets the definition in ATP, Annex 1, Appendix 1, paragraphs 2(c), (i), (ii), (iii), and (iv). \n",
+                    "I": [
+                      "Serially-produced equipment"
+                    ]
+                  },
+                  {
+                    "_": " means the refrigerating, mechanical refrigerating, or heating appliance which is installed in the insulated body of the equipment. \n",
+                    "I": [
+                      "Thermal appliance"
+                    ]
+                  },
+                  {
+                    "_": " means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States. \n",
+                    "I": [
+                      "United States"
+                    ]
+                  },
+                  {
+                    "_": " means a certificate issued by the U.S. Department of Agriculture, attesting that the equipment listed in the certificate complies with pertinent standards in the ATP.\n",
+                    "I": [
+                      "U.S. ATP certificate"
+                    ]
+                  },
+                  {
+                    "_": " means a facility in the United States which has been approved by the Administrator to conduct tests of mechanical refrigerating appliances. \n",
+                    "I": [
+                      "U.S. ATP testing laboratory"
+                    ]
+                  },
+                  {
+                    "_": " means a facility in the United States which has been approved by the Administrator to conduct tests of equipment. \n\n\n",
+                    "I": [
+                      "U.S. ATP testing station"
+                    ]
+                  }
+                ],
+                "FTNT": [
+                  {
+                    "P": [
+                      {
+                        "_": "\n A copy of the agreement can be obtained by request to the ATP Manager, Office of Transportation, U.S. Department of Agriculture, 1405 Auditors Building, 201 14th Street, SW., Washington, DC 20250.",
+                        "SU": [
+                          "1"
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "FP": [
+                  "In the case of any transportation that involves one or more sea crossings other than as specified in clause (d) of this definition, each land journey shall be considered separately. \n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "7:15.1.12.2.1.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Procedures for Testing of Equipment"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.7",
+                  "NODE": "7:15.1.12.2.1.2.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.7   General."
+                ],
+                "P": [
+                  "Testing of equipment according to the ATP is basically done in two phases: \n",
+                  "(a) Measurement of the insulating capacity, that is, the K-coefficient, of the insulated body. \n",
+                  "(b) Determination of the efficiency of the thermal appliance as installed in the insulated body. In the case of mechanically refrigerated equipment, the mechanical refrigerating appliance may be tested separate from the body. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.10",
+                  "NODE": "7:15.1.12.2.1.2.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.10   Measurement of the K-coefficient of an insulated body."
+                ],
+                "P": [
+                  "The K-coefficient shall be measured according to the procedures in ATP, Annex 1, Appendix 2, paragraphs 1-28, and the following shall apply:\n",
+                  "(a) The internal heating method shall be used. \n",
+                  "(b) In ATP, Annex 1, Appendix 2, paragraph 8, last line, “about + 20 °C for the mean temperature of the walls of the body shall be interpreted to mean between +19 °C (+66 °F) and 21 °C (+70 °F).\n",
+                  "(c) A report of each test shall be completed on a form corresponding to the pertinent test report model prescribed in ATP, Annex 1, Appendix 2. Report forms may be obtained by a request to the ATP manager. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.13",
+                  "NODE": "7:15.1.12.2.1.2.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.13   Determination of the efficiency of the thermal appliances as installed in the insulated body."
+                ],
+                "P": [
+                  "In determining the efficiency of a thermal appliance with respect to maintaining a prescribed temperature inside the body, the procedures in ATP, Annex 1, Appendix 2, paragraphs 31-40 and 43-47 shall be used. A report of each test shall be completed on a form corresponding to the pertinent test report model prescribed in ATP, Annex 1, Appendix 2. Report forms may be obtained by a request to the ATP manager.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "7:15.1.12.2.1.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Approval of Testing Stations"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.16",
+                  "NODE": "7:15.1.12.2.1.3.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.16   General."
+                ],
+                "P": [
+                  "Any public or private organization incorporated or chartered under the laws of, and with principal office in, the United States may apply to have one or more of its facilities in the United States designated as a U.S. ATP testing station. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.19",
+                  "NODE": "7:15.1.12.2.1.3.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.19   Application for approval."
+                ],
+                "P": [
+                  "An application by an officer of the organization shall be submitted to the Administrator for each facility for which approval is sought. Copies of the Form, Application for Approval as a U.S. ATP Testing Station, may be obtained by a request to the ATP manager. The following information must be supplied in the application: \n",
+                  "(a) A statement that the organization is incorporated or chartered under the laws of, and that it has its principal office in, the United States, including the name, address, and telephone number of the principal office. \n",
+                  "(b) The address and telephone number of the testing station, and name and title of person in charge of the station. \n",
+                  "(c) A summary of experience at the facility which would indicate the capability to conduct tests of equipment according to Subpart B of this rule. \n",
+                  {
+                    "_": "(d) A general description of the station, including drawings on letter size (8 \n × 11 inches) paper to show the floor plan and cross-sections of the test chamber, basic dimensions, location of heat exchangers and instruments, and any other pertinent information. \n",
+                    "FR": [
+                      "1/2"
+                    ]
+                  },
+                  "(e) An indication of which of the following types of equipment, as defined in ATP, Annex 1, that the station is capable of testing: intermodal freight containers, semi-trailers, trailers, railcars, and trucks. \n",
+                  "(f) A statement that the ATP manager or other representative of the Administrator may, before a decision is made concerning the application, observe a test at the station of a Class “C” mechanically refrigerated container or semi-trailer, with Class “C” being defined as in ATP, Annex 1, paragraph 3.\n",
+                  "(g) A statement that the station will be open to public use, that is, to manufacturers and owners of equipment which may apply to have equipment tested. \n",
+                  "(h) A statement that the fees to be charged by the organization for testing will be reasonable with respect to costs involved, and that such fees will be payable directly to the organization by those who seek testing of their equipment. \n",
+                  "(i) A statement that the station will maintain records of basic data developed in each test conducted under this rule, such records to be available for review by the ATP manager or other representative of the Administrator upon request. The record for each test shall be maintained for a period of three years.\n",
+                  "(j) A statement that the organization will advise the ATP manager as soon as practicable of its intent to conduct a test under this rule and that it will, as soon as possible, advise when a firm test date has been set so that the ATP manager or other representative of the Administrator may observe the test. \n",
+                  "(k) A statement that the organization will send to the ATP manager a copy of each test report for equipment tested at the station according to this rule, within 30 days after completion of the test. \n",
+                  "(l) A statement that, should any significant change occur in the facility with respect to structure or test equipment as a result of redesign or other cause during the period of approval, the organization will so advise the ATP manager within 30 days after such change. \n",
+                  "(m) Any other pertinent information. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.22",
+                  "NODE": "7:15.1.12.2.1.3.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.22   Response to application for approval."
+                ],
+                "P": [
+                  "The Administrator will, within 30 days of receipt of the application and any relevant information required, advise the applicant whether or not the facility is approved as a testing station. Approval is for a 5-year period. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.25",
+                  "NODE": "7:15.1.12.2.1.3.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.25   Application for renewal of approval."
+                ],
+                "P": [
+                  "If an organization wishes to have an approval renewed at the end of a 5-year period, it shall submit a request for renewal to the Administrator 90 days before expiration of the existing approval. The request for renewal shall contain the same type of information as required in the original application, that is, the information called for in § 3300.19 of subpart C. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.28",
+                  "NODE": "7:15.1.12.2.1.3.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.28   Response to application for renewal of approval."
+                ],
+                "P": [
+                  "The Administrator will, within 30 days of receipt of application and any relevant information required, advise the applicant whether or not approval is renewed. A renewal is good for 5 years. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.31",
+                  "NODE": "7:15.1.12.2.1.3.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.31   Termination of approval."
+                ],
+                "P": [
+                  "An approved testing station may at any time withdraw as an approved testing station by written notice to the Administrator. Similarly, the Administrator may suspend or terminate for cause the approved status of a testing station by written notice to the organization, setting forth the reasons for such action. Examples of causes for suspension or termination of approval of a testing station would be a change in equipment or operations at the station which would render the station incapable of performing tests according to the standards in the ATP, or noncompliance of the station with pertinent portions of this rule. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "7:15.1.12.2.1.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Procedures for Separate Testing of Mechanical Refrigerating Appliances"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.34",
+                  "NODE": "7:15.1.12.2.1.4.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.34   General."
+                ],
+                "P": [
+                  "ATP, Annex 1, Appendix 2, paragraph 41, provides that approval of mechanically refrigerated equipment may be done on the basis of separate testing of the mechanical refrigerating appliance. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.37",
+                  "NODE": "7:15.1.12.2.1.4.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.37   Testing of a mechanical refrigerating appliance."
+                ],
+                "P": [
+                  "For separate testing of a mechanical refrigerating appliance, the following shall pertain: \n",
+                  "(a) The calibrated-box method shall be used, as set forth in ARI Standard 1110, Standard for Mechanical Refrigeration Units, of the Air-Conditioning and Refrigeration Institute. \n",
+                  "(b) The appliance shall be rated according to the class, or classes, of service for which the appliance is intended, with classes being defined as in ATP, Annex 1, paragraph 3. \n",
+                  "(c) A report of each test shall be completed on a form corresponding to the pertinent test report model prescribed in ATP, Annex 1, Appendix 2. Report forms may be obtained by a request to the ATP manager. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "7:15.1.12.2.1.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Approval of Testing Laboratories"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.40",
+                  "NODE": "7:15.1.12.2.1.5.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.40   General."
+                ],
+                "P": [
+                  "Any public or private organization incorporated or chartered under the laws of, and with principal office in, the United States may apply to have one or more of its facilities in the United States designated as a U.S. ATP testing laboratory.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.43",
+                  "NODE": "7:15.1.12.2.1.5.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.43   Application for approval."
+                ],
+                "P": [
+                  "An application by an officer of the organization shall be submitted to the Administrator for each facility for which approval is sought. Copies of the Form, Application for Approval as a U.S. ATP Testing Laboratory, may be obtained by a request to the ATP manager. The following information must be supplied in the application:\n",
+                  "(a) A statement that the organization is incorporated or chartered under the laws of, and that it has its principal office in, the United States, including the address and telephone number of the principal office.\n",
+                  "(b) The address and telephone number of the testing laboratory, and name and title of person in charge of the laboratory.\n",
+                  "(c) A summary of the experience at the facility which would indicate a capability to conduct tests of mechanical refrigerating appliances according to subpart D of this rule.\n",
+                  {
+                    "_": "(d) A general description of the laboratory, including drawings on letter size (8\n × 11 inches) paper to show the floor plan and cross-section of the test chamber, basic dimensions, location of heat exchangers and instruments, and any other pertinent information.\n",
+                    "FR": [
+                      "1/2"
+                    ]
+                  },
+                  "(e) A statement that the ATP manager or other representative of the Administrator may, before a decision is made concerning the application, observe a test at the laboratory of a mechanical refrigerating appliance for a Class “C” mechanically refrigerated container or trailer, with Class “C” as defined in ATP, Annex 1, paragraph 3.\n",
+                  "(f) A statement that the laboratory will maintain records of basic data developed in each test conducted under this rule, such records to be available for review by the ATP manager or other representative of the Administrator, upon request. The record for each test shall be maintained for a period of three years.\n",
+                  "(g) A statement that the organization will advise the ATP manager as soon as practicable of its intent to conduct a test under this rule and that it will, as soon as possible, advise when a firm test has been set so that the ATP manager or other representative of the Administrator may observe the test.\n",
+                  "(h) A statement that the organization will send to the ATP manager a copy of each test report for an appliance tested at the laboratory according to this rule, within 30 days after completion of the test.\n",
+                  "(i) A statement that, should any significant change occur in the facility with respect to structure or test equipment as a result of redesign or other cause during the period of approval, the organization will so advise the ATP manager within 30 days after such change.\n",
+                  "(j) Any other pertinent information.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.46",
+                  "NODE": "7:15.1.12.2.1.5.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.46   Response to application for approval."
+                ],
+                "P": [
+                  "The Administrator will, within 30 days of receipt of an application and any relevant information required, advise the applicant whether or not the facility is approved as a testing laboratory. Approval is for a 5-year period from date of approval.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.49",
+                  "NODE": "7:15.1.12.2.1.5.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.49   Application for renewal of approval."
+                ],
+                "P": [
+                  "If an organization wishes to have an approval renewed at the end of a 5-year period, it shall submit a request for renewal to the Administrator 90 days before expiration of the existing approval. The request for renewal shall contain the same type of information as required in the original application, that is, the information called for in § 3300.43 of subpart E.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.52",
+                  "NODE": "7:15.1.12.2.1.5.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.52   Response to application for renewal of approval."
+                ],
+                "P": [
+                  "The Administrator will, within 30 days of receipt of application and any relevant information required, advise the applicant whether or not approval is renewed. A renewal extends the period of approval for 5 years.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.55",
+                  "NODE": "7:15.1.12.2.1.5.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.55   Termination of approval."
+                ],
+                "P": [
+                  "An approved testing laboratory may at any time withdraw as an approved testing laboratory by written notice to the Administrator. Similarly, the Administrator may suspend or terminate for cause the approved status of a testing laboratory by written notice to the organization, setting forth the reasons for such action. Examples of causes for suspension or termination of approval would be a change in equipment or operations at the laboratory which would render it incapable of performing tests according to the standards in the ATP, or noncompliance of the laboratory with pertinent portions of this rule. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "7:15.1.12.2.1.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Certification of New Equipment"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.58",
+                  "NODE": "7:15.1.12.2.1.6.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.58   General."
+                ],
+                "P": [
+                  "The following shall apply for certification of new equipment: \n",
+                  "(a) Domestic owners are eligible to receive U.S. ATP certificates for equipment produced or assembled in the United States or in a foreign country. \n",
+                  "(b) Foreign owners are eligible to receive U.S. ATP certificates only for equipment produced or assembled in the United States. \n",
+                  {
+                    "_": "(c) For equipment manufactured (, produced or assembled) in the United States: \n",
+                    "I": [
+                      "i.e."
+                    ]
+                  },
+                  "(1) When the complete unit of equipment is tested, the test shall be performed in a U.S. ATP testing station.\n",
+                  "(2) When the mechanical refrigerating appliance and the insulated body are tested separately, such tests shall be performed in approved testing facilities in the United States or in test facilities located in, and approved by, a foreign country which is a Contracting Party. \n",
+                  "(d) For equipment manufactured in a foreign country which is a Contracting Party, a domestic owner may receive a U.S. ATP certiticate in exchange for the Foreign-ATP certificate issued by the country of manufacture.\n",
+                  "(e) For equipment manufactured in a foreign country which is not a Contracting Party, tests shall be performed in approved testing facilities in the United States or in facilities located in and approved by a foreign country which is a Contracting Party.\n",
+                  "(f) In accordance with ATP, Annex 1, Appendix 1, paragraphs 2(a) and (d), the validity of a test report for a reference equipment shall expire at the end of a period of 3 years or at the end of the manufacture of 1,000 units of serially-produced equipment, whichever occurs first.\n",
+                  "(g) The validity of a test report for a reference mechanical refrigerating appliance shall expire at the end of a period of three years, or at the end of the manufacture of 1,000 identical mechanical refrigerating appliances, whichever occurs first.\n",
+                  "(h) The validity of a test report for a reference insulated body shall expire at the end of a period of three years, or at the end of the manufacture of 1,000 serially-produced bodies, whichever occurs first.\n",
+                  "(i) Serially-produced equipment shall be produced or assembled by the same manufacturer and at the same manufacturing plant as the reference equipment.\n",
+                  "(j) Identical mechanical refrigerating appliances shall be manufactured by the same manufacturer and at the same manufacturing plant as the reference mechanical refrigerating appliance.\n",
+                  "(k) Serially-produced bodies shall be manufactured by the same manufacturer and at the same manufacturing plant as the reference insulated body.\n",
+                  "(l) Equipment manufacturers shall notify the ATP manager 30 days before start of manufacture so that the ATP manager or other representative of the Administrator may observe the manufacturing operation. \n",
+                  "(m) Owners who receive a U.S. ATP certificate have the responsibility to manitain the equipment in good repair and operating condition with the understanding that the certificate is valid only so long as:\n",
+                  "(1) The insulated body and the thermal appliance are maintained in good condition; \n",
+                  "(2) No material alteration is made to the thermal appliance which decreases its refrigerating capacity, and; \n",
+                  "(3) If the thermal appliance is replaced, it is replaced by an appliance of equal or greater refrigerating capacity. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.61",
+                  "NODE": "7:15.1.12.2.1.6.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.61   Testing and verification requirements."
+                ],
+                "P": [
+                  "In accordance with ATP, Annex 1, Appendix 1, paragraphs 1, 1(a), 2(a), 2(b), 2(c) and 3, and Appendix 2, paragraph 41, certification of new equipment is based upon the following: \n",
+                  "(a) For a unit of equipment, a test of the equipment in an approved testing station. \n",
+                  "(b) For serially-produced equipment: \n",
+                  "(1) A test of one unit of equipment in an approved testing station, such unit to serve as the reference equipment. \n",
+                  "(2) Verification that production of other units of equipment is in conformity with the reference equipment. \n",
+                  "(c) For mechanically refrigerated equipment, certification may be based upon a separate test of the mechanical refrigerating appliance and a separate test of the insulated body. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.64",
+                  "NODE": "7:15.1.12.2.1.6.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.64   Application for certificate for new equipment produced or assembled in the United States or in a foreign country which is not a contracting party to the ATP."
+                ],
+                "P": [
+                  "Application for certification shall be submitted to the ATP manager by an officer in the organization of the owner of the equipment. In the case of equipment manufactured in the United States, application may be made by an officer in the organization of the equipment manufacturer, acting on behalf of the owner. Copies of the Form, Application for U.S. ATP Certificate for New Equipment Produced or Assembled in the United States or in a Foreign Country Which is not a Contracting Party to the ATP, may be obtained by a request to the ATP manager. The following information must be supplied in the application: \n",
+                  "(a) A statement whether the owner is a domestic owner or a foreign owner, with the name, address and telephone number of its principal office, and the name and title of person to contact. \n",
+                  "(b) If the operator of the equipment is different from the owner, the name and address of the operator. \n",
+                  "(c) Type of equipment (intermodal freight container, semi-trailer, trailer, railcar, or truck). \n",
+                  "(d) Total number of units of equipment. \n",
+                  "(e) Definition and distinguishing mark of the equipment for which certification is sought, referring to ATP, Annex 1, paragraph 3 and Appendix 4. \n",
+                  "(f) Name, address, and telephone number of the principal office of the equipment manufacturer, and name and title of the person to contact. \n",
+                  "(g) Name and address of the plant at which the equipment was manufactured. \n",
+                  {
+                    "_": "(h) In the case of a unit of equipment (, the insulated body with its mechanical refrigerating appliance installed) that has been tested to serve as the reference equipment for serially-produced equipment: \n",
+                    "I": [
+                      "i.e."
+                    ]
+                  },
+                  "(1) The original or certified true copy of the test report for the reference equipment. \n",
+                  "(2) For the serially-produced equipment: \n",
+                  "(i) The manufacturer's make and model number for the equipment, including a brief description of the equipment and enclosure of any brochure on the equipment which might be available. \n",
+                  "(ii) The basis upon which the equipment meets the definition of serially-produced equipment, with respect to the reference equipment. \n",
+                  "(iii) A statement that the equipment was manufactured at the same plant at which the reference equipment was manufactured. \n",
+                  "(iv) A statement that production of the equipment was in conformity with the reference equipment.\n",
+                  "(i) In the case where the mechanical refrigerating appliance and the insulated body have been tested separately:\n",
+                  "(1) For the reference mechanical refrigerating appliance:\n",
+                  "(i) The original or certified true copy of the test report.\n",
+                  {
+                    "_": "(ii) From the test report, the effective refrigerating capacity, W, in watts, of the appliance at an outside temperature of + 30 °C and the inside temperature ( ATP, Annex 1, paragraph 3 and Appendix 4) for the class of equipment for which certification is sought. “W” must be equal to, or greater than, the increased heat transfer rate, H, for the reference insulated body. See paragraph (3)(iii) below.\n",
+                    "I": [
+                      "see"
+                    ],
+                    "E": [
+                      {
+                        "_": "i",
+                        "$": {
+                          "T": "52"
+                        }
+                      }
+                    ]
+                  },
+                  "(2) For the identical mechanical refrigerating appliances:\n",
+                  "(i) Name and address of the plant at which the identical appliances and reference appliance were manufactured.\n",
+                  "(ii) The manufacturer's make, model number, and a brief description of the appliances with enclosure of any brochure on the appliances which might be available.\n",
+                  "(iii) A statement that the appliances meet the definition of identical mechanical refrigerating appliances.\n",
+                  "(3) For the reference insulated body:\n",
+                  "(i) The original or certified true copy of the test report.\n",
+                  {
+                    "_": "(ii) The total heat transfer rate of the body, H = S × K × Δ T, in watts, where: “S” is the mean surface area of the body, from the test report; “K” is the heat transfer coefficient of the body, from the test report; and, “Δ T” is the difference in degrees Kelvin between an outside temperature of + 30 °C and the inside temperature for the class of equipment for which certification is sought.\n",
+                    "E": [
+                      {
+                        "_": "t",
+                        "$": {
+                          "T": "52"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(iii) The increased beat transfer rate, H, obtained by multiplying the total heat transfer rate H, by the factor of 1.75.\n",
+                    "E": [
+                      {
+                        "_": "i",
+                        "$": {
+                          "T": "52"
+                        }
+                      },
+                      {
+                        "_": "t",
+                        "$": {
+                          "T": "52"
+                        }
+                      }
+                    ]
+                  },
+                  "(4) For the serially-produced insulated bodies:\n",
+                  "(i) Name and address of the plant at which the serially-produced bodies and reference body were manufactured.\n",
+                  "(ii) The manufacturer's make, model number, and a brief description of the bodies, with any brochure on the bodies which might be available.\n",
+                  "(iii) The basis upon which the bodies meet the definition of serially-produced bodies, with respect to the reference insulated body.\n",
+                  "(iv) A statement that production of the bodies was in conformity with the reference insulated body.\n",
+                  "(j) Information on the equipment after manufacture:\n",
+                  "(1) A statement that each mechanical refrigerating appliance, after it was installed in the body, was operated and thoroughly checked and that each appliance functioned properly.\n",
+                  "(2) A statement that each body and each appliance has affixed to it a manufacturer's plate or other means of identification which shows the items of information required by ATP, Annex 1, paragraph 6.\n",
+                  "(3) A statement that each unit of equipment, before it is put into service, will have affixed to it a certification plate and distinguishing mark as specified in ATP, Annex 1, Appendix 1, paragraphs 4 and 5, and Appendixes 3 and 4.\n",
+                  "(4) A list showing, for each unit of equipment, the serial number of the body and the corresponding owner's equipment identification number.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.67",
+                  "NODE": "7:15.1.12.2.1.6.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.67   Application for certificate for new equipment produced or assembled in a foreign country which is a contracting party to the ATP."
+                ],
+                "P": [
+                  "An application for certification of equipment shall be submitted to the ATP manager by an officer in the organization of the owner of the equipment. Copies of the Form, Application for U.S. ATP Certificate for New Equipment Produced or Assembled in a Foreign Country Which is a Contracting Party, may be obtained by a request to the ATP manager. The following information must be submitted in the application: \n",
+                  "(a) A statement that the owner is a domestic owner, with the name, address and telephone number of its principal office, and the name and title of the person to contact. \n",
+                  "(b) If the operator of the equipment is different from the owner, the name and address of the operator. \n",
+                  "(c) The type of equipment (intermodal freight container, trailer, semi-trailer, railcar, or truck.) \n",
+                  "(d) Total number of units of equipment. \n",
+                  "(e) Definition of the equipment for which certification is sought, referring to ATP, Annex 1, paragraph 3, and Appendix 4. \n",
+                  "(f) Name, address, and telephone number of the manufacturer of the equipment, and the name and title of the person to contact. \n",
+                  "(g) The manufacturer's make and model number for the equipment, including a brief description of the equipment and any brochure on the equipment which might be available. \n",
+                  "(h) The original or certified true copy of the test report for the reference equipment. \n",
+                  "(i) The original or certified true copy of the Foreign-ATP certificate issued for the equipment. \n",
+                  "(j) A statement that each unit of equipment, before it is put into service, will have affixed to it a certification plate and distinguishing mark as specified in ATP, Annex 1, Appendix 1, paragraphs 4 and 5, and Appendixes 3 and 4. \n",
+                  "(k) A list showing, for each unit of equipment, the serial number of the body and the corresponding owner's equipment identification number. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.70",
+                  "NODE": "7:15.1.12.2.1.6.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.70   Issuance of certificate."
+                ],
+                "P": [
+                  "The ATP manager will evaluate the documents received and, for equipment deemed qualified, will issue a U.S. ATP certificate to the applicant within 30 days of the receipt of an application and any relevant information required. The certificate will be in the format prescribed in ATP, Annex 1, Appendix 3. For equipment deemed not qualified, the applicant will be advised of the reasons for non-qualification within 30 days of the receipt of an application and any relevant information required. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.73",
+                  "NODE": "7:15.1.12.2.1.6.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.73   Period of validity of certificates."
+                ],
+                "P": [
+                  "In accordance with ATP, Annex 1, Appendix 1, paragraphs 1(a) and 1(b), certificates issued for new equipment are valid for a period of 6 years from date of issue. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "G",
+              "NODE": "7:15.1.12.2.1.7",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart G—Certification of Equipment in Service"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.76",
+                  "NODE": "7:15.1.12.2.1.7.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.76   General."
+                ],
+                "P": [
+                  "Only domestic owners are eligible to receive U.S. ATP certificates for equipment in service, with certification based upon the following: \n",
+                  "(a) For equipment which has not previously been certified: \n",
+                  "(1) For each unit of equipment, a test in a U.S. ATP testing station or in a testing station located in and approved by a country which is a Contracting Party, to measure the K-coefficient of the insulated body and the efficiency of the thermal appliance in accordance with § 3300.10 and § 3300.13 of this rule. \n",
+                  "(2) If the equipment consists of serially-produced equipment manufactured by a particular equipment manufacturer, and belonging to one owner, certification may be based upon the following: \n",
+                  "(i) A test of 1 percent of the units of equipment as prescribed in preceding paragraph (a)(1) of this section, the units tested to serve as reference equipment.\n",
+                  "(ii) An inspection of each unit of equipment, using the procedures set forth in ATP, Annex 1, Appendix 2, paragraphs 29 and 49. The inspections shall be performed by one of the following, at the choice of the owner: \n",
+                  "(A) Persons in the owner's organization whom the owner deems qualified to perform inspections, or; \n",
+                  "(B) By an independent inspection agency which the owner deems competent to perform inspections. Fees charged by such inspection agency shall be payable directly to the agency by the owner. \n",
+                  "(iii) A report of each inspection shall be completed on a form corresponding to the pertinent test report model in ATP, Annex 1, Appendix 2. Report forms may be obtained by a request to the ATP manager. \n",
+                  "(b) For renewal of a U.S. ATP certificate which is nearing its expiration date, any of the following three procedures: \n",
+                  "(1) For each unit of equipment, a test as prescribed in preceding paragraph (a)(1) of this section, or; \n",
+                  "(2) If the equipment is serially-produced by a particular manufacturer and belongs to one owner, test and inspection of the equipment according to the procedures prescribed in preceding paragraphs (a)(2)(i), (ii), and (iii) of this section, or; \n",
+                  "(3) An inspection of each unit of equipment as prescribed in paragraphs (a)(2)(ii) and (iii) of this section. \n",
+                  "(c) For equipment which is currently certified according to a U.S. ATP certificate, and which has been transferred from one domestic owner to another, the new owner may obtain a U.S. ATP certificate by submitting the original or certified true copy of the certificate issued to the previous owner, and by performing an inspection and submitting an inspection report for each unit of equipment. \n",
+                  "(d) For equipment which is currently certified according to a Foreign-ATP certificate, and which has been transferred from a foreign owner to a domestic owner, the domestic owner may obtain a U.S. ATP certificate by submitting the original or certified true copy of the test report for the reference equipment and the original or certified true copy of the foreign certificate, and by performing an inspection and submitting an inspection report for each unit of equipment. \n",
+                  "(e) Owners who receive a U.S. ATP certificate have the responsibility to maintain equipment in good repair and operating condition with the understanding that the certificate is valid only so long as: \n",
+                  "(1) The insulated body and the thermal appliance are maintained in good condition; \n",
+                  "(2) No material alteration is made to the thermal appliance which decreases its refrigeration capacity, and; \n",
+                  "(3) If the thermal appliance is replaced, it is replaced by an appliance of equal or greater refrigerating capacity. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.79",
+                  "NODE": "7:15.1.12.2.1.7.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.79   Application for certificate."
+                ],
+                "P": [
+                  "An application shall be submitted to the ATP manager by an officer in the organization of the owner of the equipment. Copies of the Form, Application for U.S. ATP Certificate for Equipment in Service, may be obtained by a request to the ATP manager. The following information is requested in the application: \n",
+                  "(a) A statement that the owner is a domestic owner, with the name, address, and telephone number of its principal office, and name and title of person to contact. \n",
+                  "(b) If the operator of the equipment is different from the owner, the name and address of the operator. \n",
+                  "(c) The type of equipment (intermodal freight container, trailer, semi-trailer, railcar, or truck). \n",
+                  "(d) The total number of units of equipment. \n",
+                  "(e) The definition of the equipment for which certification is sought, referring to ATP, Annex 1, paragraph 3 and Appendix 4. \n",
+                  "(f) For equipment which has not been previously certified, one of the following:\n",
+                  "(1) For each unit of equipment, the original or certified true copy of the test report, or; \n",
+                  "(2) If the equipment is serially-produced by one manufacturer: \n",
+                  "(i) Name of manufacturer. \n",
+                  "(ii) The original or certified true copy of the test report(s) of 1 percent of the equipment which was tested to serve as reference equipment. \n",
+                  "(iii) A report of inspection for each unit of equipment. \n",
+                  "(g) For renewal of a U.S. ATP Certificate which is nearing its expiration date: \n",
+                  "(1) The original or certified true copy of that certificate, and; \n",
+                  "(2) One of the following, (i) (ii), or (iii): \n",
+                  "(i) For each unit of equipment, the original or certified true copy of the test report. \n",
+                  "(ii) If the equipment is serially-produced by one manufacturer: \n",
+                  "(A) Name of manufacturer. \n",
+                  "(B) The original or certified true copy of the test report(s) of 1 percent of the equipment which was tested to serve as reference equipment. \n",
+                  "(C) A report of inspection from each unit of equipment. \n",
+                  "(iii) A report of inspection for each unit of equipment. \n",
+                  "(h) For equipment which is currently certified according to a U.S. ATP certificate, and which has been transferred from one domestic owner to another: \n",
+                  "(1) The original or certified true copy of that certificate. \n",
+                  "(2) A report of inspection for each unit of equipment. \n",
+                  "(i) For equipment which is currently certified according to a Foreign-ATP certificate, and which has been transferred from a foreign owner to a domestic owner: \n",
+                  "(1) The original or certified true copy of the test report for the reference equipment. \n",
+                  "(2) The original or certified true copy of the Foreign-ATP certificate. \n",
+                  "(3) A report of inspection for each unit of equipment. \n",
+                  "(j) A statement that each unit of equipment has, or will have, affixed to it a certification plate and distinguishing mark as prescribed in ATP, Annex 1, Appendix 1, paragraphs 4 and 5, and Appendices 3 and 4. \n",
+                  "(k) A list showing, for each unit of equipment, the serial number of the body and the corresponding owner's equipment identification number. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.82",
+                  "NODE": "7:15.1.12.2.1.7.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.82   Issuance of certificate."
+                ],
+                "P": [
+                  "The ATP manager will evaluate documents received and, for equipment deemed qualified, will issue a U.S. ATP certificate to the applicant within 30 days of receipt of the application and any relevant information required. The certificate will be in the format prescribed in ATP, Annex 1, Appendix 3. For equipment deemed not qualified, the applicant will be advised of reasons for non-qualification within 30 days of receipt of an application and any relevant information required. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.85",
+                  "NODE": "7:15.1.12.2.1.7.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.85   Period of validity of certificates."
+                ],
+                "P": [
+                  "In accordance with ATP, Annex 1, Appendix 1, paragraphs 1(b), and Appendix 2, paragraphs 29(c) and 49(b) and (d), considered in combination, certificates will be valid for periods as follows: \n",
+                  "(a) For equipment which passes a test, 6 years. \n",
+                  "(b) For serially-produced equipment of which 1 percent have passed a test, and all units have been inspected and passed such inspection, 6 years. \n",
+                  "(c) For renewal of a U.S. ATP certificate which is nearing its expiration date, where the equipment has passed an inspection but has not been tested, 3 years. \n",
+                  "(d) For equipment currently certified according to a U.S. ATP certificate, where the equipment has been transferred from one domestic owner to another and the equipment has passed an inspection, 3 years or the date of expiration of the current U.S. ATP certificate, whichever gives the later expiration date on the new U.S. ATP certificate. \n",
+                  "(e) For equipment currently certified according to a Foreign-ATP certificate, where the equipment has been transferred from a foreign owner to a domestic owner and the equipment has passed an inspection, 3 years or the date of expiration of the foreign certificate, whichever gives the later expiration date on the newly issued U.S. ATP certificate. \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "H",
+              "NODE": "7:15.1.12.2.1.8",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart H—Other Provisions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3300.88",
+                  "NODE": "7:15.1.12.2.1.8.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.88   Fees for U.S. ATP certificates."
+                ],
+                "P": [
+                  {
+                    "_": "The fee schedule for issuance of U.S. ATP certificates by the U.S. Department of Agriculture will be calculated according to the criteria in Circular A-25 \n\n, issued by the Office of Management and Budget. Fees may be revised as required on an annual basis. \n",
+                    "SU": [
+                      "2"
+                    ],
+                    "FTREF": [
+                      ""
+                    ]
+                  }
+                ],
+                "FTNT": [
+                  {
+                    "P": [
+                      {
+                        "_": "\n A copy of Circular A-25 can be obtained by a request to the Office of Management and Budget (OMB), 17th Street and Pennsylvania Avenue, NW., Washington, DC 20503.",
+                        "SU": [
+                          "2"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.91",
+                  "NODE": "7:15.1.12.2.1.8.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.91   List of approved testing stations, approved testing laboratories, and fees for certificates."
+                ],
+                "P": [
+                  "A current list of U.S. ATP testing stations, U.S. ATP testing laboratories, and fees for issuance of U.S. ATP certificates may be obtained by request to the ATP manager. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3300.94",
+                  "NODE": "7:15.1.12.2.1.8.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3300.94   Appeals."
+                ],
+                "P": [
+                  "Any organization aggrieved by an action in connection with this rule may obtain a review of such action by submitting pertinent information by letter to the Administrator. The decision of the Administrator is the final agency action. \n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3301-3399",
+          "NODE": "7:15.1.12.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3301-3399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

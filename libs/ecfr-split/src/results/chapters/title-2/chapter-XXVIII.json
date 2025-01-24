@@ -1,0 +1,308 @@
+{
+  "number": "XXVIII",
+  "title": " CHAPTER XXVIII—DEPARTMENT OF JUSTICE",
+  "content": {
+    "$": {
+      "N": "XXVIII",
+      "NODE": "2:1.2.23",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXVIII—DEPARTMENT OF JUSTICE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2800",
+          "NODE": "2:1.2.23.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2800—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS BY THE DEPARTMENT OF JUSTICE\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 28 U.S.C. 509; 28 U.S.C. 530C(a)(4); 42 U.S.C. 3789; 2 CFR part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76081, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2800.101",
+              "NODE": "2:1.2.23.10.1.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2800.101   Adoption of 2 CFR part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Department of Justice adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, except as otherwise may be provided by this Part. Unless expressly provided otherwise, any reference in this part to any provision of law not in this part shall be understood to constitute a general reference and thus to include any subsequent changes to the provision.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[81 FR 61982, Sept. 8, 2016]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2800.313",
+              "NODE": "2:1.2.23.10.1.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2800.313   Equipment."
+            ],
+            "P": [
+              "Title I of the Omnibus Crime Control and Safe Streets Act of 1968, Public Law 90-351, section 808 (42 U.S.C. 3789), creates a special rule for disposition and use of equipment and supplies purchased by funds made available under that Title, which rule, where applicable, supersedes any conflicting provisions of 2 CFR 200.313. Section 808 currently provides that such equipment and supplies shall vest in the criminal justice agency or nonprofit organization that purchased the property if such agency or nonprofit certifies to the appropriate State office (as indicated in the statute) that it will use the property for criminal justice purposes, and further provides that, if such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2800.314",
+              "NODE": "2:1.2.23.10.1.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2800.314   Supplies."
+            ],
+            "P": [
+              "Title I of the Omnibus Crime Control and Safe Streets Act of 1968, Public Law 90-351, section 808 (42 U.S.C. 3789) creates a special rule for disposition and use of equipment and supplies purchased by funds made available under that Title, which rule, where applicable, supersedes any conflicting provisions of § 200.314. Section 808 currently provides that such equipment and supplies shall vest in the criminal justice agency or nonprofit organization that purchased the property if such agency or nonprofit certifies to the appropriate State office (as indicated in the statute) that it will use the property for criminal justice purposes, and further provides that, if such certification is not made, title to the property shall vest in the State office, which shall seek to have the property used for criminal justice purposes elsewhere in the State prior to using it or disposing of it in any other manner.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2801-2866",
+          "NODE": "2:1.2.23.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2801-2866 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "2867",
+          "NODE": "2:1.2.23.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2867—NONPROCUREMENT DEBARMENT AND SUSPENSION \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235; 5 U.S.C. 301; 28 U.S.C. 509, 510, 515-519.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "72 FR 11286, Mar. 13, 2007, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2867.10",
+              "NODE": "2:1.2.23.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2867.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Justice policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for the Department of Justice to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2867.20",
+              "NODE": "2:1.2.23.10.3.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2867.20   To whom does this part apply?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to any—\n",
+              "(a) Participant or principal in a “covered transaction” (sees subpart B of 2 CFR part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970 (as supplemented by subpart B of this part));\n",
+              "(b) Respondent in a Department of Justice suspension or debarment action;\n",
+              "(c) Department of Justice debarment or suspension official;\n",
+              "(d) Department of Justice grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2867.30",
+              "NODE": "2:1.2.23.10.3.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2867.30   What policies and procedures must be followed?"
+            ],
+            "P": [
+              {
+                "_": "The Department of Justice policies and procedures that must be followed are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (, 2 CFR 180.220) as supplemented by section 220 in this part (, § 2867.220). For any section of OMB guidance in subparts A through I of 2 CFR 180 that has no corresponding section in this part, Department of Justice policies and procedures are those in the OMB guidance.\n\n\n",
+                "I": [
+                  "i.e.",
+                  "i.e."
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.23.10.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2867.137",
+                  "NODE": "2:1.2.23.10.3.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2867.137   Who in the Department of Justice may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "Within the Department of Justice, the Attorney General or designee has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.23.10.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2867.220",
+                  "NODE": "2:1.2.23.10.3.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2867.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see optional lower tier coverage in the figure in the appendix to 2 CFR part 180), the Department of Justice does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.23.10.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2867.332",
+                  "NODE": "2:1.2.23.10.3.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2867.332   What method must a participant use to pass requirements down to participants at lower tiers with whom the participant intends to do business?"
+                ],
+                "P": [
+                  "A participant must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.23.10.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2867.437",
+                  "NODE": "2:1.2.23.10.3.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2867.437   What method must be used to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, the communication must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, as supplemented by subpart C of this part, and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.23.10.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-J [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2868-2899",
+          "NODE": "2:1.2.23.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2868-2899 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

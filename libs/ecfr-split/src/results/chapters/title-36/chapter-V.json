@@ -1,0 +1,631 @@
+{
+  "number": "V",
+  "title": " CHAPTER V—SMITHSONIAN INSTITUTION",
+  "content": {
+    "$": {
+      "N": "V",
+      "NODE": "36:3.0.3",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER V—SMITHSONIAN INSTITUTION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "500-503",
+          "NODE": "36:3.0.3.1.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 500-503 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "504",
+          "NODE": "36:3.0.3.1.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 504—RULES AND REGULATIONS GOVERNING SMITHSONIAN INSTITUTION BUILDINGS AND GROUNDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Secs. 1-9, 65 Stat. 634, as amended, secs. 1-4, 78 Stat. 365; 40 U.S.C. 193n-193w. \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "33 FR 6656, May 1, 1968, unless otherwise noted. \n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 504.1",
+              "NODE": "36:3.0.3.1.2.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.1   General."
+            ],
+            "P": [
+              "These rules and regulations apply to all buildings and grounds of the Smithsonian Institution, as defined in section 3, 78 Stat. 366; 40 U.S.C. 193v(1) (A) and (C), and to all persons entering in or on such buildings and grounds, hereinafter referred to as the premises \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.2",
+              "NODE": "36:3.0.3.1.2.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.2   Recording presence."
+            ],
+            "P": [
+              "Except as otherwise ordered, Smithsonian buildings shall be closed to the public after normal visiting hours. Such buildings, or portions thereof, shall also be closed to the public in emergency situations and at such other times as may be necessary for the orderly conduct of business. Whenever the buildings are closed to the public for any reason, visitors will immediately leave the premises upon being requested by a guard or other authorized individuals. Admission to such premises during periods when closed to the public will be limited to authorized individuals who will be required to register and identify themselves when requested by guards or other authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.3",
+              "NODE": "36:3.0.3.1.2.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.3   Preservation of property."
+            ],
+            "P": [
+              "It is unlawful willfully to destroy, damage, or remove property or any part thereof. Any parcels, portfolios, bags, or containers of any kind may be required to be opened and the contents identified prior to removal from the premises. In order to remove any property from the premises, a properly completed property pass signed by an authorized official of the Smithsonian Institution may be required prior to removal. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.4",
+              "NODE": "36:3.0.3.1.2.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.4   Conformity with signs and emergency directions."
+            ],
+            "P": [
+              "Persons in or on the premises shall comply with official signs of a prohibitory or directory nature and with the directions of authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.5",
+              "NODE": "36:3.0.3.1.2.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.5   Nuisances."
+            ],
+            "P": [
+              "The use of loud, abusive, or otherwise improper language; unwarranted loitering, sleeping or assembly; the creation of any hazard to persons or things; improper disposal of rubbish; spitting, prurient prying; the commission of any obscene or indecent act, or any other unseemly or disorderly conduct on the premises; throwing articles of any kind from or within a building; or climbing upon any part of a building is prohibited. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.6",
+              "NODE": "36:3.0.3.1.2.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.6   Gambling."
+            ],
+            "P": [
+              "Participating in games for money or other personal property or the operation of gambling devices, the conduct of a lottery or pool, or the selling or purchasing of numbers tickets in or on the premises is prohibited. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.7",
+              "NODE": "36:3.0.3.1.2.0.1.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.7   Intoxicating beverages and narcotics."
+            ],
+            "P": [
+              "Entering the premises or the operating of a motor vehicle thereon by a person under the influence of any intoxicating beverage or narcotic drug or the use of such drug in or on the premises is prohibited. Consumption of intoxicating beverages on the premises is prohibited unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.8",
+              "NODE": "36:3.0.3.1.2.0.1.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.8   Soliciting, vending, debt collection, and distribution of handbills."
+            ],
+            "P": [
+              "The soliciting of alms and contributions, commercial soliciting and vending of all kinds, the display or distribution of commercial advertising, or the collecting of private debts, in or on the premises is prohibited. This rule does not apply to national or local drives for funds for welfare, health, and other purposes sponsored or approved by the Smithsonian Institution concessions, or personal notices posted by employees on authorized bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval of authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.9",
+              "NODE": "36:3.0.3.1.2.0.1.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.9   Placards, signs, banners and flags."
+            ],
+            "P": [
+              "The displaying or carrying of placards, signs, banners, or flags is prohibited unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.10",
+              "NODE": "36:3.0.3.1.2.0.1.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.10   Dogs and other animals."
+            ],
+            "P": [
+              "Dogs and other animals, except seeing-eye dogs, shall not be brought upon the premises for other than official purposes. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.11",
+              "NODE": "36:3.0.3.1.2.0.1.11",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.11   Photographs for news, advertising, or commercial purposes."
+            ],
+            "P": [
+              "No photographs for advertising or any other commercial purpose may be taken on the premises unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.12",
+              "NODE": "36:3.0.3.1.2.0.1.12",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.12   Items to be checked."
+            ],
+            "P": [
+              "Umbrellas, canes (not needed to assist in walking), or other objects capable of inflicting damage to property or exhibits may be required to be checked in buildings where checking facilities are provided. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.13",
+              "NODE": "36:3.0.3.1.2.0.1.13",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.13   Vehicular and pedestrian traffic."
+            ],
+            "P": [
+              "(a) Drivers of all vehicles in or on the premises shall drive in a careful and safe manner at all times and shall comply with the signals and directions of the guards and all posted traffic signs. \n",
+              "(b) The blocking of entrances, driveways, walks, loading platforms, or fire hydrants in or on property is prohibited. Parking without authority, or parking in unauthorized locations or in locations reserved for other persons or contrary to the direction of posted signs, is prohibited. This paragraph may be supplemented from time to time by the issuance and posting of such additional traffic and parking directives as may be required, and such directives shall have the same force and effect as if made a part thereof. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.14",
+              "NODE": "36:3.0.3.1.2.0.1.14",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.14   Weapons and explosives."
+            ],
+            "P": [
+              "No person while on the premises shall carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed, except for official purposes. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.15",
+              "NODE": "36:3.0.3.1.2.0.1.15",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.15   Nondiscrimination."
+            ],
+            "P": [
+              "There shall be no discrimination by segregation or otherwise against any person or persons because of race, religion, color, or national origin in furnishing or by refusing to furnish to such person or persons the use of any facility of a public nature, including all services, privileges, accommodations, and activities provided thereby on the premises. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 504.16",
+              "NODE": "36:3.0.3.1.2.0.1.16",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 504.16   Penalties."
+            ],
+            "P": [
+              "Section 6 of the Smithsonian Institution Special Policing Statute, Act of October 24, 1951, 65 Stat. 635, 40 U.S.C. 193(s) states that: \n"
+            ],
+            "EXTRACT": [
+              {
+                "P": [
+                  {
+                    "_": "Whoever violates any provision of sections 193o-193q of this Title, or any regulation prescribed under section 193r of this Title, shall be fined not more than $100 or imprisoned not more than sixty days, or both, prosecution for such offenses to be had in the District of Columbia Court of General Sessions, upon information by the U.S. attorney or any of his assistants:  That in any case where, in the commission of such offense, property is damaged in an amount exceeding $100, the amount of the fine for the offense may be not more than $5,000, the period of imprisonment for the offense may be not more than 5 years and prosecution shall be had in the U.S. District Court for the District of Columbia by indictment, or if the defendant, after he has been advised of the nature of the charge and of his rights, waives in open court prosecution by indictment, by information by the U.S. attorney or any of his assistants.",
+                    "I": [
+                      "Provided,"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "520",
+          "NODE": "36:3.0.3.1.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 520—RULES AND REGULATIONS GOVERNING THE BUILDINGS AND GROUNDS OF THE NATIONAL ZOOLOGICAL PARK OF THE SMITHSONIAN INSTITUTION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Secs. 1-9, 65 Stat. 634, as amended, secs. 1-4, 78 Stat. 365; 40 U.S.C. 193n-193w. \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "33 FR 17175, Nov. 20, 1968, unless otherwise noted. \n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 520.1",
+              "NODE": "36:3.0.3.1.3.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.1   General."
+            ],
+            "P": [
+              "The rules and regulations in this part apply to all buildings and grounds of the National Zoological Park of the Smithsonian Institution, as defined in sec. 3, 78 Stat. 366; 40 U.S.C. 193v(1)(B), and to all persons entering in or on such buildings and grounds, hereinafter referred to as the premises. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.2",
+              "NODE": "36:3.0.3.1.3.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.2   Recording presence."
+            ],
+            "P": [
+              "Except as otherwise ordered, National Zoological Park buildings and grounds shall be closed to the public after posted visiting hours. Such buildings and grounds, or portions thereof, shall be also closed to the public in emergency situations and at such other times as may be necessary for the orderly conduct of business. Whenever the buildings and grounds or portions thereof are closed to the public for any reason, visitors will immediately leave the premises upon being requested by a police officer or other authorized individual. Admission to such premises during periods when closed to the public will be limited to authorized individuals who will be required to register and identify themselves when requested by police officers or other authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.3",
+              "NODE": "36:3.0.3.1.3.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.3   Preservation of property."
+            ],
+            "P": [
+              "It is unlawful willfully to destroy, damage, or remove property or any part thereof. Any parcels, portfolios, bags, or containers of any kind may be required to be opened and the contents identified prior to removal from the premises. In order to remove any property from the premises, a properly completed property pass signed by an authorized official of the National Zoological Park may be required prior to removal. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.4",
+              "NODE": "36:3.0.3.1.3.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.4   Protection of zoo animals."
+            ],
+            "P": [
+              "Except for official purposes, no person shall: \n",
+              "(a) Kill, injure, or disturb any exhibit or research animal by any means except to secure personal safety; \n",
+              "(b) Pet, attempt to pet, handle, move, or remove exhibit or research animals; \n",
+              "(c) Feed exhibit or research animals, except in strict accordance with authorized signs; \n",
+              "(d) Catch, attempt to catch, trap, remove, or kill any free roaming animals inhabiting the premises; \n",
+              "(e) Go over, under, between, or otherwise cross any guardrail, fence, moat, wall, or any other safety barrier; or to seat, stand, or hold children over any of the above-mentioned barriers; \n",
+              "(f) Throw or toss rocks, or any other missiles into, from, or while on premises; \n",
+              "(g) Bring strollers, baby carriages, or other conveyances, except wheel chairs, into exhibit buildings and public restrooms; \n",
+              "(h) Engage in ball games, or any athletic activity, except in places as may be officially designated for such purposes; \n",
+              "(i) Smoke or carry lighted cigarettes, cigars, or pipes into exhibit buildings, or to have a fire of any kind on the premises; or \n",
+              "(j) Damage, deface, pick, or remove any herb, shrub, bush, tree, or turf, or portion thereof, on the premises. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.5",
+              "NODE": "36:3.0.3.1.3.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.5   Conformity with signs and emergency directions."
+            ],
+            "P": [
+              "Persons in or on the premises shall comply with official signs of a prohibitory or directory nature and with the directions of authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.6",
+              "NODE": "36:3.0.3.1.3.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.6   Nuisances."
+            ],
+            "P": [
+              "The use of loud, abusive, or otherwise improper language; unwarranted loitering, sleeping or assembly; the creation of any hazard to persons or things; improper disposal of rubbish; spitting; prurient prying; the commission of any obscene or indecent act, or any other unseemly or disorderly conduct on the premises; throwing articles of any kind on the premises, or climbing upon any part of the building is prohibited. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.7",
+              "NODE": "36:3.0.3.1.3.0.1.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.7   Gambling."
+            ],
+            "P": [
+              "Participating in games for money or other personal property or the operation of gambling devices, the conduct of a lottery or pool, or the selling or purchasing of numbers tickets in or on the premises is prohibited. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.8",
+              "NODE": "36:3.0.3.1.3.0.1.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.8   Intoxicating beverages and narcotics."
+            ],
+            "P": [
+              "Entering the premises or the operating of a motor vehicle thereon by a person under the influence of any intoxicating beverage or narcotic drug or the use of such drug in or on the premises is prohibited. Consumption of intoxicating beverages on the premises is prohibited, unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.9",
+              "NODE": "36:3.0.3.1.3.0.1.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.9   Soliciting, vending, debt collection, and distribution of handbills."
+            ],
+            "P": [
+              "The soliciting of alms and contributions, commercial soliciting and vending of all kinds, the display or distribution of commercial advertising or the collecting of private debts, in or on the premises is prohibited. This rule does not apply to national or local drives for funds for welfare, health, and other purposes sponsored or approved by the National Zoological Park, concessions, or personal notices posted by employees on authorized bulletin boards. Distribution of material such as pamphlets, handbills, and flyers is prohibited without prior approval of authorized individuals. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.10",
+              "NODE": "36:3.0.3.1.3.0.1.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.10   Placards, signs, banners, and flags."
+            ],
+            "P": [
+              "The displaying or carrying of placards, signs, banners, or flags is prohibited unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.11",
+              "NODE": "36:3.0.3.1.3.0.1.11",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.11   Dogs and other animals."
+            ],
+            "P": [
+              "Dogs and other animals, except seeing-eye dogs, shall not be brought upon the premises for other than official purposes unless confined to automobiles. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.12",
+              "NODE": "36:3.0.3.1.3.0.1.12",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.12   Photographs for news, advertising, or commercial purposes."
+            ],
+            "P": [
+              "No photographs for advertising or any other commercial purpose may be taken on the premises unless officially authorized. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.13",
+              "NODE": "36:3.0.3.1.3.0.1.13",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.13   Items to be checked."
+            ],
+            "P": [
+              "Umbrellas, canes (not needed to assist in walking), or other objects capable of inflicting damage to property or exhibits may be required to be checked at the police station where checking facilities are provided. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.14",
+              "NODE": "36:3.0.3.1.3.0.1.14",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.14   Vehicular and pedestrian traffic."
+            ],
+            "P": [
+              "(a) Drivers of all vehicles in or on the premises shall drive in a careful and safe manner at all times and shall comply with the signals and directions of the police and all posted traffic signs. \n",
+              "(b) The blocking of entrances, driveways, walks, loading platforms, or fire hydrants in or on property is prohibited. Parking without authority, or parking in unauthorized locations or in locations reserved for other persons or contrary to the direction of posted signs, is prohibited. This paragraph may be supplemented from time to time by the issuance and posting of such additional traffic and parking directives as may be required, and such directives shall have the same force and effect as if made a part thereof. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.15",
+              "NODE": "36:3.0.3.1.3.0.1.15",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.15   Weapons and explosives."
+            ],
+            "P": [
+              "No person while on the premises shall carry firearms, other dangerous or deadly weapons, or explosives, either openly or concealed, except for official purposes, nor shall any person discharge or set off any firework or explosive of any nature on the premises. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.16",
+              "NODE": "36:3.0.3.1.3.0.1.16",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.16   Nondiscrimination."
+            ],
+            "P": [
+              "There shall be no discrimination by segregation or otherwise against any person or persons because of race, religion, color, or national origin in furnishing or by refusing to furnish to such person or persons the use of any facility of a public nature, including all services, privileges, accommodations, and activities provided thereby on the premises. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.17",
+              "NODE": "36:3.0.3.1.3.0.1.17",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.17   Lost and found."
+            ],
+            "P": [
+              "(a) Lost articles or money which are found in areas covered by this part shall be immediately referred to the police station. Proper records shall be kept at Police Headquarters of the receipt and disposition of such articles. If an article or money found on park areas and referred to Zoo Police Headquarters is not claimed by the owner within a period of 60 days, it shall be returned to the finder and appropriate receipt obtained; except that in the case of National Zoological Park employees, articles or money turned in which are not claimed by the owner within 60 days shall be considered as abandoned to the Smithsonian Institution. Such articles or money shall be transferred to the Treasurer of the Smithsonian Institution, who shall make suitable disposition of articles and remit all proceeds of such disposition and all unclaimed money into the unrestricted funds of the Smithsonian Institution. \n",
+              "(b) The abandonment of any personal property in any of the park areas is prohibited. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 520.18",
+              "NODE": "36:3.0.3.1.3.0.1.18",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 520.18   Penalties."
+            ],
+            "P": [
+              "Section 6 of the Smithsonian Institution Special Policing Statute, Act of October 24, 1951, 65 Stat. 635, 40 U.S.C. 193 (s) states that: \n"
+            ],
+            "EXTRACT": [
+              {
+                "P": [
+                  {
+                    "_": "Whoever violates any provision of sections 193o-193q of this title, or any regulation prescribed under section 193r of this Title, shall be fined not more than $100 or imprisoned not more than 60 days, or both, prosecution for such offenses to be had in the District of Columbia Court of General Sessions, upon information by the United States attorney or any of his assistants:  That in any case where, in the commission of such offense, property is damaged in an amount exceeding $100, the amount of the fine for the offense may be not more than $5,000, the period of imprisonment for the offense may be not more than 5 years and prosecution shall be had in the U.S. District Court for the District of Columbia by indictment, or if the defendant, after he has been advised of the nature of the charge and of his rights, waives in open court prosecution by indictment, by information by the U.S. attorney or any of his assistants.",
+                    "I": [
+                      "Provided,"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "530",
+          "NODE": "36:3.0.3.1.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 530—CLAIMS AGAINST THE SMITHSONIAN INSTITUTION INCLUDING THE NATIONAL GALLERY OF ART, THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS AND THE WOODROW WILSON INTERNATIONAL CENTER FOR SCHOLARS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              {
+                "_": "20 U.S.C. 41, \n\n\n",
+                "I": [
+                  "et seq."
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 530.1",
+              "NODE": "36:3.0.3.1.4.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 530.1   Tort claims."
+            ],
+            "P": [
+              "The Smithsonian Institution (which encompasses the National Gallery of Art, the John F. Kennedy Center for the Performing Arts and the Woodrow Wilson International Center for Scholars) falls within the purview of the Federal Tort Claims Act. Internal procedures for implementing the Act follow the current general guidance issued by the U.S. Department of Justice in 28 CFR part 14. Information on specific claims procedures can be obtained as follows:\n",
+              "(a) Smithsonian Institution: Office of the General Counsel, Smithsonian Institution, Washington, DC 20560.\n",
+              "(b) National Gallery of Art: Administrator, National Gallery of Art, Washington, DC 20565.\n",
+              "(c) John F. Kennedy Center for the Performing Arts: Director of Operations, John F. Kennedy Center for the Performing Arts, Washington, DC 20566.\n",
+              "(d) Woodrow Wilson International Center for Scholars: Assistant Director for Administration, Woodrow Wilson International Center for Scholars, Smithsonian Institution, Washington, DC 20560.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[49 FR 9421, Mar. 13, 1984]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "531-599",
+          "NODE": "36:3.0.3.1.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 531-599 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

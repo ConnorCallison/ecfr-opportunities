@@ -1,0 +1,1196 @@
+{
+  "number": "XXXI",
+  "title": " CHAPTER XXXI—INSTITUTE OF MUSEUM AND LIBRARY SERVICES",
+  "content": {
+    "$": {
+      "N": "XXXI",
+      "NODE": "2:1.2.26",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXXI—INSTITUTE OF MUSEUM AND LIBRARY SERVICES"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "3100-3184",
+          "NODE": "2:1.2.26.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3100-3184 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "3185",
+          "NODE": "2:1.2.26.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3185—NONPROCUREMENT DEBARMENT AND SUSPENSION \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "20 U.S.C. 9103(f); Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "73 FR 46529, Aug. 11, 2008, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3185.10",
+              "NODE": "2:1.2.26.10.2.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3185.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Institute of Museum and Library Services (IMLS) policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for IMLS to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3185.20",
+              "NODE": "2:1.2.26.10.2.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3185.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” (see subpart B of 2 CFR part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970.\n",
+              "(b) Respondent in an IMLS suspension or debarment action.\n",
+              "(c) IMLS debarment or suspension official;\n",
+              "(d) IMLS grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3185.30",
+              "NODE": "2:1.2.26.10.2.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3185.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              "The IMLS policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as that section is supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented by section 220 in this part (i.e., § 3185.220). For any section of OMB guidance in subparts A through I of 2 CFR 180 that has no corresponding section in this part, IMLS policies and procedures are those in the OMB guidance.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.26.10.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3185.137",
+                  "NODE": "2:1.2.26.10.2.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3185.137   Who in the IMLS may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "The IMLS Director has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.26.10.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3185.220",
+                  "NODE": "2:1.2.26.10.2.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3185.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see optional lower-tier coverage in the figure in the appendix to 2 CFR part 180), IMLS does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.26.10.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3185.332",
+                  "NODE": "2:1.2.26.10.2.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3185.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "You as a participant must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.26.10.2.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3185.437",
+                  "NODE": "2:1.2.26.10.2.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3185.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, you must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, as supplemented by subpart C of this part, and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.26.10.2.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-I [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3186",
+          "NODE": "2:1.2.26.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3186—REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "41 U.S.C. 701-707.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "75 FR 39134, July 8, 2010, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3186.10",
+              "NODE": "2:1.2.26.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3186.10   What does this part do?"
+            ],
+            "P": [
+              "This part requires that the award and administration of IMLS grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended, hereafter referred to as “the Act”) that applies to grants. It thereby—\n",
+              "(a) Gives regulatory effect to the OMB guidance (Subparts A through F of 2 CFR part 182) for the IMLS's grants and cooperative agreements; and\n",
+              "(b) Establishes IMLS policies and procedures for compliance with the Act that are the same as those of other Federal agencies, in conformance with the requirement in 41 U.S.C. 705 for Governmentwide implementing regulations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3186.20",
+              "NODE": "2:1.2.26.10.3.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3186.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in Subparts A through F of 2 CFR part 182 (see table at 2 CFR 182.115(b)) apply to you if you are a—\n",
+              "(a) Recipient of an IMLS grant or cooperative agreement; or\n",
+              "(b) IMLS awarding official.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3186.30",
+              "NODE": "2:1.2.26.10.3.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3186.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "(a)  You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table. For each of those sections, you must follow the policies and procedures in the OMB guidance, as supplemented by this part.\n",
+                "I": [
+                  "Specific sections of OMB guidance that this part supplements."
+                ]
+              },
+              {
+                "_": "(c)  For any section of OMB guidance in Subparts A through F of 2 CFR part 182 that is not listed in paragraph (b) of this section, IMLS policies and procedures are the same as those in the OMB guidance.\n\n\n",
+                "I": [
+                  "Sections of the OMB guidance that this part does not supplement."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Section of OMB guidance\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Section in this part where\nsupplemented\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                },
+                                "br": [
+                                  ""
+                                ]
+                              },
+                              {
+                                "_": "What the supplementation clarifies\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(1) 2 CFR 182.225(a)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3186.225",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in the IMLS a recipient other than an individual must notify if an employee is convicted for a violation of a criminal drug statute in the workplace.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(2) 2 CFR 182.300(b)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3186.300",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in the IMLS a recipient who is an individual must notify if he or she is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(3) 2 CFR 182.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3186.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in the IMLS is authorized to determine that a recipient other than an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(4) 2 CFR 182.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 3186.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in the IMLS is authorized to determine that a recipient who is an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.26.10.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Purpose and Coverage [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.26.10.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Requirements for Recipients Other Than Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3186.225",
+                  "NODE": "2:1.2.26.10.3.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3186.225   Whom in the IMLS does a recipient other than an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify each IMLS office from which it currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.26.10.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Requirements for Recipients Who Are Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3186.300",
+                  "NODE": "2:1.2.26.10.3.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3186.300   Whom in the IMLS does a recipient who is an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient who is an individual and is required under 2 CFR 182.300(b) to notify Federal agencies about a conviction for a criminal drug offense must notify each IMLS office from which it currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.26.10.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Agency Awarding Officials"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3186.400",
+                  "NODE": "2:1.2.26.10.3.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3186.400   What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance?"
+                ],
+                "P": [
+                  "To obtain a recipient's agreement to comply with applicable requirements in the OMB guidance at 2 CFR part 182, you must include the following term or condition in the award:\n",
+                  "Drug-free workplace. You as the recipient must comply with drug-free workplace requirements in Subpart B (or Subpart C, if the recipient is an individual) of 2 CFR part 3186, which adopts the Governmentwide implementation (2 CFR part 182) of sec. 5152-5158 of the Drug-Free Workplace Act of 1988 (Pub. L. 100-690, Title V, Subtitle D; 41 U.S.C. 701-707).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.26.10.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Violations of this Part and Consequences"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3186.500",
+                  "NODE": "2:1.2.26.10.3.5.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3186.500   Who in the IMLS determines that a recipient other than an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The IMLS Chief Financial Officer is the official authorized to make the determination under 2 CFR 182.500.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3186.505",
+                  "NODE": "2:1.2.26.10.3.5.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3186.505   Who in the IMLS determines that a recipient who is an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The IMLS Chief Financial Officer is the official authorized to make the determination under 2 CFR 182.505.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3187",
+          "NODE": "2:1.2.26.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3187—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "20 U.S.C. 9101-9176, 9103(h); 20 U.S.C. 80r-5; 2 CFR part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76088, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3187.1",
+              "NODE": "2:1.2.26.10.4.0.75.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3187.1   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Institute of Museum and Library Services (IMLS) adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, with the additions that are provided below. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance as needed for IMLS.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.26.10.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Scope, Definitions, and Eligibility"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 3187.2",
+                  "NODE": "2:1.2.26.10.4.1.75.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.2   Applicable regulations and scope of this part."
+                ],
+                "P": [
+                  "(a) Except as set forth in this 2 CFR part 3187, the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 shall apply to awards from funds appropriated to the Institute of Museum and Library Services (the “Institute” or “IMLS”).\n",
+                  {
+                    "_": "(b) The IMLS authorizing statutes, including 20 U.S.C. 9101  and 20 U.S.C. 80r-5, (“IMLS Statutes”) are controlling in the event of any conflict between the IMLS Statutes and the regulations in 2 CFR part 200.\n\n\n",
+                    "I": [
+                      "et seq."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3187.3",
+                  "NODE": "2:1.2.26.10.4.1.75.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.3   Definition of a museum."
+                ],
+                "P": [
+                  "For the purpose of this part:\n",
+                  "(a) Museum means a public, tribal, or private nonprofit institution which is organized on a permanent basis for essentially educational, cultural heritage, or aesthetic purposes and which, using a professional staff:\n",
+                  "(1) Owns or uses tangible objects, either animate or inanimate;\n",
+                  "(2) Cares for these objects; and\n",
+                  "(3) Exhibits them to the general public on a regular basis.\n",
+                  "(i) An institution that exhibits objects to the general public for at least 120 days a year shall be deemed to meet this requirement.\n",
+                  "(ii) An institution that exhibits objects by appointment may meet this requirement if it can establish, in light of the facts under all the relevant circumstances, that this method of exhibition does not unreasonably restrict the accessibility of the institution's exhibits to the general public.\n",
+                  "(b) The term “museum” in paragraph (a) of this section includes museums that have tangible and digital collections. Museums include, but are not limited to, the following types of institutions, if they otherwise satisfy the provisions of this section:\n",
+                  "(1) Aquariums;\n",
+                  "(2) Arboretums;\n",
+                  "(3) Botanical gardens;\n",
+                  "(4) Art museums;\n",
+                  "(5) Children's museums;\n",
+                  "(6) General museums;\n",
+                  "(7) Historic houses and sites;\n",
+                  "(8) History museums;\n",
+                  "(9) Nature centers;\n",
+                  "(10) Natural history and anthropology museums;\n",
+                  "(11) Planetariums;\n",
+                  "(12) Science and technology centers;\n",
+                  "(13) Specialized museums; and\n",
+                  "(14) Zoological parks.\n",
+                  "(c) For the purposes of this section, an institution uses a professional staff if it employs at least one staff member, or the fulltime equivalent, whether paid or unpaid primarily engaged in the acquisition, care, or exhibition to the public of objects owned or used by the institution.\n",
+                  "(d)(1) Except as set forth in paragraph (d)(2) of this section, an institution exhibits objects to the general public for the purposes of this section if such exhibition is a primary purpose of the institution.\n",
+                  "(2) An institution that does not have as a primary purpose the exhibition of objects to the general public but which can demonstrate that it exhibits objects to the general public on a regular basis as a significant, separate, distinct, and continuing portion of its activities, and that it otherwise meets the requirements of this section, may be determined to be a museum under this section. In order to establish its eligibility, such an institution must provide information regarding the following:\n",
+                  "(i) The number of staff members devoted to museum functions as described in paragraph (a) of this section.\n",
+                  "(ii) The period of time that such museum functions have been carried out by the institution over the course of the institution's history.\n",
+                  "(iii) Appropriate financial information for such functions presented separately from the financial information of the institution as a whole.\n",
+                  "(iv) The percentage of the institution's total space devoted to such museum functions.\n",
+                  "(v) Such other information as the Director requests.\n",
+                  "(3) The Director uses the information furnished under paragraph (d)(2) of this section in making a determination regarding the eligibility of such an institution under this section.\n",
+                  "(e) For the purpose of this section, an institution exhibits objects to the public if it exhibits the objects through facilities which it owns or operates.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[79 FR 76088, Dec. 19, 2014, as amended at 84 FR 27704, June 14, 2019]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3187.4",
+                  "NODE": "2:1.2.26.10.4.1.75.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.4   Other definitions."
+                ],
+                "P": [
+                  "The following other definitions apply in this part:\n",
+                  {
+                    "_": " means The Museum and Library Services Act, Pub. L. 104-208 (20 U.S.C. 9101-9176), as amended.\n",
+                    "I": [
+                      "Act"
+                    ]
+                  },
+                  {
+                    "_": " includes objects owned, used or loaned by a museum as well as those literary, archival and documentary resources specifically required for the study and interpretation of these objects.\n",
+                    "I": [
+                      "Collection"
+                    ]
+                  },
+                  {
+                    "_": " means the Director of the Institute of Museum and Library Services.\n",
+                    "I": [
+                      "Director"
+                    ]
+                  },
+                  {
+                    "_": " or  means the Institute of Museum and Library Services established under Section 203 of the Act.\n",
+                    "I": [
+                      "Institute",
+                      "IMLS"
+                    ]
+                  },
+                  {
+                    "_": " means services provided by a museum, primarily exhibiting objects to the general public, and including but not limited to preserving and maintaining its collections, and providing educational and other programs to the public through the use of its collections and other resources.\n\n\n",
+                    "I": [
+                      "Museum services"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3187.5",
+                  "NODE": "2:1.2.26.10.4.1.75.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.5   Museum eligibility and burden of proof—Who may apply."
+                ],
+                "P": [
+                  "(a) A museum located in any of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau may apply for a Federal award under the Act.\n",
+                  "(b) A public or private nonprofit agency which is responsible for the operation of a museum may, if necessary, apply on behalf of the museum.\n",
+                  "(c) A museum operated by a department or agency of the Federal Government is not eligible to apply.\n",
+                  "(d) An applicant has the burden of establishing that it is eligible for assistance under these regulations.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3187.6",
+                  "NODE": "2:1.2.26.10.4.1.75.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.6   Related institutions."
+                ],
+                "P": [
+                  {
+                    "_": "(a) If two or more institutions are under the common control of one agency or institution or are otherwise organizationally related and apply for assistance under the Act, the Director determines under all the relevant circumstances whether they are separate museums for the purpose of establishing eligibility for assistance under these regulations.  § 3187.5 (Museum eligibility and burden of proof—Who may apply).\n",
+                    "I": [
+                      "See"
+                    ]
+                  },
+                  "(b) IMLS regards the following factors, among others, as showing that a related institution is a separate museum:\n",
+                  "(1) The institution has its own governing body;\n",
+                  "(2) The institution has budgetary autonomy; and\n",
+                  "(3) The institution has administrative autonomy.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 3187.7",
+                  "NODE": "2:1.2.26.10.4.1.75.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 3187.7   Basic materials which an applicant must submit to be considered for funding."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  To apply for an IMLS Federal award, an applicant must submit the designated application form containing all information requested.\n",
+                    "I": [
+                      "Application."
+                    ]
+                  },
+                  {
+                    "_": "(b)  An applicant applying as a private, nonprofit institution must submit a copy of the letter from the Internal Revenue Service indicating the applicant's eligibility for nonprofit status under the applicable provision of the Internal Revenue Code of 1954, as amended.\n\n\n",
+                    "I": [
+                      "IRS letter."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.26.10.4.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—General Application, Selection and Award Procedures"
+            ],
+            "DIV7": [
+              {
+                "$": {
+                  "N": "75",
+                  "NODE": "2:1.2.26.10.4.2.75",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Applications"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.8",
+                      "NODE": "2:1.2.26.10.4.2.75.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.8   Deadline date and method for submitting applications."
+                    ],
+                    "P": [
+                      "(a) The notice of funding opportunity sets the deadline date and method(s) for applications to be submitted to the Institute.\n",
+                      "(b) If the application notice permits mailing of an application, an applicant must be prepared to show one of the following as proof of timely mailing:\n",
+                      "(1) A legibly dated U.S. Postal Service postmark.\n",
+                      "(2) A legible mail receipt with the date of mailing stamped by the U.S. Postal Service.\n",
+                      "(3) A dated shipping label, invoice, or receipt from a commercial carrier.\n",
+                      "(4) Any other dated proof of mailing acceptable to the Director.\n",
+                      "(c) If the application notice permits mailing of an application, and the application is mailed through the U.S. Postal Service, the Director does not accept either of the following as proof of mailing:\n",
+                      "(1) A private metered postmark.\n",
+                      "(2) A mail receipt that is not date cancelled by the U.S. Postal Service.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "76",
+                  "NODE": "2:1.2.26.10.4.2.76",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Selection and Award Procedures"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.9",
+                      "NODE": "2:1.2.26.10.4.2.76.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.9   Rejection of an application."
+                    ],
+                    "P": [
+                      "(a) The Director rejects an application if:\n",
+                      "(1) The applicant is not eligible;\n",
+                      "(2) The applicant fails to comply with procedural rules that govern the submission of the application;\n",
+                      "(3) The application does not contain the information required;\n",
+                      "(4) The application cannot be funded under the authorizing statute or implementing regulations.\n",
+                      "(b) If the Director rejects an application under this section, the Director informs the applicant and explains why the application was rejected.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "§ 3187.10",
+                      "NODE": "2:1.2.26.10.4.2.76.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.10   Rejection for technical deficiency—appeal."
+                    ],
+                    "P": [
+                      "An applicant whose application is rejected because of technical deficiency may appeal such rejection in writing to the Director within 10 business days of electronic or postmarked notice of rejection, whichever is earlier.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.26.10.4.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—General Conditions Which Must Be Met"
+            ],
+            "DIV7": [
+              {
+                "$": {
+                  "N": "77",
+                  "NODE": "2:1.2.26.10.4.3.77",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Compliance With Legal Requirements"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.11",
+                      "NODE": "2:1.2.26.10.4.3.77.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.11   Compliance with statutes, regulations, approved application and Federal award."
+                    ],
+                    "P": [
+                      "(a) A recipient and subrecipient, as applicable, shall comply with the relevant statutes, regulations, and the approved application and Federal award, and shall use Federal funds in accordance therewith.\n",
+                      "(b) No act or failure to act by an official, agent, or employee of the Institute can affect the authority of the Director to enforce regulations.\n",
+                      "(c) In any circumstance for which waiver is provided, the determination of the Director shall be final.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "78",
+                  "NODE": "2:1.2.26.10.4.3.78",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Nondiscrimination"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.12",
+                      "NODE": "2:1.2.26.10.4.3.78.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.12   Federal statutes and regulations on nondiscrimination."
+                    ],
+                    "P": [
+                      "(a) Each recipient and subrecipient, as applicable, shall comply with the relevant nondiscrimination statutes and public policy requirements including, but not limited to, the following:\n",
+                      {
+                        "_": "(b)  The Institute applies the regulations in 45 CFR part 1170, issued by the National Endowment for the Humanities and relating to nondiscrimination on the basis of handicap in federally assisted programs and activities, in determining the compliance with section 504 of the Rehabilitation Act of 1973 as it applies to recipients of Federal financial assistance from the Institute. These regulations apply to each program or activity that receives such assistance. In applying these regulations, references to the  or the  shall be deemed to be references to the Institute and references to the  shall be deemed to be references to the Director.\n",
+                        "I": [
+                          "Regulations under section 504 of the Rehabilitation Act of 1973.",
+                          "Endowment",
+                          "agency",
+                          "Chairman"
+                        ]
+                      }
+                    ],
+                    "DIV": [
+                      {
+                        "$": {
+                          "width": "100%"
+                        },
+                        "DIV": [
+                          {
+                            "$": {
+                              "class": "gpotbl_div"
+                            },
+                            "TABLE": [
+                              {
+                                "$": {
+                                  "border": "1",
+                                  "cellpadding": "1",
+                                  "cellspacing": "1",
+                                  "class": "gpotbl_table",
+                                  "frame": "void",
+                                  "width": "100%"
+                                },
+                                "TR": [
+                                  {
+                                    "TH": [
+                                      {
+                                        "_": "Subject\n",
+                                        "$": {
+                                          "class": "gpotbl_colhed",
+                                          "scope": "col"
+                                        }
+                                      },
+                                      {
+                                        "_": "Statute\n",
+                                        "$": {
+                                          "class": "gpotbl_colhed",
+                                          "scope": "col"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "TD": [
+                                      {
+                                        "_": "Discrimination on the basis of race, color or national origin",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell",
+                                          "scope": "row"
+                                        }
+                                      },
+                                      {
+                                        "_": "Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d through 2000d-4).\n",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "TD": [
+                                      {
+                                        "_": "Discrimination on the basis of sex",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell",
+                                          "scope": "row"
+                                        }
+                                      },
+                                      {
+                                        "_": "Title IX of the Education Amendments of 1972 (20 U.S.C. 1681-1683).\n",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "TD": [
+                                      {
+                                        "_": "Discrimination on the basis of disability",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell",
+                                          "scope": "row"
+                                        }
+                                      },
+                                      {
+                                        "_": "Section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794).\n",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell"
+                                        }
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "TD": [
+                                      {
+                                        "_": "Discrimination on the basis of age",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell",
+                                          "scope": "row"
+                                        }
+                                      },
+                                      {
+                                        "_": "The Age Discrimination Act of 1975 (42 U.S.C. 6101-6107).",
+                                        "$": {
+                                          "align": "left",
+                                          "class": "gpotbl_cell"
+                                        }
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[79 FR 76088, Dec. 19, 2014, as amended at 84 FR 22944, May 21, 2019]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "79",
+                  "NODE": "2:1.2.26.10.4.3.79",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Evaluation"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.13",
+                      "NODE": "2:1.2.26.10.4.3.79.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.13   Federal evaluation—Cooperation by a non-Federal entity."
+                    ],
+                    "P": [
+                      "A non-Federal entity shall cooperate in any evaluation by the Director of the particular IMLS Federal financial assistance program in which the non-Federal entity has participated.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "80",
+                  "NODE": "2:1.2.26.10.4.3.80",
+                  "TYPE": "SUBJGRP"
+                },
+                "HEAD": [
+                  "Allowable Costs"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "§ 3187.14",
+                      "NODE": "2:1.2.26.10.4.3.80.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.14   Subawards."
+                    ],
+                    "P": [
+                      "(a) A recipient may not make a subaward unless expressly authorized by the Institute. In the event the Institute authorizes a subaward, the recipient shall:\n",
+                      "(1) Ensure that the subaward includes any clauses required by Federal law as well as any program-related conditions imposed by the Institute;\n",
+                      "(2) Ensure that the subrecipient is aware of the applicable legal and program requirements; and\n",
+                      "(3) Monitor the activities of the subrecipient as necessary to ensure compliance with Federal law and program requirements.\n",
+                      "(b) A recipient may contract for supplies, equipment, and services, subject to applicable law, including but not limited to applicable Office of Management and Budget (OMB) Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "§ 3187.15",
+                      "NODE": "2:1.2.26.10.4.3.80.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "§ 3187.15   Allowable costs."
+                    ],
+                    "P": [
+                      "(a) Determination of costs allowable under a Federal award is made in accordance with the government-wide cost principles in the Office of Management and Budget (OMB) Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200.\n",
+                      "(b) No costs shall be allowed for the purchase of any object to be included in the collection of a museum, except library, literary, or archival material specifically required for a designated activity under a Federal award under the Act.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3188-3199",
+          "NODE": "2:1.2.26.10.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3188-3199 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

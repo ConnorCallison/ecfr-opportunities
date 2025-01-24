@@ -13,8 +13,22 @@
         "tsConfig": "libs/ecfr-split/tsconfig.lib.json",
         "packageJson": "libs/ecfr-split/package.json",
         "main": "libs/ecfr-split/src/index.ts",
-        "assets": ["libs/ecfr-split/*.md"]
+        "assets": [
+          "libs/ecfr-split/*.md",
+          {
+            "glob": "**/*",
+            "input": "libs/ecfr-split/src/results",
+            "output": "results"
+          }
+        ]
       }
+    },
+    "split": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "node -e \"require('./dist/libs/ecfr-split').main()\""
+      },
+      "dependsOn": ["build"]
     }
   }
 }

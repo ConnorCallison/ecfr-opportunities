@@ -1,0 +1,1447 @@
+{
+  "number": "19",
+  "title": " CHAPTER 19—BROADCASTING BOARD OF GOVERNORS",
+  "content": {
+    "$": {
+      "N": "19",
+      "NODE": "48:6.0.5",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 19—BROADCASTING BOARD OF GOVERNORS"
+    ],
+    "DIV4": [
+      {
+        "$": {
+          "N": "A",
+          "NODE": "48:6.0.5.25",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER A—GENERAL\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1900",
+              "NODE": "48:6.0.5.25.1",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1900 [RESERVED]\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "1901",
+              "NODE": "48:6.0.5.25.2",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1901—THE BROADCASTING BOARD OF GOVERNORS ACQUISITION REGULATION SYSTEM\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13200, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "1901.000",
+                  "NODE": "48:6.0.5.25.2.0.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1901.000   Scope of part."
+                ],
+                "P": [
+                  "This part describes the method by which the Broadcasting Board of Governors implements and supplements the Federal Acquisition Regulation and contains policies and procedures that implement and supplement Chapter 1 of the Federal Acquisition Regulation (48 CFR).\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1901.1",
+                  "NODE": "48:6.0.5.25.2.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1901.1—Purpose, Authority, Issuance"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1901.101",
+                      "NODE": "48:6.0.5.25.2.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.101   Purpose."
+                    ],
+                    "P": [
+                      "This subpart establishes the Broadcasting Board of Governors Acquisition Regulation as Chapter 19 of the Federal Acquisition Regulations System (48 CFR chapter 19) and states the relationship of the IAAR to the Federal Acquisition Regulation (FAR), 48 CFR chapter 1.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.102",
+                      "NODE": "48:6.0.5.25.2.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.102   Authority."
+                    ],
+                    "P": [
+                      "The the Broadcasting Board of Governors Acquisition Regulation is prescribed by the Director of the Broadcasting Board of Governors pursuant to the authority of the Reorganization Plan No. 2 of 1977 and the Federal Property and Administrative Services Act of 1949, as amended, and other applicable law.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.103",
+                      "NODE": "48:6.0.5.25.2.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.103   Applicability."
+                    ],
+                    "P": [
+                      "Except where a deviation is specifically authorized in accordance with subpart 1901.4 or otherwise authorized by law, the FAR and the IAAR govern all the Broadcasting Board of Governors acquisitions within the United States.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.104",
+                      "NODE": "48:6.0.5.25.2.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.104   Issuance."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.104-1",
+                      "NODE": "48:6.0.5.25.2.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.104-1   Publication and code arrangement."
+                    ],
+                    "P": [
+                      {
+                        "_": "(a) The IAAR is published in the  and, in cumulative form in the Code of Federal Regulations (CFR).\n",
+                        "E": [
+                          {
+                            "_": "Federal Register",
+                            "$": {
+                              "T": "04"
+                            }
+                          }
+                        ]
+                      },
+                      "(b) The IAAR is issued as chapter 19 of title 48, CFR.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.104-2",
+                      "NODE": "48:6.0.5.25.2.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.104-2   Arrangement of regulations."
+                    ],
+                    "P": [
+                      "The IAAR uses the same numbering system and arrangement used in the FAR. Where the IAAR implements the FAR, it is numbered and captioned to correspond to the FAR. Where there is no corresponding material in the FAR, numbers beginning with 70 or higher are assigned to the IAAR supplementing part. Where the subject matter is the FAR requires no implementation, the IAAR contains no corresponding part.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1901.4",
+                  "NODE": "48:6.0.5.25.2.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1901.4—Deviations From the FAR"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1901.403",
+                      "NODE": "48:6.0.5.25.2.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.403   Individual deviations."
+                    ],
+                    "P": [
+                      "Deviations from the IAAR or the FAR in individual cases shall be authorized by the Board Procurement Executive or a designee unless FAR 1.405(e) is applicable. The request shall cite the specific part of the IAAR or FAR from which it is desired to deviate; shall set forth the nature of the deviation(s); and shall give the reason for the action requested.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.404",
+                      "NODE": "48:6.0.5.25.2.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.404   Class deviations."
+                    ],
+                    "P": [
+                      "Class deviations affecting more than one contracting action shall be authorized only by the Board Procurement Executive, unless FAR 1.405(e) is applicable, and shall be subject to the limitations set forth in FAR 1.404. Requests shall include the same information as cited in 1901.403.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1901.6",
+                  "NODE": "48:6.0.5.25.2.3",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1901.6—Contracting Authority and Responsibilities"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1901.601",
+                      "NODE": "48:6.0.5.25.2.3.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.601   General."
+                    ],
+                    "P": [
+                      "The Director, Office of Contracts, is designated the Board Procurement Executive. The Board Procurement Executive is delegated the full delegable authority of the Director of this Board with respect to the acquisition of goods and services by contract and such other methods as may be prescribed in the FAR. The Board Procurement Executive is delegated overall responsibility by the Director for the Board's contracting activities.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.602",
+                      "NODE": "48:6.0.5.25.2.3.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.602   Contracting officers."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1901.602-1",
+                      "NODE": "48:6.0.5.25.2.3.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1901.602-1   Authority."
+                    ],
+                    "P": [
+                      "The Broadcasting Board of Governors Contracting Officers designated by name on Certificates of Appointment by the Board Procurement Executive are authorized to enter into, administer, and terminate contracts and make related determinations and findings, subject to all requirements and limitations set forth in the Certificate of Appointment. A list of the Broadcasting Board of Governors employees who have been appointed as Contracting Officers and the limits of their authority is available from the Policy and Procedures Staff, Office of Contracts. \n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1902",
+              "NODE": "48:6.0.5.25.3",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1902—DEFINITIONS OF WORDS AND TERMS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13202, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1902.1",
+                  "NODE": "48:6.0.5.25.3.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1902.1—Definitions"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1902.101",
+                      "NODE": "48:6.0.5.25.3.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1902.101   Definitions."
+                    ],
+                    "P": [
+                      "As used throughout this regulation, the following words and terms are used as defined in this subpart unless (a) the context in which they are used clearly requires a different meaning or (b) a different definition is prescribed for a particular part or portion of a part.\n",
+                      {
+                        "_": " means the Broadcasting Board of Governors, acting through any of its duty authorized officials.\n",
+                        "I": [
+                          "Board"
+                        ]
+                      },
+                      {
+                        "_": " means the Director, Office of Contracts.\n",
+                        "I": [
+                          "Board Procurement Executive"
+                        ]
+                      },
+                      {
+                        "_": " means Authorized Representative of the Contracting Officer (see 1942.202-70).\n",
+                        "I": [
+                          "AR/CO"
+                        ]
+                      },
+                      {
+                        "_": " means the Office of Contracts, which has the responsibility to contract for the acquisition of supplies and services (including construction).\n",
+                        "I": [
+                          "Contracting activity"
+                        ]
+                      },
+                      {
+                        "_": " (also called ) means the Board Director or Deputy Director; and the term  means any person, persons or board (other than the contracting officer) authorized to act for the Head of the Board.\n",
+                        "I": [
+                          "Head of the Board",
+                          "Board head",
+                          "authorized representative"
+                        ]
+                      },
+                      {
+                        "_": " means an office with one or more Level I or Level II Small Purchases Contracting Officer(s) exercising limited redelegations of contracting officer authority.\n",
+                        "I": [
+                          "Purchasing Activity"
+                        ]
+                      },
+                      {
+                        "_": " means the Broadcating Board of Governors.\n\n\n",
+                        "I": [
+                          "BBG"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1903",
+              "NODE": "48:6.0.5.25.4",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1903—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13202, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1903.6",
+                  "NODE": "48:6.0.5.25.4.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1903.6—Contracts With Government Employees or Organizations Owned or Controlled by Them"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1903.602",
+                      "NODE": "48:6.0.5.25.4.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1903.602   Exceptions."
+                    ],
+                    "P": [
+                      "To avoid potential conflicts of interest or the appearance of preferential treatment, it is the Broadcasting Board of Governors policy not to award contracts, purchase orders, grants or cooperative agreements to Government employees or their family members or business concerns owned or controlled by Government employees or their family members. Exceptions to this policy must be approved by the Board Director or Board Procurement Executive and supported by written Findings and Determination. A contract with an employee for services may result in violation of the dual salary compensation statutes (5 U.S.C. 5533). Nothing in this paragraph is intended to render inapplicable the conflict of interest prohibition set out in 18 U.S.C. 208.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1903.670",
+                      "NODE": "48:6.0.5.25.4.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1903.670   Contracts between the Broadcasting Board of Governors and former employees."
+                    ],
+                    "P": [
+                      "To avoid conflicts of interest or the appearance of preferential treatment, purchase orders, contracts, grants or cooperative agreements with former employees of the Broadcasting Board of Governors, or with firms in which former employees or their family members are known to have controlling interest, may be entered into within two years following separation from employment only with the written approval of the Board Director. A written justification shall be made a part of the file. The justification must address the issue of conflict of interest and conclude that it does not exist; or that in spite of its existence, the Board's ability to meet its mission would be seriously harmed without the award.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1904",
+              "NODE": "48:6.0.5.25.5",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1904—ADMINISTRATIVE MATTERS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13203, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1904.70",
+                  "NODE": "48:6.0.5.25.5.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1904.70—Procurement Requests"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1904.7001",
+                      "NODE": "48:6.0.5.25.5.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1904.7001   General."
+                    ],
+                    "P": [
+                      "(a) Procurement requests will be prepared and submitted to the contracting office in accordance with Board procedures.\n",
+                      "(b) Except in unusual circumstances, the contracting office will not issue solicitations until an approved procurement request, containing a certification that funds are available, has been received. However, the contracting office may take all necessary actions up to the point of contract award prior to the receipt of the approved procurement request certifying that funds are available when:\n",
+                      "(1) Such action is necessary to meet critical program schedules; \n",
+                      "(2) It has been established that program authority has been issued and that funds to cover the acquisition will be available prior to the date set for contract award or contract modification;\n",
+                      "(3) A person at a level above the contracting officer authorizes such action prior to the issuance of the solicitation, and the contract file is properly documented; and\n",
+                      "(4) The solicitation document clearly indicates that the award is subject to the availability of funds.\n",
+                      "(c) The procurement request shall be assigned within the contracting office to an individual who, if not the contracting officer, will be responsible to the contracting officer for conducting the business aspects of the transaction. This individual shall review the request to ensure that it complies with the FAR and this Regulation and that the information contained in the request is in sufficient detail to prepare presolicitation and solicitation documents. The contracting officer, or other designated individual in the contracting office, shall discuss uncertain requirements or inconsistencies in the procurement request with the initiator of the request and obtain clarification prior to taking any further action.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "B",
+          "NODE": "48:6.0.5.26",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER B—ACQUISITION PLANNING\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1909",
+              "NODE": "48:6.0.5.26.6",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1909—CONTRACTOR QUALIFICATIONS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13203, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1909.4",
+                  "NODE": "48:6.0.5.26.6.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1909.4—Debarment, Suspension, and Ineligibility"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1909.403",
+                      "NODE": "48:6.0.5.26.6.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1909.403   Definitions."
+                    ],
+                    "P": [
+                      "The Board Procurement Executive, is designated the “debarring official” and the “suspending official” as defined in FAR 9.403 and is designated as the Board official authorized to make the decisions required in FAR 9.405(a), 9.405-1(b), 9.405-2, 9.406-1(c), and 9.407-1(d).\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1909.404",
+                      "NODE": "48:6.0.5.26.6.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1909.404   Consolidated list of debarred, suspended, and ineligible contractors."
+                    ],
+                    "P": [
+                      "(a) The Policy and Procedures Staff, Office of Contracts, shall be responsible for the maintenance and distribution of the GSA Consolidated List of Debarred, Suspended, and Ineligible Contractors. It will be coordinated with the Solicitation Mailing List and appropriate notations will be made on both lists, when additions or deletions are necessary. Contracting Officers shall notify the Policy and Procedures Staff, Office of Contracts, of their distribution needs and shall ensure the list is used effectively.\n",
+                      "(b) The Board Procurement Executive (or designee) is responsible for notifying GSA of the information required by FAR 9.404(b).\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1909.406",
+                      "NODE": "48:6.0.5.26.6.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1909.406   Debarment, suspension, and ineligibility."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1909.406-3",
+                      "NODE": "48:6.0.5.26.6.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1909.406-3   Procedures."
+                    ],
+                    "P": [
+                      {
+                        "_": "(a)  Any officer of the Board who becomes aware of circumstances which may serve as a basis for a debarment, suspension, or ineligibility shall report the circumstances by memorandum to the Board Procurement Executive for consideration of debarment, suspension or ineligibility action. \n",
+                        "I": [
+                          "Investigation and referral."
+                        ]
+                      },
+                      {
+                        "_": "(b)  (1) Contractors shall be given the opportunity to submit, in person, in writing, or through a representative, information and arguments in opposition to a proposed debarment or suspension. All rebuttals shall be addressed to the Board Procurement Executive. However, if a response to the proposed debarment or suspension is not received by the Board Procurement Executive within 30 calendar days of receipt of the notice, the debarment or suspension shall become final.\n",
+                        "I": [
+                          "Decision-making process."
+                        ]
+                      },
+                      "(2) If a contractor, or a representative, desires to present information and arguments in person to the Board Procurement Executive, an oral presentation will be held within 20 calendar days of receipt of the request, unless a longer period of time is requested by the contractor. Hearings will be held before a three-person fact-finding board composed of one member each from the Office of General Counsel and Congressional Liaison, the Bureau of Management, and the Office of Contracts, other than the initiating officer. The fact-finding board shall deliver written findings to the Board Procurement Executive (together with a transcription of the proceedings, if made) within 10 calendar days after the hearing. The findings shall resolve any facts in dispute based on a preponderance of the evidence presented and determine whether a cause for debarment or suspension exists.\n",
+                      {
+                        "_": "(c)  The debarring/suspending official's final decision shall be made in writing in accordance with FAR 9.406-3 and notice of the decision will be given in accordance with FAR 9.406-3. A copy of the notice shall be given to the affected agency component.\n\n\n",
+                        "I": [
+                          "Debarring/suspending official's decision."
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1910",
+              "NODE": "48:6.0.5.26.7",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1910—SPECIFICATIONS, STANDARDS, AND OTHER PURCHASE DESCRIPTIONS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13204, Apr. 3, 1985, unless otherwise noted. \n\n\n"
+                ]
+              }
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "1910.004-70",
+                  "NODE": "48:6.0.5.26.7.0.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.004-70   Brand name products or equal."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Consistent with the policy stated in FAR 10.004(a)(2), the Broadcasting Board of Governors acquisitions will generally not be based on a specifically identified product or feature(s) thereof. However, under unusual circumstances such an approach may be used as described below.\n",
+                    "I": [
+                      "General."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Brand name or equal purchase descriptions shall cite all brand name products known to be acceptable and of current manufacture. If the use of a brand name or equal purchase description results in the purchase of an acceptable brand name product which was not listed as an “equal” product, a reference to that brand name product should be included in the purchase description for later acquisitions. If a brand name product is no longer applicable, the reference thereto shall be deleted from subsequent purchase description.\n",
+                    "I": [
+                      "Citing brand name products."
+                    ]
+                  },
+                  {
+                    "_": "(c)  (1) It is imperative that brand name or equal purchase descriptions specify each physical or functional characteristic of the product that is essential to the intended use. Failure to do so may result in a defective solicitation and the necessity to resolicit the requirements. (See 1910.004-73.) Care must be taken to avoid specifying characteristics that cannot be shown to materially affect the intended end use and which unnecessarily restrict competition.\n",
+                    "I": [
+                      "Specifying essential characteristics."
+                    ]
+                  },
+                  "(2) When describing essential characteristics, permissible tolerances should be indicated. Avoid specifying a characteristic (e.g., a specific dimension) of a brand name product unless it is essential to the Government's need. The contracting officer must be able to justify the requirement. \n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "1910.004-71",
+                  "NODE": "48:6.0.5.26.7.0.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.004-71   Limits on the use of brand name or equal purchase descriptions."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The use of brand name or equal purchase descriptions in solicitations is intended to promote competition by encouraging the offering of products that are equal in all material respects to brand name products cited in such descriptions. Identification by brand name does not indicate a preference for the products mentioned but indicates the quality and characteristics of products that will meet the Government's needs. Where a component of an item is described in the solicitation by a brand name or equal purchase description and the contracting officer determines that application of the provision of 1952.210-70 would be impracticable, the requirement to include the entry described in 1910.004-72(a) shall not apply. If the provision is included in the solicitation for other reasons, there also shall be included in the solicitation a statement to identify either the component parts (described by brand name or equal descriptions) to which the provision applies or those to which it does not apply. This also applies to accessories related to an end item where a brand name or equal purchase description of the accessories is a part of the description of an end item. Brand name or equal descriptions shall not be used to acquire a particular product under the guise of competitive acquisition to the exclusion of other products that would meet the actual needs.\n",
+                    "I": [
+                      "General."
+                    ]
+                  },
+                  "(b) In small purchases within the open market limitations, brand name policies and procedures shall be applicable to the extent practicable.\n",
+                  {
+                    "_": "(c)  A brand name or equal purchase description shall not be used unless it has been approved at one level above the contracting officer.\n\n\n",
+                    "I": [
+                      "Approval required."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1910.004-72",
+                  "NODE": "48:6.0.5.26.7.0.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.004-72   Solicitations, brand name or equal descriptions."
+                ],
+                "P": [
+                  "(a) An entry substantially as follows shall be prominently inserted in the item listing after each item or component part of an end item to which a brand name or equal purchase description applies. \n",
+                  "(b) Because bidders frequently overlook the requirements of the clause at 1952.210-70 “Brand Name or Equal,” the following note shall be inserted in the item listing after each brand name or equal item (or component part), or at the bottom of each page, listing several such items, or in a manner that may otherwise direct the offeror's attention to this clause. \n",
+                  "(c) If offeror samples are requested for brand name or equal acquisitions, the above notice shall not be included in the solicitation.\n\n\n"
+                ],
+                "EXTRACT": [
+                  {
+                    "P": [
+                      "Bidding on:\n"
+                    ],
+                    "FP-DASH": [
+                      "Manufacturer's Name:\n",
+                      "Brand:\n",
+                      "No.:"
+                    ]
+                  },
+                  {
+                    "P": [
+                      "Offerors offering other than brand name items identified herein should furnish with their offers adequate information to ensure that a determination can be made as to equality of the product(s) offered (see the provision “Brand Name or Equal” set forth in 1952.210-70 of the solicitation)."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1910.004-73",
+                  "NODE": "48:6.0.5.26.7.0.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.004-73   Offer evaluation and award, brand name or equal descriptions."
+                ],
+                "P": [
+                  "An offer may not be rejected for failure of the offered product to equal a characteristic of a brand name product if it was not specified in the brand name or equal description. However, if it is clearly established that the unspecified characteristic is essential to the intended end use, the solicitation is defective and no award may be made. In such cases, the contracting officer should resolicit the requirements, using a purchase description that sets forth the essential characteristics.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "1910.004-74",
+                  "NODE": "48:6.0.5.26.7.0.1.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.004-74   Procedure for negotiated procurements and small purchases."
+                ],
+                "P": [
+                  "(a) The policies and procedures prescribed for sealed bid procurements shall be generally applicable to negotiated procurements.\n",
+                  "(b) The clause set forth at 1952.210-70 may be adapted for use in negotiated procurements. If use of the clause is not practicable (as may be the case in unusual and compelling urgency purchases), suppliers shall be suitably informed that proposals offering products different from the products referenced by brand name will be considered if the contracting officer determines that the offered products meet fully the salient characteristics requirements of the solicitation.\n",
+                  "(c) In small purchases within open-market limitations, such policies and procedures shall be applicable to the extent practicable.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "1910.011",
+                  "NODE": "48:6.0.5.26.7.0.1.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1910.011   Solicitation provisions and contract clauses."
+                ],
+                "P": [
+                  "The Contracting Officer shall include the provision at 1952.210-70, Brand Name or Equal, in solicitations for which brand name or equal purchase is used.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "C",
+          "NODE": "48:6.0.5.27",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1913",
+              "NODE": "48:6.0.5.27.8",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1913—SMALL PURCHASES AND OTHER SIMPLIFIED PURCHASE PROCEDURES\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1913.5",
+                  "NODE": "48:6.0.5.27.8.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1913.5—Purchase Orders"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1913.505",
+                      "NODE": "48:6.0.5.27.8.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1913.505   Purchase order and related forms."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1913.505-2",
+                      "NODE": "48:6.0.5.27.8.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1913.505-2   Board order forms in lieu of Optional and Standard Forms."
+                    ],
+                    "P": [
+                      "(a) Optional Forms 347 and 348 shall be used as prescribed in FAR 13.505 unless an equivalent form has been authorized for use by the Board Procurement Executive (or Designee). Exceptions may be granted, on a case-by-case basis, in order to accommodate computer-generated purchase order forms. Exception approval for over printing (FAR 53.104) is not needed.\n",
+                      "(b) The Broadcasting Board of Governors Form IA-44 (see 1953.370-44) is authorized for use when obtaining nonpersonal services on an intermittent basis for such services as script writers, translators, narrators, etc.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[50 FR 13205, Apr. 3, 1985]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1915",
+              "NODE": "48:6.0.5.27.9",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1915—CONTRACTING BY NEGOTIATION\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13205, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1915.1",
+                  "NODE": "48:6.0.5.27.9.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1915.1—General Requirements for Negotiation"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1915.106",
+                      "NODE": "48:6.0.5.27.9.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1915.106   Contract clauses."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1915.106-70",
+                      "NODE": "48:6.0.5.27.9.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1915.106-70   Key personnel and facilities."
+                    ],
+                    "P": [
+                      "Whenever contractor selection has been substantially predicated on the contractor's possession of special capabilities (i.e., personnel and/or facilities) the contracting officer shall include the clause at 1952.215-70 in the awarded contract.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1917",
+              "NODE": "48:6.0.5.27.10",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1917—SPECIAL CONTRACTING METHODS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13205, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1917.1",
+                  "NODE": "48:6.0.5.27.10.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1917.1—Multiyear Contracting"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1917.102",
+                      "NODE": "48:6.0.5.27.10.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1917.102   Policy."
+                    ],
+                    "P": [
+                      "When consistent with 22 U.S.C. 1472(b), the Head of the Board may approve multiyear contracts up to five years.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "S D",
+          "NODE": "48:6.0.5.28",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTERS D-F [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "G",
+          "NODE": "48:6.0.5.29",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER G—CONTRACT MANAGEMENT\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1942",
+              "NODE": "48:6.0.5.29.11",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1942—CONTRACT ADMINISTRATION\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13212, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1942.2",
+                  "NODE": "48:6.0.5.29.11.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1942.2—Assignment of Contract Administration"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1942.202-70",
+                      "NODE": "48:6.0.5.29.11.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1942.202-70   Authorized Representative of the Contracting Officer (AR/CO)."
+                    ],
+                    "P": [
+                      "The Contracting Officer may designate an appropriately qualified Government employee to act as the Authorized Representative of the Contracting Officer (AR/CO). Such designation shall apply to a single contract, must be in writing, and shall define the scope and limitations of the AR/CO's authority. The instrument designating an AR/CO shall not contain authority to sign or agree to any contract or major modification to a contract. Contractual commitments shall be made only by a duly certified contracting officer. The Contracting Officer shall insert the clause at 1952.242-70, Authorized Representative of the Contracting Officer, in solicitations and contracts when an individual is to be selected and designated by the Contracting Officer to perform administration of a given contract(s).\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1946",
+              "NODE": "48:6.0.5.29.12",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1946—QUALITY ASSURANCE\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13212, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1946.7",
+                  "NODE": "48:6.0.5.29.12.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1946.7—Warranties"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1946.704",
+                      "NODE": "48:6.0.5.29.12.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1946.704   Authority for use of warranties."
+                    ],
+                    "P": [
+                      "(a) The procurement request initiator is responsible for preparing a written recommendation for those purchases deemed to be appropriate for application of warranty provisions. The recommendation shall state why a warranty is appropriate by specifically addressing the criteria set forth in FAR 46.703. The recommendation shall also identify the specific parts, subassemblies, assemblies, systems, or contract line items to which a warranty should apply. \n",
+                      "(b) Prior to solicitation of the requirement, the contracting officer shall make a written determination when a warranty provision is to be included.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "H",
+          "NODE": "48:6.0.5.30",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER H—CLAUSES AND FORMS\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1952",
+              "NODE": "48:6.0.5.30.13",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1952—SOLICITATION PROVISIONS AND CONTRACT CLAUSES\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13212, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "1952.000",
+                  "NODE": "48:6.0.5.30.13.0.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1952.000   Scope of part."
+                ],
+                "P": [
+                  "This part implements and supplements FAR part 52 which sets forth solicitation provisions and contract clauses for use in the acquisition of personal property and nonpersonal services (including construction).\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1952.1",
+                  "NODE": "48:6.0.5.30.13.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1952.1—Instructions for Using Provisions and Clauses"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1952.102-2",
+                      "NODE": "48:6.0.5.30.13.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.102-2   Incorporation in full text."
+                    ],
+                    "P": [
+                      "All IAAR provisions and clauses shall be incorporated in solicitations and/or contracts in full text.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1952.104",
+                      "NODE": "48:6.0.5.30.13.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.104   Procedures for modifying and completing provisions and clauses."
+                    ],
+                    "P": [
+                      "IAAR provisions and clauses shall not be modified (see FAR 1952.101(a) unless authorized by the Director, Office of Contracts, and when so authorized, contracting officers must comply with the procedures in FAR 1952.104.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1952.2",
+                  "NODE": "48:6.0.5.30.13.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1952.2—Texts of Provisions and Clauses"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1952.215-70",
+                      "NODE": "48:6.0.5.30.13.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.215-70   Key personnel and facilities."
+                    ],
+                    "P": [
+                      "As prescribed in 1915.106-70 insert the following clause in appropriate contracts:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Key Personnel and Facilities (FEB 1985)\n"
+                        ],
+                        "P": [
+                          "The personnel and/or facilities listed below (or as specified in the Schedule of this contract) are considered essential to the work being performed hereunder. Prior to removing, replacing, or diverting any of the specified individuals or facilities, the Contractor shall notify the Contracting Officer reasonably in advance and shall submit justification (including proposed substitutions) in sufficient detail to permit evaluation of the impact on this contract. No diversion shall be made by the Contractor without the written consent of the Contracting Officer; provided, that the Contracting Officer may ratify in writing the change and such ratification shall constitute the consent of the Contracting Officer required by this clause. The personnel and/or facilities listed below (or as specified in the Schedule of this contract) may, with the consent of the contracting parties, be amended from time to time during the course of the contract to either add or delete personnel and/or facilities, as appropriate."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1952.227-76",
+                      "NODE": "48:6.0.5.30.13.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.227-76   Government rights (unlimited)."
+                    ],
+                    "P": [
+                      "As prescribed in 1927.405(g), insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Government Rights (Unlimited) (FEB 1985)\n"
+                        ],
+                        "P": [
+                          "The Government shall have unlimited rights, in all drawings, designs, specifications, notes and other works developed in the performance of this contract, including the right to use same on any other Government design or construction without additional compensation to the Contractor. The Contractor hereby grants to the government a paid-up license throughout the world to all such works to which he may assert or establish any claim under design patent or copyrights laws. The Contractor for a period of three years after completion of the project agrees to furnish the original or copies of all such works on the request of the Contracting Officer."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1952.227-77",
+                      "NODE": "48:6.0.5.30.13.2.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.227-77   Rights in shop drawings."
+                    ],
+                    "P": [
+                      "As prescribed in 1927.405(h), insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Rights in Shop Drawings (FEB 1985)\n"
+                        ],
+                        "P": [
+                          "(a) Shop drawings for construction means drawings, submitted to the Government by the Construction Contractor, subcontractor or any lower tier subcontractor pursuant to a construction contract, showing in detail (i) the proposed fabrication and assembly of structural elements and (ii) the installation (i.e., form, fit, and attachment details) of materials or equipment. The Government may duplicate, use, and disclose in any manner and for any purpose shop drawings delivered under this contract.\n",
+                          "(b) This clause, including this paragraph (b), shall be included in all subcontracts hereunder at any tier."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1952.227-78",
+                      "NODE": "48:6.0.5.30.13.2.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1952.227-78   Disposition of prints and videotape recordings."
+                    ],
+                    "P": [
+                      "As prescribed in 1927.405(j) insert the following clause in License Agreements:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Disposition of Prints and Videotape Recordings (FEB 1985)\n"
+                        ],
+                        "P": [
+                          "If the Board elects to discontinue distribution and exhibition hereunder, or upon expiration of the term of this License Agreement, the Board will destroy all prints and erase all videotape recordings of the Film. A certificate(s) attesting to such destruction and/or erasure will be furnished the Licensor upon its written request."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1953",
+              "NODE": "48:6.0.5.30.14",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1953—FORMS\n"
+            ],
+            "EDNOTE": [
+              {
+                "HED": [
+                  "Editorial Note:"
+                ],
+                "PSPACE": [
+                  "IAAR forms referenced in this subpart do not appear in the Code of Federal Regulations. The list of forms following 1953.370 is set forth for the convenience of the user. Forms may be obtained by writing: Office of Contracts, The Broadcasting Board of Governors, Washington, DC 20547."
+                ]
+              }
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 486(c).\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "50 FR 13224, Apr. 3, 1985, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1953.3",
+                  "NODE": "48:6.0.5.30.14.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1953.3—Illustrations of Forms"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1953.300",
+                      "NODE": "48:6.0.5.30.14.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1953.300   Scope of subpart."
+                    ],
+                    "P": [
+                      "This subpart contains illustrations of some forms referenced in this IAAR.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1953.370",
+                      "NODE": "48:6.0.5.30.14.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1953.370   The Broadcasting Board of Governors forms."
+                    ],
+                    "P": [
+                      "This section contains illustrations of The Broadcasting Board of Governors forms references in this IAAR. \n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1954-1999",
+              "NODE": "48:6.0.5.30.15",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PARTS 1954-1999 [RESERVED]\n\n\n"
+            ]
+          }
+        ],
+        "DIV9": [
+          {
+            "$": {
+              "N": "",
+              "NODE": "48:6.0.5.30.16.0.1.1.1",
+              "TYPE": "APPENDIX"
+            },
+            "HEAD": [
+              "List of IAAR Forms\n"
+            ],
+            "FP-1": [
+              "1953.370-21 The Broadcasting Board of Governors Form IA-21, Abstract of Quotations.\n",
+              "1953.370-44 The Broadcasting Board of Governors Form IA-44, Requisition-Purchase—Order-Invoice for Professional Services. \n\n\n"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "number": "XV",
+  "title": " CHAPTER XV—OKLAHOMA CITY NATIONAL MEMORIAL TRUST",
+  "content": {
+    "$": {
+      "N": "XV",
+      "NODE": "36:3.0.11",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XV—OKLAHOMA CITY NATIONAL MEMORIAL TRUST"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1500",
+          "NODE": "36:3.0.11.9.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1500 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "1501",
+          "NODE": "36:3.0.11.9.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1501—GENERAL PROVISIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "16 U.S.C. 450ss; Pub. L. 105-58, 111 Stat. 1261.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "65 FR 14761, Mar. 17, 2000, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1501.1",
+              "NODE": "36:3.0.11.9.2.0.23.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1501.1   Cross reference to National Park Service regulations."
+            ],
+            "P": [
+              "As permitted by the Oklahoma City National Memorial Act, the Oklahoma City National Memorial Trust (the Trust) adopts by cross reference the provisions of the National Park Service in 36 CFR chapter I as shown in the following table. The table also indicates those parts, sections, and paragraphs that the Trust has chosen to exclude from adoption. \n"
+            ],
+            "EXTRACT": [
+              {
+                "HD1": [
+                  "National Park Service Regulations \n"
+                ],
+                "FP": [
+                  "36 CFR Chapter I \n",
+                  "PART 1 GENERAL PROVISIONS \n",
+                  "PART 2 RESOURCE PROTECTION, PUBLIC USE AND RECREATION\n",
+                  "PART 4 VEHICLES AND TRAFFIC SAFETY\n",
+                  "PART 5 COMMERCIAL AND PRIVATE OPERATIONS\n"
+                ],
+                "FP1-2": [
+                  "Excluding parts 3 and 6-199 \n",
+                  "Excluding paragraphs (b) and (c) \n",
+                  "Excluding paragraph (b) \n",
+                  "Excluding §§ 2.3, 2.16, 2.19, 2.60\n",
+                  "Excluding paragraphs (b), (c), and (d)\n",
+                  "Excluding paragraph (a)(2)\n",
+                  "Excluding paragraphs (b)(1), (b)(2), (b)(3), (b)(4), (b)(6), (b)(8), and (d)\n",
+                  "Excluding paragraph (a)(3)\n",
+                  "Excluding paragraph (c)\n",
+                  "Excluding paragraphs (a)(7) and (a)(9)\n",
+                  "Excluding paragraphs (b) and (e)\n",
+                  "Excluding paragraph (a)(2)\n",
+                  "Excluding paragraphs (d) and (e)\n",
+                  "Excluding paragraph (b)\n",
+                  "Excluding paragraph (a)\n",
+                  "Excluding paragraph (c)(3)\n",
+                  "Excluding paragraphs (a)(2) and (a)(3)\n",
+                  "Excluding §§ 5.4, 5.9, and 5.10\n",
+                  "Excluding paragraph (b)\n"
+                ],
+                "FP-1": [
+                  "§ 1.1 Purpose \n",
+                  "§ 1.2 Applicability and Scope \n",
+                  "§ 1.3 Penalties \n",
+                  "§ 1.4 Definitions \n",
+                  "§ 1.5 Closures and public use limits \n",
+                  "§ 1.6 Permits \n",
+                  "§ 1.7 Public Notice\n",
+                  "§ 1.8 Information Collection\n",
+                  "§ 1.10 Symbolic Signs\n",
+                  "§ 2.1 Preservation of natural and cultural and archeological resources\n",
+                  "§ 2.2 Wildlife Protection\n",
+                  "§ 2.4 Weapons, traps, and nets\n",
+                  "§ 2.5 Research specimens\n",
+                  "§ 2.10 Camping and food storage\n",
+                  "§ 2.11 Picnicking\n",
+                  "§ 2.12 Audio Disturbances\n",
+                  "§ 2.13 Fires\n",
+                  "§ 2.14 Sanitation and refuse\n",
+                  "§ 2.15 Pets\n",
+                  "§ 2.17 Aircraft and air delivery\n",
+                  "§ 2.18 Snowmobiles\n",
+                  "§ 2.20 Skating, skateboards and similar devices\n",
+                  "§ 2.21 Smoking\n",
+                  "§ 2.22 Property\n",
+                  "§ 2.23 Recreation fees\n",
+                  "§ 2.30 Misappropriation of property and services\n",
+                  "§ 2.31 Trespassing, tampering and vandalism\n",
+                  "§ 2.32 Interfering with agency functions\n",
+                  "§ 2.33 Report of injury or damage\n",
+                  "§ 2.34 Disorderly conduct\n",
+                  "§ 2.35 Alcoholic beverages and controlled substances\n",
+                  "§ 2.36 Gambling\n",
+                  "§ 2.37 Noncommercial soliciting\n",
+                  "§ 2.38 Explosives\n",
+                  "§ 2.50 Special events\n",
+                  "§ 2.51 Public assemblies, meetings\n",
+                  "§ 2.52 Sale or distribution of printed matter\n",
+                  "§ 2.61 Residing on Federal lands\n",
+                  "§ 2.62 Memorialization\n",
+                  "§ 4.1 Applicability and scope\n",
+                  "§ 4.2 State law applicable\n",
+                  "§ 4.3 Authorized emergency vehicles\n",
+                  "§ 4.4 Report of motor vehicle accident\n",
+                  "§ 4.10 Travel on park roads and designated routes\n",
+                  "§ 4.11 Load, weight and size limits\n",
+                  "§ 4.12 Traffic control devices\n",
+                  "§ 4.13 Obstructing traffic\n",
+                  "§ 4.14 Open container of alcoholic beverage\n",
+                  "§ 4.15 Safety belts\n",
+                  "§ 4.20 Right of way\n",
+                  "§ 4.21 Speed limits\n",
+                  "§ 4.22 Unsafe operation\n",
+                  "§ 4.23 Operating under the influence of alcohol or drugs\n",
+                  "§ 4.30 Bicycles\n",
+                  "§ 4.31 Hitchhiking\n",
+                  "§ 5.1 Advertisements\n",
+                  "§ 5.2 Alcoholic beverages; sale of intoxicants\n",
+                  "§ 5.3 Business operations\n",
+                  "§ 5.5 Commercial photography\n",
+                  "§ 5.6 Commercial vehicles\n",
+                  "§ 5.7 Construction of buildings or other facilities\n",
+                  "§ 5.8 Discrimination in employment practices\n",
+                  "§ 5.13 Nuisances\n",
+                  "§ 5.14 Prospecting, mining, and mineral leasing"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1502-1599",
+          "NODE": "36:3.0.11.9.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1502-1599 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

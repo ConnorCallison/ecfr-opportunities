@@ -1,0 +1,2640 @@
+{
+  "number": "10",
+  "title": " CHAPTER 10—DEPARTMENT OF THE TREASURY",
+  "content": {
+    "$": {
+      "N": "10",
+      "NODE": "48:5.0.4",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 10—DEPARTMENT OF THE TREASURY"
+    ],
+    "DIV4": [
+      {
+        "$": {
+          "N": "A",
+          "NODE": "48:5.0.4.27",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER A—GENERAL\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1000",
+              "NODE": "48:5.0.4.27.1",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1000 [RESERVED]\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "1001",
+              "NODE": "48:5.0.4.27.2",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1001—DEPARTMENT OF THE TREASURY ACQUISITION REGULATION (DTAR) SYSTEM\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1001.1",
+                  "NODE": "48:5.0.4.27.2.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1001.1—Purpose, Authority, Issuance"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1001.101",
+                      "NODE": "48:5.0.4.27.2.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.101   Purpose."
+                    ],
+                    "P": [
+                      "This subpart establishes Chapter 10, the Department of the Treasury Acquisition Regulation (DTAR), within Title 48 of the Federal Acquisition Regulation (FAR) System. The DTAR contains policies and procedures that supplement FAR coverage and directly affect the contractual relationship between the Department of the Treasury and its business partners (e.g., prospective offerors/bidders and contractors). When FAR coverage is adequate, there will be no corresponding DTAR coverage.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.104",
+                      "NODE": "48:5.0.4.27.2.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.104   Applicability."
+                    ],
+                    "P": [
+                      "The DTAR applies to all acquisitions of supplies and services, which obligate appropriated funds. For acquisitions made from non-appropriated funds, the Senior Procurement Executive will determine the rules and procedures that will apply. The DTAR does not apply to the acquisitions of the U.S. Mint.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.105",
+                      "NODE": "48:5.0.4.27.2.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.105   Issuance."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.105-1",
+                      "NODE": "48:5.0.4.27.2.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.105-1   Publication and code arrangement."
+                    ],
+                    "P": [
+                      {
+                        "_": "The DTAR and its subsequent changes will be published in the  and codified in the Code of Federal Regulations (CFR). The DTAR will be issued as 48 CFR Chapter 10.\n\n\n",
+                        "E": [
+                          {
+                            "_": "Federal Register",
+                            "$": {
+                              "T": "04"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.105-2",
+                      "NODE": "48:5.0.4.27.2.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.105-2   Arrangement of regulations."
+                    ],
+                    "P": [
+                      {
+                        "_": "(a)  The DTAR is divided into the same parts, subparts, sections, subsections, and paragraphs as the FAR except that 10 or 100 will precede the DTAR citation so that there are four numbers to the left of the first decimal. Reference to DTAR material must be made in a manner similar to that prescribed by FAR 1.105-2(c).\n\n\n",
+                        "I": [
+                          "References and citations."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.105-3",
+                      "NODE": "48:5.0.4.27.2.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.105-3   Copies."
+                    ],
+                    "P": [
+                      {
+                        "_": "Copies of the DTAR in  or CFR form may be purchased from the Superintendent of Documents, Government Printing Office (GPO), Washington, DC 20402.\n\n\n",
+                        "E": [
+                          {
+                            "_": "Federal Register",
+                            "$": {
+                              "T": "04"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.106",
+                      "NODE": "48:5.0.4.27.2.1.1.7",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.106   OMB Approval under the Paperwork Reduction Act."
+                    ],
+                    "P": [
+                      "OMB has assigned the following control numbers that must appear on the upper right corner of the face page of each solicitation, contract, modification, and order: OMB Control No. 1505-0081 (Offeror submissions), OMB Control No. 1505-0080 (Contractor submissions), OMB Control No. 1505-0107 (Protests). OMB regulations and OMB's approval and assignment of control numbers are conditioned upon Treasury bureaus not requiring more than three copies (including the original) of any document of information. OMB has granted a waiver to permit the Department to require up to eight copies of proposal packages, including proprietary data, for solicitations, provided that contractors who submit only an original and two copies will not be placed at a disadvantage.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1001.3",
+                  "NODE": "48:5.0.4.27.2.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1001.3—Agency Acquisition Regulations"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1001.301",
+                      "NODE": "48:5.0.4.27.2.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.301   Policy."
+                    ],
+                    "P": [
+                      "(a)(1) The DTAR (48 CFR Chapter 10) is issued for Treasury implementation in accordance with the authority cited in FAR 1.301(b). The DTAR supplements the Federal Acquisition Regulation by establishing uniform policies for all acquisition activities throughout the Department of the Treasury, except for the United States Mint.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.304",
+                      "NODE": "48:5.0.4.27.2.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.304   Agency control and compliance procedures."
+                    ],
+                    "P": [
+                      "(a) The DTAR is under the direct oversight and control of Treasury's Office of the Procurement Executive (OPE), which is responsible for the evaluation, review, and issuance of all Department-wide acquisition regulations and guidance.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1001.4",
+                  "NODE": "48:5.0.4.27.2.3",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1001.4—Deviations from the FAR"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1001.403",
+                      "NODE": "48:5.0.4.27.2.3.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.403   Individual deviations."
+                    ],
+                    "P": [
+                      "The SPE is authorized to approve individual contract FAR and DTAR deviations.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1001.404",
+                      "NODE": "48:5.0.4.27.2.3.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.404   Class deviations."
+                    ],
+                    "P": [
+                      "(a) The SPE is authorized to approve class FAR and DTAR deviations.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1001.6",
+                  "NODE": "48:5.0.4.27.2.4",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1001.6—Career Development, Contracting Authority and Responsibilities"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1001.670",
+                      "NODE": "48:5.0.4.27.2.4.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1001.670   Contract clause."
+                    ],
+                    "P": [
+                      "Contracting Officers must insert a clause substantially similar to the clause in section 1052.201-70, Contracting Officer's Representative (COR) Appointment and Authority, in all solicitations and contracts. Exceptions to the requirement for inclusion of the COR clause and the appointment of a COR may be made at the discretion of the BCPO.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11595, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1002",
+              "NODE": "48:5.0.4.27.3",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1002—DEFINITIONS OF WORDS AND TERMS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1002.1",
+                  "NODE": "48:5.0.4.27.3.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1002.1—Definitions"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1002.101",
+                      "NODE": "48:5.0.4.27.3.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1002.101   Definitions."
+                    ],
+                    "P": [
+                      {
+                        "_": " means any one of the following Treasury organizations:\n",
+                        "I": [
+                          "Bureau"
+                        ]
+                      },
+                      "(1) Alcohol and Tobacco Tax and Trade Bureau (TTB);\n",
+                      "(2) Bureau of Engraving & Printing (BEP);\n",
+                      "(3) Bureau of the Fiscal Service (formerly Bureau of Public Debt and Financial Management Service);\n",
+                      "(4) Departmental Offices (DO);\n",
+                      "(5) Financial Crimes Enforcement Network (FinCEN);\n",
+                      "(6) Office of the Inspector General (OIG);\n",
+                      "(7) Internal Revenue Service (IRS);\n",
+                      "(8) Office of the Comptroller of the Currency (OCC);\n",
+                      "(9) Special Inspector General for the Troubled Asset Relief Program (SIGTARP);\n",
+                      "(10) Treasury Inspector General for Tax Administration (TIGTA); or\n",
+                      "(11) United States Mint.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11595, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1002.70",
+                      "NODE": "48:5.0.4.27.3.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1002.70   Abbreviations."
+                    ],
+                    "FP-1": [
+                      {
+                        "_": " Bureau Chief Procurement Officer\n",
+                        "I": [
+                          "BCPO"
+                        ]
+                      },
+                      {
+                        "_": " Contracting Officer's Representative \n",
+                        "I": [
+                          "COR"
+                        ]
+                      },
+                      {
+                        "_": " Head of the Contracting Activity\n",
+                        "I": [
+                          "HCA"
+                        ]
+                      },
+                      {
+                        "_": " Invoice Processing Platform\n",
+                        "I": [
+                          "IPP"
+                        ]
+                      },
+                      {
+                        "_": " Office of the Procurement Executive\n",
+                        "I": [
+                          "OPE"
+                        ]
+                      },
+                      {
+                        "_": " Office of Small and Disadvantaged Business Utilization\n",
+                        "I": [
+                          "OSDBU"
+                        ]
+                      },
+                      {
+                        "_": " Senior Procurement Executive\n",
+                        "I": [
+                          "SPE"
+                        ]
+                      }
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 77 FR 40304, July 9, 2012; 80 FR 11595, Mar. 3, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "B",
+          "NODE": "48:5.0.4.28",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER B—ACQUISITION PLANNING\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1009",
+              "NODE": "48:5.0.4.28.4",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1009—CONTRACTOR QUALIFICATIONS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 418b.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1009.1",
+                  "NODE": "48:5.0.4.28.4.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1009.1—Responsible Prospective Contractors"
+                ],
+                "SOURCE": [
+                  {
+                    "HED": [
+                      "Source:"
+                    ],
+                    "PSPACE": [
+                      "82 FR 53428, Nov. 16, 2017, unless otherwise noted.\n\n\n"
+                    ]
+                  }
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1009.104",
+                      "NODE": "48:5.0.4.28.4.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.104   Standards."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1009.104-5",
+                      "NODE": "48:5.0.4.28.4.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.104-5   Representation and certifications regarding responsibility matters."
+                    ],
+                    "P": [
+                      "(b) Internal Revenue Service (IRS) contracting officers shall comply with the requirements of subpart 1009.70 once an offeror has been identified as the apparent successful offeror.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1009.2",
+                  "NODE": "48:5.0.4.28.4.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1009.2—Qualifications Requirements"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1009.204-70",
+                      "NODE": "48:5.0.4.28.4.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.204-70   Contractor publicity."
+                    ],
+                    "P": [
+                      "31 U.S.C. 333(a) prohibits the use of Treasury names, abbreviations, or symbols, in connection with, or as a part of, any advertisement, solicitation, business activity, or product, in a manner that may imply endorsement by Treasury. Bureaus shall insert a clause substantially the same as 1052.210-70 Contractor Publicity in all solicitations and contracts.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1009.70",
+                  "NODE": "48:5.0.4.28.4.3",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1009.70—Tax Check Requirements"
+                ],
+                "SOURCE": [
+                  {
+                    "HED": [
+                      "Source:"
+                    ],
+                    "PSPACE": [
+                      "82 FR 53429, Nov. 16, 2017, unless otherwise noted.\n\n\n"
+                    ]
+                  }
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1009.7000",
+                      "NODE": "48:5.0.4.28.4.3.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.7000   Scope of subpart."
+                    ],
+                    "P": [
+                      "This subpart prescribes the IRS policies and procedures for performing a tax check on the apparent successful offeror to determine eligibility to receive an award.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1009.7001",
+                      "NODE": "48:5.0.4.28.4.3.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.7001   Definition."
+                    ],
+                    "P": [
+                      "As used in this subpart—\n",
+                      {
+                        "_": " means the person(s) identified to the Internal Revenue Service (IRS) within the consent to disclosure by the offeror as authorized to represent the offeror in disclosure matters pertaining to the offer.\n",
+                        "I": [
+                          "Authorized representative(s) of the offeror"
+                        ]
+                      },
+                      {
+                        "_": " means any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability.\n",
+                        "I": [
+                          "Delinquent Federal tax liability"
+                        ]
+                      },
+                      {
+                        "_": " means an IRS process that accesses and uses taxpayer return information to support the Government's determination of an offeror's eligibility to receive an award, including but not limited to implementation of the statutory prohibition of making an award to corporations that have a delinquent Federal tax liability (see FAR 9.104-5(b)).\n\n\n",
+                        "I": [
+                          "Tax check"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1009.7003",
+                      "NODE": "48:5.0.4.28.4.3.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.7003   Policy."
+                    ],
+                    "P": [
+                      "(a) There are various Federal laws and regulations that in aggregate prohibit the Federal Government from entering into a contract with an entity where the awarding agency is aware of an unpaid Federal tax liability (see FAR subpart 9.1) unless the agency has considered suspension or debarment and has made a determination that this further action is not necessary to protect the interests of the Government.\n",
+                      "(b) IRS contracting officers shall include a provision in all solicitations regardless of dollar value, which contains a consent to disclosure to be signed and dated by a person authorized to act on behalf of the offeror as defined in 26 CFR 301.6103(c)-1(e)(4). The consent to disclosure will authorize officers and employees of the Department of the Treasury, including the IRS, to disclose the results of the tax check to the authorized representative(s) of the offeror. In the absence of a signed and dated consent to disclosure in an offer, taxpayer return information of the offeror may not be disclosed, which subsequently may remove the offeror from eligibility to receive an award.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1009.7004",
+                      "NODE": "48:5.0.4.28.4.3.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.7004   Procedure."
+                    ],
+                    "P": [
+                      "IRS contracting officers shall not proceed with award, at any dollar value, until a tax check has been performed on the apparent successful offeror. See IRS Procedures, Guidance, and Information (PGI) 9.1.\n",
+                      "(a) The contracting officer, regardless of an offeror's response in paragraph (a)(1) of the provision 52.209-5, Certification Regarding Responsibility Matters, paragraph (b)(1) of the provision at FAR 52.209-11, or paragraphs (h) and (q)(2)(i) of the provision at FAR 52.212-3 (see FAR 9.104-5(b)), shall request a tax check through the IRS designated point of contact. The request shall include only the information required for purposes of conducting the tax check.\n",
+                      "(b) If the result of the tax check demonstrates the offeror as having a delinquent Federal tax liability, the contracting officer shall—\n",
+                      "(1) Confirm the offer includes a signed and dated consent to disclosure (see 1052.209-70, Notice and Consent to Disclose and Use of Taxpayer Return Information), the absence of which may remove the offeror from eligibility to receive an award under the solicitation because taxpayer return information of the offeror may not be disclosed.\n",
+                      "(2) If the consent to disclosure is completed in the offer, notify the authorized representative(s) of the offeror that a delinquent Federal tax liability exists and therefore the offeror is ineligible for award.\n",
+                      "(i) If upon notification the offeror provides the contracting officer with documentation, within the timeframe specified by the contracting officer, that demonstrates the offeror's tax status as being paid-in-full or that an approved payment agreement is in place, the contracting officer will coordinate with the appropriate office within IRS to validate the tax status. If the offeror is found to be tax compliant, the contracting officer will notify the offeror of such. Assuming the offeror meets all other standards of responsibility, the offeror is eligible for award.\n",
+                      "(3) Notify, in accordance with IRS PGI 9.1, the Department of the Treasury official responsible for suspension and debarment for purposes of requesting a determination in accordance with FAR 9.104-5(a)(2) and FAR 9.104-5(b)(3) respectively before an award to that contractor can be made.\n",
+                      "(c) If the result of the tax check demonstrates the offeror as tax compliant then the offeror is eligible for award, assuming all other standards of responsibility have been met.\n",
+                      "(d) The contracting officer shall include in the contract file documentation that verifies the tax check was conducted and if the results confirm a delinquent Federal tax liability existed at the time of award, confirmation that the offeror was notified of such.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1009.7005",
+                      "NODE": "48:5.0.4.28.4.3.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1009.7005   Solicitation provision."
+                    ],
+                    "P": [
+                      "(a) The contracting officer shall insert the provision 1052.209-70, Notice and Consent to Disclose and Use of Taxpayer Return Information, in all IRS solicitations regardless of dollar value, including solicitations for acquisition of commercial items (including Commercially Available Off-The-Shelf items).\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "C",
+          "NODE": "48:5.0.4.29",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER C—CONTRACTING METHODS AND CONTRACT TYPES\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1016",
+              "NODE": "48:5.0.4.29.5",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1016—TYPES OF CONTRACTS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1016.5",
+                  "NODE": "48:5.0.4.29.5.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1016.5—Indefinite-Delivery Contracts"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1016.505",
+                      "NODE": "48:5.0.4.29.5.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1016.505   Ordering."
+                    ],
+                    "P": [
+                      "(b)(8) The HCA shall designate a task and delivery order ombudsman in accordance with bureau procedures and provide a copy of the designation to the agency task and delivery order ombudsman. Bureau task and delivery order ombudsmen shall review complaints from contractors concerning task and delivery orders placed by the contracting activity and ensure they are afforded a fair opportunity to be considered, consistent with the procedures in the contract. In the absence of a designation, the Bureau advocate for competition will serve in that capacity.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 1159, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "D",
+          "NODE": "48:5.0.4.30",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER D—SOCIOECONOMIC PROGRAMS \n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1019",
+              "NODE": "48:5.0.4.30.6",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1019—SMALL BUSINESS PROGRAMS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1019.2",
+                  "NODE": "48:5.0.4.30.6.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1019.2—Policies"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1019.202",
+                      "NODE": "48:5.0.4.30.6.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1019.202   Specific policies."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1019.202-70",
+                      "NODE": "48:5.0.4.30.6.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1019.202-70   The Treasury Mentor Protégé Program."
+                    ],
+                    "P": [
+                      "(a)-(b) [Reserved]\n",
+                      {
+                        "_": "(c)  For purposes of the Small Business Act, a protégé firm may not be considered an affiliate of a mentor firm solely on the basis that the protégé firm is receiving developmental assistance referred to in paragraph (m) of this section, from such mentor firm under the Mentor-Protégé Program.\n",
+                        "I": [
+                          "Non-affiliation."
+                        ]
+                      },
+                      {
+                        "_": "(d)  (1) Eligible contractors, not included on the “System for Award Management Exclusions” that are approved as mentors will enter into agreements with eligible protégés. Mentors provide appropriate developmental assistance to enhance the capabilities of protégés to perform as contractors or subcontractors.\n",
+                        "I": [
+                          "General policy."
+                        ]
+                      },
+                      "(2) A firm's status as a protégé under a Treasury contract shall not have an effect on the firm's eligibility to seek other contracts or subcontracts.\n",
+                      {
+                        "_": "(e)  (1) Under the Small Business Act, 15 U.S.C. 637(d)(4)(E), Treasury is authorized to provide appropriate incentives in negotiated contractual actions to encourage subcontracting opportunities consistent with the efficient and economical performance of the contract. Proposed mentor-protégé efforts will be considered during the evaluation of such negotiated, competitive offers. Contracting Officers may provide, as an incentive, a bonus score, not to exceed 5% of the relative importance assigned to the non-price factors. If this incentive is used, the Contracting Officer shall include language in the solicitation indicating that this adjustment may occur.\n",
+                        "I": [
+                          "Incentives for contractor participation."
+                        ]
+                      },
+                      "(2) Before awarding a contract that requires a subcontracting plan, the existence of a mentor-protégé arrangement, and performance (if any) under such an existing arrangement, will be considered by the Contracting Officer in:\n",
+                      "(i) Evaluating the quality of a proposed subcontracting plan under FAR 19.705-4; and,\n",
+                      "(ii) Evaluating the contractor compliance with the subcontracting plans submitted in previous contracts as a factor in determining contractor responsibility under FAR 19.705-5(a)(1).\n",
+                      "(3) The Office of Small and Disadvantaged Business Utilization (OSDBU) Mentoring Award is a non-monetary award that will be presented (annually on a fiscal year basis or as often as is appropriate) to the mentoring firm providing the most effective developmental support of a protégé. The Mentor-Protégé Program Manager will recommend an award winner to the Director, OSDBU.\n",
+                      "(f) [Reserved]\n",
+                      {
+                        "_": "(g)  A mentor firm may be either a large or small business, eligible for award of a Government contract that can provide developmental assistance to enhance the capabilities of protégés to perform as subcontractors. Mentors will be encouraged to enter into arrangements with protégés in addition to firms with whom they have established business relationships.\n",
+                        "I": [
+                          "Mentor firms."
+                        ]
+                      },
+                      {
+                        "_": "(h)  (1) For selection as a protégé, a firm must be:\n",
+                        "I": [
+                          "Protégé firms."
+                        ]
+                      },
+                      "(i) A small business, women-owned small business, small disadvantaged business, small business owned and controlled by veteran or service disabled veteran, or qualified HUBZone small business, or a qualified 8(a) concern;\n",
+                      "(ii) Qualified as a small business under the NAICS code for the services or supplies to be provided by the protégé under its subcontract to the mentor; and\n",
+                      "(iii) Eligible for award of Government contracts.\n",
+                      "(2) Except small disadvantaged businesses and qualified HUBZone small business firms, a protégé firm may self-certify to a mentor firm that it meets the requirements set forth in paragraph (h)(1) of this section. Mentors may rely in good faith on written representations by potential protégés that they meet the specified eligibility requirements. The h(1)(i), small disadvantaged business, or qualified HUBZone small business status eligibility and documentation requirements are determined according to FAR 19.304 and 19.1303, respectively.\n",
+                      "(3) Protégés may not have multiple mentors unless approved, in writing, by the Director, OSDBU. Protégés participating in other agency mentor protégé programs in addition to the Treasury Mentor-Protégé Program should maintain a system for preparing separate reports of mentoring activity for each agency's program.\n",
+                      {
+                        "_": "(i)  (1) Mentor firms will be solely responsible for selecting protégé firms. The mentor is encouraged to identify and select the types of protégé firms listed in 1019.202-70(h). Mentor firms may have multiple protégés.\n",
+                        "I": [
+                          "Selection of protégé firms."
+                        ]
+                      },
+                      "(2) The selection of protégé firms by mentor firms may not be protested. Any question regarding the size or eligibility status of an entity selected by a mentor to be a protégé must be referred solely to Treasury's OSDBU for resolution. Treasury, at its discretion, may seek an advisory opinion from the Small Business Administration (SBA).\n",
+                      {
+                        "_": "(j)  (1) Firms interested in becoming a mentor firm may apply in writing to Treasury's OSDBU. The application will be evaluated based upon the description of the nature and extent of technical and managerial support proposed as well as the extent of other developmental assistance in the form of equity investment, loans, joint-venture support and traditional subcontracting support.\n",
+                        "I": [
+                          "Application process for mentor firms to participate in the program."
+                        ]
+                      },
+                      {
+                        "_": "(k)  (1) OSDBU will review the information specified in 1019.202-70(l). The OSDBU review will be completed no later than 30 calendar days after receipt.\n",
+                        "I": [
+                          "OSDBU review and approval process of agreement."
+                        ]
+                      },
+                      "(2) Upon completion of the review, the mentor may implement the developmental assistance program.\n",
+                      "(3) An approved agreement will be incorporated into the mentor firm's contract(s) with Treasury.\n",
+                      "(4) If OSDBU disapproves the agreement, the mentor may provide additional information for reconsideration. Upon finding deficiencies that OSDBU considers correctable, OSDBU will notify the mentor and provide a list of defects. Any additional information or corrections requested will be provided within 30 calendar days. The review of any supplemental material will be completed within 30 calendar days after receipt by OSDBU. When submission of additional data is required during a proposal evaluation for a new contract award, shorter timeframes for submission, review and re-evaluation for approval may be authorized by OSDBU.\n",
+                      "(5) The agreement defines the relationship between the mentor and protégé firms only. The agreement itself does not create any privity of contract between the mentor or protégé and Treasury.\n",
+                      {
+                        "_": "(l)  The contents of the agreement will contain:\n",
+                        "I": [
+                          "Agreement contents."
+                        ]
+                      },
+                      "(1) Names and addresses of mentor and protégé firms and a point of contact within both firms who will oversee the agreement;\n",
+                      "(2) Procedures for the mentor firm to notify the protégé firm, OSDBU and the Contracting Officer, in writing, at least 30 days in advance of the mentor firm's intent to voluntarily withdraw from the Mentor-Protégé Program;\n",
+                      "(3) Procedures for a protégé firm to notify the mentor firm in writing at least 30 days in advance of the protégé firm's intent to voluntarily terminate the mentor-protégé agreement. The mentor must notify OSDBU and the Contracting Officer immediately upon receipt of such notice from the protégé;\n",
+                      "(4) Each proposed mentor-protégé relationship must include information on the mentor's ability to provide developmental assistance to the protégé and how that assistance will potentially increase contracting and subcontracting opportunities for the protégé firm;\n",
+                      "(5) A description of the type of developmental program that will be provided by the mentor firm to the protégé firm, to include a description of the potential subcontract work, and a schedule for providing assistance and criteria for evaluation of the protégés developmental success;\n",
+                      "(6) A listing of the types and dollar amounts of subcontracts that may be awarded to the protégé firm;\n",
+                      "(7) Program participation term;\n",
+                      "(8) Termination procedures;\n",
+                      "(9) Plan for accomplishing work should the agreement be terminated; and\n",
+                      "(10) Other terms and conditions, as appropriate.\n",
+                      {
+                        "_": "(m)  The forms of developmental assistance a mentor can provide to a protégé include:\n",
+                        "I": [
+                          "Developmental assistance."
+                        ]
+                      },
+                      "(1) Management guidance relating to financial management, organizational management, overall business management/planning, business development, and technical assistance.\n",
+                      "(2) Loans;\n",
+                      "(3) Rent-free use of facilities and/or equipment;\n",
+                      "(4) Property;\n",
+                      "(5) Temporary assignment of personnel to protégé for purpose of training; and\n",
+                      "(6) Any other types of mutually beneficial assistance.\n",
+                      {
+                        "_": "(n)  (1) Mentor or protégé firms may voluntarily withdraw from the Mentor-Protégé Program. However, such withdrawal shall not excuse the contractor from compliance with contract requirements.\n",
+                        "I": [
+                          "Obligation."
+                        ]
+                      },
+                      "(2) At the conclusion of each year in the Mentor-Protégé Program, the contractor and protégé must formally brief the Department of the Treasury team regarding program accomplishments as they pertain to the approved agreement. Individual briefings may be conducted, at the request of either party. Treasury will consider the following:\n",
+                      "(i) Specific actions taken by the mentor, during the evaluation period, to increase the participation of protégés as suppliers to the Federal government and to commercial entities;\n",
+                      "(ii) Specific actions taken by the mentor, during the evaluation period, to develop the technical and corporate administrative expertise of a protégé as defined in the agreement;\n",
+                      "(iii) To what extent the protégé has met the developmental objectives in the agreement; and\n",
+                      "(iv) To what extent the mentor firm's participation in the Mentor-Protégé Program resulted in the protégé receiving contract(s) and subcontract(s) from private firms and agencies other than the Department of the Treasury.\n",
+                      "(v) Mentor and protégé firms must submit an evaluation to OSDBU at the conclusion of the mutually agreed upon program period, the conclusion of the contract, or the voluntary withdrawal by either party from the Mentor-Protégé Program, whichever comes first.\n",
+                      "(vi) Protégé firms shall submit a post completion report 24 months after exiting the Mentor-Protégé Program. The post completion report will assist the Department of the Treasury in assessing the progress of Protégé firms upon completion of the program.\n",
+                      "(o) [Reserved]\n",
+                      {
+                        "_": "(p)  (1) Insert the provision at 1052.219-73, Department of the Treasury Mentor-Protégé Program, in all unrestricted solicitations exceeding $650,000 ($1,500,000 for construction) that offer subcontracting possibilities.\n",
+                        "I": [
+                          "Solicitation provisions and contract clauses"
+                        ]
+                      },
+                      "(2) Insert the clause at 1052.219-75, Mentor Requirements and Evaluation, in solicitations and contracts where the contractor is a participant in the Treasury Mentor-Protégé Program.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1019.8",
+                  "NODE": "48:5.0.4.30.6.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1019.8—Contracting With the Small Business Administration (The 8(a) Program)"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1019.81",
+                      "NODE": "48:5.0.4.30.6.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1019.81   Preparing the contracts."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1019.811-3",
+                      "NODE": "48:5.0.4.30.6.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1019.811-3   Contract clauses."
+                    ],
+                    "P": [
+                      "(d)(3) Insert the clause at 1052.219-18, Notification of Competition Limited to Eligible 8(a) Concerns—Alternate III (Deviation), for paragraph (c) of FAR 52.219-18, Notification of Competition Limited to Eligible 8(a) Concerns, in all solicitations and contracts that exceed $100,000 and are processed under FAR 19.8.\n",
+                      "(f) Insert the clause at 1052.219-72, Section 8(a) Direct Awards, in solicitations and contracts that exceed $100,000 and are processed under FAR 19.8 for paragraph (c) of FAR 52.219-11, Special 8(a) Contract Conditions; FAR 52.219-12, Special 8(a) Subcontract Conditions; and FAR 52.219-17, Section 8(a) Award.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1022",
+              "NODE": "48:5.0.4.30.7",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1022—MINORITY AND WOMEN INCLUSION\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "12 U.S.C. 5452.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "79 FR 15554, Mar. 20, 2014, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1022.70",
+                  "NODE": "48:5.0.4.30.7.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1022.70—Fair inclusion of minorities and women"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1022.7000",
+                      "NODE": "48:5.0.4.30.7.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1022.7000   Contract clause."
+                    ],
+                    "P": [
+                      "Insert the clause at 1052.222-70, Minority and Women Inclusion, in all solicitations and contracts in support of Departmental Offices for services that exceed the simplified acquisition threshold.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "E",
+          "NODE": "48:5.0.4.31",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER E—GENERAL CONTRACTING REQUIREMENTS\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1028",
+              "NODE": "48:5.0.4.31.8",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1028—BONDS AND INSURANCE\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1028.3",
+                  "NODE": "48:5.0.4.31.8.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1028.3—Insurance"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1028.307",
+                      "NODE": "48:5.0.4.31.8.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.307   Insurance under cost-reimbursement contracts."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1028.307-1",
+                      "NODE": "48:5.0.4.31.8.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.307-1   Group insurance plans."
+                    ],
+                    "P": [
+                      "(a) Plans shall be submitted to the CO.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1028.310",
+                      "NODE": "48:5.0.4.31.8.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.310   Contract clause for work on a Government installation."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1028.310-70",
+                      "NODE": "48:5.0.4.31.8.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.310-70   Agency contract clause for work on a Government installation."
+                    ],
+                    "P": [
+                      "(a) Insert a clause substantially similar to 1052.228-70, Insurance requirements, in all solicitations and contracts that contain the clause at FAR 52.228-5.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1028.311",
+                      "NODE": "48:5.0.4.31.8.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.311   Solicitation provision and contract clause on liability insurance under cost reimbursement contracts."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1028.311-2",
+                      "NODE": "48:5.0.4.31.8.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1028.311-2   Agency solicitation provisions and contract clauses."
+                    ],
+                    "P": [
+                      "Insert a clause substantially similar to 1052.228-70, Insurance requirements, in all solicitations and contracts that contain the clause at FAR 52.228-7.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1032",
+              "NODE": "48:5.0.4.31.9",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1032—CONTRACT FINANCING\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1032.1",
+                  "NODE": "48:5.0.4.31.9.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1032.1—Non-Commercial Item Purchase Financing"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1032.113",
+                      "NODE": "48:5.0.4.31.9.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.113   Customary contract financing."
+                    ],
+                    "P": [
+                      "The specified arrangements are considered customary within Treasury.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1032.2",
+                  "NODE": "48:5.0.4.31.9.2",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1032.2—Commercial Item Purchase Financing"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1032.202",
+                      "NODE": "48:5.0.4.31.9.2.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.202   General."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.202-1",
+                      "NODE": "48:5.0.4.31.9.2.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.202-1   Policy."
+                    ],
+                    "P": [
+                      "(b)(2) Commercial interim payments and commercial advance payments may also be made when the contract price is at or below the simplified acquisition threshold.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1032.7",
+                  "NODE": "48:5.0.4.31.9.3",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1032.7—Contract Funding"
+                ],
+                "SOURCE": [
+                  {
+                    "HED": [
+                      "Source:"
+                    ],
+                    "PSPACE": [
+                      "81 FR 80609, Nov. 16, 2016, unless otherwise noted.\n\n\n"
+                    ]
+                  }
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1032.770",
+                      "NODE": "48:5.0.4.31.9.3.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770   Incremental funding during a Continuing Resolution."
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-1",
+                      "NODE": "48:5.0.4.31.9.3.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-1   Scope of section."
+                    ],
+                    "P": [
+                      "This section provides policy and procedure for using incremental funding for fixed-price, time-and-material and labor-hour contracts during a period in which funds are provided to Treasury Departmental Offices or Bureaus, under a continuing resolution (CR). HCAs may develop necessary supplemental internal procedures as well as guidance to advise potential offerors, offerors and contractors of these policies and procedures. Additionally, Bureaus who receive non-appropriated funds may utilize and tailor these policies and procedures to fit their needs.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-2",
+                      "NODE": "48:5.0.4.31.9.3.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-2   Definition."
+                    ],
+                    "P": [
+                      "“Continuing Resolution” means an appropriation, in the form of a joint resolution, that provides budget authority for federal agencies, specific activities, or both to continue operation until the regular appropriations are enacted. Typically, a continuing resolution is used when legislative action on appropriations is not completed by the beginning of a fiscal year.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-3",
+                      "NODE": "48:5.0.4.31.9.3.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-3   General."
+                    ],
+                    "P": [
+                      {
+                        "_": "The Anti-Deficiency Act, 31 U.S.C. 1341 and FAR 32.702, states that no officer or employee of the Government may create or authorize an obligation in excess of the funds available, or in advance of appropriations unless otherwise authorized by law. A CR provides funding for continuing projects or activities that were conducted in the prior fiscal year for which appropriations, funds, or other authority was previously made available. Each CR is governed by the specific terms in that specific CR ( duration of the CR) and under certain CRs, the funding amounts available for award of contract actions are inadequate to fund the entire amounts needed for some contract actions.\n\n\n",
+                        "I": [
+                          "e.g."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-4",
+                      "NODE": "48:5.0.4.31.9.3.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-4   Policy."
+                    ],
+                    "P": [
+                      "(a) A fixed-price, time-and-materials or labor-hour contract or order for commercial or non-commercial supplies or severable or non-severable services may be incrementally funded when—\n",
+                      "(1) Funds are provided to a Treasury Departmental Office or Bureau under a CR. This includes funds appropriated to a bureau, funds appropriated to another entity that will be directly obligated on a Treasury contract, and funds in a revolving fund or similar account that will be reimbursed by a customer agency funded by a CR;\n",
+                      "(2) Sufficient funds are not being allocated from the responsible fiscal authority to fully fund the contract action that is otherwise authorized to be issued;\n",
+                      "(3) There is no statutory restriction that would preclude the proposed use of funds;\n",
+                      "(4) Funds are available and unexpired, as of the date the funds are obligated;\n",
+                      "(5) Assurance is provided by the responsible financial authority that full funding is anticipated once an Appropriation Act is enacted; and\n",
+                      "(6) The clause prescribed by 1032.770-7 is incorporated into the contract or order.\n",
+                      "(b) Incremental funding may be limited to individual line item(s) or a particular order(s).\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-5",
+                      "NODE": "48:5.0.4.31.9.3.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-5   Limitations."
+                    ],
+                    "P": [
+                      "(a) This policy does not apply to contract actions that are not covered by the CR.\n",
+                      "(b) If this policy is applied to non-severable services or to supplies, the contracting officer shall take into consideration the business risk to the Government if funding does not become available to fully fund the contract. If the contracting officer determines the use of incremental funding for non-severable services or supplies is in the best interest of the Government the contracting officer shall ensure the contractor fully understands how the limitations of the Government's liabilities under the contract might impact its ability to perform within the prescribed contract schedule.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-6",
+                      "NODE": "48:5.0.4.31.9.3.1.7",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-6   Procedures."
+                    ],
+                    "P": [
+                      "(a) An incrementally funded fixed-price, time-and-materials or labor-hour contract shall be fully funded once funds are available.\n",
+                      "(b) The contracting officer shall ensure that sufficient funds are allotted to the contract to cover the total amount payable to the contractor in the event of termination of convenience by the Government.\n",
+                      "(c) Upon receipt of the contractor's notice under paragraph (c) of the clause at 1052.232-90, Limitation of Government's Obligation, the contracting officer shall promptly provide written notice to the contractor that the Government is—\n",
+                      "(i) Obligating additional funds for continued performance and increasing the Government's limitation of obligation in a specified amount;\n",
+                      "(ii) Obligating the full amount of funds needed;\n",
+                      "(iii) Terminating for convenience, as applicable, the affected line items or contract; or\n",
+                      "(iv) Considering whether to allot additional funds; and\n",
+                      "(A) The contractor is entitled by the contract terms to stop work when the Government's limitation of obligation is reached; and\n",
+                      "(B) Any costs expended beyond the Government's limitation of obligation are at the contractor's risk.\n",
+                      "(d) Upon learning that the contract will receive no further funds by the date provided in the notice under paragraph (c) of the clause at 1052.232-70, Limitation of Government's Obligation, the contracting officer shall promptly give the contractor written notice of the Government's decision and terminate the affected line items or contract, as applicable, for the convenience of the Government.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.770-7",
+                      "NODE": "48:5.0.4.31.9.3.1.8",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.770-7   Clause."
+                    ],
+                    "P": [
+                      "The contracting officer shall insert the clause at 1052.232-70, Limitation of Government's Obligation, in\n",
+                      "(a) Solicitations and resultant contracts when incremental funding of fixed-price, time-and-material or labor-hour contract via a CR is anticipated; or\n",
+                      "(b) Contracts or orders when incremental funding of a fixed-price, time-and-material or labor-hour contract is authorized and the Treasury Departmental Office or Bureau is operating under a CR (see 1032.770-4); and\n",
+                      "(c) The CO shall insert the information required in paragraphs (a) and (c) of the clause.\n\n\n"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "1032.70",
+                  "NODE": "48:5.0.4.31.9.4",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1032.70—Electronic Submission and Processing of Payment Requests"
+                ],
+                "SOURCE": [
+                  {
+                    "HED": [
+                      "Source:"
+                    ],
+                    "PSPACE": [
+                      "77 FR 40304, July 9, 2012, unless otherwise noted.\n\n\n"
+                    ]
+                  }
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1032.7000",
+                      "NODE": "48:5.0.4.31.9.4.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.7000   Scope of subpart."
+                    ],
+                    "P": [
+                      "This subpart prescribes policies and procedures for electronic submission and processing of payment requests.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.7001",
+                      "NODE": "48:5.0.4.31.9.4.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.7001   Definitions."
+                    ],
+                    "P": [
+                      "“Payment request,” as used in this subpart, is defined in the clause at 1052.232-7003, Electronic Submission of Payment Requests.\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.7002",
+                      "NODE": "48:5.0.4.31.9.4.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.7002   Policy."
+                    ],
+                    "P": [
+                      "(a) Contracts shall require the electronic submission of payment requests, except for—\n",
+                      "(1) Purchases paid for with a Government-wide commercial purchase card;\n",
+                      "(2) Classified contracts or purchases when electronic submission and processing of payment requests could compromise classified information or national security;\n",
+                      "(b) Where a contract otherwise requires the electronic submission of invoices, the Contracting Officer may authorize alternate procedures only if the Contracting Officer makes a written determination that:\n",
+                      "(1) The Department of the Treasury is unable to receive electronic payment requests or provide acceptance electronically;\n",
+                      "(2) The contractor has demonstrated that electronic submission would be unduly burdensome; or\n",
+                      "(3) The contractor is in the process of transitioning to electronic submission of payment requests, but needs additional time to complete such transition. Authorizations granted on this basis must specify a date by which the contractor will transition to electronic submission.\n",
+                      "(c) Except as provided in paragraphs (a) and (b) of this section, Treasury officials shall process electronic payment submissions through the Treasury Invoice Processing Platform or successor system.\n",
+                      "(d) If the requirement for electronic submission of payment requests is waived under paragraph (a)(2) or paragraph (b) of this section, the contract or alternate payment authorization, as applicable, shall specify the form and method of payment request submission.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1032.7003",
+                      "NODE": "48:5.0.4.31.9.4.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1032.7003   Contract clause."
+                    ],
+                    "P": [
+                      "Except as provided in 1032.7002(a), use the clause at 1052.232-7003, Electronic Submission of Payment Requests, in all solicitations and contracts.\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11596, Mar. 3, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1033",
+              "NODE": "48:5.0.4.31.10",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1033—PROTESTS, DISPUTES, AND APPEALS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 418b.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1033.2",
+                  "NODE": "48:5.0.4.31.10.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1033.2—Disputes and Appeals"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1033.201",
+                      "NODE": "48:5.0.4.31.10.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1033.201   Definitions."
+                    ],
+                    "P": [
+                      {
+                        "_": " means the Civilian Board of Contract Appeals (CBCA). The CBCA is the authorized representative of the Secretary of the Treasury in hearing, considering, and determining all appeals of decisions of Contracting Officers filed by contractors pursuant to FAR Subpart 33.2. Appeals are governed by the Rules of Procedure of the CBCA.\n\n\n",
+                        "I": [
+                          "Agency Board of Contract Appeals"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "F",
+          "NODE": "48:5.0.4.32",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER F—SPECIAL CATEGORIES OF CONTRACTING\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1034",
+              "NODE": "48:5.0.4.32.11",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1034—MAJOR SYSTEM ACQUISITION\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "34.0",
+                  "NODE": "48:5.0.4.32.11.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 34.0—General"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1034.001",
+                      "NODE": "48:5.0.4.32.11.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1034.001   Definitions."
+                    ],
+                    "P": [
+                      "As used in this part—\n",
+                      {
+                        "_": " is the portion of an IT investment/project which deals with developing and implementing new or enhanced technology in support of an agency's mission.\n",
+                        "I": [
+                          "Development, Modernization, Enhancement (DME)"
+                        ]
+                      },
+                      {
+                        "_": " are defined as contracts, awarded in support of one or more Major IT investments with DME activities, which meet the contract threshold for fully applying FAR 34.2 procedures.\n",
+                        "I": [
+                          "Major acquisitions for development"
+                        ]
+                      },
+                      {
+                        "_": " means a documented, systematic process for program management, which includes integration of program scope, schedule and cost objectives, establishment of a baseline plan for accomplishment of program objectives, and use of earned value techniques for performance measurement during execution of the program. A performance-based acquisition (as defined in FAR 37.101) or an acquisition with a defined quality assurance plan that includes performance standards/measures should be the basis for monitoring the contractor.\n",
+                        "I": [
+                          "Performance-based acquisition management"
+                        ]
+                      }
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1034.004",
+                      "NODE": "48:5.0.4.32.11.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1034.004   Acquisition strategy."
+                    ],
+                    "P": [
+                      "(a) A program manager's acquisition strategy written at the system or investment level in accordance with FAR 7.103(e) shall include at a minimum:\n",
+                      "(1) The relationship of each individual acquisition (Contract, Delivery Order, Task Order, or Interagency Agreement) to the overall investment requirements and management structure;\n",
+                      "(2) What work is being performed in-house (by government personnel) versus contracted out for the investment;\n",
+                      "(3) A description of the effort, by acquisition, and the plans to include required clauses in the acquisitions;\n",
+                      "(4) A timetable of major acquisition award and administration activities, including plans for contract transitions;\n",
+                      "(5) An investment/system surveillance plan;\n",
+                      "(6) Financial and human resource requirements to manage the acquisition processes through the investment lifecycle;\n",
+                      "(7) Consideration of optimal contract types, including considerations of performance based approaches, small business utilization, Section 508, etc.; and\n",
+                      "(8) Assurances that the acquisition strategy section and supporting acquisition plans will maximize competition, including enabling downstream competition through avoidance of vendor “lock in”.\n",
+                      "(b) The acquisition strategy shall be approved by a chartered interdisciplinary acquisition team that includes a representative of the procurement organization designated in accordance with bureau procedures.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1036",
+              "NODE": "48:5.0.4.32.12",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1036—CONSTRUCTION AND ARCHITECT-ENGINEER CONTRACTS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 418b.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1036.6",
+                  "NODE": "48:5.0.4.32.12.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1036.6—Architect-Engineer Services"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1036.602-5",
+                      "NODE": "48:5.0.4.32.12.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1036.602-5   Short selection process for contracts not to exceed the simplified acquisition threshold."
+                    ],
+                    "P": [
+                      "Bureaus are authorized to use either process.\n\n\n"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "G",
+          "NODE": "48:5.0.4.33",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER G—CONTRACT MANAGEMENT\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1042",
+              "NODE": "48:5.0.4.33.13",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1042—CONTRACT ADMINISTRATION AND AUDIT SERVICES\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "1042.1500",
+                  "NODE": "48:5.0.4.33.13.0.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "1042.1500   [Reserved]"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "H",
+          "NODE": "48:5.0.4.34",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER H—CLAUSES AND FORMS\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "1052",
+              "NODE": "48:5.0.4.34.14",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 1052—SOLICITATION PROVISIONS AND CONTRACT CLAUSES\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "41 U.S.C. 1707.\n"
+                ]
+              }
+            ],
+            "SOURCE": [
+              {
+                "HED": [
+                  "Source:"
+                ],
+                "PSPACE": [
+                  "76 FR 42057, July 18, 2011, unless otherwise noted.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "1052.2",
+                  "NODE": "48:5.0.4.34.14.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 1052.2—Texts of Provisions and Clauses"
+                ],
+                "EDNOTE": [
+                  {
+                    "HED": [
+                      "Editorial Note:"
+                    ],
+                    "PSPACE": [
+                      "At 79 FR 15554, Mar. 20, 2014, subpart 1052.2 was added, however, the amendment could not be incorporated due to inaccurate amendatory instruction."
+                    ]
+                  }
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "1052.201-70",
+                      "NODE": "48:5.0.4.34.14.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.201-70   Contracting Officer's Representative (COR) appointment and authority."
+                    ],
+                    "P": [
+                      "As prescribed in 1001.670-6, insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Contracting Officer's Representative (COR) Appointment and Authority (APR 2015)\n"
+                        ],
+                        "P": [
+                          "(a) The COR is ________ [insert name, address and telephone number].\n",
+                          "(b) Performance of work under this contract is subject to the technical direction of the COR identified above, or a representative designated in writing. The term “technical direction” includes, without limitation, direction to the contractor that directs or redirects the labor effort, shifts the work between work areas or locations, and/or fills in details and otherwise serves to ensure that tasks outlined in the work statement are accomplished satisfactorily.\n",
+                          "(c) Technical direction must be within the scope of the contract specification(s)/work statement. The COR does not have authority to issue technical direction that:\n",
+                          "(1) Constitutes a change of assignment or additional work outside the contract specification(s)/work statement;\n",
+                          "(2) Constitutes a change as defined in the clause entitled “Changes”;\n",
+                          "(3) In any manner causes an increase or decrease in the contract price, or the time required for contract performance;\n",
+                          "(4) Changes any of the terms, conditions, or specification(s)/work statement of the contract;\n",
+                          "(5) Interferes with the contractor's right to perform under the terms and conditions of the contract; or\n",
+                          "(6) Directs, supervises or otherwise controls the actions of the Contractor's employees.\n",
+                          "(d) Technical direction may be oral or in writing. The COR must confirm oral direction in writing within five workdays, with a copy to the Contracting Officer.\n",
+                          "(e) The Contractor shall proceed promptly with performance resulting from the technical direction issued by the COR. If, in the opinion of the Contractor, any direction of the COR or the designated representative falls within the limitations of (c) above, the Contractor shall immediately notify the Contracting Officer no later than the beginning of the next Government work day.\n",
+                          "(f) Failure of the Contractor and the Contracting Officer to agree that technical direction is within the scope of the contract shall be subject to the terms of the clause entitled “Disputes.”"
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015; 81 FR 2760, Jan. 19, 2016]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.209-70",
+                      "NODE": "48:5.0.4.34.14.1.1.2",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.209-70   Notice and Consent to Disclose and Use of Taxpayer Return Information."
+                    ],
+                    "P": [
+                      "As prescribed in 1009.7005, insert the following provision:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Notice and Consent To Disclose and Use of Taxpayer Return Information (NOV 2017)\n"
+                        ],
+                        "P": [
+                          {
+                            "_": "(a)  As used in this provision—\n",
+                            "I": [
+                              "Definitions."
+                            ]
+                          },
+                          {
+                            "_": " means the person(s) identified to the Internal Revenue Service (IRS) within the consent to disclose by the offeror as authorized to represent the offeror in disclosure matters pertaining to the offer.\n",
+                            "I": [
+                              "Authorized representative(s) of the offeror"
+                            ]
+                          },
+                          {
+                            "_": " means any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability.\n",
+                            "I": [
+                              "Delinquent Federal tax liability"
+                            ]
+                          },
+                          {
+                            "_": " means an IRS process that accesses and uses taxpayer return information to support the Government's determination of an offeror's eligibility to receive an award, including but not limited to implementation of the statutory prohibition of making an award to corporations that have an unpaid Federal tax liability (see FAR 9.104-5(b)).\n",
+                            "I": [
+                              "Tax check"
+                            ]
+                          },
+                          {
+                            "_": "(b)  Pursuant to 26 U.S.C. 6103(a) taxpayer return information, with few exceptions, is confidential. Under the authority of 26 U.S.C. 6103(h)(1), officers and employees of the Department of the Treasury, including the IRS, may have access to taxpayer return information as necessary for purposes of tax administration. The Department of the Treasury has determined that an IRS contractor's compliance with the tax laws is a tax administration matter and that the access to and use of taxpayer return information is needed for determining an offeror's eligibility to receive an award, including but not limited to implementation of the statutory prohibition of making an award to corporations that have an unpaid Federal tax liability (see FAR 9.104-5).\n",
+                            "I": [
+                              "Notice."
+                            ]
+                          },
+                          "(1) The performance of a tax check is one means that will be used for determining an offeror's eligibility to receive an award in response to this solicitation (see FAR 9.104). As a result, the offeror may want to take steps to confirm it does not have a delinquent Federal tax liability prior to submission of its response to this solicitation. If the offeror recently settled a delinquent Federal tax liability, the offeror may want to take steps to obtain information in order to demonstrate the offeror's responsibility to the contracting officer (see FAR 9.104-5).\n",
+                          "(c) The offeror shall execute the consent to disclosure provided in paragraph (d) of this provision and include it with the submission of its offer. The consent to disclosure shall be signed by an authorized person as required and defined in 26 U.S.C. 6103(c) and 26 CFR 301.6103(c)-1(e)(4).\n",
+                          "(d) Consent to disclosure. I hereby consent to the disclosure of taxpayer return information (as defined in 26 U.S.C. 6103(b)(2)) as follows:\n",
+                          {
+                            "_": "The Department of the Treasury, Internal Revenue Service, may disclose the results of the tax check conducted in connection with the offeror's response to this solicitation, including taxpayer return information as necessary to resolve any matters pertaining to the results of the tax check, to the authorized representatives of [] on this offer.\n",
+                            "I": [
+                              "insert OFFEROR NAME"
+                            ]
+                          },
+                          {
+                            "_": "I am aware that in the absence of this authorization, the taxpayer return information of [] is confidential and may not be disclosed, which subsequently may remove the offer from eligibility to receive an award under this solicitation.\n",
+                            "I": [
+                              "insert OFFEROR NAME"
+                            ]
+                          },
+                          {
+                            "_": "I am aware that in the absence of this authorization, the taxpayer return information of [] is confidential and may not be disclosed, which subsequently may remove the offer from eligibility to receive an award under this solicitation.\n",
+                            "I": [
+                              "insert OFFEROR NAME"
+                            ]
+                          }
+                        ],
+                        "FP": [
+                          "I consent to disclosure of taxpayer return information to the following person(s):\n",
+                          "I consent to disclosure of taxpayer return information to the following person(s):\n",
+                          {
+                            "_": "I certify that I have the authority to execute this consent on behalf of [].\n",
+                            "I": [
+                              "insert OFFEROR NAME"
+                            ]
+                          }
+                        ],
+                        "FP-DASH": [
+                          {
+                            "_": "[]:\n",
+                            "I": [
+                              "insert PERSON(S) NAME AND CONTACT INFORMATION"
+                            ]
+                          },
+                          "\n",
+                          "\n",
+                          "Offeror Name:\n",
+                          "Offeror Taxpayer Identification Number:\n",
+                          "Offeror Address:\n",
+                          "Name of Individual Executing Consent:\n",
+                          "\n",
+                          "Title of Individual Executing Consent:\n",
+                          "\n",
+                          "Signature:\n",
+                          "Date:"
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of provision)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[82 FR 53429, Nov. 16, 2017]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.210-70",
+                      "NODE": "48:5.0.4.34.14.1.1.3",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.210-70   Contractor publicity."
+                    ],
+                    "P": [
+                      "As prescribed in 1009.204-70, insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Contractor Publicity (APR 2015)\n"
+                        ],
+                        "P": [
+                          "The Contractor, or any entity or representative acting on behalf of the Contractor, shall not refer to the supplies or services furnished pursuant to the provisions of this contract in any news release or commercial advertising, or in connection with any news release or commercial advertising, without first obtaining explicit written consent to do so from the Contracting Officer. Should any reference to such supplies or services appear in any news release or commercial advertising issued by or on behalf of the Contractor without the required consent, the Government shall consider institution of all remedies available under applicable law, including 31 U.S.C. 333, and this contract. Further, any violation of this clause may be considered as part of the evaluation of past performance."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11596, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.219-18",
+                      "NODE": "48:5.0.4.34.14.1.1.4",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.219-18   Notification of competition limited to eligible 8(a) concerns—Alternate III (Deviation) (MAY 1998)."
+                    ],
+                    "P": [
+                      "In accordance with 1019.811-3(d)(3), substitute the following for the paragraph (c) in FAR 52.219-18:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "P": [
+                          "(c) Any award resulting from this solicitation will be made directly by the contracting officer to the successful 8(a) offeror selected through the evaluation criteria set forth in this solicitation."
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.219-72",
+                      "NODE": "48:5.0.4.34.14.1.1.5",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.219-72   Section 8(a) direct awards."
+                    ],
+                    "P": [
+                      "As prescribed in 1019.811-3(f), insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          {
+                            "_": "8() Business Development Program Awards (JUN 2003)\n",
+                            "E": [
+                              {
+                                "_": "a",
+                                "$": {
+                                  "T": "01"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "P": [
+                          "(a) This purchase/delivery/task order or contract is issued by the contracting activity directly to the 8(a) program participant/contractor pursuant to the Partnership Agreement between the Small Business Administration (SBA) and the Department of the Treasury. However, the Small Business Administration is the prime contractor and retains responsibility for 8(a) certification, 8(a) eligibility determinations and related issues, and provides counseling and assistance to the 8(a) contractor under the 8(a) Business Development program. The cognizant SBA district office is:\n",
+                          "(b) The contracting officer is responsible for administering the purchase/delivery/task order or contract and taking any action on behalf of the Government under the terms and conditions of the purchase/delivery/task order or contract, to include providing the cognizant SBA district office with a signed copy of the purchase/delivery/task order or contract award within 15 days of the award. However, the contracting officer shall give advance notice to the SBA before it issues a final notice terminating performance, either in whole or in part, under the purchase order or contract. The contracting officer shall also coordinate with SBA prior to processing any novation agreement. The contracting officer may assign contract administration functions to a contract administration office.\n",
+                          "(c) The contractor agrees:\n",
+                          "(1) to notify the contracting officer, simultaneously with its notification to SBA (as required by SBA's 8(a) regulations), when the owner or owners upon whom 8(a) eligibility is based, plan to relinquish ownership or control of the concern. Consistent with 15 U.S.C. 637(a)(21), transfer of ownership or control shall result in termination of the contract for convenience, unless SBA waives the requirement for termination prior to the actual relinquishing of control; and,\n",
+                          "(2) to adhere to the requirements of FAR 52.219-14, Limitations on Subcontracting."
+                        ],
+                        "FP": [
+                          {
+                            "_": "[]\n",
+                            "I": [
+                              "To be completed by the contracting officer at the time of award"
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.219-73",
+                      "NODE": "48:5.0.4.34.14.1.1.6",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.219-73   Department of the Treasury Mentor-Protégé Program."
+                    ],
+                    "P": [
+                      "As prescribed in 1019.202-70.(p), insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Department of the Treasury Mentor-Protégé Program (JUN 2003)\n"
+                        ],
+                        "P": [
+                          "(a) Large and small businesses are encouraged to participate in the Department of the Treasury Mentor-Protégé Program. Mentor firms provide small business protégés with developmental assistance to enhance their capabilities and ability to obtain Federal contracts.\n",
+                          "(b) Mentor firms are large prime contractors or eligible small businesses capable of providing developmental assistance. Protégé firms are small businesses as defined in 13 CFR parts 121, 124, and 126.\n",
+                          "Developmental assistance includes technical, managerial, financial, and other mutually beneficial assistance to aid protégé. Contractors interested in participating in the Program are encouraged to contact the Department of the Treasury Office of Small and Disadvantaged Business Utilization for further information."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of provision)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.219-75",
+                      "NODE": "48:5.0.4.34.14.1.1.7",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.219-75   Mentor Requirements and Evaluation."
+                    ],
+                    "P": [
+                      "As prescribed in 1019.202-70(p), insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Mentor Requirements and Evaluation (AUG 2011)\n"
+                        ],
+                        "P": [
+                          "(a) Mentor and protégé firms shall submit an evaluation to the Department of the Treasury's Office of Small and Disadvantaged Business Utilization (OSDBU) at the conclusion of the mutually agreed upon Program period, or the voluntary withdrawal by either party from the Program, whichever occurs first. At the conclusion of each year in the Mentor-Protégé Program, the prime contractor and protégé will formally brief the Department of the Treasury Mentor-Protégé Program Manager regarding program accomplishments under their mentor-protégé agreements.\n",
+                          "(b) A mentor or protégé must notify the OSDBU and the contracting officer, in writing, at least 30 calendar days in advance of the effective date of the firm's withdrawal from the Program. A mentor firm must notify the OSDBU and the contracting officer upon receipt of a protégé's notice of withdrawal from the Program.\n",
+                          "(c) Contracting officers may provide, as an incentive, a bonus score, not to exceed 5% of the relative importance assigned to the non-price factors. If this incentive is used, the contracting officer shall include language in the solicitation indicating that this adjustment may occur."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n\n\n"
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.222-70",
+                      "NODE": "48:5.0.4.34.14.1.1.8",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.222-70   Minority and Women Inclusion."
+                    ],
+                    "P": [
+                      "As prescribed in 1022.7000, insert the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Minority and Women Inclusion (JAN 2016)\n"
+                        ],
+                        "P": [
+                          "(a) Contractor confirms its commitment to equal opportunity in employment and contracting. To implement this commitment, the Contractor shall ensure, to the maximum extent possible consistent with applicable law, the fair inclusion of minorities and women in its workforce. The Contractor shall insert the substance of this clause in all subcontracts awarded under this contract whose dollar value exceeds $150,000. Within ten business days of a written request from the Contracting Officer, or such longer time as the Contracting Officer determines, and without any additional consideration required from the Agency, the Contractor shall provide documentation, satisfactory to the Agency, of the actions it (and as applicable, its subcontractors) has undertaken to demonstrate its good faith effort to comply with the aforementioned provisions. For purposes of this contract, “good faith effort” may include actions by the Contractor intended to identify and, if present, remove barriers to minority and women employment or expansion of employment opportunities for minorities and women within its workforce. Efforts to remove such barriers may include, but are not limited to, recruiting minorities and women, providing job-related training, or other activity that could lead to those results.\n",
+                          "(b) The documentation requested by the Contracting Officer to demonstrate “good faith effort” may include, but is not limited to, one or more of the following—\n",
+                          {
+                            "_": "(1) The total number of Contractor's employees, and the number of minority and women employees, by race, ethnicity, and gender ( an EEO-1);\n",
+                            "I": [
+                              "e.g.,"
+                            ]
+                          },
+                          "(2) A list of subcontract awards under the contract that includes: Dollar amount, date of award, and subcontractor's race, ethnicity, and/or gender ownership status;\n",
+                          "(3) Information similar to that required in paragraph (b)(1) of this clause, with respect to each subcontractor; and/or\n",
+                          "(4) The Contractor's plan to ensure that minorities and women have appropriate opportunities to enter and advance within its workforce, including outreach efforts.\n",
+                          "(c) Consistent with Section 342(c)(3) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub. L. 111-203) (Dodd-Frank Act), a failure to demonstrate to the Director of the Agency's Office of Minority and Women Inclusion such good faith efforts to include minorities and women in the Contractor's workforce (and as applicable, the workforce of its subcontractors), may result in termination of the contract for default, other contractual remedies, or referral to the Office of Federal Contract Compliance Programs (OFCCP). Compliance with this clause does not, however, necessarily satisfy the requirements of Executive Order 11246, as amended, nor does it preclude OFCCP compliance evaluations and/or enforcement actions undertaken pursuant to that Executive Order.\n",
+                          "(d) For purposes of this clause, the terms “minority,” “minority-owned business,” and “women-owned business” shall have the meanings set forth in Section 342(g) of the Dodd-Frank Act."
+                        ]
+                      }
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[81 FR 2761, Jan. 19, 2016]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.228-70",
+                      "NODE": "48:5.0.4.34.14.1.1.9",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.228-70   Insurance requirements."
+                    ],
+                    "P": [
+                      {
+                        "_": "As prescribed in 1028.310-70 and 1028.311-2, insert a clause substantially as follows: The contracting officer may require additional kinds of insurance ( aircraft public and passenger liability, vessel liability) or higher limits of coverage.\n",
+                        "I": [
+                          "e.g.,"
+                        ]
+                      }
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Insurance (APR 2015)\n"
+                        ],
+                        "P": [
+                          {
+                            "_": "In accordance with FAR clause 52.228-5, entitled “Insurance—Work on a Government Installation” [or FAR clause 52.228-7 entitled, “], insurance of the following kinds and minimum amounts shall be provided and maintained during the period of performance of this contract:\n",
+                            "I": [
+                              "Insurance—Liability to Third Persons”"
+                            ]
+                          },
+                          {
+                            "_": "(a)  The Contractor shall, as a minimum, meet the requirements specified at FAR 28.307-2(a).\n",
+                            "I": [
+                              "Worker's compensation and employer's liability."
+                            ]
+                          },
+                          {
+                            "_": "(b)  The Contractor shall, at a minimum, meet the requirements specified at FAR 28.307-2(b).\n",
+                            "I": [
+                              "General liability."
+                            ]
+                          },
+                          {
+                            "_": "(c)  The Contractor shall, at a minimum, meet the requirements specified at FAR 28.307-2(c).",
+                            "I": [
+                              "Automobile liability."
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11597, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.232-70",
+                      "NODE": "48:5.0.4.34.14.1.1.10",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.232-70   Limitation of Government's obligation."
+                    ],
+                    "P": [
+                      "As prescribed in 1032.770-7, insert the following clause. Contracting officers are authorized, in appropriate cases, to revise paragraph (a) of this clause to specify the work required under the contract, in lieu of using contract line item numbers as well as revise paragraph (c) of this clause to specify a different notification period and percentage. The 30-day period may be varied from 45, 60 to 90 days, and the 75 percent from 75 to 85 percent:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Limitation of Government's Obligation (NOV 2016)\n"
+                        ],
+                        "P": [
+                          "(a) Funding is not currently available to fully fund this contract due to the Government operating under a continuing resolution (CR). The item(s) listed in the table below are being incrementally funded as described below. The funding allotted to these item(s) is presently available for payment and allotted to this contract. This table will be updated by a modification to the contract when additional funds are made available, if any, to this contract.\n",
+                          "(b) For the incrementally funded item(s) identified in paragraph (a) of this clause, the Contractor agrees to perform up to the point at which the total amount payable by the Government, including any invoice payments to which the Contractor is entitled and reimbursement of authorized termination costs in the event of termination of those item(s) for the Government's convenience, does not exceed the total amount currently obligated to those item(s). The Contractor is not authorized to continue work on these item(s) beyond that point. The Government will not be obligated in any event to reimburse the Contractor in excess of the amount allotted to the line items of the contract regardless of anything to the contrary in any other clause, including but not limited to the clause entitled “Termination for Convenience of the Government” or paragraph (1) entitled “Termination for the Government's Convenience” of the clause at FAR 52.212-4, “Commercial Terms and Conditions Commercial Items.”\n",
+                          "(c) Notwithstanding paragraph (h) of this clause, the Contractor shall notify the Contracting Officer in writing at least thirty days prior to the date when, in the Contractor's best judgment, the work will reach the point at which the total amount payable by the Government, including any cost for termination for convenience, will approximate 85 percent of the total amount then allotted to the contract for performance of the item(s) identified in paragraph (a) of this clause. The notification shall state the estimated date when that point will be reached and an estimate of additional funding, if any, needed to continue performance. The notification shall also advise the Contracting Officer of the estimated amount of additional funds required for the timely performance of the item(s) funded pursuant to this contract. If after such notification additional funds are not allotted by the date identified in the Contractor's notification, or by an agreed upon substitute date, the Contracting Officer will terminate any item(s) for which additional funds have not been allotted, pursuant to the terms of this contract authorizing termination for the convenience of the Government. Failure to make the notification required by this paragraph, whether for reasons within or beyond the Contractor's control, will not increase the maximum amount payable to the Contractor under paragraphs (a) and (b) of this clause.\n",
+                          "(d) The Government may at any time prior to termination allot additional funds for the performance of the item(s) identified in paragraph (a) of this clause.\n",
+                          "(e) The termination provisions of paragraphs (a) through (h) of this clause do not limit the rights of the Government under the clause entitled “Default” or “Termination for Cause.” The provisions of this clause are limited to the work and allotment of funds for the item(s) set forth in paragraph (a) of this clause. This clause no longer applies once the contract is fully funded.\n",
+                          "(f) Nothing in this clause affects the right of the Government to terminate this contract pursuant to the Government's termination for convenience terms set forth in this contract.\n",
+                          "(g) Nothing in this clause shall be construed as authorization of voluntary services whose acceptance is otherwise prohibited under 31 U.S.C. 1342.\n",
+                          "(h) The parties contemplate that the Government will allot funds to this contract from time to time as the need arises and as funds become available. There is no fixed schedule for providing additional funds."
+                        ],
+                        "DIV": [
+                          {
+                            "$": {
+                              "width": "100%"
+                            },
+                            "DIV": [
+                              {
+                                "$": {
+                                  "class": "gpotbl_div"
+                                },
+                                "TABLE": [
+                                  {
+                                    "$": {
+                                      "border": "1",
+                                      "cellpadding": "1",
+                                      "cellspacing": "1",
+                                      "class": "gpotbl_table",
+                                      "frame": "void",
+                                      "width": "100%"
+                                    },
+                                    "TR": [
+                                      {
+                                        "TH": [
+                                          {
+                                            "_": "Contract line item number\n(CLIN)\n",
+                                            "$": {
+                                              "class": "gpotbl_colhed",
+                                              "scope": "col"
+                                            },
+                                            "br": [
+                                              ""
+                                            ]
+                                          },
+                                          {
+                                            "_": "CLIN\ntotal price\n",
+                                            "$": {
+                                              "class": "gpotbl_colhed",
+                                              "scope": "col"
+                                            },
+                                            "br": [
+                                              ""
+                                            ]
+                                          },
+                                          {
+                                            "_": "Funds\nallotted to the\nCLIN\n",
+                                            "$": {
+                                              "class": "gpotbl_colhed",
+                                              "scope": "col"
+                                            },
+                                            "br": [
+                                              "",
+                                              ""
+                                            ]
+                                          },
+                                          {
+                                            "_": "Funds\nrequired for complete\nfunding of the\nCLIN\n",
+                                            "$": {
+                                              "class": "gpotbl_colhed",
+                                              "scope": "col"
+                                            },
+                                            "br": [
+                                              "",
+                                              "",
+                                              ""
+                                            ]
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "TD": [
+                                          {
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell",
+                                              "scope": "row"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$\n",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "TD": [
+                                          {
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell",
+                                              "scope": "row"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$\n",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "TD": [
+                                          {
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell",
+                                              "scope": "row"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$\n",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "TD": [
+                                          {
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell",
+                                              "scope": "row"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$\n",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "TD": [
+                                          {
+                                            "_": "Totals",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell",
+                                              "scope": "row",
+                                              "style": "padding-left: 4em"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          },
+                                          {
+                                            "_": "$",
+                                            "$": {
+                                              "align": "left",
+                                              "class": "gpotbl_cell"
+                                            }
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[81 FR 80609, Nov. 16, 2016]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "N": "1052.232-7003",
+                      "NODE": "48:5.0.4.34.14.1.1.11",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "1052.232-7003   Electronic submission of payment requests."
+                    ],
+                    "P": [
+                      "As prescribed in 1032.7003, use the following clause:\n"
+                    ],
+                    "EXTRACT": [
+                      {
+                        "HD1": [
+                          "Electronic Submission of Payment Requests (APR 2015)\n"
+                        ],
+                        "P": [
+                          {
+                            "_": "(a)  As used in this clause—\n",
+                            "I": [
+                              "Definitions."
+                            ]
+                          },
+                          {
+                            "_": "(1) “ means a bill, voucher, invoice, or request for contract financing payment with associated supporting documentation. The payment request must comply with the requirements identified in FAR 32.905(b), “Content of Invoices” and the applicable Payment clause included in this contract.\n",
+                            "I": [
+                              "Payment request”"
+                            ]
+                          },
+                          {
+                            "_": "(b) Except as provided in paragraph (c) of this clause, the Contractor shall submit payment requests electronically using the Invoice Processing Platform (IPP). Information regarding IPP, including IPP Customer Support contact information, is available at  or any successor site.\n",
+                            "I": [
+                              "www.ipp.gov"
+                            ]
+                          },
+                          "(c) The Contractor may submit payment requests using other than IPP only when the Contracting Officer authorizes alternate procedures in writing in accordance with Treasury procedures.\n",
+                          "(d) If alternate payment procedures are authorized, the Contractor shall include a copy of the Contracting Officer's written authorization with each payment request."
+                        ]
+                      }
+                    ],
+                    "HD3": [
+                      "(End of clause)\n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[80 FR 11597, Mar. 4, 2015]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "1053-1099",
+              "NODE": "48:5.0.4.34.15",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PARTS 1053-1099 [RESERVED]\n\n\n\n\n\n\n\n\n"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

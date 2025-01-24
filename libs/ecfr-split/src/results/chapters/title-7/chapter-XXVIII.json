@@ -1,0 +1,949 @@
+{
+  "number": "XXVIII",
+  "title": " CHAPTER XXVIII—OFFICE OF OPERATIONS, DEPARTMENT OF AGRICULTURE",
+  "content": {
+    "$": {
+      "N": "XXVIII",
+      "NODE": "7:15.1.7",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXVIII—OFFICE OF OPERATIONS, DEPARTMENT OF AGRICULTURE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2800-2809",
+          "NODE": "7:15.1.7.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2800-2809 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "2810",
+          "NODE": "7:15.1.7.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2810—ORGANIZATION AND FUNCTIONS—OFFICE OF OPERATIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301 and 552; 7 CFR 2.76.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "54 FR 52013, Dec. 20, 1989, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2810.1",
+              "NODE": "7:15.1.7.2.2.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2810.1   General statement."
+            ],
+            "P": [
+              "This part is issued in accordance with 5 U.S.C. 552(a) to provide guidance for the general public as to Office of Operations (OO) organization and functions.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2810.2",
+              "NODE": "7:15.1.7.2.2.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2810.2   Organization."
+            ],
+            "P": [
+              "The Office of Operations (OO) was established January 12, 1982. Delegations of authority to the Director, OO, appear at 7 CFR 2.76. The organization is comprised of six divisions and one staff located at Department headquarters. Description of the functions of these organizational units are in the following section. The organization is headed by a Director.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2810.3",
+              "NODE": "7:15.1.7.2.2.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2810.3   Functions."
+            ],
+            "P": [
+              {
+                "_": "(a)  Provides executive direction for OO. Develops and promulgates overall policies and provides general direction, leadership, oversight, and coordination of USDA management of procurement, real and personal property activities, mail and copier management. Provides executive services to the Office of the Secretary and operates activities providing consolidated USDA administrative functions and services.\n",
+                "I": [
+                  "Director."
+                ]
+              },
+              {
+                "_": "(b)  Assists the Director, and in the absence of the Director, serves as Acting Director.\n",
+                "I": [
+                  "Deputy Director."
+                ]
+              },
+              {
+                "_": "(c)  Provides support for agency management regarding budget, accounting, personnel, and other administrative matters.\n",
+                "I": [
+                  "Administrative Unit."
+                ]
+              },
+              {
+                "_": "(d)  Provides executive services to the Office of the Secretary in travel arrangements, supplies, furnishings, communications, equipment, and records. Operates the central USDA DC imprest fund.\n",
+                "I": [
+                  "Executive Services Division."
+                ]
+              },
+              {
+                "_": "(e)  Operates and maintains the USDA DC headquarters building complex, including headquarters parking. Oversees management and operation of USDA buildings nationwide, and provides DC area labor services.\n",
+                "I": [
+                  "Facilities Management Division."
+                ]
+              },
+              {
+                "_": "(f)  Oversees USDA mail, copier, and duplicating programs. Operates DC area central activities in these areas.\n",
+                "I": [
+                  "Mail and Reproduction Management Division."
+                ]
+              },
+              {
+                "_": "(g)  Oversees USDA supply, motor vehicle, and personal property programs. Operates centralized warehouse and property rehabilitation facilities.\n",
+                "I": [
+                  "Personal Property Management Division."
+                ]
+              },
+              {
+                "_": "(h)  Oversees USDA procurement programs. Operates centralized purchasing operations for ADP and Washington area activities.\n",
+                "I": [
+                  "Procurement Division."
+                ]
+              },
+              {
+                "_": "(i)  Oversees USDA real property management programs.\n\n\n",
+                "I": [
+                  "Real Property Management Division."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2811",
+          "NODE": "7:15.1.7.2.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2811—AVAILABILITY OF INFORMATION TO THE PUBLIC\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301 and 552 (as amended); 7 CFR 1.3. \n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "54 FR 52014, Dec. 20, 1989, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2811.1",
+              "NODE": "7:15.1.7.2.3.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.1   General statement."
+            ],
+            "P": [
+              "This part is issued in accordance with 7 CFR 1.3 of the Department of Agriculture regulations governing the availability of records (7 CFR 1.1-1.23 and Appendix A) under the Freedom of Information Act (FOIA), 5 U.S.C. 552. The Department's regulations, as supplemented by the regulations in this part, provide guidance for any person wishing to request records from Office of Operations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2811.2",
+              "NODE": "7:15.1.7.2.3.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.2   Public inspection and copying."
+            ],
+            "P": [
+              {
+                "_": "(a)  5 U.S.C. 552(a)(2) requires that each agency maintain and make available for public inspection and copying certain kinds of records.\n",
+                "I": [
+                  "Background."
+                ]
+              },
+              {
+                "_": "(b)  To gain access to OO records that are available for public inspection, contact the division that maintains them. See Appendix A, List of Addresses, for the location and hours of operation.\n\n\n",
+                "I": [
+                  "Procedure."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2811.3",
+              "NODE": "7:15.1.7.2.3.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.3   Indexes."
+            ],
+            "P": [
+              {
+                "_": "(a)  15 U.S.C. 552(a)(2) also requires that each agency maintain and make available for public inspection and copying current indexes provided identifying information for the public with regard to any records which are made available for public inspection and copying. OO does not maintain any materials within the scope of these requirements.\n\n\n",
+                "I": [
+                  "Background."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2811.4",
+              "NODE": "7:15.1.7.2.3.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.4   Initial requests for records."
+            ],
+            "P": [
+              {
+                "_": "(a)  The head of each OO division, each OO contracting officer, each OO leasing officer, and the OO FOIA officer is authorized to:\n",
+                "I": [
+                  "Background."
+                ]
+              },
+              "(1) Grant or deny requests for OO records.\n",
+              "(2) Make discretionary release of OO records when it is determined that the public interest in disclosure outweighs the public and/or private ones in withholding.\n",
+              "(3) Reduce or waive fees to be charged where determined to be appropriate.\n",
+              "(4) Refer a request to the OO FOIA Officer for determination. \n",
+              {
+                "_": "(b)  Persons wishing to request records from the Office of Operations may do so as follows:\n",
+                "I": [
+                  "Procedures."
+                ]
+              },
+              "(1) How. Submit each initial request for OO records as prescribed in 7 CFR 1.6.\n",
+              "(2) Where. Submit each initial request to the head of the unit that maintains the records. See Appendix A, List of Addresses. Contact the FOIA Officer for guidance as needed. Or, submit the request to the FOIA Officer for forwarding to the proper officials: FOIA Officer, Office of Operations, USDA, Room 134-W Administration Building, 14th & Independence Avenue SW., Washington, DC 20250.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2811.5",
+              "NODE": "7:15.1.7.2.3.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.5   Appeals."
+            ],
+            "P": [
+              {
+                "_": " Any person whose initial request is denied in whole or in part may appeal that denial, in accordance with 7 CFR 1.6(e) and 1.8, to the Director, Office of Operations, USDA, Room 113-W Administration Building, 14th & Independence Avenue SW., Washington, DC 20250.\n\n\n",
+                "I": [
+                  "Procedure."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2811.6",
+              "NODE": "7:15.1.7.2.3.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2811.6   Fee schedule."
+            ],
+            "P": [
+              "Department regulations provide for a schedule of reasonable standard charges for document search and duplication. See 7 CFR 1.2(b). Fees to be charged are set forth in 7 CFR part 1, subpart A, appendix A.\n\n\n"
+            ]
+          }
+        ],
+        "DIV9": [
+          {
+            "$": {
+              "N": "Appendix A",
+              "NODE": "7:15.1.7.2.3.0.1.7.3",
+              "TYPE": "APPENDIX"
+            },
+            "HEAD": [
+              "Appendix A to Part 2811—List of Addresses\n"
+            ],
+            "HD2": [
+              {
+                "_": "Section 1. \n",
+                "E": [
+                  {
+                    "_": "General",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              {
+                "_": "Section 2. \n",
+                "I": [
+                  "List of Addresses"
+                ]
+              }
+            ],
+            "P": [
+              "This list provides the titles and mailing address of officials who have custody of OO records. The normal working hours of these offices are 8:30 a.m. to 5:00 p.m., Monday through Friday, exclusing holidays, during which public inspection and copying of certain kinds of records is permitted.\n",
+              "All of the following addresses are located at 14th Street and Independence Avenue, Washington, DC. Address mail as follows:\n"
+            ],
+            "FP-1": [
+              "Director, Office of Operations, USDA, Room 113-W Administration Building, Washington, DC 20250.\n",
+              "FOIA Officer, Office of Operations, USDA, Room 134-W Administration Building, Washington, DC 20250.\n",
+              "Chief, Administrative Unit, Office of Operations, USDA, Room 134-W, Washington, DC 20250.\n",
+              "Chief, Executive Services Division, Office of Operations, USDA, Room 10-A, Administration Building, Washington, DC 20250.\n",
+              "Chief, Facilities Management Division, Office of Operations, USDA, Room S-313 South Building, Washington, DC 20250.\n",
+              "Chief, Mail and Reproduction Management Division, Office of Operations, USDA, Room 1540 South Building, Washington, DC 20250.\n",
+              "Chief, Personal Property Management Division, Office of Operations, USDA Room 1524 South Building, Washington, DC 20250.\n",
+              "Chief, Procurement Division, Office of Operations, USDA, Room 1550 South Building, Washington, DC 20250.\n",
+              "Chief, Real Property Management Division, Office of Operations, USDA, Room 1566, South Building, Washington, DC 20250.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2812",
+          "NODE": "7:15.1.7.2.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2812—DEPARTMENT OF AGRICULTURE GUIDELINES FOR THE DONATION OF EXCESS RESEARCH EQUIPMENT UNDER 15 U.S.C. 3710(i)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; E.O. 12999, 61 FR 17227, 3 CFR, 1997 Comp., p. 180.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "60 FR 34456, July 3, 1995, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2812.1",
+              "NODE": "7:15.1.7.2.4.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.1   Purpose."
+            ],
+            "P": [
+              "This part sets forth the procedures to be utilized by USDA agencies and laboratories in the donation of excess research equipment to educational institutions and non-profit organizations for the conduct of technical and scientific education and research activities as authorized by 15 U.S.C. 3710(i). Title to excess research equipment donated pursuant to 15 U.S.C. 3710(i), shall pass to the donee.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.2",
+              "NODE": "7:15.1.7.2.4.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.2   Eligibility."
+            ],
+            "P": [
+              "Eligible organizations are educational institutions or non-profit organizations involved in the conduct of technical and scientific educational and research activities.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.3",
+              "NODE": "7:15.1.7.2.4.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.3   Definitions."
+            ],
+            "P": [
+              {
+                "_": "(a)  The dismantling of equipment for parts to repair or enhance other equipment. The residual is reported for disposal. Cannibalization is only authorized if the property value is greater when cannibalized than retention in the original condition.\n",
+                "I": [
+                  "Cannibalization."
+                ]
+              },
+              {
+                "_": "(b)  means nonprofit organizations that are engaged in collaborative projects with pre-kindergarten through twelfth grade educational institutions or that have education as their primary focus. Such organizations shall qualify as nonprofit educational institutions for purposes of section 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(j)).\n",
+                "I": [
+                  "Community-based educational organization"
+                ]
+              },
+              {
+                "_": "(c)  means a public or private, non-profit educational institution, encompassing pre-kindergarten through twelfth grade and two- and four-year institutions of higher education, as well as public school districts.\n",
+                "I": [
+                  "Educational institution"
+                ]
+              },
+              {
+                "_": "(d)  means computers and related peripheral tools (e.g., printers, modems, routers, and servers), including telecommunications and research equipment, that are appropriate for use in pre-kindergarten, elementary, middle, or secondary school education. It shall also include computer software, where the transfer of licenses is permitted.\n",
+                "I": [
+                  "Educationally useful Federal equipment"
+                ]
+              },
+              {
+                "_": "(e)  Items of personal property no longer required by the controlling Federal agency. \n",
+                "I": [
+                  "Excess personal property."
+                ]
+              },
+              {
+                "_": "(f)  means a rural area designated by the Secretary of Agriculture under 7 CFR part 25.\n",
+                "I": [
+                  "Federal empowerment zone or enterprise community (EZ/EC)"
+                ]
+              },
+              {
+                "_": "(g)  means any corporation, trust association, cooperative, or other organization which: \n",
+                "I": [
+                  "Non-profit organization"
+                ]
+              },
+              "(1) Is operated primarily for scientific, educational, service, charitable, or similar purposes in the public interest; \n",
+              "(2) Is not organized primarily for profit; and \n",
+              "(3) Uses its net proceeds to maintain, improve, or expand its operations. For the purposes of this part, “non-profit organizations” may include utilities affiliated with institutions of higher education, or with state and local governments and federally recognized Indian tribes.\n",
+              {
+                "_": "(h)  Federal property determined to be essential to conduct scientific or technical educational research.\n",
+                "I": [
+                  "Research equipment."
+                ]
+              },
+              {
+                "_": "(i)  Non-profit tax exempt public educational institutions or government sponsored research organizations which serve to conduct technical and scientific education and research.\n",
+                "I": [
+                  "Technical and scientific education and research activities."
+                ]
+              }
+            ],
+            "CITA": [
+              {
+                "_": "[60 FR 34456, July 3, 1995, as amended at 65 FR 69857, Nov. 21, 2000]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.4",
+              "NODE": "7:15.1.7.2.4.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.4   Procedures."
+            ],
+            "P": [
+              "(a) [Reserved]\n",
+              "(b) Each agency head will designate in writing an authorized official to approve donations of excess property/equipment under this part.\n",
+              "(c) After USDA screening has been accomplished, excess personal property targeted for donation under this part will be made available on a first-come, first-served basis. If there are competing requests, donations will be made to eligible recipients in the following priority order:\n",
+              "(1) Educationally useful Federal equipment for pre-kindergarten through twelfth grade educational institutions and community-based educational organizations in rural EZ/EC communities;\n",
+              "(2) Educationally useful Federal equipment for pre-kindergarten through twelfth grade educational institutions and community-based educational organizations not in rural EZ/EC areas; \n",
+              "(3) All other eligible organizations.\n",
+              "(d) Upon reporting property for excess screening, if the pertinent USDA agency has an eligible organization in mind for donation under this part, it shall enter “P.L. 102-245” in the note field. The property will remain in the excess system approximately 30 days, and if no USDA agency or cooperator requests it during the excess cycle, the Departmental Excess Personal Property Coordinator will send the agency a copy of the excess report stamped, “DONATION AUTHORITY TO THE HOLDING AGENCY IN ACCORDANCE WITH P.L. 102-245.” The holding USDA agency may then donate the excess property to the eligible organization.\n",
+              "(e) Donations under this Part will be accomplished by preparing a Standard Form (SF) 122, “Transfer Order-Excess Personal Property”.\n",
+              "(f) The SF-122 should be signed by both an authorized official of the agency and the Agency Property Management Officer. The following information should also be provided.\n",
+              "(1) Name and address of Donee Institution (Ship to)\n",
+              "(2) Agency name and address (holding Agency)\n",
+              "(3) Location of property\n",
+              "(4) Shipping instructions (Donee contact person)\n",
+              "(5) Complete description of property, including acquisition amount, serial no., condition code, quantity, and agency order no.\n",
+              "(6) This statement needs to be added following property descriptions. “The property requested hereon is certified to be used for the conduct of technical and scientific education and research activities. This donation is pursuant to the provisions of Pub. L. 102-245.”\n",
+              "(g) Once the excess personal property/equipment is physically received, the donee is required to immediately return a copy of the SF-122 to the donating agency indicating receipt of requested items. Cancellations should be reported to DEPPC so the property can be reported to the General Services Administration (GSA).\n"
+            ],
+            "NOTE": [
+              {
+                "HED": [
+                  "Note:"
+                ],
+                "P": [
+                  "The USDA agency shall send an informational copy of the transaction to GSA."
+                ]
+              }
+            ],
+            "CITA": [
+              {
+                "_": "[60 FR 34456, July 3, 1995, as amended at 65 FR 69857, Nov. 21, 2000]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.5",
+              "NODE": "7:15.1.7.2.4.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.5   Restrictions."
+            ],
+            "P": [
+              "(a) The authorized official (see § 2812.4(b)) will approve the donation of excess personal property/equipment in the following groups to educational institutions or nonprofit organizations for the conduct of technical and scientific educational and research activities.\n",
+              "(b) Excess personal property/equipment may be donated for cannibalization purposes, provided the donee submits a supporting statement which clearly indicates that cannibalizing the requested property for secondary use has greater potential benefit than utilization of the item in its existing form.\n\n\n"
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "table_head"
+                    },
+                    "P": [
+                      {
+                        "_": "Eligible Groups\n",
+                        "$": {
+                          "class": "gpotbl_title"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "FSC group \n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Name\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "19",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Ships, Small Craft, Pontoons, and Floating Docks.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "23",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Vehicles, Trailers and Cycles.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "24",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Tractors.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "37",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Agricultural Machinery and Equipment.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "43",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Pumps, Compressors.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "48",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Valves.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "58",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Communication, Detection, and Coherent Radiation Equipment.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "59",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Electrical and Electronic Equipment Components.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "65",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Medical, Dental, and Veterinary Equipment and Supplies.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "66",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Instruments and Laboratory Equipment.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "67",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Photographic Equipment.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "68",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Chemicals and Chemical Products.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "70",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "General Purpose Automatic Data Processing Equipment, Software Supplies, and Support Equipment.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "74",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Office Machines and Visible Record Equipment.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "NOTE": [
+              {
+                "HED": [
+                  "Note:"
+                ],
+                "P": [
+                  "Requests for items in FSC Groups or Classes other than the above should be referred to the agency head for consideration and approval."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.6",
+              "NODE": "7:15.1.7.2.4.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.6   Title."
+            ],
+            "P": [
+              "Title to excess personal property/equipment donated under this Part will automatically pass to the donee once the sponsoring agency receives the SF-122 indicating that the donee has received the property.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.7",
+              "NODE": "7:15.1.7.2.4.0.1.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.7   Costs."
+            ],
+            "P": [
+              "Donated excess personal property/equipment is free of charge. However, the donee must pay all costs associated with packaging and transportation, unless the sponsoring agency has made other arrangements. The donee should specify the method of shipment.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.8",
+              "NODE": "7:15.1.7.2.4.0.1.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.8   Accountability and recordkeeping."
+            ],
+            "P": [
+              "USDA requires that property requested by a donee be placed into use by the donee within a year of receipt and used for at least 1 year thereafter. Donees must maintain accountable records for such property during this time period.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.9",
+              "NODE": "7:15.1.7.2.4.0.1.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.9   Disposal."
+            ],
+            "P": [
+              "When the property is no longer needed by the donee, it may be used in support of other Federal projects or sold and the proceeds used for technical and scientific education and research activities.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2812.10",
+              "NODE": "7:15.1.7.2.4.0.1.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2812.10   Liabilities and losses."
+            ],
+            "P": [
+              "USDA assumes no liability with respect to accidents, bodily injury, illness, or any other damages or loss related to excess personal property/equipment donated under this part. The donee is advised to insure or otherwise protect itself and others as appropriate.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2813-2899",
+          "NODE": "7:15.1.7.2.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2813-2899 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

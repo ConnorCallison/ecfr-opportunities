@@ -1,0 +1,2657 @@
+{
+  "number": "XVII",
+  "title": " CHAPTER XVII—OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE ",
+  "content": {
+    "$": {
+      "N": "XVII",
+      "NODE": "32:6.2.3",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XVII—OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE "
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1700",
+          "NODE": "32:6.2.3.17.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1700—PROCEDURES FOR DISCLOSURE OF RECORDS PURSUANT TO THE FREEDOM OF INFORMATION ACT \n\n\n\n\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 552; 50 U.S.C. 3023-3025; Pub. L. 108-458, 118 Stat. 3638.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "88 FR 48726, July 28, 2023, unless otherwise noted.\n\n\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1700.1",
+              "NODE": "32:6.2.3.17.1.0.8.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.1   Authority and purpose."
+            ],
+            "P": [
+              "(a) This part is issued under the authority of the Freedom of Information Act, as amended, 5 U.S.C. 552; the National Security Act of 1947, as amended, 50 U.S.C. 3023-3025; and the Intelligence Reform and Terrorism Prevention Act of 2004, Public Law 108-458, 118 Stat. 3638.\n",
+              "(b) This part prescribes procedures for:\n",
+              "(1) ODNI administration of the FOIA;\n",
+              "(2) Requesting records from ODNI pursuant to the FOIA; and\n",
+              "(3) Filing an administrative appeal with ODNI of an initial adverse decision under the FOIA.\n",
+              "(c) This part contains the rules that ODNI follows in processing requests for records under the FOIA. The rules in this part should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.2",
+              "NODE": "32:6.2.3.17.1.0.8.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.2   Definitions."
+            ],
+            "P": [
+              "For purposes of this part, the following definitions apply:\n",
+              {
+                "_": "(a)  are those expenditures which ODNI actually incurs in the processing of a FOIA request. It includes, but is not limited to, the salary of the employee performing the work and costs associated with duplication. It does not include overhead factors such as space.\n",
+                "I": [
+                  "Direct costs"
+                ]
+              },
+              {
+                "_": "(b)  are those direct costs which may be assessed considering the categories established by the FOIA. Requesters should submit information to assist ODNI in determining the proper fee category. ODNI may draw reasonable inferences from the identity and activities of the requester in making fee determinations. The fee categories include:\n",
+                "I": [
+                  "Fees"
+                ]
+              },
+              {
+                "_": "(1)  A request seeking information for a use or purpose that furthers the requester's commercial, trade, or profit interests, including pursuit of those interests through litigation.\n",
+                "I": [
+                  "Commercial use request."
+                ]
+              },
+              {
+                "_": "(2)  Any institution that operates a program or programs of scholarly research. To be in this category, a requester must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought to further scholarly research. ODNI may seek assurance from the requester that the request is in furtherance of scholarly research and will advise requesters of their placement in this category.\n",
+                "I": [
+                  "Educational institution."
+                ]
+              },
+              {
+                "_": "(3)  An institution that is not operated on a commercial basis and that is operated solely for the purpose of conducting scientific research, the results of which are not intended to promote any particular product or industry. To be in this category, a requester must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought to further scientific research.\n",
+                "I": [
+                  "Non-commercial scientific institution."
+                ]
+              },
+              {
+                "_": "(4)  Any person or entity that actively gathers information of potential interest to a segment of the public, uses editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. The term “news” means information that concerns current events or that would be of interest to the public.\n",
+                "I": [
+                  "Representative of the news media."
+                ]
+              },
+              {
+                "_": "(c)  or  is the statute as codified at 5 U.S.C. 552, as amended.\n",
+                "I": [
+                  "Freedom of Information Act, FOIA,",
+                  "the Act"
+                ]
+              },
+              {
+                "_": "(d)  is the individual designated by the Chief FOIA Officer to assist FOIA requesters with concerns about ODNI's processing of their FOIA requests, including assistance in resolving disputes.\n",
+                "I": [
+                  "FOIA Public Liaison"
+                ]
+              },
+              {
+                "_": "(e)  is the ODNI employee to whom the Chief of the ODNI Information Management Office (IMO) has delegated their responsibility for processing FOIA requests.\n",
+                "I": [
+                  "Information Review & Release Group (“IRRG”) Chief"
+                ]
+              },
+              {
+                "_": "(f)  is the Office of the Director of National Intelligence and its component organizations. This does not include other members of the Intelligence Community as defined in 50 U.S.C. 3003, or other federal entities subsequently designated in accordance with this authority, unless specifically designated and included in this part or in the notice of a system of records.\n",
+                "I": [
+                  "ODNI"
+                ]
+              },
+              {
+                "_": "(g)  is the Office of Government Information Services within the National Archives and Records Administration.\n",
+                "I": [
+                  "OGIS"
+                ]
+              },
+              {
+                "_": "(h)  are paper copies of standard office size or the dollar value equivalent in other media.\n",
+                "I": [
+                  "Pages"
+                ]
+              },
+              {
+                "_": "(i)  is an individual, partnership, corporation, association, or public or private organization other than an agency.\n",
+                "I": [
+                  "Person"
+                ]
+              },
+              {
+                "_": "(j)  is any document, irrespective of physical or electronic form, made or received by ODNI in pursuance of federal law or in connection with the transaction of public business and appropriate for preservation by ODNI as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of ODNI or because of the informational value of the data contained therein.\n",
+                "I": [
+                  "Record"
+                ]
+              },
+              {
+                "_": "(k)  is the generation of a copy of a requested record in a form appropriate for release.\n",
+                "I": [
+                  "Reproduction"
+                ]
+              },
+              {
+                "_": "(l)  is a person, organization, or other entity who submits a written or electronic communication requesting information on or concerning the FOIA program, the availability of records from ODNI, or both.\n",
+                "I": [
+                  "Requester"
+                ]
+              },
+              {
+                "_": "(m)  means all time expended in examining a record to determine whether any portion must be withheld pursuant to law and in effecting any required deletions. This does not include personnel hours expended in resolving general legal or policy issues.\n",
+                "I": [
+                  "Review"
+                ]
+              },
+              {
+                "_": "(n)  means all time expended in looking for and retrieving material that may be responsive to a request.\n\n\n\n\n",
+                "I": [
+                  "Search"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.3",
+              "NODE": "32:6.2.3.17.1.0.8.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.3   Contact for general information and requests."
+            ],
+            "P": [
+              {
+                "_": "For general information on this part, to inquire about the FOIA program at ODNI, or to file a FOIA request, a written submission should be sent, either by mail to the Office of the Director of National Intelligence, IRRG Chief, Information Management Office, Washington, DC 20511, or by email to  To check on the status of a pending case, an individual may either call the ODNI FOIA Office at (703) 275-1313 or email the ODNI FOIA Office at \n\n\n\n\n",
+                "I": [
+                  "DNI-FOIA@dni.gov.",
+                  "DNI-FOIA@dni.gov."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.4",
+              "NODE": "32:6.2.3.17.1.0.8.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.4   Requirements for making requests."
+            ],
+            "P": [
+              {
+                "_": "(a) FOIA requests must be submitted in writing. They may be sent to the Office of the Director of National Intelligence, IRRG Chief, Information Management Office, Washington, DC 20511; by email to  or through the FOIA portal at  For the most expeditious handling, the request letter and envelope, or subject line of the electronic transmission, should be marked “Freedom of Information Act Request.” The requester shall provide contact information, such as a phone number, email address, or mailing address.\n",
+                "I": [
+                  "DNI-FOIA@dni.gov;",
+                  "https://www.foia.gov."
+                ]
+              },
+              "(b) A requester who is making a request for records about themselves must comply with the verification of identity requirements provided in the ODNI Privacy Act regulations, 32 CFR 1701.7(d).\n",
+              {
+                "_": "(c) Where a request for records pertains to a third party, a requester may receive greater access by submitting either a notarized authorization signed by that third party or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that third party. Such notarized authorization or declaration should authorize disclosure of the requested records to the requester. If the third party is deceased, the requester should submit proof of that fact ( a copy of a death certificate or an obituary). As an exercise of administrative discretion, ODNI can require a requester to supply additional information to verify that a third party has consented to disclosure.\n",
+                "I": [
+                  "e.g.,"
+                ]
+              },
+              "(d) Requests must describe the records sought with sufficient detail to enable ODNI personnel to locate them with a reasonable amount of effort. In general, requesters should include as much detail as possible about the specific records or the types of records that they are seeking, such as the date, title, name, author, recipient, or subject matter of the record. Before or after submitting their requests, requesters may contact the FOIA Public Liaison to discuss the records they are seeking and to receive assistance in describing the records. If ODNI determines that a request does not reasonably describe the records sought, ODNI shall inform the requester what additional information is needed or why the request is otherwise insufficient. If a request does not reasonably describe the records sought, the agency's response to the request may be delayed.\n",
+              "(e) A request should specify the preferred format (including electronic) to convey the records requested. ODNI will accommodate a request for a specific format if the record is readily available in that format. When the format of the response is not specified, ODNI will provide responsive records in the most convenient format.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.5",
+              "NODE": "32:6.2.3.17.1.0.8.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.5   Processing of requests for records."
+            ],
+            "P": [
+              "(a) On receipt of a request, IMO's IRRG staff will send an acknowledgement letter to the requester which will provide an assigned request number for future reference and, if fees will be charged, shall confirm the requester's agreement to pay fees.\n",
+              "(b) To determine which records are responsive to the request, IRRG staff will task relevant ODNI components to search all places likely to contain potentially responsive records. The ODNI components ordinarily will include records in their possession as of the date that they begin their search unless the request specifically included an end date for the search. If another date is used, the IRRG staff will inform the requester of the date used and the reason for its use. The potentially responsive records will be sent to IRRG staff for responsiveness review and application of relevant exemptions, if any.\n",
+              "(c) When reviewing responsive records, ODNI will determine whether another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA. As to any such record, the agency will ordinarily proceed in one of the following ways:\n",
+              "(1) When the record originates with ODNI but contains information of interest to another agency or other Federal Government office, ODNI will typically consult with that other agency or office prior to making a release determination.\n",
+              "(2) When ODNI believes that a different agency is best able to determine whether to disclose the record, ODNI typically will refer the record to that agency and ask that agency to respond to the requester concerning that record (provided the other agency is subject to FOIA).\n",
+              "(i) Ordinarily, the agency that originated the record will be presumed to be the best agency to make the disclosure determination. However, if ODNI and the originating agency jointly agree that ODNI is in the best position to respond regarding the record, then the record may be handled as a consultation.\n",
+              "(ii) If another agency accepts responsibility for responding to a particular record, ODNI will notify the requester of the referral. When appropriate and available, the notice will include a point of contact for the other agency.\n",
+              "(3) The standard referral procedure is not appropriate where disclosure of the identity of the agency to which the referral would be made could harm an interest protected by an applicable exemption, such as the exemptions that protect personal privacy or national security interests. For instance, if ODNI locates within its file's materials originating with another Intelligence Community element, and the involvement of that element in the matter is classified and not publicly acknowledged, then disclosing or attributing the involvement of that Intelligence Community element could cause damage to the national security. In such an instance, and to avoid harm to an interest protected by an applicable exemption, ODNI will coordinate with the originating agency to seek its views on the disclosure of the record. ODNI will then inform the requester of the release determination.\n",
+              "(d) When a request is made for information that is classified, ODNI must determine whether the information is currently and properly classified in accordance with applicable classification rules. When a request involves a record containing classified information that has been classified by another agency, ODNI will refer that portion of the request to the agency that originated the information, or has the primary interest in it, as appropriate. Similarly, when a record contains information that ODNI has derivatively classified (for example, when ODNI's classification is based on information originally classified by another agency), ODNI must refer that portion of the request to the agency that originally classified the underlying information.\n",
+              "(e) ODNI will notify the requester of its determination to grant, deny, or refer the FOIA request. ODNI will release reasonably segregable, non-exempt information. For any adverse determination—including those regarding any disputed fee matter; a denial of a request for a fee waiver; a determination to withhold a record in whole or in part; a determination that a record does not exist or cannot be located; or a denial of a request for expedited processing—the notice will include the following information:\n",
+              "(1) The name and title or position of the person responsible for the determination to deny the request in whole or in part;\n",
+              "(2) A brief statement of the reasons for the denial, including any FOIA exemption applied in denying the request. The notice will indicate, if feasible, the amount of information deleted and the exemption under which a deletion is made on the released portion of the record, unless including that information would harm an interest protected by the exemption;\n",
+              "(3) An estimate of the volume of information withheld, if applicable, such as the number of pages or some other reasonable form of estimation. Such an estimate is not required if the volume is otherwise indicated by deletions marked on records that are disclosed in part or if providing an estimate would harm an interest protected by an applicable FOIA exemption;\n",
+              "(4) A statement that the adverse determination may be appealed and a description of the requirements for an appeal; and\n",
+              "(5) A statement notifying the requester of the assistance available from the FOIA Public Liaison, and the dispute resolution services offered by OGIS.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.6",
+              "NODE": "32:6.2.3.17.1.0.8.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.6   Time frames for ODNI responses."
+            ],
+            "P": [
+              "(a) ODNI will ordinarily respond to requests according to their order of receipt.\n",
+              "(b) When evaluating requests, ODNI may use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work or time needed to process the request.\n",
+              "(c) Subject to paragraphs (e) and (f) of this section, ODNI will respond to a FOIA request within 20 days after receipt of the request. A request is received by ODNI, for purposes of commencing the 20-day time frame for its response, on the day that the request is received by the IMO or, in any event, not later than ten days after the request is first received by any ODNI component.\n",
+              "(d) ODNI must determine whether to grant or deny, in whole or in part, an administrative appeal submitted in accordance with § 1700.7 within 20 days after receipt of the appeal, unless the time frame for a response to an appeal is extended in accordance with paragraph (e) of this section.\n",
+              "(e) ODNI may toll the 20-day time frame set forth in paragraph (c) or (d) of this section for one of the two reasons cited below, as permitted by 5 U.S.C. 552(a)(6)(A)(ii). If ODNI tolls the time frame, the tolling period ends upon receipt of the requester's response.\n",
+              "(1) Once, to await information that the ODNI has reasonably requested from the requester; or\n",
+              "(2) As necessary, to clarify with the requester issues regarding the fee assessment.\n",
+              "(f) Whenever the statutory time limit for processing a request cannot be met because of “unusual circumstances,” as defined in the FOIA, and ODNI extends the time limit on that basis, ODNI will notify the requester in writing, before expiration of the 20-day period to respond, of the unusual circumstances involved and of the date by which processing of the request can be expected to be completed. Where the extension exceeds 10 days, ODNI shall, as described by the FOIA, provide the requester with an opportunity to modify the request or arrange an alternative time period for processing. ODNI shall make available its designated FOIA contact and its FOIA Public Liaison for this purpose and notify the requester of the dispute resolution services offered by OGIS.\n",
+              "(g) For the purposes of satisfying unusual circumstances under the FOIA, ODNI may aggregate requests in cases where it reasonably appears that multiple requests, submitted either by a requester or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances. ODNI will notify the requester(s) of the decision to aggregate.\n",
+              "(h) Requests and appeals shall be processed on an expedited basis whenever it is determined that they involve a compelling need. For this purpose, a “compelling need” involves either:\n",
+              "(1) Circumstances in which the lack of expedited treatment could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or\n",
+              "(2) An urgency to inform the public about an actual or alleged Federal Government activity, if made by a person who is primarily engaged in disseminating information.\n",
+              "(i) A request for expedited processing must be in writing and may be made at any time.\n",
+              "(j) A requester who seeks expedited processing must submit a statement, certified to be true and correct, explaining in detail the basis for making the request for expedited processing. Under this paragraph (h), a requester who is not a full-time member of the news media must establish that the requester is a person whose primary professional activity or occupation is information dissemination, though it need not be the requester's sole occupation. Such a requester also must establish a particular urgency to inform the public about the government activity involved in the request—an urgency that extends beyond the public's right to know about government activity generally. The existence of numerous articles published on a given subject can be helpful in establishing the requirement that there be an “urgency to inform” the public on the topic. As a matter of administrative discretion, ODNI may waive the formal certification requirement.\n",
+              "(k) The IMO will decide within 10 days of its receipt of a request for expedited processing of its decision whether to grant or deny such a request. If expedited processing is granted, the request shall be given priority, placed in the processing track for expedited requests, and shall be processed as soon as practicable. If a request for expedited processing is denied, any appeal of that decision shall be acted on expeditiously.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.7",
+              "NODE": "32:6.2.3.17.1.0.8.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.7   Administrative appeals."
+            ],
+            "P": [
+              "(a) A requester may appeal any adverse determination to a person designated by the Director of National Intelligence (the “Designee”). The Designee will act on behalf of the Director of National Intelligence on all appeals under this section.\n",
+              "(b) An appeal ordinarily will not be adjudicated if the request becomes subject to litigation.\n",
+              "(c) The appeal must be transmitted if sent by email, or postmarked if sent by U.S. mail, within 90 days after the date of the adverse determination letter. The appeal shall clearly identify the ODNI determination that is being appealed, including the assigned ODNI case request number. For the most expeditious handling, the subject line of the electronic transmission, or appeal letter and envelope, should be marked “Freedom of Information Act Appeal.”\n",
+              "(d) On receipt of any appeal involving classified information, the Designee must take appropriate action to ensure compliance with applicable classification rules.\n",
+              "(e) ODNI's decision on an appeal shall be in writing. A decision upholding ODNI's original determination will contain a statement that identifies the reasons for affirmance, including any FOIA exemptions applied. The decision will provide the requester with notification of the statutory right to file a lawsuit and will inform the requester of the mediation services offered by OGIS as a non-exclusive alternative to litigation. If ODNI's decision is remanded or modified on appeal, the requester will be notified of that determination in writing. ODNI will thereafter further process the request in accordance with that appeal determination.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.8",
+              "NODE": "32:6.2.3.17.1.0.8.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.8   Procedures for requests implicating confidential commercial information."
+            ],
+            "P": [
+              "(a) Definitions:\n",
+              {
+                "_": "(1)  means commercial or financial information obtained by ODNI from a submitter that may be protected from disclosure under Exemption 4 of the FOIA, 5 U.S.C. 552(b)(4).\n",
+                "I": [
+                  "Confidential commercial information"
+                ]
+              },
+              {
+                "_": "(2)  means any person or entity, including a corporation, State, or foreign government, but not including another Federal Government entity, that provides information, either directly or indirectly, to the Federal Government.\n",
+                "I": [
+                  "Submitter"
+                ]
+              },
+              "(b) A submitter of confidential commercial information must use good faith efforts to designate by appropriate markings, either at the time of submission or within a reasonable time thereafter, any portion of its submission that it considers to be protected under FOIA Exemption 4. These designations shall expire 10 years after the date of the submission unless the submitter requests and provides justification for a longer designation period.\n",
+              "(c) ODNI will provide the submitter with prompt written notice of confidential commercial information when records containing such information are responsive to a FOIA request and ODNI determines that it may be required to disclose the records. The notice shall:\n",
+              "(1) Give the submitter an opportunity to object to disclosure of the information, in whole or in part;\n",
+              "(2) Describe the confidential commercial information requested or include copies of the requested record(s) or record portion(s) containing the information; and\n",
+              "(3) Inform the submitter of the time frame in which it must respond to the notice.\n",
+              "(d) ODNI will allow the submitter seven days to respond to the notice described in paragraph (b) of this section. If the submitter objects to the disclosure of the information, in whole or in part, they must provide ODNI with a detailed written statement of the objection. The statement must specify all grounds for withholding any portion of the information under any FOIA exemption and, when relying on FOIA Exemption 4, it must explain why the information is a trade secret, or commercial or financial information that is privileged and confidential. If the submitter fails to respond within the time frame specified in the notice or an extended time frame if requested by the submitter, ODNI will conclude that the submitter has no objection to disclosure of the information. ODNI will only consider information that it receives within the time frame specified in the notice or an extended time frame if requested by the submitter. Any information provided by a submitter under this Part may itself be subject to disclosure under the FOIA.\n\n\n",
+              "(e) ODNI will consider the submitter's objection and specific grounds for non-disclosure in deciding whether to disclose confidential commercial information. Whenever ODNI decides to disclose information over the submitter's objection, it will provide written notice to the submitter that includes:\n",
+              "(1) A statement of the reasons why each of the bases for withholding were not sustained in whole or in part;\n",
+              "(2) A description of the information to be disclosed; and\n",
+              "(3) A specified disclosure date, which shall be a reasonable time after the notice.\n",
+              "(f) The notice requirements of paragraphs (c) and (d) of this section shall not apply if:\n",
+              "(1) ODNI determines that the information is exempt under the FOIA;\n",
+              "(2) The information has been lawfully published or has been officially made available to the public;\n",
+              "(3) Disclosure of the information is required by statute other than the FOIA or by a regulation issued in accordance with the requirements of Executive Order 12600; or\n",
+              "(4) The designation made by the submitter under paragraph (a) of this section appears obviously frivolous. In such a case, ODNI shall, within a reasonable time prior to the date the disclosure will be made, give the submitter written notice of the final decision to disclose the information.\n",
+              "(g) Whenever ODNI provides a submitter with the notice described in paragraph (b) of this section, ODNI also will provide notice to the requester that notice and an opportunity to object to the disclosure are being provided to the submitter. ODNI also must notify the requester when it notifies the submitter of its intent to disclose the requested information, and whenever a submitter files a lawsuit to prevent the disclosure of the information.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.9",
+              "NODE": "32:6.2.3.17.1.0.8.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.9   Fees."
+            ],
+            "P": [
+              "(a) Search, review, and reproduction fees will be charged in accordance with the provisions below relating to the schedule, limitations, and category of requester. Applicable fees will be due even if a subsequent search locates no responsive records or some or all of the responsive records must be denied under one or more of the exemptions of the FOIA. Requesters must pay fees by check or money order made payable to the Treasury of the United States.\n",
+              "(1) ODNI will charge fees that recoup the full allowable direct costs it incurs in processing a FOIA request. Fees may be charged for search, review or duplication. As a matter of administrative discretion, ODNI may release records without charge or at a reduced rate whenever ODNI determines that the interest of the U.S. Government would be served. ODNI will use the most efficient and least costly methods to comply with a request. ODNI may charge for search time even if no records are located or the records located are exempt from disclosure. If ODNI fails to comply with the FOIA's time limits in which to respond to a request, it may not charge search fees, unless the circumstances outlined in paragraph (o) of this section are met.\n",
+              "(2) [Reserved]\n",
+              "(b) With regard to manual searches for records, ODNI will charge the salary rate(s) (calculated as the basic rate of pay plus 16 percent of that basic rate to cover benefits) of the employee(s) performing the search.\n",
+              "(c) In calculating charges for computer searches for records, ODNI will charge the actual direct cost of providing the service, including the cost of operating computers and other electronic equipment, such as photocopiers and scanners, directly attributable to searching for records potentially responsive to the FOIA request and the portion of the salary of the operators/programmers performing the search.\n",
+              "(d) ODNI may only charge requesters seeking records for commercial use for time spent reviewing records to determine whether they are exempt from mandatory disclosure. Charges may be assessed only for the initial review—that is, the review undertaken the first time IRRG staff analyzes the applicability of a specific exemption to a particular record or portion of a record. Records or portions of records withheld in full under an exemption that is subsequently determined not to apply may be reviewed again to determine the applicability of other exemptions not previously considered. ODNI may assess the costs for such subsequent review. No charge will be made for review at the administrative appeal stage of exemptions applied at the initial review stage.\n",
+              {
+                "_": "(e) Records will be duplicated at a rate of $.50 per page, except that ODNI may adjust this rate from time to time by rule published in the  For copies prepared by computer, such as tapes, CDs, DVDs, or printouts, ODNI will charge the actual cost, including operator time, of production. For other methods of reproduction or duplication, ODNI will charge the actual direct costs of producing the document(s). If ODNI estimates that duplication charges are likely to exceed $25.00, it will notify the requester of the estimated amount of fees, unless the requester indicated in advance their willingness to pay fees as high as those anticipated. The notice will offer an opportunity to confer with IRRG staff to reformulate the request to meet the requester's needs at a lower cost. If ODNI notifies a requester that the actual or estimated fees are in excess of $25.00, the request will not be considered received and further work will not be completed until the requester commits in writing to pay the actual or estimated total fee, or designate some amount of fees they are willing to pay, or in the case of a non-commercial use requester who has not yet been provided with their statutory entitlements, the requester designates that they seek only that which can be provided by the statutory entitlements. The ODNI's IRRG staff or FOIA Public Liaison are available to assist requesters with reformulating requests to meet their needs at a lower cost.\n",
+                "E": [
+                  {
+                    "_": "Federal Register.",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              "(f) ODNI will charge the requester the full costs of providing them with the following services:\n",
+              "(1) Certifying that records are true copies; or\n",
+              "(2) Sending records by special methods such as express mail.\n",
+              "(g) ODNI may assess interest charges on an unpaid bill starting on the 31st calendar day following the day on which the bill was sent. Interest shall be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of the billing until payment is received by ODNI.\n",
+              "(h) ODNI will not charge a search fee for requests by educational institutions, non-commercial scientific institutions, or representatives of the news media. A search fee will be charged for a commercial use request.\n",
+              "(i) ODNI will not charge duplication fees for requests by educational institutions, non-commercial scientific institutions, or representatives of the news media for a non-commercial use request if ODNI fails to comply with the FOIA's time limits in which to respond to a request.\n",
+              "(j) Except for a commercial use request, ODNI will not charge for the first 100 pages of duplication and the first two hours of search.\n",
+              "(k) A requester may not file multiple requests, each seeking portions of a record or records, solely for the purpose of avoiding payment of fees. When ODNI reasonably believes that a requester, or a group of requesters acting in concert, has submitted requests that constitute a single request involving clearly related matters, ODNI may aggregate those requests and charge accordingly.\n",
+              "(l) ODNI may not require a requester to make payment before ODNI begins work to satisfy the request or to continue work on a request, unless:\n",
+              "(1) ODNI estimates or determines that the allowable charges that the requester may be required to pay are likely to exceed $250.00; or\n",
+              "(2) The requester has previously failed to pay a fee charged within 30 calendar days of the date of billing.\n",
+              "(m) In cases in which ODNI requires advance payment, the request will not be considered received and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within 30 calendar days after the date of ODNI's fee determination, the request will be closed.\n",
+              "(1) Upon completion of all required review and the receipt of accrued fees (or promise to pay fees), ODNI will promptly inform the requester in writing of those records or portions of records that will be released and those that will be denied.\n",
+              "(2) For records to be released, ODNI will provide paper copies or records on electronic media, if requested and available.\n",
+              "(3) For records not released or partially released, ODNI shall explain the reasons for any denial and give notice of a right of administrative appeal. For partial releases, redactions will be applied to ensure requesters can see the placement and general length of withholdings with the applicable exemption(s) clearly with respect to each withholding.\n",
+              "(n) Fee waiver requests and appeals. Upon written request, ODNI may waive or reduce fees that are otherwise chargeable under this part. If a fee waiver or reduction in fees is requested, the requester must demonstrate that a waiver or reduction in fees is in the public interest because disclosure of the requested records is likely to contribute significantly to the public understanding of the operations or activities of the government and is not primarily in the requester's commercial interest. After processing, actual fees must exceed $25.00 for ODNI to require payment of fees. Appeals should be resolved prior to the initiation of processing and the incurring of costs. However, fee waiver requests will be accepted at any time prior to ODNI's decision regarding the request, except when processing has been initiated.\n",
+              "(o) If the ODNI has determined that unusual circumstances, as defined by the FOIA, apply and more than 5,000 pages are necessary to respond to the request, the ODNI may charge search fees, or, in the case of requesters described in paragraph (h) of this section, may charge duplication fees, if the following steps are taken.\n",
+              "(1) The ODNI must have provided timely written notice of unusual circumstances to the requester in accordance with the FOIA and ODNI must have discussed with the requester via written mail, email, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with 5 U.S.C. 552(a)(6)(B)(ii).\n",
+              "(2) If this exception is satisfied, the ODNI may charge all applicable fees incurred in the processing of the request.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[88 FR 48726, July 28, 2023; 88 FR 51234, Aug. 3, 2023]\n\n\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1700.10",
+              "NODE": "32:6.2.3.17.1.0.8.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1700.10   Other rights and services."
+            ],
+            "P": [
+              "Nothing in this part shall be construed so as to enlarge, diminish, modify, or alter the powers or authority of the ODNI; or construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the FOIA.\n\n\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1701",
+          "NODE": "32:6.2.3.17.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1701—ADMINISTRATION OF RECORDS UNDER THE PRIVACY ACT OF 1974\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "50 U.S.C. 401-442; 5 U.S.C. 552a.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "73 FR 16532, Mar. 28, 2008, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "32:6.2.3.17.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Protection of Privacy and Access to Individual Records Under the Privacy Act of 1974"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1701.1",
+                  "NODE": "32:6.2.3.17.2.1.8.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.1   Purpose, scope, applicability."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  This subpart establishes the policies and procedures the Office of the Director of National Intelligence (ODNI) will follow in implementing the requirements of the Privacy Act of 1974, 5 U.S.C. 552a, as amended. This subpart sets forth the procedures ODNI must follow in collecting and maintaining personal information from or about individuals, as well as procedures by which individuals may request to access or amend records about themselves and request an accounting of disclosures of those records by the ODNI. In addition, this subpart details parameters for disclosing personally identifiable information to persons other than the subject of a record.\n",
+                    "I": [
+                      "Purpose."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The provisions of this subpart apply to all records in systems of records maintained by ODNI directorates, centers, mission managers and other sub-organizations [hereinafter called “components”] that are retrieved by an individual's name or personal identifier.\n",
+                    "I": [
+                      "Scope."
+                    ]
+                  },
+                  {
+                    "_": "(c)  This subpart governs the following individuals and entities:\n",
+                    "I": [
+                      "Applicability."
+                    ]
+                  },
+                  "(1) All ODNI staff and components must comply with this subpart. The terms “staff” and “component” are defined in § 1701.2.\n",
+                  "(2) Unless specifically exempted, this subpart also applies to advisory committees and councils within the meaning of the Federal Advisory Committee Act (FACA) which provide advice to: Any official or component of ODNI; or the President, and for which ODNI has been delegated responsibility for providing service.\n",
+                  {
+                    "_": "(d)  The ODNI shall provide a subject individual under this subpart all records which are otherwise accessible to such individual under the provisions of the Freedom of Information Act, 5 U.S.C. 552.\n\n\n",
+                    "I": [
+                      "Relation to Freedom of Information Act."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.2",
+                  "NODE": "32:6.2.3.17.2.1.8.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.2   Definitions."
+                ],
+                "P": [
+                  "For purposes of this subpart, the following terms have the meanings indicated:\n",
+                  {
+                    "_": " means making a record available to a subject individual.\n",
+                    "I": [
+                      "Access"
+                    ]
+                  },
+                  {
+                    "_": " means the Privacy Act of 1974.\n",
+                    "I": [
+                      "Act"
+                    ]
+                  },
+                  {
+                    "_": " means the ODNI or any of its components.\n",
+                    "I": [
+                      "Agency"
+                    ]
+                  },
+                  {
+                    "_": " means any directorate, mission manager, or other sub-organization in the ODNI or reporting to the Director, that has been designated or established in the ODNI pursuant to Section 103 of the National Security Act of 1947, as amended, including the National Counterterrorism Center (NCTC), the National Counterproliferation Center (NCPC) and the Office of the National Counterintelligence Executive (ONCIX), or such other offices and officials as may be established by law or as the Director may establish or designate in the ODNI, for example, the Program Manager, Information Sharing Environment (ISE) and the Inspector General (IG).\n",
+                    "I": [
+                      "Component"
+                    ]
+                  },
+                  {
+                    "_": " means making a record about an individual available to or releasing it to another party.\n",
+                    "I": [
+                      "Disclosure"
+                    ]
+                  },
+                  {
+                    "_": " means the Freedom of Information Act.\n",
+                    "I": [
+                      "FOIA"
+                    ]
+                  },
+                  {
+                    "_": ", when used in connection with the Privacy Act, means a living person who is a citizen of the United States or an alien lawfully admitted for permanent residence. It does not include sole proprietorships, partnerships, or corporations.\n",
+                    "I": [
+                      "Individual"
+                    ]
+                  },
+                  {
+                    "_": " means information about an individual and includes, but is not limited to, vital statistics; race, sex, or other physical characteristics; earnings information; professional fees paid to an individual and other financial information; benefit data or claims information; the Social Security number, employer identification number, or other individual identifier; address; phone number; medical information; and information about marital, family or other personal relationships.\n",
+                    "I": [
+                      "Information"
+                    ]
+                  },
+                  {
+                    "_": " means to establish, collect, use, or disseminate when used in connection with the term record; and, to have control over or responsibility for a system of records, when used in connection with the term system of records.\n",
+                    "I": [
+                      "Maintain"
+                    ]
+                  },
+                  {
+                    "_": " means communication to an individual whether he is a subject individual.\n",
+                    "I": [
+                      "Notification"
+                    ]
+                  },
+                  {
+                    "_": " means any and all of the components of the ODNI.\n",
+                    "I": [
+                      "Office of the Director of National Intelligence"
+                    ]
+                  },
+                  {
+                    "_": " means any item, collection, or grouping of information about an individual that is maintained by the ODNI including, but not limited to, information such as an individual's education, financial transactions, medical history, and criminal or employment history that contains the individual's name, or an identifying number, symbol, or any other identifier assigned to an individual. When used in this subpart, record means only a record that is in a system of records.\n",
+                    "I": [
+                      "Record"
+                    ]
+                  },
+                  {
+                    "_": " use means the disclosure of a record outside ODNI, without the consent of the subject individual, for a purpose which is compatible with the purpose for which the record was collected. It does not include disclosure which the Privacy Act otherwise permits pursuant to subsection (b) of the Act.\n",
+                    "I": [
+                      "Routine"
+                    ]
+                  },
+                  {
+                    "_": " means any current or former regular or special employee, detailee, assignee, employee of a contracting organization, or independent contractor of the ODNI or any of its components.\n",
+                    "I": [
+                      "Staff"
+                    ]
+                  },
+                  {
+                    "_": " individual means the person to whom a record pertains (or “record subject”).\n",
+                    "I": [
+                      "Subject"
+                    ]
+                  },
+                  {
+                    "_": " means a group of records under ODNI's control from which information about an individual is retrieved by the name of the individual or by an identifying number, symbol, or other particular assigned to the individual. Single records or groups of records which are not retrieved by a personal identifier are not part of a system of records,\n\n\n",
+                    "I": [
+                      "System of records"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.3",
+                  "NODE": "32:6.2.3.17.2.1.8.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.3   Contact for general information and requests."
+                ],
+                "P": [
+                  "Privacy Act requests and appeals and inquiries regarding this subpart or about ODNI's Privacy Act program must be submitted in writing to the Director, Information Management Office (D/IMO), Office of the Director of National Intelligence, Washington, DC 20511 (by mail or by facsimile at 703-482-2144) or to the contact designated in the specific Privacy Act System of Records Notice. Privacy Act requests with the required identification statement and signature pursuant to paragraphs (d) and (e) of § 1701.7 of this subpart must be filed in original form.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.4",
+                  "NODE": "32:6.2.3.17.2.1.8.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.4   Privacy Act responsibilities/policy."
+                ],
+                "P": [
+                  "The ODNI will administer records about individuals consistent with statutory, administrative, and program responsibilities. Subject to exemptions authorized by the Act, ODNI will collect, maintain and disclose records as required and will honor subjects' rights to view and amend records and to obtain an accounting of disclosures.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.5",
+                  "NODE": "32:6.2.3.17.2.1.8.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.5   Collection and maintenance of records."
+                ],
+                "P": [
+                  "(a) ODNI will not maintain a record unless:\n",
+                  "(1) It is relevant and necessary to accomplish an ODNI function required by statute or Executive Order;\n",
+                  "(2) It is acquired to the greatest extent practicable from the subject individual when ODNI may use the record to make any determination about the individual;\n",
+                  "(3) The individual providing the record is informed of the authority for providing the record (including whether providing the record is mandatory or voluntary), the principal purpose for maintaining the record, the routine uses for the record, and what effect refusing to provide the record may have;\n",
+                  "(4) It is maintained with such accuracy, relevance, timeliness and completeness as is reasonably necessary to ensure fairness to the individual in the determination;\n",
+                  "(b) Except as to disclosures made to an agency or made under the FOIA, ODNI will make reasonable efforts prior to disseminating a record about an individual, to ensure that the record is accurate, relevant, timely, and complete;\n",
+                  "(c) ODNI will not maintain or develop a system of records that is not the subject of a current or planned public notice;\n",
+                  {
+                    "_": "(d) ODNI will not adopt a routine use of information in a system without notice and invitation to comment published in the  at least 30 days prior to final adoption of the routine use;\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(e) To the extent ODNI participates with a non-Federal agency in matching activities covered by section (8) of the Act, ODNI will publish notice of the matching program in the ;\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(f) ODNI will not maintain a record which describes how an individual exercises rights guaranteed by the First Amendment unless expressly authorized by statute or by the subject individual, or unless pertinent to and within the scope of an authorized law enforcement activity;\n",
+                  "(g) When required by the Act, ODNI will maintain an accounting of all disclosures of records by the ODNI to persons, organizations or agencies;\n",
+                  "(h) Each ODNI component shall implement administrative, physical and technical controls to prevent unauthorized access to its systems of records, to prevent unauthorized disclosure of records, and to prevent physical damage to or destruction of records;\n",
+                  "(i) ODNI will establish rules and instructions for complying with the requirements of the Privacy Act, including notice of the penalties for non-compliance, applicable to all persons involved in the design, development, operation or maintenance of any system of records.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.6",
+                  "NODE": "32:6.2.3.17.2.1.8.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.6   Disclosure of records/policy."
+                ],
+                "P": [
+                  "Consistent with 5 U.S.C. 552a(b), ODNI will not disclose any record which is contained in a system of records by any means (written, oral or electronic) without the consent of the subject individual unless disclosure without consent is made for reasons permitted under applicable law, including:\n",
+                  "(a) Internal agency use on a need-to-know basis;\n",
+                  "(b) Release under the Freedom of Information Act (FOIA) if not subject to protection under the FOIA exemptions;\n",
+                  {
+                    "_": "(c) A specific “routine use” as described in the ODNI's published compilation of Routine Uses Applicable to More Than One ODNI System of Records or in specific published Privacy Act Systems of Records Notices (available at );\n",
+                    "I": [
+                      "http://www.dni.gov"
+                    ]
+                  },
+                  "(d) Release to the Bureau of the Census, the National Archives and Records Administration, or the Government Accountability Office, for the performance of those entities' statutory duties;\n",
+                  "(e) Release in non-identifiable form to a recipient who has provided written assurance that the record will be used solely for statistical research or reporting;\n",
+                  "(f) Compelling circumstances in which the health or safety of an individual is at risk;\n",
+                  "(g) Release pursuant to the order of a court of competent jurisdiction or to a governmental entity for a specifically documented civil or criminal law enforcement activity;\n",
+                  "(h) Release to either House of Congress or to any committee, subcommittee or joint committee thereof to the extent of matter within its jurisdiction;\n",
+                  "(i) Release to a consumer reporting agency in accordance with section 3711(e) of Title 31.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.7",
+                  "NODE": "32:6.2.3.17.2.1.8.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.7   Requests for notification of and access to records."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Unless records are not subject to access (see paragraph (b) of this section), individuals seeking access to records about themselves may submit a request in writing to the D/IMO, as directed in Sec. 1701.3 of this subpart, or to the contact designated in the specific Privacy Act System of Records Notice. To ensure proper routing and tracking, requesters should mark the envelope “Privacy Act Request.”\n",
+                    "I": [
+                      "How to request."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The following records are not subject to review by subject individuals:\n",
+                    "I": [
+                      "Records not subject to access."
+                    ]
+                  },
+                  {
+                    "_": "(1) Records in ODNI systems of records that ODNI has exempted from access and correction under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the  or where those exemptions require that ODNI can neither confirm nor deny the existence or nonexistence of responsive records (see § 1701.10(c)(iii)).\n",
+                    "E": [
+                      {
+                        "_": "Federal Register,",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(2) Records in ODNI systems of records that another agency has exempted from access and correction under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the  or where those exemptions require that ODNI can neither confirm nor deny the existence or nonexistence of responsive records (see § 1701.10(c)(iii)).\n",
+                    "E": [
+                      {
+                        "_": "Federal Register,",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(c)  Individuals requesting access to records about themselves should, to the extent possible, describe the nature of the records, why and under what circumstances the requester believes ODNI maintains the records, the time period in which they may have been compiled and, ideally, the name or identifying number of each Privacy Act System of Records in which they might be included. The ODNI publishes notices in the  that describe its systems of records. The  compiles these notices biennially and makes them available in hard copy at large reference libraries and in electronic form at the Government Printing Office's World Wide Web site, \n",
+                    "I": [
+                      "Description of records.",
+                      "http://www.gpoaccess.gov."
+                    ],
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      },
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "_": "(d)  A written request for access to records about oneself must include full (legal) name, current address, date and place of birth, and citizenship status. Aliens lawfully admitted for permanent residence must provide their Alien Registration Number and the date that status was acquired. The D/IMO may request additional or clarifying information to ascertain identity. Access requests must be signed and the signature either notarized or submitted under 28 U.S.C. 1746, authorizing statements made under penalty of perjury as a substitute for notarization.\n",
+                    "I": [
+                      "Verification of identity."
+                    ]
+                  },
+                  {
+                    "_": "(e)  The parent or guardian of a minor, the guardian of an individual under judicial disability, or an attorney retained to represent an individual shall provide, in addition to establishing the identity of the minor or individual represented as required in paragraph (d) of this section, evidence of such representation by submitting a certified copy of the minor's birth certificate, court order, or representational agreement which establishes the relationship and the requester's identity.\n",
+                    "I": [
+                      "Verification of guardianship or representational relationship."
+                    ]
+                  },
+                  "(f) ODNI will permit access to or provide copies of records to individuals other than the record subject (or the subject's legal representative) only with the requester's written authorization.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.8",
+                  "NODE": "32:6.2.3.17.2.1.8.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.8   Requests to amend or correct records."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Unless the record is not subject to amendment or correction (see paragraph (b) of this section), individuals (or guardians or representatives acting on their behalf) may make a written amendment or correction request to the D/IMO, as directed in § 1701.3 of this subpart, or to the contact designated in a specific Privacy Act System of Records. Requesters seeking amendment or correction should identify the particular record or portion subject to the request, explain why an amendment or correction is necessary, and provide the desired replacement language. Requesters may submit documentation supporting the request to amend or correct. Requests for amendment or correction will lapse (but may be re-initiated with a new request) if all necessary information is not submitted within forty-five (45) days of the date of the original request. The identity verification procedures of paragraphs (d) and (e) of § 1701.7 of this subpart apply to amendment requests.\n",
+                    "I": [
+                      "How to request."
+                    ]
+                  },
+                  "(b). (1) Records which are determinations of fact or evidence received (e.g., transcripts of testimony given under oath or written statements made under oath; transcripts of grand jury proceedings, judicial proceedings, or quasi-judicial proceedings, which are the official record of those proceedings; pre-sentence records that originated with the courts) and\n",
+                  {
+                    "_": "(2) Records in ODNI systems of records that ODNI or another agency has exempted from amendment and correction under Privacy Act, 5 U.S.C. 552a(j) or (k) by notice published in the \n\n\n",
+                    "E": [
+                      {
+                        "_": "Federal Register.",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.9",
+                  "NODE": "32:6.2.3.17.2.1.8.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.9   Requests for an accounting of record disclosures."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Except where accountings of disclosures are not required to be kept (see paragraph (b) of this section), record subjects (or their guardians or representatives) may request an accounting of disclosures that have been made to another person, organization, or agency as permitted by the Privacy Act at 5 U.S.C. 552a(b). This accounting contains the date, nature, and purpose of each disclosure, as well as the name and address of the person, organization, or agency to which the disclosure was made. Requests for accounting should identify each record in question and must be made in writing to the D/IMO, as indicated in § 1701.3 of this subpart, or to the contact designated in a specific Privacy Act System of Records.\n",
+                    "I": [
+                      "How to request."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The ODNI is not required to provide accounting of disclosure in the following circumstances:\n",
+                    "I": [
+                      "Accounting not required."
+                    ]
+                  },
+                  "(1) Disclosures for which the Privacy Act does not require accounting, i.e., disclosures to employees within the agency and disclosures made under the FOIA;\n",
+                  "(2) Disclosures made to law enforcement agencies for authorized law enforcement activities in response to written requests from the respective head of the law enforcement agency specifying the law enforcement activities for which the disclosures are sought; or\n",
+                  {
+                    "_": "(3) Disclosures from systems of records that have been exempted from accounting requirements under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the \n\n\n",
+                    "E": [
+                      {
+                        "_": "Federal Register.",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.10",
+                  "NODE": "32:6.2.3.17.2.1.8.10",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.10   ODNI responsibility for responding to access requests."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Upon receipt of a request providing all necessary information, the D/IMO shall acknowledge receipt to the requester and provide an assigned request number for further reference.\n",
+                    "I": [
+                      "Acknowledgement of requests."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Upon receipt of a proper access request, the D/IMO shall provide a copy of the request to the point of contact (POC) in the ODNI component with which the records sought reside. The POC within the component shall determine whether responsive records exist and, if so, recommend to the D/IMO:\n",
+                    "I": [
+                      "Tasking to component."
+                    ]
+                  },
+                  "(1) Whether access should be denied in whole or part (and the legal basis for denial under the Privacy Act); or\n",
+                  "(2) Whether coordination with or referral to another component or federal agency is appropriate.\n",
+                  {
+                    "_": "(c) —(1)  If a component POC receiving a request for access determines that an originating agency or other agency that has a substantial interest in the record is best able to process the request (e.g., the record is governed by another agency's regulation, or another agency originally generated or classified the record), the POC shall forward to the D/IMO all records necessary for coordination with or referral to the other component or agency, as well as specific recommendations with respect to any denials.\n",
+                    "I": [
+                      "Coordination and referrals",
+                      "Examination of records."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Whenever the D/IMO refers all or any part of the responsibility for responding to a request to another agency, the D/IMO shall notify the requester of the referral.\n",
+                    "I": [
+                      "Notice of referral."
+                    ]
+                  },
+                  {
+                    "_": "(3)  (i) In processing a request, the ODNI shall decline to confirm or deny the existence or nonexistence of any responsive records whenever the fact of their existence or nonexistence:\n",
+                    "I": [
+                      "Effect of certain exemptions."
+                    ]
+                  },
+                  "(A) May reveal protected intelligence sources and collection methods (50 U.S.C. 403-1(i)); or\n",
+                  "(B) Is classified and subject to an exemption appropriately invoked by ODNI or another agency under subsections (j) or (k) of the Privacy Act.\n",
+                  "(ii) In such event, the ODNI will inform the requester in writing and advise the requestor of the right to file an administrative appeal of any adverse determination.\n",
+                  {
+                    "_": "(d)  The D/IMO shall respond to a request for access promptly upon receipt of recommendations from the POC and determinations resulting from any necessary coordination with or referral to another agency. The D/IMO may determine to update a requester on the status of a request that remains outstanding longer than reasonably expected.\n",
+                    "I": [
+                      "Time for response."
+                    ]
+                  },
+                  {
+                    "_": "(e) —(1)  Once the D/IMO determines to grant a request for access in whole or in part, the D/IMO shall notify the requester in writing and come to agreement with the requester about how to effect access, whether by on-site review or duplication of the records. If a requester is accompanied by another person, the requester shall be required to authorize in writing any discussion of the records in the presence of the other person.\n",
+                    "I": [
+                      "ODNI action on requests for access",
+                      "Grant of access."
+                    ]
+                  },
+                  {
+                    "_": "(2)  The D/IMO shall notify the requester in writing when an adverse determination is made denying a request for access in any respect. Adverse determinations, or denials, consist of a determination to withhold any requested record in whole or in part; a determination that a requested record does not exist or cannot be located; a determination that what has been requested is not a record subject to the Privacy Act; or a determination that the existence of a record can neither be confirmed nor denied. The notification letter shall state:\n",
+                    "I": [
+                      "Denial of access."
+                    ]
+                  },
+                  "(i) The reason(s) for the denial; and\n",
+                  "(ii) The procedure for appeal of the denial under § 1701.14 of this subpart.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.11",
+                  "NODE": "32:6.2.3.17.2.1.8.11",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.11   ODNI responsibility for responding to requests for amendment or correction."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The D/IMO shall acknowledge receipt of a request for amendment or correction of records in writing and provide an assigned request number for further reference.\n",
+                    "I": [
+                      "Acknowledgement of request."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Upon receipt of a proper request to amend or correct a record, the D/IMO shall forward the request to the POC in the component maintaining the record. The POC shall promptly evaluate the proposed amendment or correction in light of any supporting justification and recommend that the D/IMO grant or deny the request or, if the request involves a record subject to correction by an originating agency, refer the request to the other agency.\n",
+                    "I": [
+                      "Tasking of component."
+                    ]
+                  },
+                  {
+                    "_": "(c)  (1) If the POC determines that the request for amendment or correction is justified, in whole or in part, the D/IMO shall promptly:\n",
+                    "I": [
+                      "Action on request for amendment or correction."
+                    ]
+                  },
+                  "(i) Make the amendment, in whole or in part, as requested and provide the requester a written description of the amendment or correction made; and\n",
+                  "(ii) Provide written notice of the amendment or correction to all persons, organizations or agencies to which the record has been disclosed (if an accounting of the disclosure was made);\n",
+                  "(2) Where the D/IMO has referred an amendment request to another agency, the D/IMO, upon confirmation from that agency that the amendment has been effected, shall provide written notice of the amendment or correction to all persons, organizations or agencies to which ODNI previously disclosed the record.\n",
+                  "(3) If the POC determines that the requester's records are accurate, relevant, timely and complete, and that no basis exists for amending or correcting the record, either in whole or in part, the D/IMO shall inform the requester in writing of:\n",
+                  "(i) The reason(s) for the denial; and\n",
+                  "(ii) The procedure for appeal of the denial under Sec. 1701.15 of this subpart.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.12",
+                  "NODE": "32:6.2.3.17.2.1.8.12",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.12   ODNI responsibility for responding to requests for accounting."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Upon receipt of a request for accounting, the D/IMO shall acknowledge receipt of the request in writing and provide an assigned request number for further reference.\n",
+                    "I": [
+                      "Acknowledgement of request."
+                    ]
+                  },
+                  {
+                    "_": "(b)  Upon receipt of a request for accounting, the D/IMO shall forward the request to the POC in the component maintaining the record. The POC shall work with the component's information management officer and the systems administrator to generate the requested disclosure history.\n",
+                    "I": [
+                      "Tasking of component."
+                    ]
+                  },
+                  {
+                    "_": "(c)  The D/IMO will notify the requester when the accounting is available for on-site review or transmission in paper or electronic medium.\n",
+                    "I": [
+                      "Action on request for accounting."
+                    ]
+                  },
+                  {
+                    "_": "(d)  The D/IMO shall make reasonable efforts to notify an individual whose record is disclosed pursuant to court order. Notice shall be made within a reasonable time after receipt of the order; however, when the order is not a matter of public record, the notice shall be made only after the order becomes public. Notice shall be sent to the individual's last known address and include a copy of the order and a description of the information disclosed. No notice shall be made regarding records disclosed from a criminal law enforcement system that has been exempted from the notice requirement.\n",
+                    "I": [
+                      "Notice of court-ordered disclosures."
+                    ]
+                  },
+                  {
+                    "_": "(e)  ODNI shall notify an individual whose record it discloses under compelling circumstances affecting health or safety. This notice shall be mailed to the individual's last known address and shall state the nature of the information disclosed; the person, organization, or agency to which it was disclosed; the date of disclosure; and the compelling circumstances justifying the disclosure. This provision shall not apply in circumstances involving classified records that have been exempted from disclosure pursuant to subsection (j) or (k) of the Privacy Act.\n\n\n",
+                    "I": [
+                      "Notice of emergency disclosures."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.13",
+                  "NODE": "32:6.2.3.17.2.1.8.13",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.13   Special procedures for medical/psychiatric/psychological records."
+                ],
+                "P": [
+                  "Current and former ODNI employees, including current and former employees of ODNI contractors, and unsuccessful applicants for employment may seek access to their medical, psychiatric or psychological testing records by writing to: Information and Privacy Coordinator, Central Intelligence Agency, Washington, DC 20505, and provide identifying information as required by paragraphs (d) and (e) of § 1701.7 of this subpart. The Central Intelligence Agency's Privacy Act Regulations will govern administration of these types of records, including appeals from adverse determinations.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.14",
+                  "NODE": "32:6.2.3.17.2.1.8.14",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.14   Appeals."
+                ],
+                "P": [
+                  "(a) Individuals may appeal denials of requests for access, amendment, or accounting by submitting a written request for review to the Director, Information Management Office (D/IMO) at the Office of the Director of National Intelligence, Washington, DC 20511. The words “PRIVACY ACT APPEAL” should be written on the letter and the envelope. The appeal must be signed by the record subject or legal representative. No personal appearance or hearing on appeal will be allowed.\n",
+                  "(b) The D/IMO must receive the appeal letter within 45 calendar days of the date the requester received the notice of denial. The postmark is conclusive as to timeliness. Copies of correspondence from ODNI denying the request to access or amend the record should be included with the appeal, if possible. At a minimum, the appeal letter should identify:\n",
+                  "(1) The records involved;\n",
+                  "(2) The date of the initial request for access to or amendment of the record;\n",
+                  "(3) The date of ODNI's denial of that request; and\n",
+                  "(4) A statement of the reasons supporting the request for reversal of the initial decision. The statement should focus on information not previously available or legal arguments demonstrating that the ODNI's decision is improper.\n",
+                  "(c) Following receipt of the appeal, the Director of Intelligence Staff (DIS) shall, in consultation with the Office of General Counsel, make a final determination in writing on the appeal.\n",
+                  "(d) Where ODNI reverses an initial denial, the following procedures apply:\n",
+                  "(1) If ODNI reverses an initial denial of access, the procedures in paragraph (e)(1) of § 1701.10 of this subpart will apply.\n",
+                  "(2) If ODNI reverses its initial denial of a request to amend a record, the POC will ensure that the record is corrected as requested, and the D/IMO will inform the individual of the correction, as well as all persons, organizations and agencies to which ODNI had disclosed the record.\n",
+                  "(3) If ODNI reverses its initial denial of a request for accounting, the POC will notify the requester when the accounting is available for on-site review or transmission in paper or electronic medium.\n",
+                  {
+                    "_": "(e) If ODNI upholds its initial denial or reverses in part (, only partially granting the request), ODNI's notice of final agency action will inform the requester of the following rights:\n",
+                    "I": [
+                      "i.e."
+                    ]
+                  },
+                  "(1) Judicial review of the denial under 5 U.S.C. 552a(g)(1), as limited by 5 U.S.C. 552a(g)(5).\n",
+                  "(2) Opportunity to file a statement of disagreement with the denial, citing the reasons for disagreeing with ODNI's final determination not to correct or amend a record. The requester's statement of disagreement should explain why he disputes the accuracy of the record.\n",
+                  "(3) Inclusion in one's record of copies of the statement of disagreement and the final denial, which ODNI will provide to all subsequent recipients of the disputed record, as well as to all previous recipients of the record where an accounting was made of prior disclosures of the record.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.15",
+                  "NODE": "32:6.2.3.17.2.1.8.15",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.15   Fees."
+                ],
+                "P": [
+                  "ODNI shall charge fees for duplication of records under the Privacy Act, 5 U.S.C. 552a, in the same way in which it will charge for duplication of records under § 1700.7(g), ODNI's regulation implementing the fee provision of the Freedom of Information Act, 5 U.S.C. 552.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.16",
+                  "NODE": "32:6.2.3.17.2.1.8.16",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.16   Contractors."
+                ],
+                "P": [
+                  "(a) Any approved contract for the operation of a Privacy Act system of records to accomplish a function of the ODNI will contain the Privacy Act provisions prescribed by the Federal Acquisition Regulations (FAR) at 48 CFR part 24, requiring the contractor to comply with the Privacy Act and this subpart. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements. This section does not apply to systems of records maintained by a contractor as a function of management discretion, e.g., the contractor's personnel records.\n",
+                  "(b) Where the contract contains a provision requiring the contractor to comply with the Privacy Act and this subpart, the contractor and any employee of the contractor will be considered employees of the ODNI for purposes of the criminal penalties of the Act, 5 U.S.C. 552a(i).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.17",
+                  "NODE": "32:6.2.3.17.2.1.8.17",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.17   Standards of conduct."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  ODNI will ensure that staff are aware of the provisions of the Privacy Act and of their responsibilities for protecting personal information that ODNI collects and maintains, consistent with Sec. 1701.5 and 1701.6 of this subpart.\n",
+                    "I": [
+                      "General."
+                    ]
+                  },
+                  {
+                    "_": "(b) —(1)  Criminal penalties may be imposed against any ODNI staff who, by virtue of employment, has possession or access to ODNI records which contain information identifiable with an individual, the disclosure of which is prohibited by the Privacy Act or by these rules, and who, knowing that disclosure of the specific material is prohibited, willfully discloses the material in any manner to any person or agency not entitled to receive it.\n",
+                    "I": [
+                      "Criminal penalties",
+                      "Unauthorized disclosure."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Criminal penalties may be imposed against any ODNI staff who willfully maintains a system of records without meeting the requirements of subsection (e)(4) of the Privacy Act, 5 U.S.C. 552a. The D/IMO, the Civil Liberties Protection Officer, the General Counsel, and the Inspector General are authorized independently to conduct such surveys and inspect such records as necessary from time to time to ensure that these requirements are met.\n",
+                    "I": [
+                      "Unauthorized maintenance."
+                    ]
+                  },
+                  {
+                    "_": "(3)  Criminal penalties may be imposed upon any person who knowingly and willfully requests or obtains any record concerning an individual from the ODNI under false pretenses.\n\n\n",
+                    "I": [
+                      "Unauthorized requests."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "32:6.2.3.17.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Exemption of Record Systems Under the Privacy Act"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1701.20",
+                  "NODE": "32:6.2.3.17.2.2.8.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.20   Exemption policies."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The DNI has determined that invoking exemptions under the Privacy Act and continuing exemptions previously asserted by agencies whose records ODNI receives is necessary: to ensure against the release of classified information essential to the national defense or foreign relations; to protect intelligence sources and methods; and to maintain the integrity and effectiveness of intelligence, investigative and law enforcement processes. Accordingly, as authorized by the Privacy Act, 5 U.S.C. 552a, subsections (j) and (k), and in accordance with the rulemaking procedures of the Administrative Procedures Act, 5 U.S.C. 553, the ODNI shall:\n",
+                    "I": [
+                      "General."
+                    ]
+                  },
+                  "(1) Exercise its authority pursuant to subsections (j) and (k) of the Privacy Act to exempt certain ODNI systems of records or portions of systems of records from various provisions of the Privacy Act; and\n",
+                  "(2) Continue in effect and assert all exemptions claimed under Privacy Act subsections (j) and (k) by an originating agency from which the ODNI obtains records where the purposes underlying the original exemption remain valid and necessary to protect the contents of the record.\n",
+                  {
+                    "_": "(b)  (1) The exemptions asserted apply to records only to the extent they meet the criteria of subsections (j) and (k) of the Privacy Act, whether claimed by the ODNI or the originator of the records.\n",
+                    "I": [
+                      "Related policies."
+                    ]
+                  },
+                  {
+                    "_": "(2) Discretion to supersede exemption: Where complying with a request for access or amendment would not appear to interfere with or adversely affect a counterterrorism or law enforcement interest, and unless prohibited by law, the D/IMO may exercise his discretion to waive the exemption. Discretionary waiver of an exemption with respect to a record will not obligate the ODNI to waive the exemption with respect to any other record in an exempted system of records. As a condition of such discretionary access, ODNI may impose any restrictions (, concerning the location of file reviews) deemed necessary or advisable to protect the security of agency operations, information, personnel, or facilities.\n",
+                    "I": [
+                      "e.g."
+                    ]
+                  },
+                  "(3) Records in ODNI systems also are subject to protection under 50 U.S.C. 403-1(i), the provision of the National Security Act of 1947 which requires the DNI to protect intelligence sources and methods from unauthorized disclosure.\n\n\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.21",
+                  "NODE": "32:6.2.3.17.2.2.8.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.21   Exemption of the Office of the Director of National Intelligence (ODNI) systems of records."
+                ],
+                "P": [
+                  "(a) ODNI exempts the systems of records listed in § 1701.22 from the requirements of paragraphs (c)(3); (d)(1), (2), (3) and (4); (e)(1) and (e)(4)(G), (H), and (I); and (f) of the Privacy Act (5 U.S.C. 552a) to the extent that information in the system is subject to exemption pursuant to paragraph (k)(1), (k)(2), or (k)(5) of the Act as noted in § 1701.22. ODNI also derivatively preserves the exempt status of records it receives from source agencies when the reason for the exemption remains valid, as set forth in § 1701.20.\n",
+                  "(b) Systems of records utilized by the Office of the Intelligence Community Inspector General (ICIG) are additionally exempted from the requirements of paragraphs (c)(4); (e)(2); (e)(3); (e)(5); (e)(8); (e)(12); and (g) of the Privacy Act (5 U.S.C. 552a) to the extent that information in the system is subject to exemption pursuant to paragraph (j)(2) of the Privacy Act (5 U.S.C. 552a).\n",
+                  "(c) Exemption of records in these systems from any or all of the enumerated requirements may be necessary for the following reasons:\n",
+                  "(1) From paragraph (c)(3) of the Privacy Act (5 U.S.C. 552a) (accounting of disclosures) because an accounting of disclosures from records concerning the record subject would specifically reveal an intelligence or investigative interest on the part of ODNI or the recipient agency and could result in release of properly classified national security or foreign policy information.\n",
+                  "(2) From paragraph (c)(4) of the Privacy Act (5 U.S.C. 552a) (notice of amendment to record recipients) because the system is exempted from the access and amendment provisions of paragraph (d) of the Privacy Act.\n",
+                  "(3) From paragraphs (d)(1) through (4) of the Privacy Act (5 U.S.C. 552a) (record subject's right to access and amend records) because affording access and amendment rights could alert the record subject to the investigative interest of intelligence or law enforcement agencies or compromise sensitive information classified in the interest of national security. In the absence of a national security basis for exemption, records in this system may be exempted from access and amendment to the extent necessary to honor promises of confidentiality to persons providing information concerning a candidate for position. Inability to maintain such confidentiality would restrict the free flow of information vital to a determination of a candidate's qualifications and suitability.\n",
+                  "(4) From paragraph (e)(1) of the Privacy Act (5 U.S.C. 552a) (maintain only relevant and necessary records) because it is not always possible to establish relevance and necessity before all information is considered and evaluated in relation to an intelligence concern. In the absence of a national security basis for exemption under paragraph (k)(1) of the Privacy Act (5 U.S.C. 552a), records in this system may be exempted from the relevance requirement pursuant to paragraphs (k)(2) and (5) of the Privacy Act (5 U.S.C. 552a) because it is not possible to determine in advance what exact information may assist in determining the qualifications and suitability of a candidate for position. Seemingly irrelevant details, when combined with other data, can provide a useful composite for determining whether a candidate should be appointed.\n",
+                  "(5) From paragraph (e)(2) of the Privacy Act (5 U.S.C. 552a) (collection directly from the individual) because application of this provision would alert the subject of a counterterrorism investigation, study, or analysis to that fact, permitting the subject to frustrate or impede the activity. Counterterrorism investigations necessarily rely on information obtained from third parties rather than information furnished by subjects themselves.\n",
+                  "(6) From paragraph (e)(3) of the Privacy Act (5 U.S.C. 552a) (provide Privacy Act Statement to subjects furnishing information) because the system is exempted from requirements in paragraph (e)(2) of the Privacy Act to collect information directly from the subject.\n",
+                  "(7) From paragraphs (e)(4)(G) and (H) of the Privacy Act (5 U.S.C. 552a) (publication of procedures for notifying subjects of the existence of records about them and how they may access records and contest contents) because the system is exempted from provisions in paragraph (d) of the Privacy Act (5 U.S.C. 552a) regarding access and amendment, and from the requirement in paragraph (f) of the Privacy Act to promulgate agency rules for notification, access, and amendment. Nevertheless, ODNI has published notice concerning notification, access, and contest procedures because it may in certain circumstances determine it appropriate to provide subjects access to all or a portion of the records about them in a system of records.\n",
+                  "(8) From paragraph (e)(4)(I) of the Privacy Act (5 U.S.C. 552a) (identifying sources of records in the system of records) because identifying sources could result in disclosure of properly classified national defense or foreign policy information, intelligence sources and methods, and investigatory techniques and procedures. Notwithstanding its exemption from this requirement, ODNI identifies record sources in broad categories sufficient to provide general notice of the origins of the information it maintains in its systems of records.\n",
+                  "(9) From paragraph (e)(5) of the Privacy Act (5 U.S.C. 552a) (maintain timely, accurate, complete and up-to-date records) because many of the records in the system are derived from other domestic and foreign agency record systems over which ODNI exercises no control. In addition, in collecting information for counterterrorism, intelligence, and law enforcement purposes, it is not possible to determine in advance what information is accurate, relevant, timely, and complete. With the passage of time and the development of additional facts and circumstances, seemingly irrelevant or dated information may acquire significance. The restrictions imposed by paragraph (e)(5) of the Privacy Act (5 U.S.C. 552a) would limit the ability of intelligence analysts to exercise judgment in conducting investigations and impede development of intelligence necessary for effective counterterrorism and law enforcement efforts.\n",
+                  "(10) From paragraph (e)(8) of the Privacy Act (5 U.S.C. 552a) (notice of compelled disclosures) because requiring individual notice of legally compelled disclosure poses an impossible administrative burden and could alert subjects of counterterrorism, law enforcement, or intelligence investigations to the previously unknown fact of those investigations.\n",
+                  {
+                    "_": "(11) From paragraph (e)(12) of the Privacy Act (public notice of matching activity) because, to the extent such activities are not otherwise excluded from the matching requirements of the Privacy Act (5 U.S.C. 552a), publishing advance notice in the  would frustrate the ability of intelligence analysts to act quickly in furtherance of analytical efforts.\n",
+                    "E": [
+                      {
+                        "_": "Federal Register",
+                        "$": {
+                          "T": "04"
+                        }
+                      }
+                    ]
+                  },
+                  "(12) From paragraph (f) of the Privacy Act (5 U.S.C. 552a) (agency rules for notifying subjects to the existence of records about them, for accessing and amending records, and for assessing fees) because the system is exempt from provisions in paragraph (d) of the Privacy Act regarding access and amendment of records by record subjects. Nevertheless, ODNI has published agency rules concerning notification of a subject in response to his request if any system of records named by the subject contains a record pertaining to him and procedures by which the subject may access or amend the records. Notwithstanding exemption, ODNI may determine it appropriate to satisfy a record subject's access request.\n",
+                  "(13) From paragraph (g) of the Privacy Act (5 U.S.C. 552a) (civil remedies) to the extent that the civil remedies relate to provisions of 5 U.S.C. 552a from which this rule exempts the system.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[84 FR 31195, July 1, 2019]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.22",
+                  "NODE": "32:6.2.3.17.2.2.8.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.22   ODNI systems of records subject to exemption."
+                ],
+                "P": [
+                  "(a) ODNI systems of records subject to exemption:\n",
+                  "(1) Manuscript, Presentation, and Resume Review Records (ODNI-01), 5 U.S.C. 552a(k)(1).\n",
+                  "(2) Executive Secretary Action Management System Records (ODNI-02), 5 U.S.C. 552a(k)(1).\n",
+                  "(3) Public Affairs Office Records (ODNI-03), 5 U.S.C. 552a(k)(1).\n",
+                  "(4) Office of Legislative Affairs Records (ODNI-04), 5 U.S.C. 552a(k)(1).\n",
+                  "(5) ODNI Guest Speaker Records (ODNI-05), 5 U.S.C. 552a(k)(1).\n",
+                  "(6) Office of General Counsel Records (ODNI-06), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(7) Intelligence Community Customer Registry (ODNI-09), 5 U.S.C. 552a(k)(1).\n",
+                  "(8) Office of Intelligence Community Equal Employment Opportunity and Diversity Records (ODNI-10), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(9) Office of Protocol Records (ODNI-11), 5 U.S.C. 552a(k)(1).\n",
+                  "(10) Intelligence Community Security Clearance and Access Approval Repository (ODNI-12), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(11) Security Clearance Reform Research and Oversight Records (ODNI-13), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(12) Civil Liberties and Privacy Office Complaint Records (ODNI-14), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(13) Mission Outreach and Collaboration Records (ODNI-15), 5 U.S.C. 552a(k)(1).\n",
+                  "(14) ODNI Human Resource Records (ODNI-16), 5 U.S.C. 552a(k)(1).\n",
+                  "(15) ODNI Personnel Security Records (ODNI-17), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(16) ODNI Freedom of Information Act, Privacy Act, and Mandatory Declassification Review Request Records (ODNI-18), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(17) ODNI Information Technology Systems Activity and Access Records (ODNI-19), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(18) ODNI Security Clearance Reciprocity Hotline Records (ODNI-20), 5 U.S.C. 552a(k)(1) and (5).\n",
+                  "(19) ODNI Information Technology Network Support, Administration and Analysis Records (ODNI-21), 5 U.S.C. 552a(k)(1).\n",
+                  "(20) Insider Threat Program Records (ODNI-22), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(b) ODNI/National Counterintelligence and Security Center (NCSC) systems of records:\n",
+                  "(1) Damage Assessment Records (ODNI/NCIX-001), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(2) Counterintelligence Trends Analyses Records (ODNI/NCSC-002), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(3) Continuous Evaluation Records (ODNI/NCSC-003), 5 U.S.C. 552a(k)(1), (2), and (5).\n",
+                  "(c) ODNI/National Counterterrorism Center (NCTC) systems of records:\n",
+                  "(1) NCTC Access Authorization Records (ODNI/NCTC-002), 5 U.S.C. 552a(k)(1).\n",
+                  "(2) NCTC Telephone Directory (ODNI/NCTC-003), 5 U.S.C. 552a(k)(1).\n",
+                  "(3) NCTC Knowledge Repository (ODNI/NCTC-004), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(4) NCTC Current (ODNI/NCTC-005), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(5) NCTC Partnership Management Records (ODNI/NCTC-006), 5 U.S.C. 552a(k)(1).\n",
+                  "(6) NCTC Tacit Knowledge Management Records (ODNI/NCTC-007), 5 U.S.C. 552a(k)(1).\n",
+                  "(7) NCTC Terrorism Analysis Records (ODNI/NCTC-008), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(8) Terrorist Identities Records (ODNI/NCTC-009), 5 U.S.C. 552a(k)(1) and (2).\n",
+                  "(d) ODNI/Office of the Intelligence Community Inspector General (ICIG) systems of records:\n",
+                  "(1) OIG Human Resources Records (ODNI/OIG-001), 5 U.S.C. 552a(k)(1) and (5).\n",
+                  "(2) OIG Experts Contact Records (ODNI/OIG-002), 5 U.S.C. 552a(k)(1) and (5).\n",
+                  "(3) OIG Investigation and Interview Records (ODNI/OIG-003), 5 U.S.C. 552a(j)(2); (k)(1), (2), and (5).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[84 FR 31197, July 1, 2019]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "32:6.2.3.17.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Routine Uses Applicable to More Than One ODNI System of Records"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1701.30",
+                  "NODE": "32:6.2.3.17.2.3.8.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.30   Policy and applicability."
+                ],
+                "P": [
+                  "(a) ODNI proposes the following general routine uses to foster simplicity and economy and to avoid redundancy or error by duplication in multiple ODNI systems of records and in systems of records established hereafter by ODNI or by one of its components.\n",
+                  "(b) These general routine uses may apply to every Privacy Act system of records maintained by ODNI and its components, unless specifically stated otherwise in the System of Records Notice for a particular system. Additional general routine uses may be identified as notices of systems of records are published.\n",
+                  "(c) Routine uses specific to a particular System of Records are identified in the System of Records Notice for that system.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1701.31",
+                  "NODE": "32:6.2.3.17.2.3.8.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1701.31   General routine uses."
+                ],
+                "P": [
+                  "(a) Except as noted on Standard Forms 85 and 86 and supplemental forms thereto (questionnaires for employment in, respectively, “non-sensitive” and “national security” positions within the Federal government), a record that on its face or in conjunction with other information indicates or relates to a violation or potential violation of law, whether civil, criminal, administrative or regulatory in nature, and whether arising by general statute, particular program statute, regulation, rule or order issued pursuant thereto, may be disclosed as a routine use to an appropriate federal, state, territorial, tribal, local law enforcement authority, foreign government or international law enforcement authority, or to an appropriate regulatory body charged with investigating, enforcing, or prosecuting such violations.\n",
+                  "(b) A record from a system of records maintained by the ODNI may be disclosed as a routine use, subject to appropriate protections for further disclosure, in the course of presenting information or evidence to a magistrate, special master, administrative law judge, or to the presiding official of an administrative board, panel or other administrative body.\n",
+                  "(c) A record from a system of records maintained by the ODNI may be disclosed as a routine use to representatives of the Department of Justice or any other entity responsible for representing the interests of the ODNI in connection with potential or actual civil, criminal, administrative, judicial or legislative proceedings or hearings, for the purpose of representing or providing advice to: The ODNI; any staff of the ODNI in his or her official capacity; any staff of the ODNI in his or her individual capacity where the staff has submitted a request for representation by the United States or for reimbursement of expenses associated with retaining counsel; or the United States or another Federal agency, when the United States or the agency is a party to such proceeding and the record is relevant and necessary to such proceeding.\n",
+                  "(d) A record from a system of records maintained by the ODNI may be disclosed as a routine use in a proceeding before a court or adjudicative body when any of the following is a party to litigation or has an interest in such litigation, and the ODNI, Office of General Counsel, determines that use of such records is relevant and necessary to the litigation: The ODNI; any staff of the ODNI in his or her official capacity; any staff of the ODNI in his or her individual capacity where the Department of Justice has agreed to represent the staff or has agreed to provide counsel at government expense; or the United States or another Federal agency, where the ODNI, Office of General Counsel, determines that litigation is likely to affect the ODNI.\n",
+                  "(e) A record from a system of records maintained by the ODNI may be disclosed as a routine use to representatives of the Department of Justice and other U.S. Government entities, to the extent necessary to obtain advice on any matter within the official responsibilities of such representatives and the responsibilities of the ODNI.\n",
+                  "(f) A record from a system of records maintained by the ODNI may be disclosed as a routine use to a Federal, state or local agency or other appropriate entities or individuals from which/whom information may be sought relevant to: A decision concerning the hiring or retention of an employee or other personnel action; the issuing or retention of a security clearance or special access, contract, grant, license, or other benefit; or the conduct of an authorized investigation or inquiry, to the extent necessary to identify the individual, inform the source of the nature and purpose of the inquiry, and identify the type of information requested.\n",
+                  "(g) A record from a system of records maintained by the ODNI may be disclosed as a routine use to any Federal, state, local, tribal or other public authority, or to a legitimate agency of a foreign government or international authority to the extent the record is relevant and necessary to the other entity's decision regarding the hiring or retention of an employee or other personnel action; the issuing or retention of a security clearance or special access, contract, grant, license, or other benefit; or the conduct of an authorized inquiry or investigation.\n",
+                  "(h) A record from a system of records maintained by the ODNI may be disclosed as a routine use to a Member of Congress or Congressional staffer in response to an inquiry from that Member of Congress or Congressional staffer made at the written request of the individual who is the subject of the record.\n",
+                  "(i) A record from a system of records maintained by the ODNI may be disclosed to the Office of Management and Budget in connection with the review of private relief legislation, as set forth in Office of Management and Budget Circular No. A-19, at any stage of the legislative coordination and clearance process as set forth in the Circular.\n",
+                  "(j) A record from a system of records maintained by the ODNI may be disclosed as a routine use to any agency, organization, or individual for authorized audit operations, and for meeting related reporting requirements, including disclosure to the National Archives and Records Administration for records management inspections and such other purposes conducted under the authority of 44 U.S.C. 2904 and 2906, or successor provisions.\n",
+                  "(k) A record from a system of records maintained by the ODNI may be disclosed as a routine use to individual members or staff of Congressional intelligence oversight committees in connection with the exercise of the committees' oversight and legislative functions.\n",
+                  "(l) A record from a system of records maintained by the ODNI may be disclosed as a routine use pursuant to Executive Order to the President's Foreign Intelligence Advisory Board, the President's Intelligence Oversight Board, to any successor organizations, and to any intelligence oversight entity established by the President, when the Office of the General Counsel or the Office of the Inspector General determines that disclosure will assist such entities in performing their oversight functions and that such disclosure is otherwise lawful.\n",
+                  "(m) A record from a system of records maintained by the ODNI may be disclosed as a routine use to contractors, grantees, experts, consultants, or others when access to the record is necessary to perform the function or service for which they have been engaged by the ODNI.\n",
+                  "(n) A record from a system of records maintained by the ODNI may be disclosed as a routine use to a former staff of the ODNI for the purposes of responding to an official inquiry by a Federal, state, or local government entity or professional licensing authority or facilitating communications with a former staff of the ODNI that may be necessary for personnel-related or other official purposes when the ODNI requires information or consultation assistance, or both, from the former staff regarding a matter within that person's former area of responsibility.\n",
+                  "(o) A record from a system of records maintained by the ODNI may be disclosed as a routine use to legitimate foreign, international or multinational security, investigatory, law enforcement or administrative authorities in order to comply with requirements imposed by, or to claim rights conferred in, formal agreements and arrangements to include those regulating the stationing and status in foreign countries of Department of Defense military and civilian personnel.\n",
+                  "(p) A record from a system of records maintained by the ODNI may be disclosed as a routine use to any Federal agency when documents or other information obtained from that agency are used in compiling the record and the record is relevant to the official responsibilities of that agency, provided that disclosure of the recompiled or enhanced record to the source agency is otherwise authorized and lawful.\n",
+                  "(q) A record from a system of records maintained by the ODNI may be disclosed as a routine use to appropriate agencies, entities, and persons when: The security or confidentiality of information in the system of records has or may have been compromised; and the compromise may result in economic or material harm to individuals (e.g., identity theft or fraud), or harm to the security or integrity of the affected information or information technology systems or programs (whether or not belonging to the ODNI) that rely upon the compromised information; and disclosure is necessary to enable ODNI to address the cause(s) of the compromise and to prevent, minimize, or remedy potential harm resulting from the compromise.\n",
+                  "(r) A record from a system of records maintained by the ODNI may be disclosed as a routine use to a Federal, state, local, tribal, territorial, foreign, or multinational agency or entity or to any other appropriate entity or individual for any of the following purposes: to provide notification of a serious terrorist threat for the purpose of guarding against or responding to such threat; to assist in coordination of terrorist threat awareness, assessment, analysis, or response; or to assist the recipient in performing authorized responsibilities relating to terrorism or counterterrorism.\n",
+                  "(s) A record from a system of records maintained by the ODNI may be disclosed as a routine use for the purpose of conducting or supporting authorized counterintelligence activities as defined by section 401a(3) of the National Security Act of 1947, as amended, to elements of the Intelligence Community, as defined by section 401a(4) of the National Security Act of 1947, as amended; to the head of any Federal agency or department; to selected counterintelligence officers within the Federal government.\n",
+                  "(t) A record from a system of records maintained by the ODNI may be disclosed as a routine use to a Federal, state, local, tribal, territorial, foreign, or multinational government agency or entity, or to other authorized entities or individuals, but only if such disclosure is undertaken in furtherance of responsibilities conferred by, and in a manner consistent with, the National Security Act of 1947, as amended; the Counterintelligence Enhancement Act of 2002, as amended; Executive Order 12333 or any successor order together with its implementing procedures approved by the Attorney General; and other provisions of law, Executive Order or directive relating to national intelligence or otherwise applicable to the ODNI. This routine use is not intended to supplant the other routine uses published by the ODNI.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1702",
+          "NODE": "32:6.2.3.17.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1702—PROCEDURES GOVERNING THE ACCEPTANCE OF SERVICE OF PROCESS \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              {
+                "_": "The Intelligence Reform and Terrorism Prevention Act of 2004, Pub. L. No. 108-458, 118 Stat. 3638 (2004); National Security Act of 1947, as amended, 50 U.S.C. § 401  Executive Order 12333, as amended.\n",
+                "I": [
+                  "et seq.;"
+                ]
+              }
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "74 FR 11479, Mar. 18, 2009, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1702.1",
+              "NODE": "32:6.2.3.17.3.0.8.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1702.1   Scope and purpose."
+            ],
+            "P": [
+              "This part sets forth the ODNI policy concerning service of process upon the ODNI and ODNI employees in their official, individual or combined official and individual capacities. This part is intended to ensure the orderly execution of ODNI affairs and is not intended to impede the legal process.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1702.2",
+              "NODE": "32:6.2.3.17.3.0.8.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1702.2   Definitions."
+            ],
+            "P": [
+              "For purposes of this part the following terms have the following meanings:\n",
+              {
+                "_": " The Director of National Intelligence.\n",
+                "I": [
+                  "DNI."
+                ]
+              },
+              {
+                "_": " The ODNI's General Counsel, Acting General Counsel or Deputy General Counsel.\n",
+                "I": [
+                  "General Counsel."
+                ]
+              },
+              {
+                "_": " The Office of the Director of National Intelligence and all of its components, including, but not limited to, the National Counterintelligence Executive, the National Counterterrorism Center, the National Counterproliferation Center, the Program Manager for the Information Sharing Environment, and all national intelligence centers and program managers the DNI may establish.\n",
+                "I": [
+                  "ODNI."
+                ]
+              },
+              {
+                "_": " Any current or former employee, contractor, independent contractor, assignee or detailee to the ODNI.\n",
+                "I": [
+                  "ODNI Employee."
+                ]
+              },
+              {
+                "_": " The Office of the General Counsel of the ODNI.\n",
+                "I": [
+                  "OGC."
+                ]
+              },
+              {
+                "_": " A summons, complaint, subpoena or other document properly issued by or under the authority of, a federal, state, local or other government entity of competent jurisdiction.\n\n\n",
+                "I": [
+                  "Process."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1702.3",
+              "NODE": "32:6.2.3.17.3.0.8.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1702.3   Procedures governing acceptance of service of process."
+            ],
+            "P": [
+              "(a) Service of process upon the ODNI or an ODNI employee in the employee's official capacity.\n",
+              "(1) Personal service. Unless otherwise expressly authorized by the General Counsel, personal service of process upon the ODNI or an ODNI employee in the employee's official capacity, may be accepted only by an OGC attorney at ODNI Headquarters. The OGC attorney shall write or stamp “Service Accepted In Official Capacity Only” on the return of service form.\n",
+              "(2) Mail service. Where service of process by registered or certified mail is authorized by law, only an OGC attorney may accept such service of process upon the ODNI or an ODNI employee in the employee's official capacity, unless otherwise expressly authorized by the General Counsel. The OGC attorney shall write or stamp, “Service Accepted In Official Capacity Only,” on the waiver of personal service form. Service of process by mail must be addressed to the Office of the Director of National Intelligence, Office of General Counsel, Washington, DC 20511, and the envelope must be conspicuously marked “Service of Process.”\n",
+              "(b) Service of process upon an ODNI employee solely in the employee's individual capacity.\n",
+              {
+                "_": "(1)  ODNI employees will not be required to accept service of process in their purely individual capacity on ODNI facilities or premises.\n",
+                "I": [
+                  "Generally."
+                ]
+              },
+              {
+                "_": "(2)  Subject to the sole discretion of the General Counsel, process servers generally will not be allowed to enter ODNI facilities or premises for the purpose of serving process upon an ODNI employee solely in the employee's individual capacity. Except for the DNI, the Principal Deputy Director of National Intelligence, and the Director of the Intelligence Staff, the OGC is not authorized to accept service of process on behalf of any ODNI employee in the employee's individual capacity.\n",
+                "I": [
+                  "Personal Service."
+                ]
+              },
+              {
+                "_": "(3)  Unless otherwise expressly authorized by the General Counsel, ODNI employees are not authorized to accept or forward mailed service of process directed to another ODNI employee in that employee's individual capacity. Any such process will be returned to the sender via appropriate postal channels.\n",
+                "I": [
+                  "Mail Service."
+                ]
+              },
+              "(c) Service of Process Upon an ODNI employee in a combined official and individual capacity. Unless otherwise expressly authorized by the General Counsel, service of process, in person or by mail, upon an ODNI employee in the employee's combined official and individual capacity, may be accepted only for the ODNI employee in the employee's official capacity by an OGC attorney at ODNI Headquarters. The OGC attorney shall write or stamp, “Service Accepted In Official Capacity Only,” on the return of service form.\n",
+              "(d) Acceptance of service of process shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue or any other defense in law or equity available under the laws or rules applicable to the service of process.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1702.4",
+              "NODE": "32:6.2.3.17.3.0.8.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1702.4   Notification to Office of General Counsel."
+            ],
+            "P": [
+              "An ODNI employee who receives or has reason to expect to receive, service of process in an official, individual or combined individual and official capacity in a matter that may involve testimony or the furnishing of documents that could reasonably be expected to involve ODNI interests, shall promptly notify the OGC ((703) 275-2527) prior to responding to the service in any manner, and if possible, before accepting service.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1702.5",
+              "NODE": "32:6.2.3.17.3.0.8.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1702.5   Interpretation."
+            ],
+            "P": [
+              "Any questions concerning interpretation of this regulation shall be referred to the Office of General Counsel for resolution.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1703",
+          "NODE": "32:6.2.3.17.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1703—PRODUCTION OF ODNI INFORMATION OR MATERIAL IN PROCEEDINGS BEFORE FEDERAL, STATE, LOCAL OR OTHER GOVERNMENT ENTITY OF COMPETENT JURISDICTION \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              {
+                "_": "The Intelligence Reform and Terrorism Prevention Act of 2004, Public Law No. 108-458, 118 Stat. 3638 (2004); National Security Act of 1947, as amended, 50 U.S.C. 401  Executive Order 12333, as amended; and  v.  340 U.S. 462 (1951).\n",
+                "I": [
+                  "et seq.;",
+                  "United States ex rel. Touhy",
+                  "Ragen,"
+                ]
+              }
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "74 FR 11480, Mar. 18, 2009, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1703.1",
+              "NODE": "32:6.2.3.17.4.0.8.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1703.1   Scope and purpose."
+            ],
+            "P": [
+              "This part sets forth the policy and procedures with respect to the production or disclosure of material contained in the files of the ODNI, information relating to or based upon material contained in the files of the ODNI, and information acquired by any person while such person was an employee of the ODNI as part of the performance of that person's official duties or because of that person's association with the ODNI.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1703.2",
+              "NODE": "32:6.2.3.17.4.0.8.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1703.2   Definitions."
+            ],
+            "P": [
+              "The following definitions apply to this part:\n",
+              {
+                "_": " Any and all legal defenses, privileges or objections available to the ODNI in response to a demand.\n",
+                "I": [
+                  "Defenses:"
+                ]
+              },
+              {
+                "I": [
+                  "Demand:"
+                ]
+              },
+              "(1) Any subpoena, order or other legal summons issued by a federal, state, local or other government entity of competent jurisdiction with the authority to require a response on a particular matter or a request for appearance of an individual where a demand could issue.\n",
+              "(2) Any request for production or disclosure which may result in the issuance of a subpoena, order, or other legal process to compel production or disclosure.\n",
+              {
+                "_": " The Director of National Intelligence.\n",
+                "I": [
+                  "DNI:"
+                ]
+              },
+              {
+                "_": " The ODNI's General Counsel, Acting General Counsel or Deputy General Counsel.\n",
+                "I": [
+                  "General Counsel:"
+                ]
+              },
+              {
+                "_": " The Office of the Director of National Intelligence and all of its components, including, but not limited to, the Office of the National Counterintelligence Executive, the National Counterterrorism Center, the National Counterproliferation Center, the Program Manager for the Information Sharing Environment, and all national intelligence centers and program managers the DNI may establish.\n",
+                "I": [
+                  "ODNI:"
+                ]
+              },
+              {
+                "_": " Any current or former employee, contractor, independent contractor, assignee or detailee to the ODNI.\n",
+                "I": [
+                  "ODNI Employee:"
+                ]
+              },
+              {
+                "_": " Information or material that is contained in ODNI files, related to or based upon material contained in ODNI files or acquired by any ODNI employee as part of that employee's official duties or because of that employee's association with the ODNI.\n",
+                "I": [
+                  "ODNI Information or Material:"
+                ]
+              },
+              {
+                "_": " The Office of the General Counsel of the ODNI.\n",
+                "I": [
+                  "OGC:"
+                ]
+              },
+              {
+                "_": " Any attorney in the OGC.\n",
+                "I": [
+                  "OGC Attorney:"
+                ]
+              },
+              {
+                "_": " Any matter before a court of law, administrative law judge, administrative tribunal or commission or other body that conducts legal or administrative proceedings, and includes all phases of the proceeding.\n",
+                "I": [
+                  "Proceeding:"
+                ]
+              },
+              {
+                "_": " The disclosure of ODNI information or material in response to a demand.\n\n\n",
+                "I": [
+                  "Production or Produce:"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1703.3",
+              "NODE": "32:6.2.3.17.4.0.8.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1703.3   General."
+            ],
+            "P": [
+              "(a) No ODNI employee shall respond to a demand for ODNI information or material without prior authorization as set forth in this part.\n",
+              "(b) This part is intended only to provide procedures for responding to demands for production of documents or information, and does not create any right or benefit, substantive or procedural, enforceable by any party against the United States.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1703.4",
+              "NODE": "32:6.2.3.17.4.0.8.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1703.4   Procedure for production."
+            ],
+            "P": [
+              "(a) Whenever a demand is made for ODNI information or material, the employee who received the demand shall immediately notify OGC ((703) 275-2527). The OGC and the ODNI employee shall then follow the procedures set forth in this section.\n",
+              "(b) The OGC may assert any and all defenses before any search for potentially responsive ODNI information or material begins. Further, in its sole discretion the ODNI may decline to begin a search for potentially responsive ODNI information or material until a final and non-appealable disposition of any or all of the asserted defenses is made by the federal, state, local or government entity of competent jurisdiction. When the OGC determines that it is appropriate to search for potentially responsive ODNI information and material, the OGC will forward the demand to the appropriate ODNI offices or entities with responsibility for the ODNI information or material sought in the demand. Those ODNI offices or entities shall then search for and provide to the OGC all potentially responsive ODNI information and material. The OGC may then assert any and all defenses to the production of what it determines is responsive ODNI information or material.\n",
+              "(c) In reaching a decision on whether to produce responsive ODNI information or material, or to object to the demand, the OGC shall consider whether:\n",
+              "(1) Any relevant privileges are applicable;\n",
+              "(2) The applicable rules of discovery or procedure require production;\n",
+              "(3) Production would violate a statute, regulation, executive order or other provision of law;\n",
+              "(4) Production would violate a non-disclosure agreement;\n",
+              "(5) Production would be inconsistent with the DNI's responsibility to protect intelligence sources and methods, or reveal classified information or state secrets;\n",
+              "(6) Production would violate a specific ODNI policy issuance or instruction; and\n",
+              "(7) Production would unduly interfere with the orderly conduct of ODNI functions.\n",
+              "(d) If oral or written testimony is sought by a demand in a case or matter in which the ODNI is not a party, a reasonably detailed description of the testimony sought in the form of an affidavit, or a written statement if that is not feasible, by the party seeking the testimony or its attorney must be furnished to the OGC.\n",
+              "(e) The OGC shall notify the appropriate employees of all decisions regarding responses to demands and provide advice and counsel for the implementation of the decisions.\n",
+              {
+                "_": "(f) If response to a demand is required before a decision is made whether to provide responsive ODNI information or material, an OGC attorney will request that a Department of Justice attorney appear with the ODNI employee upon whom that demand has been made before the court or other competent authority and provide it with a copy of this regulation and inform the court or other authority as to the status of the demand. The court will be requested to stay the demand pending resolution by the ODNI. If the request for a stay is denied or there is a ruling that the demand must be complied with irrespective of instructions rendered in accordance with this Part, the employee upon whom the demand was made shall, if directed to do so by the General Counsel or its designee, respectfully decline to comply with the demand under the authority of  v.  340 U.S. 462 (1951), and this regulation.\n",
+                "I": [
+                  "United States ex rel. Touhy",
+                  "Ragen,"
+                ]
+              },
+              "(g) ODNI officials may delegate in writing any authority given to them in this part to subordinate officials.\n",
+              "(h) Any individual or entity not an ODNI employee as defined in this part who receives a demand for the production or disclosure of ODNI information or material acquired because of that person's or entity's association with the ODNI should notify the OGC ((703) 275-2527) for guidance and assistance. In such cases the provisions of this regulation shall be applicable.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1703.5",
+              "NODE": "32:6.2.3.17.4.0.8.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1703.5   Interpretation."
+            ],
+            "P": [
+              "Any questions concerning interpretation of this Regulation shall be referred to the OGC for resolution.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1704",
+          "NODE": "32:6.2.3.17.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1704—MANDATORY DECLASSIFICATION REVIEW PROGRAM\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "50 U.S.C. 3001; E.O. 13526, 75 FR 707, 3 CFR, 2009 Comp, p. 298.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "81 FR 24019, Apr. 25, 2016, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1704.1",
+              "NODE": "32:6.2.3.17.5.0.8.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.1   Authority and purpose."
+            ],
+            "P": [
+              {
+                "_": "(a)  This part is issued under the authority of 32 CFR 2001.33; Section 3.5 of Executive Order 13526 (or successor Orders); the National Security Act of 1947, as amended (50 U.S.C. 3001 ).\n",
+                "I": [
+                  "Authority.",
+                  "et seq."
+                ]
+              },
+              {
+                "_": "(b)  This part prescribes procedures, subject to limitations set forth below, for requesters to request a mandatory declassification review of information classified under Executive Order 13526 or predecessor or successor orders. Section 3.5 of Executive Order 13526 and these regulations are not intended to and do not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, employees, or agents, or any other person.\n\n\n",
+                "I": [
+                  "Purpose."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.2",
+              "NODE": "32:6.2.3.17.5.0.8.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.2   Definitions."
+            ],
+            "P": [
+              "For purposes of this part:\n",
+              {
+                "_": " means the authority of the agency that originates information, or its successor in function, to regulate access to the information. (32 CFR 2001.92)\n",
+                "I": [
+                  "Control"
+                ]
+              },
+              {
+                "_": " means U.S. Federal Government working day, which excludes Saturdays, Sundays, and federal holidays. Three (3) days may be added to any time limit imposed on a requester by this part if responding by U.S. domestic mail; ten (10) days may be added if responding by international mail.\n",
+                "I": [
+                  "Day"
+                ]
+              },
+              {
+                "_": " means the Director of the Information Management Division and the leader of any successor organization, who serves as the ODNI's manager of the information review and release program.\n",
+                "I": [
+                  "D/IMD"
+                ]
+              },
+              {
+                "_": " means any  as defined in 5 U.S.C. 105; any  as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information.\n",
+                "I": [
+                  "Federal agency",
+                  "Executive agency,",
+                  "Military department,"
+                ]
+              },
+              {
+                "_": " means any knowledge that can be communicated or documentary material, regardless of its physical form, that is owned by, produced by or for, or under the control of the U.S. Government; it does not include information originated by the incumbent President, White House Staff, appointed committees, commissions or boards, or any entities within the Executive Office that solely advise and assist the incumbent President.\n",
+                "I": [
+                  "Information"
+                ]
+              },
+              {
+                "_": " means any official in the executive, military, congressional, or judicial branches of government, or a U.S. Government contractor who, at the sole discretion of the ODNI, has a subject matter or other interest in the documents or information at issue.\n",
+                "I": [
+                  "Interested party"
+                ]
+              },
+              {
+                "_": " means the National Archives and Records Administration.\n",
+                "I": [
+                  "NARA"
+                ]
+              },
+              {
+                "_": " means the Office of the Director of National Intelligence.\n",
+                "I": [
+                  "ODNI"
+                ]
+              },
+              {
+                "_": " means Executive Order 13526, “Classified National Security Information” (December 29, 2009) or successor Orders.\n",
+                "I": [
+                  "Order"
+                ]
+              },
+              {
+                "_": " means the element that created the information at issue.\n",
+                "I": [
+                  "Originating element"
+                ]
+              },
+              {
+                "_": " means the libraries or collection authorities established under the Presidential Libraries Act (44 U.S.C. 2112) and similar institutions or authorities as may be established in the future.\n",
+                "I": [
+                  "Presidential libraries"
+                ]
+              },
+              {
+                "_": " means coordination with or transfer of action to an interested party.\n",
+                "I": [
+                  "Referral"
+                ]
+              },
+              {
+                "_": " means any person or organization submitting an MDR request.\n\n\n",
+                "I": [
+                  "Requester"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.3",
+              "NODE": "32:6.2.3.17.5.0.8.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.3   Contact information."
+            ],
+            "P": [
+              {
+                "_": "For general information on the regulation in this part or to submit a request for a MDR, please direct your communication by mail to the Office of the Director of National Intelligence, Director of the Information Management Division, Washington, DC 20511; by facsimile to (703) 874-8910; or by email to  For general information on the ODNI MDR program or status information on pending MDR cases, call (703) 874-8500.\n\n\n",
+                "I": [
+                  "DNI-FOIA@dni.gov."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.4",
+              "NODE": "32:6.2.3.17.5.0.8.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.4   MDR program feedback."
+            ],
+            "P": [
+              "The ODNI welcomes suggestions for improving the administration of our MDR program in accordance with Executive Order 13526. Suggestions should identify the specific purpose and the items for consideration. The ODNI will respond to all communications and take such actions as determined feasible and appropriate.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.5",
+              "NODE": "32:6.2.3.17.5.0.8.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.5   Guidance."
+            ],
+            "P": [
+              "Address all communications to the point of contact as specified in § 1704.3. Clearly describe, list, or label said communication as an MDR Request.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.6",
+              "NODE": "32:6.2.3.17.5.0.8.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.6   Exceptions."
+            ],
+            "P": [
+              "MDR requests will not be accepted from a foreign government entity or any representative thereof. MDR requests will not be accepted for documents required to be submitted for prepublication review or other administrative process pursuant to an approved nondisclosure agreement; for information that is the subject of pending litigation; nor for any document or material containing information from within an operational file exempted from search and review, publication, and disclosure under the FOIA. If the ODNI has reviewed the requested information for declassification within the past two years, the ODNI will not conduct another review, but the D/IMD will notify the requester of this fact and the prior review decision. Requests will not be accepted from requesters who have outstanding fees for MDR or FOIA requests with the ODNI or another federal agency.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.7",
+              "NODE": "32:6.2.3.17.5.0.8.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.7   Requirements."
+            ],
+            "P": [
+              "An MDR request shall describe the document or material containing the information with sufficient specificity to enable the ODNI to locate it with a reasonable amount of effort.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.8",
+              "NODE": "32:6.2.3.17.5.0.8.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.8   Fees."
+            ],
+            "P": [
+              {
+                "_": "(a)  Any search, review, and reproduction fees will be charged in accordance with the provisions below relating to schedule, limitations, and category of requester. Applicable fees will be due even if a subsequent search locates no responsive records.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  Records will be furnished without charge or at a reduced rate when ODNI determines that:\n",
+                "I": [
+                  "Agency discretion to waive fees."
+                ]
+              },
+              "(1) As a matter of administrative discretion, the interest of the United States Government would be served, or\n",
+              "(2) It is in the public interest to provide responsive records because the disclosure is likely to contribute significantly to the public understanding of the operations or activities of the United States Government and is not primarily in the commercial interest of the requester.\n",
+              {
+                "_": "(c)  If you request an MDR, it shall be considered a firm commitment by you to pay all applicable fees chargeable under this regulation, up to and including the amount of $25.00. When making a request, you may specify a willingness to pay a greater or lesser amount.\n",
+                "I": [
+                  "Agreement to pay fees."
+                ]
+              },
+              {
+                "_": "(d)  The ODNI may require an advance payment of up to 100 percent of the estimated fees when projected fees exceed $250.00, not including charges associated with the first 100 pages of production and two hours of search (when applicable), or when the requester previously failed to pay fees in a timely fashion, for fees of any amount. ODNI will hold in abeyance for 45 days those requests where advance payment has been requested.\n",
+                "I": [
+                  "Advance payment."
+                ]
+              },
+              {
+                "_": "(e) —(1)  The schedule of fees for services performed in responding to requests for records is as follows:\n",
+                "I": [
+                  "Schedule of fees",
+                  "In general."
+                ]
+              },
+              {
+                "_": "(2)  Personnel search time includes time expended in manual paper records searches, indices searches, review of computer search results for relevance, and personal computer system searches. In any event in which the actual cost to ODNI of a particular item is less than the above schedule ( a large production run of a document resulting in a cost less than $5.00 per hundred pages), then the actual lesser cost will be charged.\n",
+                "I": [
+                  "Application of schedule.",
+                  "e.g.,"
+                ]
+              },
+              {
+                "_": "(3)  For all other types of output, production, or reproduction ( photographs, maps, or published reports), ODNI will charge actual cost or amounts authorized by statute. Determinations of actual cost shall include the commercial cost of the media, the personnel time expended in making the item to be released, and an allocated cost of the equipment used in making the item, or, if the production is effected by a commercial service, then that charge shall be deemed the actual cost for purposes of this regulation.\n",
+                "I": [
+                  "Other services.",
+                  "e.g.,"
+                ]
+              },
+              {
+                "_": "(f) —(1)  No fees will be charged if the cost of collecting the fee is equal to or greater than the fee itself. That cost includes the administrative costs to ODNI of billing, receiving, recording, and processing the fee for deposit to the Treasury Department and, as of the date of these regulations, is deemed to be $10.00.\n",
+                "I": [
+                  "Limitations on collection of fees",
+                  "In general."
+                ]
+              },
+              {
+                "_": "(g)  If it appears that a requester or a group of requesters acting in concert have requested portions of an apparently unitary request for the purpose of avoiding the assessment of fees, ODNI may aggregate any such requests and charge accordingly. Requests from multiple requesters will not be aggregated without clear evidence. ODNI will not aggregate multiple unrelated requests.\n\n\n",
+                "I": [
+                  "Associated requests."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TD": [
+                              {
+                                "$": {
+                                  "align": "center",
+                                  "class": "gpotbl_cell",
+                                  "colspan": "3",
+                                  "scope": "row"
+                                },
+                                "E": [
+                                  {
+                                    "_": "Personnel Search and Review",
+                                    "$": {
+                                      "T": "02"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Clerical/Technical",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Quarter Hour",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "$ 5.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Professional/Supervisory",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Quarter Hour",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "10.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Manager/Senior Professional",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Quarter Hour",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "18.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "$": {
+                                  "align": "center",
+                                  "class": "gpotbl_cell",
+                                  "colspan": "3",
+                                  "scope": "row"
+                                },
+                                "E": [
+                                  {
+                                    "_": "Computer Search and Production",
+                                    "$": {
+                                      "T": "02"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Search (online)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Flat Rate",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "10.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Search (offline)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Flat Rate",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "30.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Other activity",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per minute",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "10.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Tapes (mainframe cassette)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "9.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Tapes (mainframe cartridge)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "9.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Tapes (mainframe reel)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "20.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Tapes (PC 9mm)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "25.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Diskette (3.5”)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "4.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "CD (bulk recorded)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "10.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "CD (recordable)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Each",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "20.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Telecommunications",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per minute",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": ".50\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Paper (mainframe printer)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per page",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": ".10\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Paper (PC b&w laser printer)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per page",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": ".10\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Paper (PC color printer)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per page",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "1.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "$": {
+                                  "align": "center",
+                                  "class": "gpotbl_cell",
+                                  "colspan": "3",
+                                  "scope": "row"
+                                },
+                                "E": [
+                                  {
+                                    "_": "Paper Production",
+                                    "$": {
+                                      "T": "02"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Photocopy (standard or legal)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per page",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": ".10\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Preprinted (if available)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per 100 pages",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "5.00\n",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Published (if available)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Per item",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "NTIS",
+                                "$": {
+                                  "align": "right",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.9",
+              "NODE": "32:6.2.3.17.5.0.8.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.9   Determination by originator or interested party."
+            ],
+            "P": [
+              {
+                "_": "(a)  The originating element(s) of the classified information (document) is always an interested party to any mandatory declassification review. Other interested parties may become involved through a referral by the D/IMD when it is determined that some or all of the information is also within their official cognizance.\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              {
+                "_": "(b)  These parties shall respond in writing to the D/IMD with a finding as to the classified status of the information, including the category of protected information as set forth in section 1.4 of the Order, and if older than ten years, the basis for the extension of classification time under sections 1.5 and 3.3 of the Order. These parties shall also indicate whether withholding is otherwise authorized and warranted in accordance with sections 3.5(c) and 6.2(d) of the Order.\n",
+                "I": [
+                  "Required determinations:"
+                ]
+              },
+              {
+                "_": "(c)  Responses to the requester shall be provided on a first-in/first-out basis, taking into account the business requirements of the originating element(s) and other interested parties, and, in accordance with Executive Order 13526, ODNI will respond to requesters within one year of the receipt of requests.\n",
+                "I": [
+                  "Time."
+                ]
+              },
+              {
+                "_": "(d)  The IMD FOIA Branch Chief, in consultation with the D/IMD and the Classification Management Branch Chief, will ordinarily be the deciding official on initial reviews of MDR requests to the ODNI.\n\n\n",
+                "I": [
+                  "Deciding official."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1704.10",
+              "NODE": "32:6.2.3.17.5.0.8.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1704.10   Appeals."
+            ],
+            "P": [
+              {
+                "_": "(a)  Appeals of initial decisions must be received in writing by the D/IMD within 60 days of the date of mailing of the ODNI's decision. The appeal must identify with specificity the documents or information to be considered on appeal and it may, but need not, provide a factual or legal basis for the appeal.\n",
+                "I": [
+                  "Administrative."
+                ]
+              },
+              {
+                "_": "(1)  No appeal shall be accepted from a foreign government entity or any representative thereof. Appeals will not be accepted for documents required to be submitted for prepublication review or other administrative process pursuant to an approved nondisclosure agreement; for information that is the subject of pending litigation; nor for any document or material containing information from within an operational file exempted from search and review, publication, and disclosure under the FOIA. No appeals shall be accepted if the requester has outstanding fees for information services at ODNI or another federal agency. In addition, no appeal shall be accepted if the information in question has been the subject of a declassification review within the previous two years.\n",
+                "I": [
+                  "Exceptions."
+                ]
+              },
+              {
+                "_": "(2)  The D/IMD will record each appeal received under this part and acknowledge receipt to the requester.\n",
+                "I": [
+                  "Receipt, recording, and tasking."
+                ]
+              },
+              {
+                "_": "(3)  The ODNI Chief Management Officer (CMO), after consultation with all interested parties or ODNI component organizations, as well as the Office of General Counsel, will make a final determination on the appeal within 60 days.\n",
+                "I": [
+                  "Appellate authority."
+                ]
+              },
+              {
+                "_": "(b)  The D/IMD will prepare and communicate the ODNI administrative appeal decision to the requester, NARA, Presidential library, and referring agency, as appropriate. Correspondence will include a notice, if applicable, that a further appeal of ODNI's final decision may be made to the Interagency Security Classification Appeals Panel (ISCAP) established pursuant to section 5.3 of Executive Order 13526. Action by that Panel will be the subject of rules to be promulgated by the Information Security Oversight Office.\n\n\n",
+                "I": [
+                  "Final appeal."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1705-1799",
+          "NODE": "32:6.2.3.17.6",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1705-1799 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

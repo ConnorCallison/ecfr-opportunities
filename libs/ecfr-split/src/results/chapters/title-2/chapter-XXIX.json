@@ -1,0 +1,880 @@
+{
+  "number": "XXIX",
+  "title": " CHAPTER XXIX—DEPARTMENT OF LABOR",
+  "content": {
+    "$": {
+      "N": "XXIX",
+      "NODE": "2:1.2.24",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXIX—DEPARTMENT OF LABOR"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2900",
+          "NODE": "2:1.2.24.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2900—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 2 CFR 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76081, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.24.10.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Acronyms and Definitions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.1",
+                  "NODE": "2:1.2.24.10.1.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.1   Budget."
+                ],
+                "P": [
+                  "In the DOL, approval of the budget as awarded does not constitute prior approval of those items requiring prior approval, including those items the Federal Awarding agency specifies as requiring prior approval. See § 200.407 and § 2900.16 for more information about prior written approval (prior approval) (see 2 CFR 200.1).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[80 FR 81440, Dec. 30, 2015, as amended at 86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.2",
+                  "NODE": "2:1.2.24.10.1.1.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.2   Non-Federal entity."
+                ],
+                "P": [
+                  "In the DOL, Non-Federal entity means a state, local government, Indian tribe, institution of higher education (IHE), for-profit entity, foreign public entity, foreign organization or nonprofit organization that carries out a Federal award as a recipient or subrecipient (see 2 CFR 200.1).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.3",
+                  "NODE": "2:1.2.24.10.1.1.69.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.3   Questioned cost."
+                ],
+                "P": [
+                  "In the DOL, in addition to the guidance contained in 2 CFR 200.1, a questioned cost means a cost that is questioned by an auditor, Federal Project Officer, Grant Officer, or other authorized Awarding agency representative because of an audit or monitoring finding:\n",
+                  "(a) Which resulted from a violation or possible violation of a statute, regulation, or the terms and conditions of a Federal award, including for funds used to match Federal funds;\n",
+                  "(b) Where the costs, at the time of the audit, are not supported by adequate documentation; or\n",
+                  "(c) Where the costs incurred appear unreasonable and do not reflect the actions a prudent person would take in the circumstances.\n",
+                  "(d) Questioned costs are not an improper payment until reviewed and confirmed to be improper as defined in OMB Circular A-123 Appendix C (see also the definition of improper payment in 2 CFR 200.1).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[79 FR 76081, Dec. 19, 2014, as amended at 80 FR 81440, Dec. 30, 2015; 86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.24.10.1.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—General Provisions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.4",
+                  "NODE": "2:1.2.24.10.1.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.4   Adoption of 2 CFR part 200."
+                ],
+                "P": [
+                  "Under the authority listed above, the Department of Labor adopts the Office of Management and Budget (OMB) Guidance in the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards to Non-Federal Entities (subparts A through F of 2 CFR part 200), as supplemented by this part, as Department of Labor policies and procedures for financial assistance administration. This part gives regulatory effect to the OMB guidance as supplemented by this part. The DOL also has programmatic and administrative regulations located in titles 20 and 29 of the CFR.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.24.10.1.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Pre-Federal Award Requirements and Contents of Federal Awards"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.5",
+                  "NODE": "2:1.2.24.10.1.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.5   Federal awarding agency review of risk posed by applicants."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.206(b), in evaluating risks of applicants, DOL also considers audits and monitoring reports containing findings and issues of noncompliance or questioned costs, in addition to reports and findings from audits performed under Subpart F—Audit Requirements of 2 CFR 200 or the reports and findings of any other available audits (see 2 CFR 200.206(b)).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.24.10.1.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Post Federal Award Requirements"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.6",
+                  "NODE": "2:1.2.24.10.1.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.6   Advance payment."
+                ],
+                "P": [
+                  "In the DOL, except as authorized under 2 CFR 200.208, the non-Federal entity must be paid in advance (see 2 CFR 200.305(b)(1)).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.7",
+                  "NODE": "2:1.2.24.10.1.4.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.7   Federal payment."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.305(b), for Federal awards from the Department of Labor, the non-Federal entity should liquidate existing advances before it requests additional advances.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[80 FR 81440, Dec. 30, 2015, as amended at 86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.8",
+                  "NODE": "2:1.2.24.10.1.4.69.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.8   Cost sharing or matching."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.306(b), for Federal awards from the Department of Labor, the non-Federal entity accounts for funds used for cost sharing or match within their accounting systems as the funds are expended.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.9",
+                  "NODE": "2:1.2.24.10.1.4.69.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.9   Revision of budget and program plans."
+                ],
+                "P": [
+                  "In the DOL, approval of the budget as awarded does not constitute prior approval of those items requiring prior approval, including those items the Federal awarding agency specifies as requiring prior approval (see 2 CFR 200.407 and 2 CFR 200.308(a)).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.10",
+                  "NODE": "2:1.2.24.10.1.4.69.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.10   Prior approval requests."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.308(c), for Federal awards from the Department of Labor, the non-Federal entity must request prior approval actions at least 30 days prior to the effective date of the requested action (see 2 CFR 200.407).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.11",
+                  "NODE": "2:1.2.24.10.1.4.69.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.11   Revision of budget and program plans including extension of the period of performance."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.308(b), for Federal awards from the Department of Labor, the non-Federal entity must request prior approval for an extension to the period of performance.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.12",
+                  "NODE": "2:1.2.24.10.1.4.69.7",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.12   Revision of budget and program plans approval from Grant Officers."
+                ],
+                "P": [
+                  "In the DOL, unless otherwise noted in the grant agreement or cooperative agreement, prior written approval for revision of budget and program plans must come from the Grant Officer (see 2 CFR 200.308(d)).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.13",
+                  "NODE": "2:1.2.24.10.1.4.69.8",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.13   Intangible property."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.315(d), the Department of Labor requires intellectual property developed under a discretionary Federal award process to be in a format readily accessible and available for open licensing to the public. An open license allows subsequent users to copy, distribute, transmit and adapt the copyrighted work and requires such users to attribute the work in the manner specified by the recipient.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.14",
+                  "NODE": "2:1.2.24.10.1.4.69.9",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.14   Financial reporting."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.328, for Federal awards from the Department of Labor, the DOL awarding agency will prescribe whether the report will be on a cash or an accrual basis.\n\n\n\n If the DOL awarding agency requires reporting on an accrual basis and the recipient's accounting system is not on the accrual basis, the recipient will not be required to convert its accounting system, but must develop and report such accrual information through best estimates based on an analysis of the documentation on hand.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[79 FR 76081, Dec. 19, 2014, as amended at 86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.15",
+                  "NODE": "2:1.2.24.10.1.4.69.10",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.15   Closeout."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.344(b), for Federal awards from the Department of Labor, the non-Federal entity must liquidate all financial obligations and/or accrued expenditures incurred under the Federal award. For non-Federal entities reporting on an accrual basis and operating on an expenditure period, unless otherwise noted in the grant agreement or cooperative agreement, the only liquidation that can occur during closeout is the liquidation of accrued expenditures (NOT financial obligations) for goods and/or services received during the grant period.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22108, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.24.10.1.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Cost Principles"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.16",
+                  "NODE": "2:1.2.24.10.1.5.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.16   Prior written approval (prior approval)."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.407, for Federal awards from the Department of Labor, the non-Federal entity must request prior written approval which should include the timeframe or scope of the agreement and be submitted not less than 30 days before the requested action is to occur. Unless otherwise noted in the grant agreement or cooperative agreement, the Grant Officer is the only official with the authority to provide prior written approval (prior approval). Items included in the statement of work or budget as awarded does not constitute prior approval.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[80 FR 81441, Dec. 30, 2015, as amended at 86 FR 22109, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.17",
+                  "NODE": "2:1.2.24.10.1.5.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.17   Adjustment of negotiated IDC rates."
+                ],
+                "P": [
+                  "In the DOL, in addition to the requirements under 2 CFR 200.411(a)(2), adjustments to indirect cost rates resulting from a determination of unallowable costs being included in the rate proposal may result in the reissuance of negotiated rate agreement.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.18",
+                  "NODE": "2:1.2.24.10.1.5.69.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.18   Contingency provisions."
+                ],
+                "P": [
+                  "In addition to the guidance set forth in 2 CFR 200.433(c), for Federal awards from the Department of Labor, excepted citations include 2 CFR 200.334 Retention requirements for records, and 2 CFR 200.335 Requests for transfers of records.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[86 FR 22109, Apr. 27, 2021]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.19",
+                  "NODE": "2:1.2.24.10.1.5.69.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.19   Student activity costs."
+                ],
+                "P": [
+                  "In the Department of Labor, the provisions of 2 CFR 200.469 apply unless the activities meet a program requirement and have prior written approval from the Federal awarding agency.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.24.10.1.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Audit Requirements"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2900.20",
+                  "NODE": "2:1.2.24.10.1.6.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.20   Federal Agency Audit Responsibilities."
+                ],
+                "P": [
+                  "In the DOL, in addition to 2 CFR 200.513, the department employs a collaborative resolution process with non-federal entities.\n",
+                  {
+                    "_": "(a)  The DOL official(s) responsible for resolution shall promptly evaluate findings and recommendations reported by auditors and the corrective action plan developed by the recipient to determine proper actions in response to audit findings and recommendations. The process of audit resolution includes at a minimum an initial determination, an informal resolution period, and a final determination.\n",
+                    "I": [
+                      "Department of Labor Cooperative Audit Resolution Process."
+                    ]
+                  },
+                  {
+                    "_": "(1)  After the conclusion of any comment period for audits provided the recipient/contractor, the responsible DOL official(s) shall make an initial determination on the allowability of questioned costs or activities, administrative or systemic findings, and the corrective actions outlined by the recipient. Such determination shall be based on applicable statutes, regulations, administrative directives, or terms and conditions of the grant/contract award instrument.\n",
+                    "I": [
+                      "Initial determination."
+                    ]
+                  },
+                  {
+                    "_": "(2)  The recipient/contractor shall have a reasonable period of time (as determined by the DOL official(s) responsible for audit resolution) from the date of issuance of the initial determination to informally resolve those matters in which the recipient/contractor disagrees with the decisions of the responsible DOL official(s).\n",
+                    "I": [
+                      "Informal resolution."
+                    ]
+                  },
+                  {
+                    "_": "(3)  After the conclusion of the informal resolution period, the responsible DOL official(s) shall issue a final determination that:\n",
+                    "I": [
+                      "Final determination."
+                    ]
+                  },
+                  "(i) As appropriate, indicate that efforts to informally resolve matters contained in the initial determination have either been successful or unsuccessful;\n",
+                  "(ii) Lists those matters upon which the parties continue to disagree;\n",
+                  "(iii) Lists any modifications to the factual findings and conclusions set forth in the initial determination;\n",
+                  "(iv) Lists any sanctions and required corrective actions; and\n",
+                  "(v) Sets forth any appeal rights.\n",
+                  {
+                    "_": "(4)  Insofar as possible, the requirements of this section should be met within 180 days of the date the final approved audit report is received by the DOL official(s) responsible for audit resolution.\n",
+                    "I": [
+                      "Time limit."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[79 FR 76081, Dec. 19, 2014, as amended at 80 FR 81441, Dec. 30, 2015]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.21",
+                  "NODE": "2:1.2.24.10.1.6.69.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.21   Management decision."
+                ],
+                "P": [
+                  "In the DOL, ordinarily, a management decision is issued within six months of receipt of an audit from the audit liaison of the Office of the Inspector General and is extended an additional six months when the audit contains a finding involving a subrecipient of the pass-through entity being audited. The pass-through entity responsible for issuing a management decision must do so within twelve months of acceptance of the audit report by the FAC. The auditee must initiate and proceed with corrective action as rapidly as possible and should begin corrective action no later than upon receipt of the audit report. (See 2 CFR 200.521(d)).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[80 FR 81441, Dec. 30, 2015]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 2900.22",
+                  "NODE": "2:1.2.24.10.1.6.69.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2900.22   Audit Requirements—Appeal Process for Department of Labor Recipients."
+                ],
+                "P": [
+                  "In the DOL, the DOL grantor agencies shall determine which of the two appeal options set forth in paragraphs (a) and (b) of this section the recipient may use to appeal the final determination of the grant officer. All awards within the same Federal financial assistance program shall follow the same appeal procedure.\n",
+                  "(a) Appeal to the head of the grantor agency, or his/her designee, for which the audit was conducted.\n",
+                  {
+                    "_": "(1)  (i) Request for hearing. Within 21 days of receipt of the grant officer's final determination, the recipient may transmit, by certified mail, return receipt requested, a request for hearing to the head of the grantor agency, or his/her designee, as noted in the final determination. A copy must also be sent to the grant officer who signed the final determination.\n",
+                    "I": [
+                      "Jurisdiction."
+                    ]
+                  },
+                  {
+                    "_": "(ii)  The request for a hearing shall be accompanied by a copy of the final determination, if issued, and shall specifically state those portions of the final determination upon which review is requested. Those portions of the final determination not specified for review shall be considered resolved and not subject to further review.\n",
+                    "I": [
+                      "Statement of issues."
+                    ]
+                  },
+                  {
+                    "_": "(iii)  When no timely request for a hearing is made, the final determination shall constitute final action by the Secretary of Labor and shall not be subject to further review.\n",
+                    "I": [
+                      "Failure to request review."
+                    ]
+                  },
+                  {
+                    "_": "(2)  The grantor agency shall establish procedures for the conduct of hearings by the head of the grantor agency, or his/her designee.\n",
+                    "I": [
+                      "Conduct of hearings."
+                    ]
+                  },
+                  {
+                    "_": "(3)  The head of the grantor agency, or his/her designee, should render a written decision no later than 90 days after the closing of the record. This decision constitutes final action of the Secretary.\n",
+                    "I": [
+                      "Decision of the head of the grantor agency, or his/her designee."
+                    ]
+                  },
+                  {
+                    "_": "(b)  (1)  (i)  Within 21 days of receipt of the grant officer's final determination, the recipient may transmit by certified mail, return receipt requested, a request for hearing to the Chief Administrative Law Judge, United States Department of Labor, 800 K Street NW., Suite 400, Washington, DC 20001, with a copy to the grant officer who signed the final determination. The Chief Administrative Law Judge shall designate an administrative law judge to hear the appeal.\n",
+                    "I": [
+                      "Appeal to the DOL Office of Administrative Law Judges.",
+                      "Jurisdiction.",
+                      "Request for hearing."
+                    ]
+                  },
+                  {
+                    "_": "(ii)  The request for a hearing shall be accompanied by a copy of the final determination, if issued, and shall specifically state those portions of the final determination upon which review is requested. Those portions of the final determination not specified for review shall be considered resolved and not subject to further review.\n",
+                    "I": [
+                      "Statement of issues."
+                    ]
+                  },
+                  {
+                    "_": "(iii)  When no timely request for a hearing is made, the final determination shall constitute final action by the Secretary and shall not be subject to further review.\n",
+                    "I": [
+                      "Failure to request review."
+                    ]
+                  },
+                  {
+                    "_": "(2)  The DOL Rules of Practice and Procedure for Administrative Hearings Before the Office of Administrative Law Judges, set forth at 29 CFR part 18, shall govern the conduct of hearings under paragraph (b) of this section.\n",
+                    "I": [
+                      "Conduct of hearings."
+                    ]
+                  },
+                  {
+                    "_": "(3)  The administrative law judge should render a written decision no later than 90 days after the closing of the record.\n",
+                    "I": [
+                      "Decision of the administrative law judge."
+                    ]
+                  },
+                  {
+                    "_": "(4)  The decision of the administrative law judge shall constitute final action by the Secretary of Labor, unless, within 21 days after receipt of the decision of the administrative law judge, a party dissatisfied with the decision or any part thereof has filed exceptions with the Secretary, specifically identifying the procedure or finding of fact, law, or policy with which exception is taken. Any exceptions not specifically urged shall be deemed to have been waived. Thereafter, the decision of the administrative law judge shall become the decision of the Secretary, unless the Secretary, within 30 days of such filing, has notified the parties that the case has been accepted for review.\n",
+                    "I": [
+                      "Filing exceptions to decision."
+                    ]
+                  },
+                  {
+                    "_": "(5)  Any case accepted for review by the Secretary shall be decided within 180 days of such acceptance. If not so decided, the decision of the administrative law judge shall become the final decision of the Secretary.\n\n\n",
+                    "I": [
+                      "Review by the Secretary of Labor."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2901-2997",
+          "NODE": "2:1.2.24.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2901-2997 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "2998",
+          "NODE": "2:1.2.24.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2998—NONPROCUREMENT DEBARMENT AND SUSPENSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; E.O. 12549 (3 CFR, 1986 Comp., p.189); E.O. 12689 (3 CFR, 1989 Comp., p.235); sec 2455 Pub. L. 103-355, 108 Stat. 3327 (31 U.S.C. 6101 note).\n\n\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "81 FR 25586, Apr. 29, 2016, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2998.10",
+              "NODE": "2:1.2.24.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2998.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Labor (DOL) policies and procedures for non-procurement debarment and suspension. It thereby gives regulatory effect for DOL to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189); Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235); and section 2455 of the Federal Acquisition Streamlining Act of 1994, 103 (31 U.S.C. 6101 note).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2998.20",
+              "NODE": "2:1.2.24.10.3.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2998.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” (see subpart B of 2 CFR part 180 and the definition of “non-procurement transaction” at 2 CFR 180.970);\n",
+              "(b) Respondent in a Department of Labor suspension or debarment action;\n",
+              "(c) Department of Labor debarment or suspension official; or\n",
+              "(d) Department of Labor grants officer, agreements officer, or other official authorized to enter into any type of non-procurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2998.30",
+              "NODE": "2:1.2.24.10.3.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2998.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              "(a) The Department of Labor's policies and procedures that you must follow are specified in:\n",
+              "(1) Each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180; and\n",
+              {
+                "_": "(2) The supplement to each section of the OMB guidance that is found in this part under the same section number. (The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance ( 2 CFR 180.220) as supplemented by section 220 in this part ( Sec. 2998.220)).\n",
+                "I": [
+                  "i.e.,",
+                  "i.e.,"
+                ]
+              },
+              "(b) For any section of OMB guidance in subparts A through I of 2 CFR part 180 that has no corresponding section in this part, the Department of Labor's policies and procedures are those in the OMB guidance.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.24.10.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2998.137",
+                  "NODE": "2:1.2.24.10.3.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2998.137   Who in DOL may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "Within the Department of Labor, the Secretary of Labor or designee has the authority to grant an exception to let an excluded person participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135. If any designated official grants an exception, the exception must be in writing and state the reason(s) for deviating from the government-wide policy in Executive Order 12549.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.24.10.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2998.220",
+                  "NODE": "2:1.2.24.10.3.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2998.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "In addition to the contracts covered under 2 CFR 180.220(b) of the OMB guidance, this part applies to any contract, regardless of tier, that is awarded by a contractor, subcontractor, supplier, consultant, or its agent or representative in any transaction, if the contract is to be funded or provided by the Department of Labor under a covered non-procurement transaction. This extends the coverage of the Department of Labor non-procurement suspension and debarment requirements to all lower tiers of subcontracts under covered non-procurement transactions, as permitted under the OMB guidance at 2 CFR 180.220(c) (see optional lower tier coverage in the figure in the appendix to 2 CFR part 180).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.24.10.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2998.332",
+                  "NODE": "2:1.2.24.10.3.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2998.332   What requirements must I pass down to persons at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "You, as a participant, must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.24.10.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2998.437",
+                  "NODE": "2:1.2.24.10.3.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2998.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, you must include a term or condition in the transaction that requires the participant's compliance with Subpart C of 2 CFR part 180, and supplemented by subpart C of this part, and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.24.10.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-J [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2999",
+          "NODE": "2:1.2.24.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2999 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

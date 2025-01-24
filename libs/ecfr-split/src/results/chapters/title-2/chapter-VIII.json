@@ -1,0 +1,493 @@
+{
+  "number": "VIII",
+  "title": " CHAPTER VIII—DEPARTMENT OF VETERANS AFFAIRS",
+  "content": {
+    "$": {
+      "N": "VIII",
+      "NODE": "2:1.2.5",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER VIII—DEPARTMENT OF VETERANS AFFAIRS"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "800",
+          "NODE": "2:1.2.5.3.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 800 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "801",
+          "NODE": "2:1.2.5.3.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 801—NONPROCUREMENT DEBARMENT AND SUSPENSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235; 38 U.S.C. 501(a) and 3703(c).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "72 FR 30240, May 31, 2007, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 801.10",
+              "NODE": "2:1.2.5.3.2.0.47.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 801.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Veterans Affairs (VA) policies and procedures for nonprocurement debarment and suspension. It thereby gives regulatory effect for the Department of Veterans Affairs to the OMB guidance as supplemented by this part. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 801.20",
+              "NODE": "2:1.2.5.3.2.0.47.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 801.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” (see Subpart B of 2 CFR part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970, as supplemented by Subpart B of this part);\n",
+              "(b) Respondent in a Department of Veterans Affairs debarment or suspension action;\n",
+              "(c) Department of Veterans Affairs debarment or suspension official; or\n",
+              "(d) Department of Veterans affairs grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 801.30",
+              "NODE": "2:1.2.5.3.2.0.47.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 801.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              "For any section of OMB guidance in subparts A through I of 2 CFR part 180 that has no corresponding section in this part, Department of Veterans Affairs policies and procedures are those in the OMB guidance. For any such section where there is a corresponding section in this part, the Department of Veterans Affairs policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, and as supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by § 180.220 of the OMB guidance (2 CFR 180.220) as supplemented by § 801.220 in this part (2 CFR 801.220).\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.5.3.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.137",
+                  "NODE": "2:1.2.5.3.2.1.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.137   Who in the Department of Veterans Affairs may grant an exception to allow an excluded person to participate in a covered transaction?"
+                ],
+                "P": [
+                  "Within the Department of Veterans Affairs, the Secretary of Veterans Affairs, the Under Secretary for Health, the Under Secretary for Benefits, and the Under Secretary for Memorial Affairs each has the authority to grant an exception to allow an excluded person to participate in a covered transaction, as provided in the OMB guidance at 2 CFR 180.135.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.5.3.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.220",
+                  "NODE": "2:1.2.5.3.2.2.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "VA does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction, although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see optional lower tier coverage in the figure in the appendix to 2 CFR part 180).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.5.3.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.332",
+                  "NODE": "2:1.2.5.3.2.3.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "You as a participant must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.5.3.2.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.437",
+                  "NODE": "2:1.2.5.3.2.4.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, you must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180 (as supplemented by subpart C of this part) and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.5.3.2.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-H [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "I",
+              "NODE": "2:1.2.5.3.2.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart I—Definitions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.930",
+                  "NODE": "2:1.2.5.3.2.6.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.930   Debarring official (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.930)."
+                ],
+                "P": [
+                  "In addition to the debarring official listed at 2 CFR 180.930, the debarring official for the Department of Veterans Affairs is:\n",
+                  "(a) For the Veterans Health Administration, the Under Secretary for Health;\n",
+                  "(b) For the Veterans Benefits Administration, the Under Secretary for Benefits; and\n",
+                  "(c) For the National Cemetery Administration, the Under Secretary for Memorial Affairs.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.995",
+                  "NODE": "2:1.2.5.3.2.6.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.995   Principal (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.995.)"
+                ],
+                "P": [
+                  "In addition to the principals identified at 2 CFR 180.995, for the Department of Veterans Affairs loan guaranty program, principals include, but are not limited to the following:\n",
+                  "(a) Loan officers.\n",
+                  "(b) Loan solicitors.\n",
+                  "(c) Loan processors.\n",
+                  "(d) Loan servicers.\n",
+                  "(e) Loan supervisors.\n",
+                  "(f) Mortgage brokers.\n",
+                  "(g) Office managers.\n",
+                  "(h) Staff appraisers and inspectors.\n",
+                  "(i) Fee Appraisers and inspectors.\n",
+                  "(j) Underwriters.\n",
+                  "(k) Bonding companies.\n",
+                  "(l) Real estate agents and brokers.\n",
+                  "(m) Management and marketing agents.\n",
+                  "(n) Accountants, consultants, investment bankers, architects, engineers, attorneys, and others in a business relationship with participants in connection with a covered transaction under the Department of Veterans Affairs loan guaranty program.\n",
+                  "(o) Contractors involved in the construction, improvement or repair of properties financed with Department of Veterans Affairs guaranteed loans.\n",
+                  "(p) Closing agents.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1010",
+                  "NODE": "2:1.2.5.3.2.6.47.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1010   Suspending official (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.1010)."
+                ],
+                "P": [
+                  "In addition to the suspending official listed at 2 CFR 180.1010, the suspending official for the Department of Veterans Affairs is:\n",
+                  "(a) For the Veterans Health Administration, the Under Secretary for Health;\n",
+                  "(b) For the Veterans Benefits Administration, the Under Secretary for Benefits; and\n",
+                  "(c) For the National Cemetery Administration, the Under Secretary for Memorial Affairs.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "for",
+              "NODE": "2:1.2.5.3.2.7",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart J—Limited Denial of Participation (Department of Veterans Affairs Optional Subpart for OMB Guidance at 2 CFR Part 180)."
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 801.1100",
+                  "NODE": "2:1.2.5.3.2.7.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1100   General."
+                ],
+                "P": [
+                  "Field facility directors are authorized to order a limited denial of participation affecting any participant or contractor and its affiliates except lenders and manufactured home manufacturers. In each case, even if the offense or violation is of a criminal, fraudulent or other serious nature, the decision to order a limited denial of participation shall be discretionary and in the best interests of the Government.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1105",
+                  "NODE": "2:1.2.5.3.2.7.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1105   Cause for a limited denial of participation."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A limited denial of participation shall be based upon adequate evidence of any of the following causes:\n",
+                    "I": [
+                      "Causes."
+                    ]
+                  },
+                  "(1) Irregularities in a participant's or contractor's performance in the VA loan guaranty program;\n",
+                  "(2) Denial of participation in programs administered by the Department of Housing and Urban Development or the Department of Agriculture, Rural Housing Service;\n",
+                  "(3) Failure to satisfy contractual obligations or to proceed in accordance with contract specifications;\n",
+                  "(4) Failure to proceed in accordance with VA requirements or to comply with VA regulations;\n",
+                  "(5) Construction deficiencies deemed by VA to be the participant's responsibility;\n",
+                  "(6) Falsely certifying in connection with any VA program, whether or not the certification was made directly to VA;\n",
+                  "(7) Commission of an offense or other cause listed in § 180.800;\n",
+                  "(8) Violation of any law, regulation, or procedure relating to the application for guaranty, or to the performance of the obligations incurred pursuant to a commitment to guaranty;\n",
+                  "(9) Making or procuring to be made any false statement for the purpose of influencing in any way an action of the Department.\n",
+                  "(10) Imposition of a limited denial of participation by any other VA field facility.\n",
+                  {
+                    "_": "(b)  A criminal indictment or information shall constitute adequate evidence for the purpose of limited denial of participation actions.\n",
+                    "I": [
+                      "Indictment."
+                    ]
+                  },
+                  {
+                    "_": "(c)  Imposition of a limited denial of participation by a VA field facility shall, at the discretion of any other VA field facility, constitute adequate evidence for a concurrent limited denial of participation. Where such a concurrent limited denial of participation is imposed, participation may be restricted on the same basis without the need for an additional conference or further hearing.\n\n\n",
+                    "I": [
+                      "Limited denial of participation."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1110",
+                  "NODE": "2:1.2.5.3.2.7.47.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1110   Scope and period of a limited denial of participation."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The scope of a limited denial of participation shall be as follows:\n",
+                    "I": [
+                      "Scope and period."
+                    ]
+                  },
+                  "(1) A limited denial of participation extends only to participation in the VA Loan Guaranty Program and shall be effective only within the geographic jurisdiction of the office or offices imposing it.\n",
+                  "(2) The sanction may be imposed for a period not to exceed 12 months except for unresolved construction deficiencies. In cases involving construction deficiencies, the builder may be excluded for either a period not to exceed 12 months or for an indeterminate period which ends when the deficiency has been corrected or otherwise resolved in a manner acceptable to VA.\n",
+                  {
+                    "_": "(b)  The sanction shall be effective immediately upon issuance and shall remain effective for the prescribed period. If the cause for the limited denial of participation is resolved before the expiration of the prescribed period, the official who imposed the sanction may terminate it. The imposition of a limited denial of participation shall not affect the right of the Department to suspend or debar any person under this part.\n",
+                    "I": [
+                      "Effectiveness."
+                    ]
+                  },
+                  {
+                    "_": "(c)  An affiliate or organizational element may be included in a limited denial of participation solely on the basis of its affiliation, and regardless of its knowledge of or participation in the acts providing cause for the sanction. The burden of proving that a particular affiliate or organizational element is capable of meeting VA requirements and is currently a responsible entity and not controlled by the primary sanctioned party (or by an entity that itself is controlled by the primary sanctioned party) is on the affiliate or organizational element.\n\n\n",
+                    "I": [
+                      "Affiliates."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1111",
+                  "NODE": "2:1.2.5.3.2.7.47.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1111   Notice."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A limited denial of participation shall be initiated by advising a participant or contractor, and any specifically named affiliate, by certified mail, return receipt requested:\n",
+                    "I": [
+                      "Generally."
+                    ]
+                  },
+                  "(1) That the sanction is effective as of the date of the notice;\n",
+                  "(2) Of the reasons for the sanction in terms sufficient to put the participant or contractor on notice of the conduct or transaction(s) upon which it is based;\n",
+                  "(3) Of the cause(s) relied upon under § 801.1105 for imposing the sanction;\n",
+                  "(4) Of the right to request in writing, within 30 days of receipt of the notice, a conference on the sanction, and the right to have such conference held within 10 business days of receipt of the request;\n",
+                  "(5) Of the potential effect of the sanction and the impact on the participant's or contractor's participation in Departmental programs, specifying the program(s) involved and the geographical area affected by the action.\n",
+                  {
+                    "_": "(b)  After 30 days, if no conference has been requested, the official imposing the limited denial of participation will notify VA Central Office of the action taken and of the fact that no conference has been requested. If a conference is requested within the 30-day period, VA Central Office need not be notified unless a decision to affirm all or a portion of the remaining period of exclusion is issued. VA Central Office will notify all VA field offices of sanctions imposed and still in effect under this subpart.\n\n\n",
+                    "I": [
+                      "Notification of action."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1112",
+                  "NODE": "2:1.2.5.3.2.7.47.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1112   Conference."
+                ],
+                "P": [
+                  "Upon receipt of a request for a conference, the official imposing the sanction shall arrange such a conference with the participant or contractor and may designate another official to conduct the conference. The participant shall be given the opportunity to be heard within 10 business days of receipt of the request. This conference precedes, and is in addition to, the formal hearing provided if an appeal is taken under § 801.1113. Although formal rules of procedure do not apply to the conference, the participant or contractor may be represented by counsel and may present all relevant information and materials to the official or designee. After consideration of the information and materials presented, the official shall, in writing, advise the participant or contractor of the decision to withdraw, modify or affirm the limited denial of participation. If the decision is made to affirm all or a portion of the remaining period of exclusion, the participant shall be advised of the right to request a formal hearing in writing within 30 days of receipt of the notice of decision. This decision shall be issued promptly, but in no event later than 20 days after the conference and receipt of materials.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 801.1113",
+                  "NODE": "2:1.2.5.3.2.7.47.6",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 801.1113   Appeal."
+                ],
+                "P": [
+                  "Where the decision is made to affirm all or a portion of the remaining period of exclusion, any participant desiring an appeal shall file a written request for a hearing with the Under Secretary for Benefits, Department of Veterans Affairs, 810 Vermont Avenue, NW., Washington, DC 20420. This request shall be filed within 30 days of receipt of the decision to affirm. If a hearing is requested, it shall be held in accordance with the procedures in §§ 108.825 through 108.855. Where a limited denial of participation is followed by a suspension or debarment, the limited denial of participation shall be superseded and the appeal shall be heard solely as an appeal of the suspension or debarment.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "802",
+          "NODE": "2:1.2.5.3.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 802—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 38 U.S.C. 501, 2 CFR part 200, and as noted in specific sections.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76024, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 802.101",
+              "NODE": "2:1.2.5.3.3.0.47.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 802.101   Applicable regulations."
+            ],
+            "P": [
+              "The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 shall apply to the Department of Veterans Affairs.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "803-899",
+          "NODE": "2:1.2.5.3.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 803-899 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

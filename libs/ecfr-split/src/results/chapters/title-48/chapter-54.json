@@ -1,0 +1,305 @@
+{
+  "number": "54",
+  "title": " CHAPTER 54—DEFENSE LOGISTICS AGENCY, DEPARTMENT OF DEFENSE",
+  "content": {
+    "$": {
+      "N": "54",
+      "NODE": "48:7.0.7",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 54—DEFENSE LOGISTICS AGENCY, DEPARTMENT OF DEFENSE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "5400-5415",
+          "NODE": "48:7.0.7.25.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 5400-5415 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "5416",
+          "NODE": "48:7.0.7.25.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5416—TYPES OF CONTRACTS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Fixed Price Contracts\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "64 FR 41835, Aug. 2, 1999, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "5416.2",
+              "NODE": "48:7.0.7.25.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart 5416.2—Fixed Price Contracts"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "5416.203",
+                  "NODE": "48:7.0.7.25.2.1.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5416.203   Fixed-price contracts with economic price adjustment."
+                ]
+              },
+              {
+                "$": {
+                  "N": "5416.203-1",
+                  "NODE": "48:7.0.7.25.2.1.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5416.203-1   Description."
+                ],
+                "P": [
+                  "(a)(S-90) Adjustments based on established prices. Established prices may reflect industry-wide and/or geographically based market price fluctuations for commodity groups, specific supplies or services, or contract end items.\n",
+                  "(c)(S-90) Adjustments based on cost indexes of labor or materials. These price adjustments may also be based on increases or decreases in indexes for commodity groups, specific supplies or services, or contract end items.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "5416.203-3",
+                  "NODE": "48:7.0.7.25.2.1.1.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5416.203-3   Limitations."
+                ],
+                "P": [
+                  "(S-90) A fixed price contract with economic price adjustment may also be used to provide for price adjustments authorized in this section.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "5416.203-4",
+                  "NODE": "48:7.0.7.25.2.1.1.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5416.203-4   Contract clauses."
+                ],
+                "P": [
+                  "(S-90) When the contracting officer determines that an existing EPA clause is not appropriate, the contracting officer may develop and use another EPA clause in accordance with 5416.203-1 (a)(S-90) or (c)(S-90). Established prices and cost indexes need not reflect changes in the costs or established prices of a specific contractor. The established price or cost index may be derived from sales prices in the marketplace, quotes, or assessments as reported or made available in a consistent manner in a publication, electronic database, or other form, by an independent trade association, Governmental body, or other third party independent of the contractor. More than one established price or cost index may be combined in a formula for economic price adjustment purposes in the absence of an appropriate single price or cost index.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5433",
+          "NODE": "48:7.0.7.25.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5433—PROTESTS, DISPUTES AND APPEALS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "10 U.S.C. Chapter 137.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "5433.214.",
+              "NODE": "48:7.0.7.25.3.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "5433.214.   Alternative Dispute Resolution (ADR)."
+            ],
+            "P": [
+              "The contracting officer shall insert the provision in 5452.233 in all solicitations unless the conditions at FAR 33.203(b) apply.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[66 FR 27474, May 17, 2001]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5452",
+          "NODE": "48:7.0.7.25.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5452—SOLICITATION PROVISIONS AND CONTRACT CLAUSES\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 10 U.S.C. 2202, 48 CFR part 1, subpart 1.3 and 48 CFR part 201, subpart 201.3\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "5452.2",
+              "NODE": "48:7.0.7.25.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart 5452.2—Texts of Provisions and Clauses"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "5452.233-9001",
+                  "NODE": "48:7.0.7.25.4.1.1.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5452.233-9001   Disputes: Agreement To Use Alternative Dispute Resolution (ADR)."
+                ],
+                "P": [
+                  "As prescribed in 5433.214, insert the following provision:\n"
+                ],
+                "EXTRACT": [
+                  {
+                    "HD1": [
+                      "Disputes: Agreement To Use Alternative Dispute Resolution (ADR) (APR 2001)—DLAD\n"
+                    ],
+                    "P": [
+                      "(a) The parties agree to negotiate with each other to try to resolve any disputes that may arise. If unassisted negotiations are unsuccessful, the parties will use alternative dispute resolution (ADR) techniques to try to resolve the dispute. Litigation will only be considered as a last resort when ADR is unsuccessful or has been documented by the party rejecting ADR to be inappropriate for resolving the dispute.\n",
+                      "(b) Before either party determines ADR inappropriate, that party must discuss the use of ADR with the other party. The documentation rejecting ADR must be signed by an official authorized to bind the contractor (see FAR 52.233-1), or, for the Agency, by the contracting officer, and approved at a level above the contracting officer after consultation with the ADR Specialist and with legal counsel. Contractor personnel are also encouraged to include the ADR Specialist in their discussions with the contracting officer before determining ADR to be inappropriate.\n",
+                      "(c) If you wish to opt out of this clause, check here [ ]. Alternate wording may be negotiated with the contracting officer."
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[66 FR 27474, May 17, 2001]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "5452.249",
+                  "NODE": "48:7.0.7.25.4.1.1.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "5452.249   Allocation."
+                ],
+                "P": [
+                  "The Defense Fuel Supply Center is authorized to use the following clause in domestic and overseas petroleum solicitations/contracts, including those for Canal Zone and Puerto Rico, when a fixed-price contract is contemplated and the contract amount is expected to exceed the small purchase limitation.\n"
+                ],
+                "EXTRACT": [
+                  {
+                    "HD1": [
+                      "Allocation (DFSC 1995) (Deviation) (9F01)\n"
+                    ],
+                    "P": [
+                      {
+                        "_": "(a)  If, for any cause beyond the control and without the fault or negligence of the Contractor, the total supply of crude oil and/or refined petroleum product is reduced below the level that would have otherwise been available to the Contractor, the Contractor allocates to its regular customers its remaining available supplies of crude oil or product, then the Contractor may also allocate to the U.S. Government supplies to be delivered under this contract, provided—\n",
+                        "I": [
+                          "Reduced Supplies."
+                        ]
+                      },
+                      "(1) Prompt notice of and evidence substantiating the necessity to allocate and describing the allocation rate for all the Contractor's customers are submitted to the Contracting Officer;\n",
+                      "(2) Allocation among the Contractor's regular customers is made on a fair and reasonable basis (except where allocation on a different basis is required by a governmental authority, agency or instrumentality); and\n",
+                      "(3) Reduction of the quantity of product due the Government under this contract shall not exceed the pro rata amount by which the Contractor reduces delivery to its other contractual customers.\n",
+                      {
+                        "_": "(b)  If, after the event causing the shortage of crude oil and/or refined petroleum product as described in (a) above, additional supply becomes available to the Contractor, the Contracting Officer may choose any one of the following three possible courses of action:\n",
+                        "I": [
+                          "Additional Supplies."
+                        ]
+                      },
+                      "(1) Accept an updated pro rata reduction as outlined in (a);\n",
+                      "(2) Determine that continuance of the contract with the quantities as originally stated in the Schedule is in the best interests of the Government; or\n",
+                      "(3) Terminate the contract as permitted in (d) below.\n",
+                      {
+                        "_": "(c)  If the Contractor believes that a law, regulation, or order of a foreign government requires the Contractor to deliver less than the quantity set forth in the Schedule for any location within that country, the Contractor may request allocation in accordance with (a) above. In addition to the criteria in (a) above, the Contractor's request shall cite—\n",
+                        "I": [
+                          "Reduced Deliveries."
+                        ]
+                      },
+                      "(1) The law, regulation or order, furnishing copies of the same;\n",
+                      "(2) The authority under which is imposed; and\n",
+                      "(3) The nature of the Government's waiver, exception, and enforcement procedure.\n",
+                      "The Contracting Officer will promptly review the matter and advise the Contractor whether or not the need to allocate has been substantiated. If the law, regulation, or order requiring the Contractor to reduce deliveries ceases to be effective, the Contractor shall resume deliveries in accordance with the original Schedule.\n",
+                      "(d) If, as a result of reduced deliveries permitted by (a), (b), or (c) above, the Contracting Officer decides that continuation of this contract is no longer in the best interests of the Government, the Government may terminate this contract or any quantity thereunder, by written notice, at no cost to the Government. However, the Government shall not be relieved of its obligation to pay for supplies actually delivered to and accepted by it.\n",
+                      "(e) Except as otherwise stated in (b) above, any volumes omitted pursuant to (a) or (b) above shall be deleted from this contract, and the Contractor shall have no continuing obligation, so far as this contract is concerned, to make up such omitted supplies.\n",
+                      "(f) For Posts, Camps, and Stations contracts, Department of Energy priority orders and allocation regulations will take precedence over any conflicting provisions of this clause.\n",
+                      "(g) For Bulk Fuels contracts, the provisions contained in (a) and (b) above shall be inoperative when the Secretary of Defense makes a written determination that it is essential to the National Defense that the Defense Fuel Supply Center be provided contract volumes exceeding the pro rata amount of product to which it would otherwise be entitled. However, in no case will the Contractor be required, under this contract, to supply more than 100% of the quantity specified in the Schedule."
+                    ]
+                  }
+                ],
+                "HD3": [
+                  "(End of clause)\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[60 FR 21992, May 4, 1995]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5453-5499",
+          "NODE": "48:7.0.7.25.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 5453-5499 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

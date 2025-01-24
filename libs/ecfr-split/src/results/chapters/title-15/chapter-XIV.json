@@ -1,0 +1,265 @@
+{
+  "number": "XIV",
+  "title": " CHAPTER XIV—MINORITY BUSINESS DEVELOPMENT AGENCY",
+  "content": {
+    "$": {
+      "N": "XIV",
+      "NODE": "15:4.1.5",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XIV—MINORITY BUSINESS DEVELOPMENT AGENCY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1400",
+          "NODE": "15:4.1.5.9.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1400—DETERMINATION OF GROUP ELIGIBILITY FOR MBDA ASSISTANCE\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "15 U.S.C. 1512, E.O. 11625, 3 CFR 616 (1971-75), 36 FR 19967 (1971); and E.O. 12432, 3 CFR 198 (1983), 48 FR 32551 (1983).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "49 FR 42698, Oct. 24, 1984, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1400.1",
+              "NODE": "15:4.1.5.9.1.0.33.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.1   Purpose and scope."
+            ],
+            "P": [
+              "(a) The purpose of this part is to set forth regulations for determination of group eligibility for MBDA assistance.\n",
+              "(b) In order to be eligible to receive assistance from MBDA funded organizations, a concern must be a minority business enterprise as defined in 15 U.S.C. 9501(9). The purpose of this regulation is to provide guidance to groups not previously designated as eligible for assistance who believe they are entitled to formal designation as “socially or economically disadvantaged.” Upon adequate showing by representatives of the group that the group is, as a whole, socially or economically disadvantaged, the group will be so designated and its members will be eligible for MBDA assistance. Designation under this regulation will not establish eligibility for any other Federal or Federally funded program.\n\n\n"
+            ],
+            "CITA": [
+              {
+                "_": "[49 FR 42698, Oct. 24, 1984, as amended at 89 FR 101467, Dec. 16, 2024]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1400.2",
+              "NODE": "15:4.1.5.9.1.0.33.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.2   Definitions."
+            ],
+            "P": [
+              "For the purpose of this part:\n",
+              "(a) Minority business enterprise is defined in 15 U.S.C. 9501(9).\n\n\n",
+              "(b) Socially disadvantaged persons means those persons who have been subjected to cultural, racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.\n",
+              "(c) Economically disadvantaged persons means those persons whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities because of their identity as members of a group without regard to their individual qualities, as compared to others in the same line of business and competitive market area.\n",
+              "(d) Person means a citizen of the United States or an alien lawfully admitted for permanent residence.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[49 FR 42698, Oct. 24, 1984, as amended at 89 FR 101467, Dec. 16, 2024]\n\n\n\n\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1400.3",
+              "NODE": "15:4.1.5.9.1.0.33.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.3   Request for determination."
+            ],
+            "P": [
+              "A group wishing to apply for designation as socially or economically disadvantaged under this part shall submit a written application to the Director of the Minority Business Development Agency, United States Department of Commerce, Washington, DC, 20230, containing the following information: \n",
+              {
+                "_": "(a)  a brief statement clearly indicating that the applicant seeks formal recognition as socially or economically disadvantaged. \n",
+                "I": [
+                  "Statement of request:"
+                ]
+              },
+              {
+                "_": "(b)  a detailed sociological, ethnic and/or racial description, as appropriate, of the group they represent which indicates that the group and the traits of its members are sufficiently distinctive to warrant a determination of social or economic disadvantage. \n",
+                "I": [
+                  "Description of applicants:"
+                ]
+              },
+              {
+                "_": "(c)  a brief summary of their Submission. \n",
+                "I": [
+                  "Summary of the applicant's submission:"
+                ]
+              },
+              {
+                "_": "(d)  a narrative description of the documentation in support of their claim of social or economic disadvantage.\n",
+                "I": [
+                  "Presentation of argument:"
+                ]
+              },
+              {
+                "_": "(e)  summary of applicant's arguments in support of the claims of social or economic disadvantage.\n",
+                "I": [
+                  "Conclusion:"
+                ]
+              }
+            ],
+            "NOTE": [
+              {
+                "HED": [
+                  {
+                    "_": "Note 1 to paragraph ():",
+                    "E": [
+                      {
+                        "_": "d",
+                        "$": {
+                          "T": "01"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "P": [
+                  "Applicants should support their claim of social or economic disadvantage with the criteria described under 1400.4 “Evidence of Social or Economic Disadvantage”"
+                ]
+              }
+            ],
+            "APPRO": [
+              {
+                "_": "(Approved by the Office of Management and Budget under control number 0640-0011)\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ],
+            "CITA": [
+              {
+                "_": "[49 FR 42698, Oct. 24, 1984, as amended at 89 FR 101467, Dec. 16, 2024]\n\n\n\n\n\n\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1400.4",
+              "NODE": "15:4.1.5.9.1.0.33.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.4   Evidence of social or economic disadvantage."
+            ],
+            "P": [
+              "(a) The representatives of the group requesting formal designation should establish social or economic disadvantage by a preponderance of the evidence. Social or economic disadvantage must be chronic, long standing, and substantial, not fleeting or insignificant. In determining whether a group has made an adequate showing that it has suffered chronic racial or ethnic prejudice or cultural bias for the purposes of this regulation, a determination will be made as to whether this group has suffered the effects of discriminatory practices over which its members have no control. Applicants must demonstrate that such social or economic conditions have produced impediments in the business world for members of the group which are not common to all business people in the same or similar business and market place. \n",
+              "(b) Evidence which will be considered in determining whether groups are socially or economically disadvantaged includes but is not limited to: \n",
+              "(1) Statistical profile outlining the national income level and standard of living enjoyed by members of the group in comparison to the income level and standard of living enjoyed by individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(2) Evidence of employment discrimination suffered by members of the group in comparison to employment opportunities available to individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(3) Evidence of educational discrimination in comparison to educational opportunities available to individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(4) Evidence of denial of access to organizations, groups, or professional societies, whether in business or in school, based solely upon racial and/or ethnic considerations. \n",
+              "(5) Kinds of businesses and business opportunities available to group members in comparison to the kinds of businesses and business opportunities available to individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(6) Availability of capital to group members in comparison to the availability of capital to individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(7) Availability of technical and managerial resources to group members in comparison to the technical and managerial resources available to individuals not considered to be members of socially or economically disadvantaged groups. \n",
+              "(8) Any other evidence of denial of opportunity or access to those things which would enable the individual to participate more successfully in the American economic system, available to individuals not considered to be members of social or economically disadvantaged groups. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1400.5",
+              "NODE": "15:4.1.5.9.1.0.33.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.5   Decision."
+            ],
+            "P": [
+              {
+                "_": "(a)  After receipt of an application requesting formal designation as a socially or economically disadvantaged group, the Department of Commerce will publish a notice in the  that formal designation of this group will be considered. This notice will request comment from the public on the propriety of such a designation. The Department may gather additional information which supports or refutes the group's request. Any member of the public, including Government representatives, may submit information in written form. It is the responsibility of the applicant, however, to submit all relevant information which it wishes considered in its request for a determination of group eligibility.\n",
+                "I": [
+                  "Procedure."
+                ],
+                "E": [
+                  {
+                    "_": "Federal Register",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              {
+                "_": "(b)  A decision will be made within 180 days of the receipt of the request. The decision will be published in the  Applicants will also be informed in writing.\n",
+                "I": [
+                  "Decision."
+                ],
+                "E": [
+                  {
+                    "_": "Federal Register.",
+                    "$": {
+                      "T": "04"
+                    }
+                  }
+                ]
+              },
+              {
+                "_": "(c)  All questions of eligibility and procedural requirements shall be resolved by the Director, MBDA whose decision shall be final. An applicant may appeal this decision to the Secretary of Commerce. Applicants requesting an appeal should provide any information discovered subsequent to the Director's initial decision which would further their claim. The right to appeal shall be granted at the absolute discretion of the Secretary.\n\n\n",
+                "I": [
+                  "Appeal."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1400.6",
+              "NODE": "15:4.1.5.9.1.0.33.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1400.6   Construction."
+            ],
+            "P": [
+              "Nothing in this regulation shall be construed as subjecting any functions vested in, or assigned pursuant to law to any Federal department or agency or head thereof to the authority of any other agency or office exclusively, or as abrogating or restricting such functions in any manner. \n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1401-1499",
+          "NODE": "15:4.1.5.9.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1401-1499 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

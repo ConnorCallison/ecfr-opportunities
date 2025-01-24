@@ -1,0 +1,119 @@
+{
+  "number": "57",
+  "title": " CHAPTER 57—AFRICAN DEVELOPMENT FOUNDATION",
+  "content": {
+    "$": {
+      "N": "57",
+      "NODE": "48:7.0.8",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 57—AFRICAN DEVELOPMENT FOUNDATION"
+    ],
+    "DIV4": [
+      {
+        "$": {
+          "N": "B",
+          "NODE": "48:7.0.8.25",
+          "TYPE": "SUBCHAP"
+        },
+        "HEAD": [
+          "SUBCHAPTER B—ACQUISITION PLANNING\n\n\n"
+        ],
+        "DIV5": [
+          {
+            "$": {
+              "N": "5700-5705",
+              "NODE": "48:7.0.8.25.1",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PARTS 5700-5705 [RESERVED]\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "5706",
+              "NODE": "48:7.0.8.25.2",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PART 5706—COMPETITION REQUIREMENTS\n"
+            ],
+            "AUTH": [
+              {
+                "HED": [
+                  "Authority:"
+                ],
+                "PSPACE": [
+                  "40 U.S.C. 474.\n\n\n"
+                ]
+              }
+            ],
+            "DIV6": [
+              {
+                "$": {
+                  "N": "5706.3",
+                  "NODE": "48:7.0.8.25.2.1",
+                  "TYPE": "SUBPART"
+                },
+                "HEAD": [
+                  "Subpart 5706.3—Other Than Full and Open Competition"
+                ],
+                "DIV8": [
+                  {
+                    "$": {
+                      "N": "5706.302-70",
+                      "NODE": "48:7.0.8.25.2.1.1.1",
+                      "TYPE": "SECTION"
+                    },
+                    "HEAD": [
+                      "5706.302-70   Impairment of foreign aid programs."
+                    ],
+                    "P": [
+                      "(a) Full and open competition need not be obtained when it would impair or otherwise have an adverse effect on programs conducted for the purposes of foreign aid, relief and rehabilitation. \n",
+                      {
+                        "_": "(b)  This authority may be used for: \n",
+                        "I": [
+                          "Application."
+                        ]
+                      },
+                      "(1) An award under section 506(a)(5) of the African Development Foundation Act involving a personal service contractor serving abroad; \n",
+                      "(2) An award of $100,000 or less for audit, evaluation or program support services to be provided abroad; \n",
+                      "(3) An award for which the President of the Foundation makes a formal written determination, with supporting findings, that compliance with full and open competition procedures would impair foreign assistance objectives, and would be inconsistent with the fulfillment of the Foundation program. \n",
+                      {
+                        "_": "(c)  (1) Offers shall be requested from as many potential offerors as is practicable under the circumstances. \n",
+                        "I": [
+                          "Limitation."
+                        ]
+                      },
+                      "(2) The contract file must include an appropriate explanation and support justifying award without full and open competition, as provided in FAR 6.303, except that determinations made under paragraph (b)(3) of this section will not be subject to the requirement for contracting officer certification or to approvals in accord with FAR 6.304. \n"
+                    ],
+                    "CITA": [
+                      {
+                        "_": "[53 FR 5578, Feb. 25, 1988]\n\n\n",
+                        "$": {
+                          "TYPE": "N"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "5707-5799",
+              "NODE": "48:7.0.8.25.3",
+              "TYPE": "PART"
+            },
+            "HEAD": [
+              "PARTS 5707-5799 [RESERVED]\n\n\n"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

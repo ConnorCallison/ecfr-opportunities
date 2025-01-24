@@ -1,0 +1,79 @@
+{
+  "number": "XXXIII",
+  "title": " CHAPTER XXXIII—US INTERNATIONAL DEVELOPMENT FINANCE CORPORATION",
+  "content": {
+    "$": {
+      "N": "XXXIII",
+      "NODE": "5:3.0.21",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXXIII—US INTERNATIONAL DEVELOPMENT FINANCE CORPORATION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "4300",
+          "NODE": "5:3.0.21.11.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 4300 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "4301",
+          "NODE": "5:3.0.21.11.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 4301—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE US INTERNATIONAL DEVELOPMENT FINANCE CORPORATION\n\n\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 7301; 5 U.S.C. App. (Ethics in Government Act of 1978); E.O. 12674, 54 FR 15159, 3 CFR, 1989 Comp., p. 215, as modified by E.O. 12731, 55 FR 42547, 3 CFR, 1990 Comp., p. 306; 5 CFR 2635.105, 2635.803.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 4301.101",
+              "NODE": "5:3.0.21.11.2.0.53.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 4301.101   Prior approval for outside employment."
+            ],
+            "P": [
+              "Any employee of the US International Development Finance Corporation (DFC) who is interested in engaging in outside employment must first obtain approval from the Designated Agency Ethics Official before engaging in such employment activity. For this purpose, employment has the meaning set forth in § 2635.603(a) of this title.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[58 FR 33320, June 17, 1993, as amended at 84 FR 37751, Aug. 2, 2019]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "4302-4399",
+          "NODE": "5:3.0.21.11.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 4302-4399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

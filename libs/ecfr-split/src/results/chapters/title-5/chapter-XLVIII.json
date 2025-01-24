@@ -1,0 +1,202 @@
+{
+  "number": "XLVIII",
+  "title": " CHAPTER XLVIII—NUCLEAR REGULATORY COMMISSION",
+  "content": {
+    "$": {
+      "N": "XLVIII",
+      "NODE": "5:3.0.33",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XLVIII—NUCLEAR REGULATORY COMMISSION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "5800",
+          "NODE": "5:3.0.33.11.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5800 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "5801",
+          "NODE": "5:3.0.33.11.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5801—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE NUCLEAR REGULATORY COMMISSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 7301; 5 U.S.C. Appendix (Ethics in Government Act of 1978); Atomic Energy Act of 1954, sec. 161 (42 U.S.C. 2201); Energy Reorganization Act of 1974, sec. 201 (42 U.S.C. 5841); E.O. 12674, 54 FR 15159, 3 CFR, 1989 Comp., p. 215, as modified by E.O. 12731, 55 FR 42547, 3 CFR, 1990 Comp., p. 306; 5 CFR 2635.105, 2635.403, 2635.803.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "59 FR 17459, Apr. 13, 1994, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 5801.101",
+              "NODE": "5:3.0.33.11.2.0.53.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5801.101   General."
+            ],
+            "P": [
+              "In accordance with 5 CFR 2635.105, the regulations in this part apply to members and other employees of the Nuclear Regulatory Commission and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635 and this part, members and other employees are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2634 and to additional regulations regarding their conduct contained in 10 CFR part 0.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 5801.102",
+              "NODE": "5:3.0.33.11.2.0.53.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5801.102   Prohibited securities."
+            ],
+            "P": [
+              {
+                "_": "(a)  No covered employee, and no spouse or minor child of a covered employee, shall own securities issued by an entity on the list described in paragraph (b) of this section.\n",
+                "I": [
+                  "General prohibition."
+                ]
+              },
+              {
+                "_": "(b)  Once a year, or on a more frequent basis, the Commission will publish and distribute to employees a list of entities whose securities a covered employee or the spouse or minor child of a covered employee may not own. The list shall consist of entities which are:\n",
+                "I": [
+                  "Prohibited securities list."
+                ]
+              },
+              "(1) Applicants for or holders of early site permits, construction permits, operating licenses, or combined construction permits and operating licenses for facilities which generate electric energy by means of a nuclear reactor;\n",
+              "(2) State or local governments, if the primary purpose of the security is to finance the construction or operation of a nuclear reactor or a low-level waste facility;\n",
+              "(3) Entities manufacturing or selling nuclear power or test reactors;\n",
+              "(4) Architectural-engineering companies providing services relating to a nuclear power reactor;\n",
+              "(5) Applicants for, or holders of, a certified standard design;\n",
+              "(6) Entities licensed or regulated by the Commission to mill, convert, enrich, fabricate, store, or dispose of source, byproduct, or special nuclear material, or applicants for such licenses that are designated by the Commission because they are or will be substantially engaged in such nuclear fuel cycle or disposal activities;\n",
+              "(7) The parent corporation of any subsidiary described in paragraphs (b)(1)-(b)(6) of this section; and\n",
+              "(8) An energy or utility sector investment fund which has more than 25% of its assets invested in securities issued by entities described in paragraphs (b)(1)-(b)(7) of this section.\n",
+              {
+                "_": "(c)  For purposes of this section:\n",
+                "I": [
+                  "Definitions."
+                ]
+              },
+              "(1) A covered employee means:\n",
+              "(i) A member of the Commission;\n",
+              "(ii) The Inspector General of the NRC;\n",
+              "(iii) A member of the Senior Executive Service (SES);\n",
+              "(iv) An employee who holds a non-SES position above GG-15; and\n",
+              "(v) Any other employee, including a special Government employee, whose duties and responsibilities, as determined by the Commission or its designees, require application of the securities ownership prohibition contained in this section to ensure public confidence that NRC programs are conducted impartially and objectively. The positions of these employees are specified in NRC Management Handbook 7.7, which is available in the NRC Public Document Room; and\n",
+              "(2) The term “securities” includes all interests in debts or equity instruments. The term includes, without limitation, secured and unsecured bonds, debentures, notes, securitized assets and commercial paper, as well as all types of preferred and common stock. The term encompasses both current and contingent ownership interests, including any beneficial or legal interest derived from a trust. It extends to any right to acquire or dispose of any long or short position in such securities and includes, without limitation, interests convertible into such securities, as well as options, rights, warrants, puts, calls, and straddles with respect thereto.\n",
+              {
+                "_": "(d) —(1)  Upon promotion or other appointment to a position subject to the securities prohibition of this section, a covered employee shall sign a certification:\n",
+                "I": [
+                  "Divestiture and reporting of prohibited securities",
+                  "Newly covered employees."
+                ]
+              },
+              "(i) Identifying securities of an entity on the prohibited securities list which the employee, or the spouse or minor child of the employee, owns, or\n",
+              "(ii) Stating that the employee, or the spouse or minor child of the employee, does not own any prohibited securities.\n",
+              {
+                "_": "(2)  Within 30 days after publication of the prohibited securities list to which an entity's name has been added, a covered employee who owns, or whose spouse or minor child owns, prohibited securities shall make a written report of that ownership to the Office of the General Counsel. Except as provided in paragraph (d)(4) of this section, the covered employee, or the spouse or minor child of the covered employee, shall divest prohibited securities within 90 days after publication of the prohibited securities list.\n",
+                "I": [
+                  "Newly prohibited securities."
+                ]
+              },
+              {
+                "_": "(3)  Within 30 days after a covered employee, or the spouse or minor child of a covered employee, acquires securities of an entity on the prohibited securities list as a result of marriage, inheritance, gift or otherwise without specific intent to acquire the securities, the covered employee shall make a written report of the acquisition to the Office of the General Counsel. Except as provided in paragraph (d)(4) of this section, a covered employee, or the spouse or minor child of a covered employee, shall divest prohibited securities within 90 days after the date of acquisition.\n",
+                "I": [
+                  "Securities acquired without specific intent."
+                ]
+              },
+              {
+                "_": "(4)  Upon a showing of undue hardship, the Chairman of the Nuclear Regulatory Commission may extend the 90 day period for divestiture specified in paragraphs (d)(1) through (d)(3) of this section.\n",
+                "I": [
+                  "Extension of period to divest."
+                ]
+              },
+              {
+                "_": "(5)  Pending divestiture of prohibited securities, a covered employee must disqualify himself or herself, in accordance with 5 CFR 2635.402, from participation in particular matters which, as a result of continued ownership of the prohibited securities, would affect the financial interests of the employee, or those of the spouse or minor child of the employee. Disqualification is not required where a waiver described in 5 CFR 2635.402(d) applies. Procedures for obtaining individual waivers are contained in NRC Handbook 7.7, which is available in the NRC Public Document Room.\n",
+                "I": [
+                  "Disqualification pending divestiture."
+                ]
+              },
+              {
+                "_": "(6)  Where divestiture is required by this section, the covered employee (except a special Government employee) may be eligible to defer the tax consequences of divestiture under subpart J of 5 CFR part 2634, pursuant to procedures in NRC Handbook 7.7, which is available in the NRC Public Document Room.\n",
+                "I": [
+                  "Tax treatment of gain on divested securities."
+                ]
+              },
+              {
+                "_": "(e)  (1) The Chairman may grant a waiver to permit a covered employee, or the spouse or minor child of a covered employee, to retain ownership of a security of an entity on the prohibited securities list upon a determination that the holding of the security is not inconsistent with 5 CFR part 2635 or otherwise prohibited by law, and that:\n",
+                "I": [
+                  "Waivers."
+                ]
+              },
+              "(i) Under the circumstances, application of the prohibition is not necessary to ensure confidence in the impartiality and objectivity with which NRC programs are administered;\n",
+              "(ii) Legal constraints prevent divestiture; or\n",
+              "(iii) For a special Government employee, divestiture would result in substantial financial hardship.\n",
+              "(2) Where a waiver has been granted under paragraph (e)(1) of this section, the covered employee must disqualify himself or herself, in accordance with 5 CFR 2635.402, from participation in particular matters which, as a result of continued ownership of the prohibited security, would affect the financial interests of the employee, or those of the spouse or minor child of the employee unless the employee has received a waiver described in 5 CFR 2635.402(d), pursuant to procedures in NRC Handbook 7.9, which is available in the NRC Public Document Room.\n\n\n"
+            ],
+            "FP": [
+              "Except as provided in paragraph (d)(4) of this section, the newly covered employee, or the spouse or minor child of the employee, shall divest prohibited securities within 90 days after appointment to the covered position.\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 5801.103",
+              "NODE": "5:3.0.33.11.2.0.53.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5801.103   Prior approval for outside employment."
+            ],
+            "P": [
+              "(a) An employee, other than a special Government employee, shall obtain written authorization before engaging in compensated outside employment with:\n",
+              "(1) A Commission licensee;\n",
+              "(2) An applicant for a Commission license;\n",
+              "(3) An organization directly engaged in activities in the commercial nuclear field;\n",
+              "(4) A Commission contractor;\n",
+              "(5) A Commission supplier;\n",
+              "(6) An applicant for or holder of a license issued by a State pursuant to an agreement between the Commission and the State;\n",
+              "(7) A trade association which represents clients concerning nuclear matters; or\n",
+              "(8) A law firm or other organization which is participating in an NRC proceeding or which regularly represents itself or clients before the NRC.\n",
+              "(b) Requests for approval shall be submitted in writing to the agency designee specified in NRC Management Directive 7.8, which is available in the NRC Public Document Room, in accordance with procedures set forth in the accompanying NRC Handbook.\n",
+              "(c) Approval of outside employment shall be granted in writing only upon a determination by the agency designee that the proposed outside employment would not violate a Federal statute or regulation, including 5 CFR 2635.\n",
+              "(d) For purposes of this section, “outside employment” means any form of non-Federal employment, business relationship or activity, involving the provision of personal services by the employee. It includes, but is not limited to, personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher or speaker.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5802-5899",
+          "NODE": "5:3.0.33.11.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 5802-5899 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

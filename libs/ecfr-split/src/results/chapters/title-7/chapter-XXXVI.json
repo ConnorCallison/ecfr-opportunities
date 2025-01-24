@@ -1,0 +1,401 @@
+{
+  "number": "XXXVI",
+  "title": " CHAPTER XXXVI—NATIONAL AGRICULTURAL STATISTICS SERVICE, DEPARTMENT OF AGRICULTURE",
+  "content": {
+    "$": {
+      "N": "XXXVI",
+      "NODE": "7:15.1.15",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXXVI—NATIONAL AGRICULTURAL STATISTICS SERVICE, DEPARTMENT OF AGRICULTURE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "3600",
+          "NODE": "7:15.1.15.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3600—ORGANIZATION AND FUNCTIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301 and 552: and 7 CFR 2.85.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "60 FR 57534, Nov. 16, 1995, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3600.1",
+              "NODE": "7:15.1.15.2.1.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3600.1   General."
+            ],
+            "P": [
+              "The National Agricultural Statistics Service (NASS) was established on April 17, 1986, by Secretary's Memorandum 1020-24, which renamed the Statistical Reporting Service concurrent with an internal restructuring. Primary NASS responsibilities are development and dissemination of national and State agricultural statistics, statistical research, and coordination of Department statistical programs.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3600.2",
+              "NODE": "7:15.1.15.2.1.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3600.2   Organization."
+            ],
+            "P": [
+              "The headquarters organization consists of: The Administrator and Associate Administrator; Deputy Administrator for Field Operations; Four Divisions: Estimates, Survey Management, Research, and Systems and Information; and the Agricultural Statistics Board. In the field, each of the 45 State Statistical Offices, serving the 50 States, is under a State Statistician.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3600.3",
+              "NODE": "7:15.1.15.2.1.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3600.3   Functions."
+            ],
+            "P": [
+              {
+                "_": "(a)  The Administrator is responsible for the formulation of current, intermediate, and long-range policies and plans to carry out a broad statistical program for the agricultural sector and Departmental functions and activities assigned to NASS. Specific functions are:\n",
+                "I": [
+                  "Administrator."
+                ]
+              },
+              "(1) Administering an agricultural statistics program which includes estimates of production, marketings, inventories, and selected economic characteristics of the U.S. agricultural and rural economy.\n",
+              "(2) Administering a methodological research program to improve agricultural data collection and processing, data management, estimation, and forecasting.\n",
+              "(3) Administering programs to conduct surveys for other agencies, improve statistics through statistical standards for the Department, and coordinate statistical methods and techniques within the Federal Government.\n",
+              "(4) Administering statistical programs jointly developed through cooperative agreements with State agencies, universities, private groups, and other Federal agencies.\n",
+              "(5) Administering selected international agricultural statistics programs which provide foreign technical assistance, training on statistical methodology for developing countries, and exchange of information.\n",
+              {
+                "_": "(b)  The Associate Administrator is responsible for advising and counseling the Administrator and high-level policy officials on matters related to programs of NASS. Major functions include:\n",
+                "I": [
+                  "Associate Administrator."
+                ]
+              },
+              "(1) Chairing Agricultural Statistics Board activities, designating Board membership, presiding at Board sessions, and formulating specific procedures.\n",
+              "(2) Chairing the NASS Strategic Planning Council which coordinates long-range planning, information resources management, and research reviews.\n",
+              "(3) Chairing the Resource Management Council which coordinates NASS hiring, promotion, and training activities.\n",
+              {
+                "_": "(c)  The Deputy Administrator manages and coordinates data collection and estimating programs carried out by State Statistical Offices. This includes supervision of statistical programs with cooperating State and private groups, universities, and other Federal agencies. Major functions include:\n",
+                "I": [
+                  "Deputy Administrator for Field Operations."
+                ]
+              },
+              "(1) Formulating policies and programs that relate to functions and responsibilities of State Statistical Offices.\n",
+              "(2) Directing agricultural statistics programs established through cooperative agreements with State Departments of Agriculture, Land-Grant colleges and universities, or appropriate private organizations.\n",
+              "(3) Establishing and maintaining relationships with respondents, producers, commodity groups, data users, and other interested groups to gain cooperation in providing useful, timely, and reliable information.\n",
+              {
+                "_": "(d)  The Director is responsible for NASS estimating and forecasting programs. Major functions include:\n",
+                "I": [
+                  "Director, Estimates Division."
+                ]
+              },
+              "(1) Defining input and output requirements, estimators and variances to be utilized, statistical standards, editing and summarization requirements, and analytic procedures.\n",
+              "(2) Collaborating with the Chairperson of the Agricultural Statistics Board to establish the annual programs of statistical reports.\n",
+              "(3) Developing appropriate systems parameters; processing, summarizing, and presenting current survey and related historical data for Agricultural Statistics Board analysis; and preparing official estimates and forecasts.\n",
+              {
+                "_": "(e)  The Director is responsible for application of survey design and data collection methodologies to the agricultural statistics program. Major functions include:\n",
+                "I": [
+                  "Director, Survey Management Division."
+                ]
+              },
+              "(1) Constructing and maintaining appropriate sampling frames for agricultural and rural surveys.\n",
+              "(2) Designing, testing, and establishing survey techniques and standards, including sample design, sample selection, questionnaires, data collection methods, survey materials, and training methods for NASS.\n",
+              "(3) Reviewing specifications for special data collection activities for programs of other Federal or State agencies.\n",
+              {
+                "_": "(f)  The Director is responsible for researching statistical methodology for survey design, data collection, processing, estimating, and forecasting. Major functions include:\n",
+                "I": [
+                  "Director, Research Division."
+                ]
+              },
+              "(1) Conducting statistical research to develop new and improved sampling techniques, develop improved data collection methods, and identify methods of controlling sampling and nonsampling errors.\n",
+              "(2) Researching statistical computing methods and developing efficient uses of computer technology including telecommunications, networking, and other applications.\n",
+              "(3) Developing new statistical theory and models and solving statistical problems, including numerical methods involving advanced mathematical statistics.\n",
+              {
+                "_": "(g)  The Director is responsible for NASS information management system and processing services. Specific functions are:\n",
+                "I": [
+                  "Director, Systems and Information Division."
+                ]
+              },
+              "(1) Designing, maintaining, and providing access to an integrated and standardized information management system containing sampling frames, survey data, estimates, and administrative records utilized by NASS.\n",
+              "(2) Providing appropriate support for assisting users of the information management system through documentation, evaluation, training, and resolution of information management problems.\n",
+              "(3) Designing and issuing all reports releasing official State and national estimates and forecasts from NASS.\n",
+              {
+                "_": "(h)  The Chairperson reviews, prepares, and issues on specific dates, following approval by the Secretary of Agriculture as provided by law (7 U.S.C. 411a) and Departmental Regulation, the official State and national estimates relating to crop production, livestock and livestock products, dairy and dairy products, poultry and poultry products, stocks of agricultural commodities, value of farm products, farm inputs, and other assigned agricultural aspects.\n\n\n",
+                "I": [
+                  "Chairperson, Agricultural Statistics Board."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3600.4",
+              "NODE": "7:15.1.15.2.1.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3600.4   Authority to act for the Administrator."
+            ],
+            "P": [
+              "In the absence of the Administrator, the following officials are designated to serve as Acting Administrator in the order indicated:\n"
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": [
+                  "Associate Administrator\n",
+                  "Deputy Administrator for Field Operations\n",
+                  "Director, Estimates Division\n",
+                  "Director, Survey Management Division\n",
+                  "Director, Systems and Information Division\n",
+                  "Director, Research Division"
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV9": [
+          {
+            "$": {
+              "N": "Appendix A",
+              "NODE": "7:15.1.15.2.1.0.1.5.6",
+              "TYPE": "APPENDIX"
+            },
+            "HEAD": [
+              "Appendix A to Part 3600—List of State Statistical Offices\n"
+            ],
+            "HD2": [
+              "Section 1. General\n",
+              "Section 2. List of Addresses\n"
+            ],
+            "P": [
+              "Information concerning NASS statistics programs and activities related to individual States may be obtained from the State Statistician, State Statistical Office, NASS, in the locations listed below.\n"
+            ],
+            "FP-1": [
+              "Alabama, Sterling Centre, Suite 200, 4121 Carmichael Road, Montgomery, AL 36106-2872\n",
+              "Alaska, 809 South Chugach Street, Suite 4, Palmer, AK 99645\n",
+              "Arizona, 3003 North Central Avenue, Suite 950, Phoenix, AZ 85012\n",
+              "Arkansas, 3408 Federal Office Building, Little Rock, AR 72201\n",
+              "California, 1220 “N” Street, Room 243, Sacramento, CA 95814\n",
+              "Colorado, 645 Parfet Street, Suite W-201, Lakewood, CO 80215-5517\n",
+              "Delaware, Delaware Department of Agriculture Building, 2320 South Dupont Highway, Dover, DE 19901\n",
+              "Florida, 1222 Woodward Street, Orlando, FL 32803\n",
+              "Georgia, Stephens Federal Building, Suite 320, Athens, GA 30613\n",
+              "Hawaii, State Department of Agriculture Building, 1428 South King Street, Honolulu, HI 96814\n",
+              "Idaho, 2224 Old Penitentiary Road, Boise, ID 83712\n",
+              "Illinois, Illinois Department of Agriculture Building, 801 Sangamon Avenue, Room 54, Springfield, IL 62702\n",
+              "Indiana, 1148 AGAD Building, Purdue University, Room 223, West Lafayette, IN 47907-1148\n",
+              "Iowa, 833 Federal Building, 210 Walnut Street, Des Moines, IA 50309\n",
+              "Kansas, 632 S.W. Van Buren, Room 200, Topeka, KS 66603\n",
+              "Kentucky, Gene Snyder & Courthouse Building, 601 W. Broadway, Room 645, Louisville, KY 40202\n",
+              "Louisiana, 5825 Florida Boulevard, Baton Rouge, LA 70806\n",
+              "Maryland, 50 Harry S Truman Parkway, Suite 202, Annapolis, MD 21401\n",
+              "Michigan, 201 Federal Building, Lansing, MI 48904\n",
+              "Minnesota, 8 East 4th Street, Suite 500, St. Paul, MN 55101\n",
+              "Mississippi, 121 North Jefferson Street, Jackson, MS 39201\n",
+              "Missouri, 601 Business Loop West, Suite 240, Columbia, MO 65203\n",
+              "Montana, Federal Building & U.S. Court House, Room 398, 301 S. Park Avenue, Helena, MT 59626\n",
+              "Nebraska, 100 Centennial Mall N., Room 273 Federal Building, Lincoln, NE 68508\n",
+              "Nevada, Max C. Fleischmann Agriculture Building, Room 232, University of Nevada, Reno, NV 89557\n",
+              "New Hampshire, 22 Bridge Street, Room 301, Concord, NH 03301\n",
+              "New Jersey, Health and Agriculture Building, Room 205, CN-330 New Warren Street, Trenton, NJ 08625\n",
+              "New Mexico, 2507 North Telshor Boulevard, Suite 4, Las Cruces, NM 88001\n",
+              "New York, Department of Agriculture & Markets, 1 Winners Circle, Albany, NY 12235\n",
+              "North Carolina, 2 W. Edenton Street, Raleigh, NC 27601-1085\n",
+              "North Dakota, 1250 Albrecht Boulevard, NDSU, Room 448, Fargo, ND 58105\n",
+              "Ohio, 200 N. High Street, New Federal Building, Room 608, Columbus, OH 43215\n",
+              "Oklahoma, 2800 North Lincoln Boulevard, Oklahoma City, OK 73105\n",
+              "Oregon, 1220 S.W. Third Avenue, Room 1735, Portland, OR 97204\n",
+              "Pennsylvania, 2301 N. Cameron Street, Room G-19, Harrisburg, PA 17110\n",
+              "South Carolina, 1835 Assembly Street, Room 1008, Columbia, SC 29201\n",
+              "South Dakota, 3528 S. Western Avenue, Sioux Falls, SD 57117\n",
+              "Tennessee, 440 Hogan Road, Holeman Office Building, Ellington Agricultural Center, Nashville, TN 37220-1626\n",
+              "Texas, 300 E. 8th Street, Federal Building, Room 504, Austin, TX 78701\n",
+              "Utah, 176 N. 2200 West—Suite 260, Salt Lake City, UT 84116\n",
+              "Virginia, 1100 Bank Street, Room 706, Richmond, VA 23219\n",
+              "Washington, 1111 Washington Street, SE, Olympia, WA 98504\n",
+              "West Virginia, 1900 Kanawha Boulevard E, Charleston, WV 25305\n",
+              "Wisconsin, 2811 Agriculture Drive, Madison, WI 53704\n",
+              "Wyoming, 504 W. 17th Street, Suite 250, Cheyenne, WY 82001\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3601",
+          "NODE": "7:15.1.15.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 3601—PUBLIC INFORMATION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 552; 7 CFR part 1, subpart A and appendix A thereto.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "66 FR 57843, Nov. 19, 2001, unless otherwise noted. \n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 3601.1",
+              "NODE": "7:15.1.15.2.2.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.1   General statement."
+            ],
+            "P": [
+              "This part is issued in accordance with the regulations of the Secretary of Agriculture in part 1, subpart A of this title and appendix A thereto, implementing the Freedom of Information Act (FOIA) (5 U.S.C. 552), and governs the availability of records of the National Agricultural Statistics Service (NASS) to the public. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.2",
+              "NODE": "7:15.1.15.2.2.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.2   Public inspection, copying, and indexing."
+            ],
+            "P": [
+              {
+                "_": "5 U.S.C. 552(a)(2) requires that certain materials be made available for public inspection and copying and that a current index of these materials be published quarterly or otherwise be made available. Members of the public may request access to such materials maintained by NASS at the following office: Information Staff, ARS, REE, USDA, Room 1-2248, Mail Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD 20705-5128; Telephone (301) 504-1640 or (301) 504-1655; TTY-VOICE (301) 504-1743. Office hours are 8 a.m. to 4:30 p.m. Information maintained in our electronic reading room can be accessed at  \n\n\n",
+                "I": [
+                  "http://www.ars.usda.gov/is/foia/#Electronic."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.3",
+              "NODE": "7:15.1.15.2.2.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.3   Requests for records."
+            ],
+            "P": [
+              {
+                "_": "Requests for records of NASS under 5 U.S.C. 552(a)(3) shall be made in accordance with § 1.5 of this title and submitted to the FOIA Coordinator, Information Staff, ARS, REE, USDA, Mail Stop 5128, 5601 Sunnyside Avenue, Beltsville, MD 20705-5128; Telephone (301) 504-1640 or (301) 504-1655; TTY-VOICE (301) 504-1643; Facsimile (301) 504-1648; e-mail  or  The FOIA Coordinator is delegated authority to make determinations regarding such requests in accordance with § 1.3(c) of this title. \n\n\n",
+                "I": [
+                  "vherberger@ars.usda.gov",
+                  "shutchison@ars.usda.gov."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.4",
+              "NODE": "7:15.1.15.2.2.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.4   Multitrack processing."
+            ],
+            "P": [
+              "(a) When NASS has a significant number of requests, the nature of which precludes a determination within 20 working days, the requests may be processed in a multitrack processing system, based on the date of receipt, the amount of work and time involved in processing the request, and whether the request qualifies for expedited processing. \n",
+              "(b) NASS may establish as many processing tracks as appropriate; processing within each track shall be based on a first-in, first-out concept, and rank-ordered by the date of receipt of the request. \n",
+              "(c) A requester whose request does not qualify for the fastest track may be given an opportunity to limit the scope of the request in order to qualify for the fastest track. This multitrack processing system does not lessen agency responsibility to exercise due diligence in processing requests in the most expeditious manner possible. \n",
+              "(d) NASS shall process requests in each track on a “first-in, first-out” basis, unless there are unusual circumstances as set forth in § 1.16 of this title, or the requester is entitled to expedited processing as set forth in § 1.9 of this title. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.5",
+              "NODE": "7:15.1.15.2.2.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.5   Denials."
+            ],
+            "P": [
+              "If the FOIA Coordinator determines that a requested record is exempt from mandatory disclosure and that discretionary release would be improper, the FOIA Coordinator shall give written notice of denial in accordance with § 1.7(a) of this title. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.6",
+              "NODE": "7:15.1.15.2.2.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.6   Appeals."
+            ],
+            "P": [
+              "Any person whose request is denied shall have the right to appeal such denial. Appeals shall be made in accordance with § 1.13 of this title and should be addressed as follows: Administrator, NASS, U.S. Department of Agriculture, Washington, DC 20250. \n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 3601.7",
+              "NODE": "7:15.1.15.2.2.0.1.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 3601.7   Requests for published data and information."
+            ],
+            "P": [
+              {
+                "_": "(a) Published data and reports produced by NASS since 1995 are available via the NASS Web site at  or an e-mail subscription may be established via the website under Publications. Searching on the website is available by topic, by title, or by date. The titles displayed in the search include NASS's published periodicals and annual reports. Full text of all the titles is available at no cost (PDF Files beginning 1999). Printed copies and reports published after 1996 can be purchased from the ERS-NASS sales desk at the National Technical Information Center at 1 (800) 999-6779 (8:30 a.m.-5 p.m. Eastern Time, M-F). \n",
+                "I": [
+                  "http://www.usda.gov/nass/"
+                ]
+              },
+              "(b) Information on published data, printed subscription rates, and historic publications is available from the Secretary, Agricultural Statistics Board, NASS, U.S. Department of Agriculture, Washington, DC 20250. This information is also available from the NASS website under Publications, NASS Catalog, NASS Periodicals and Annual Reports. Published data, from each State Statistical Office, are available via the NASS website under State Information or by e-mail subscription. Published data subscription forms are available from the State Statistician at each State Statistical Office. Addresses are listed in appendix A to part 3600 of this chapter.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "3602-3699",
+          "NODE": "7:15.1.15.2.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 3602-3699 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

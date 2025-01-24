@@ -1,0 +1,109 @@
+{
+  "number": "X",
+  "title": " CHAPTER X—DEPARTMENT OF TREASURY",
+  "content": {
+    "$": {
+      "N": "X",
+      "NODE": "2:1.2.7",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER X—DEPARTMENT OF TREASURY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1000",
+          "NODE": "2:1.2.7.3.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1000—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 31 U.S.C. 301; 2 CFR part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76047, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1000.10",
+              "NODE": "2:1.2.7.3.1.0.59.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1000.10   Applicable regulations."
+            ],
+            "P": [
+              "Except for the deviations set forth elsewhere in this Part, the Department of the Treasury adopts the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, set forth at 2 CFR part 200.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1000.306",
+              "NODE": "2:1.2.7.3.1.0.59.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1000.306   Cost sharing or matching."
+            ],
+            "P": [
+              "Notwithstanding 2 CFR 200.306(e), Low Income Taxpayer Clinic grantees may use the rates found in 26 U.S.C. 7430 so long as:\n",
+              "(a) The grantee is funded to provide controversy representation;\n",
+              "(b) The services are provided by a qualified representative, which includes any individual, whether or not an attorney, who is authorized to represent taxpayers before the Internal Revenue Service or an applicable court;\n",
+              "(c) The qualified representative is not a student; and\n",
+              "(d) The qualified representative is acting in a representative capacity and is advocating for a taxpayer.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1000.337",
+              "NODE": "2:1.2.7.3.1.0.59.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1000.337   Access to records."
+            ],
+            "P": [
+              "The right of access under 2 CFR 200.337 shall not extend to client information held by attorneys or federally authorized tax practitioners under the Low Income Taxpayer Clinic program.\n"
+            ],
+            "CITA": [
+              {
+                "_": "[86 FR 29483, June 2, 2021]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1001-1099",
+          "NODE": "2:1.2.7.3.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1001-1099 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

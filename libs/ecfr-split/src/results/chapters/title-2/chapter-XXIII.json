@@ -1,0 +1,641 @@
+{
+  "number": "XXIII",
+  "title": " CHAPTER XXIII—SOCIAL SECURITY ADMINISTRATION",
+  "content": {
+    "$": {
+      "N": "XXIII",
+      "NODE": "2:1.2.18",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XXIII—SOCIAL SECURITY ADMINISTRATION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "2300",
+          "NODE": "2:1.2.18.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2300—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 2 CFR part 200, and as noted in specific sections.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76078, Dec. 19, 2014, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2300.10",
+              "NODE": "2:1.2.18.10.1.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2300.10   Applicable regulations."
+            ],
+            "P": [
+              "The Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth in 2 CFR part 200 shall apply to the Social Security Administration.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§§ 2300.11-2300.2335",
+              "NODE": "2:1.2.18.10.1.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§§ 2300.11-2300.2335   [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2301-2335",
+          "NODE": "2:1.2.18.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2301-2335 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "2336",
+          "NODE": "2:1.2.18.10.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2336—NONPROCUREMENT DEBARMENT AND SUSPENSION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "42 U.S.C. 902(a)(5); Sec. 2455, Pub. L. 103-355, 108 Stat. 3327; E.O. 12549 (3 CFR, 1986 Comp., p. 189); E.O. 12689 (3 CFR, 1989 Comp., p. 235).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "72 FR 46140, Aug. 17, 2007, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2336.10",
+              "NODE": "2:1.2.18.10.3.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2336.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the SSA policies and procedures for nonprocurement debarment and suspension. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2336.20",
+              "NODE": "2:1.2.18.10.3.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2336.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)) apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” (see subpart B of 2 CFR part 180 and the definition of “nonprocurement transaction” at 2 CFR 180.970);\n",
+              "(b) Respondent in an SSA suspension or debarment action;\n",
+              "(c) SSA debarment or suspension official; or\n",
+              "(d) SSA grants officer, agreements officer, or other official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2336.30",
+              "NODE": "2:1.2.18.10.3.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2336.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              "The SSA policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, as supplemented by the section in this part with the same section number. The contracts that are covered transactions, for example, are specified by section 220 of the OMB guidance (i.e., 2 CFR 180.220), as supplemented by section 220 in this part (i.e., § 2336.220). For any section of OMB guidance in subparts A through I of 2 CFR 180 that has no corresponding section in this part, SSA policies and procedures are those in the OMB guidance.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.18.10.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2336.137",
+                  "NODE": "2:1.2.18.10.3.1.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2336.137   Who in the SSA may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "(a) Within the Social Security Administration, the Commissioner or the designated agency debarment official may grant an exception permitting an excluded person to participate in a particular covered transaction. If the Commissioner or the designated agency debarment official grants an exception, the exception must be in writing and state the reason(s) for deviating from the OMB guidance at 2 CFR 180.135.\n",
+                  "(b) An exception granted by one agency for an excluded person does not extend to the covered transactions of another agency.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.18.10.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2336.220",
+                  "NODE": "2:1.2.18.10.3.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2336.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "Although the OMB guidance at 2 CFR 180.220(c) allows a Federal agency to do so (also see option lower tier coverage in the figure in the appendix to 2 CFR part 180), SSA does not extend coverage of nonprocurement suspension and debarment requirements beyond first-tier procurement contracts under a covered nonprocurement transaction.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.18.10.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2336.332",
+                  "NODE": "2:1.2.18.10.3.3.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2336.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "You as a participant must include a term or condition in lower-tier transactions requiring lower-tier participants to comply with subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.18.10.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2336.437",
+                  "NODE": "2:1.2.18.10.3.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2336.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435 of the OMB guidance, you must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, as supplemented by subpart C of this part, and requires the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.18.10.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subparts E-J [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2339",
+          "NODE": "2:1.2.18.10.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 2339—REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "41 U.S.C. 701-707.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "75 FR 31274, June 3, 2010, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 2339.10",
+              "NODE": "2:1.2.18.10.4.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2339.10   What does this part do?"
+            ],
+            "P": [
+              "This part requires that the award and administration of Social Security Administration (SSA) grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended, hereafter referred to as “the Act”) that applies to grants. It thereby—\n",
+              "(a) Gives regulatory effect to the OMB guidance (subparts A through F of 2 CFR part 182) for SSA's grants and cooperative agreements; and\n",
+              "(b) Establishes SSA's policies and procedures for compliance with the Act that are the same as those of other Federal agencies, in conformance with the requirement in 41 U.S.C. 705 for Government-wide implementing regulations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2339.20",
+              "NODE": "2:1.2.18.10.4.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2339.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through F of 2 CFR part 182 (see table at 2 CFR 182.115(b)) apply to you if you are—\n",
+              "(a) A recipient of an SSA grant or cooperative agreement; or\n",
+              "(b) An SSA awarding official.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 2339.30",
+              "NODE": "2:1.2.18.10.4.0.69.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 2339.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "(a)  You must follow the policies and procedures specified in applicable sections of the OMB guidance in Subparts A through F of 2 CFR part 182, as implemented by this part.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table.\n",
+                "I": [
+                  "Specific sections of OMB guidance that this part supplements."
+                ]
+              },
+              {
+                "_": "(c)  Our policies and procedures are the same as those in the OMB guidance for any section not included in the table in paragraph (b) of this section.\n\n\n",
+                "I": [
+                  "Sections of the OMB guidance that this part does not supplement."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Section of OMB guidance in 2 CFR\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Section in this part where supplemented, 2 CFR\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "What the supplementation clarifies\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(1) 182.225(a)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2339.225",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in SSA a recipient other than an individual must notify if an employee is convicted for a violation of a criminal drug statute in the workplace.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(2) 182.300(b)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2339.300",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in SSA a recipient who is an individual must notify if he or she is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(3) 182.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2339.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in SSA is authorized to determine that a recipient other than an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(4) 182.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 2339.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in SSA is authorized to determine that a recipient who is an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.18.10.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.18.10.4.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Requirements for Recipients Other Than Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2339.225",
+                  "NODE": "2:1.2.18.10.4.2.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2339.225   Who in the Social Security Administration does a recipient other than an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify the Commissioner of Social Security or designee.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.18.10.4.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.18.10.4.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Agency Awarding Officials"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2339.400",
+                  "NODE": "2:1.2.18.10.4.4.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2339.400   What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance?"
+                ],
+                "P": [
+                  "You must include the following term or condition in the award:\n",
+                  {
+                    "_": " You, as the recipient, must comply with drug-free workplace requirements in Subpart B, which adopts the Government-wide implementation (2 CFR part 182) of sec. 5152-5158 of the Drug-Free Workplace Act of 1988 (Pub. L. 100-690, Title V, Subtitle D; 41 U.S.C. 701-707).\n\n\n",
+                    "I": [
+                      "Drug-free workplace."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.18.10.4.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Violations of this Part and Consequences"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 2339.500",
+                  "NODE": "2:1.2.18.10.4.5.69.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 2339.500   Who in the Social Security Administration determines that a recipient other than an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The Commissioner of Social Security or designee will make the determination.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.18.10.4.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "2340-2399",
+          "NODE": "2:1.2.18.10.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 2340-2399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

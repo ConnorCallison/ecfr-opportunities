@@ -1,0 +1,79 @@
+{
+  "number": "LIX",
+  "title": " CHAPTER LIX—GULF COAST ECOSYSTEM RESTORATION COUNCIL",
+  "content": {
+    "$": {
+      "N": "LIX",
+      "NODE": "2:1.2.34",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER LIX—GULF COAST ECOSYSTEM RESTORATION COUNCIL"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "5900",
+          "NODE": "2:1.2.34.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5900—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 33 U.S.C. 1321(t)(2); 2 CFR part 200.\n\n\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 76106, Dec. 19, 2014, unless otherwise noted.\n\n\n\n\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§  5900.101",
+              "NODE": "2:1.2.34.10.1.0.81.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  5900.101   Adoption of 2 CFR part 200."
+            ],
+            "P": [
+              "The Gulf Coast Ecosystem Restoration Council adopts the Office of Management and Budget guidance in 2 CFR part 200, as revised effective October 1, 2024, except for 2 CFR 200.322(c) (collectively, OMB guidance). This part gives regulatory effect to the OMB guidance.\n\n\n"
+            ],
+            "CITA": [
+              {
+                "_": "[89 FR 75445, Sept. 16, 2024]\n\n\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5901-5999",
+          "NODE": "2:1.2.34.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 5901-5999 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

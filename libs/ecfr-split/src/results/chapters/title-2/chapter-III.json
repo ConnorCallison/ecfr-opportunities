@@ -1,0 +1,812 @@
+{
+  "number": "III",
+  "title": " CHAPTER III—DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+  "content": {
+    "$": {
+      "N": "III",
+      "NODE": "2:1.2.1",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER III—DEPARTMENT OF HEALTH AND HUMAN SERVICES"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "300",
+          "NODE": "2:1.2.1.3.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 300—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n\n\n"
+        ],
+        "XREF": [
+          {
+            "_": "Link to an amendment published at 89 FR 80061, Oct. 2, 2024.",
+            "$": {
+              "ID": "20241002",
+              "REFID": "2"
+            }
+          },
+          {
+            "_": "Link to an amendment published at 89 FR 80064, Oct. 2, 2024.",
+            "$": {
+              "ID": "20241002",
+              "REFID": "3"
+            }
+          }
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 2 CFR part 200.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "79 FR 75889, Dec. 19, 2014, unless otherwise noted.\n\n\n\n\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 300.1",
+              "NODE": "2:1.2.1.3.1.0.47.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 300.1   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "Under the authority listed above, the Department of Health and Human Services adopts the Office of Management and Budget (OMB) Guidance in 2 CFR part 200, and has codified the text, with HHS-specific amendments in 45 CFR part 75 and the following provisions of 2 CFR part 200: §§ 200.1 (definitions of Modified Total Direct Cost, Equipment, and Supplies), 200.313(e), 200.314(a), 200.320, 200.333, 200.344, 200.414(f), and 200.501. Thus, this part gives regulatory effect to the OMB guidance and supplements the guidance as needed for the Department.\n\n\n"
+            ],
+            "CITA": [
+              {
+                "_": "[89 FR 80061, Oct. 2, 2024]\n\n\n\n\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "301-375",
+          "NODE": "2:1.2.1.3.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 301-375 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "376",
+          "NODE": "2:1.2.1.3.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 376—NONPROCUREMENT DEBARMENT AND SUSPENSION \n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 31 U.S.C. 6101 (note); E.O. 12689 (3 CFR, 1989 Comp., p. 235); E.O. 12549 (3 CFR, 1986 Comp., p. 189); E.O. 11738 (3 CFR, 1973 Comp., p. 799).\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "72 FR 9234, Mar. 1, 2007, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 376.10",
+              "NODE": "2:1.2.1.3.3.0.47.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 376.10   What does this part do?"
+            ],
+            "P": [
+              "This part adopts the Office of Management and Budget (OMB) guidance in subparts A through I of 2 CFR part 180, as supplemented by this part, as the Department of Health and Human Services (HHS or Department) policies and procedures for nonprocurement debarment and suspension. HHS thereby gives regulatory effect to the OMB guidance as supplemented by this part. This part satisfies the requirements in 2 CFR 180.20, section 3 of Executive Order 12549, “Debarment and Suspension”, Executive Order 12689, “Debarment and Suspension” and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 Stat. 3327).\n"
+            ],
+            "CITA": [
+              {
+                "_": "[72 FR 9234, Mar. 1, 2007, as amended at 85 FR 72906, Nov. 16, 2020]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 376.20",
+              "NODE": "2:1.2.1.3.3.0.47.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 376.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)), apply to you if you are a—\n",
+              "(a) Participant or principal in a “covered transaction” under subpart B of 2 CFR part 180, as supplemented by this part, and the definition of nonprocurement transaction” at 2 CFR 180.970.\n",
+              "(b) Respondent in HHS suspension or debarment action;\n",
+              "(c) HHS debarment or suspension official;\n",
+              "(d) HHS grants officer, agreements officer, or other HHS official authorized to enter into any type of nonprocurement transaction that is a covered transaction.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 376.30",
+              "NODE": "2:1.2.1.3.3.0.47.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 376.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "The policies and procedures that you must follow are the policies and procedures specified in each applicable section of the OMB guidance in subparts A through I of 2 CFR part 180, including the corresponding section that HHS published in 2 CFR part 376 identified by the same section number. The contracts under a nonprocurement transaction, that are covered transactions, for example, are specified by section 220 of the OMB guidance (, 2 CFR 180.220) as supplemented by section 220 in this part (, 2 CFR 376.220). For any section of OMB guidance in subparts A through I of 2 CFR part 180 that has no corresponding section in this part, HHS policies and procedures are those in the OMB guidance at 2 CFR part 180.\n\n\n",
+                "I": [
+                  "i.e.",
+                  "i.e."
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.1.3.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 376.137",
+                  "NODE": "2:1.2.1.3.3.1.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.137   Who in the Department of Health and Human Services (HHS) may grant an exception to let an excluded person participate in a covered transaction?"
+                ],
+                "P": [
+                  "The HHS Debarring/Suspension Official has the authority to grant an exception to let an excluded person participate in a covered transaction as provided at 2 CFR 180.135.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 376.147",
+                  "NODE": "2:1.2.1.3.3.1.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.147   Does an exclusion from participation in Federal health care programs under Title XI of the Social Security Act affect a person's eligibility to participate in nonprocurement and procurement transactions?"
+                ],
+                "P": [
+                  "Any individual or entity excluded from participation in Medicare, Medicaid, and other Federal health care programs under Title XI of the Social Security Act, 42 U.S.C. 1320a-7, 1320a-7a, 1320c-5, or 1395ccc, and implementing regulation at 42 CFR part 1001, will be subject to the prohibitions against participating in covered transactions, as set forth in this part and part 180, and is prohibited from participating in all Federal Government procurement programs and nonprocurement programs. For example, if an individual or entity is excluded by the HHS Office of the Inspector General from participation in Medicare, Medicaid, and/or other Federal health care programs, in accordance with 42 U.S.C. 1320a-7, then that individual or entity is prohibited from participating in all Federal Government procurement and nonprocurement programs (42 CFR part 1001).\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.1.3.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Covered Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 376.220",
+                  "NODE": "2:1.2.1.3.3.2.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.220   What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?"
+                ],
+                "P": [
+                  "In addition to the contracts covered under 2 CFR 180.220(b), this part also applies to all lower tiers of subcontracts under covered nonprocurement transactions, as permitted under the OMB guidance at 2 CFR 180.220(c). (See optional lower tier coverage in the diagram in the appendix to 2 CFR part 180.) \n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.1.3.3.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Responsibilities of Participants Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 376.332",
+                  "NODE": "2:1.2.1.3.3.3.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.332   What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?"
+                ],
+                "P": [
+                  "To communicate the requirements to lower-tier participants, you must include a term or condition in the lower-tier transaction requiring the lower-tier participant's compliance with 2 CFR part 180, as supplemented by this subpart.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 376.370",
+                  "NODE": "2:1.2.1.3.3.3.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.370   What are the obligations of Medicare carriers and intermediaries?"
+                ],
+                "P": [
+                  "Because Medicare carriers, intermediaries and other Medicare contractors undertake responsibilities on behalf of the Medicare program (Title XVIII of the Social Security Act), these entities assume the same obligations and responsibilities as the HHS Medicare officials responsible for the Medicare Program with respect to actions under 2 CFR part 376. This would include the requirement for these entities to check the Excluded Parties List System (EPLS) and take necessary steps to effect this part.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.1.3.3.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Federal Agency Officials Regarding Transactions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 376.437",
+                  "NODE": "2:1.2.1.3.3.4.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.437   What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?"
+                ],
+                "P": [
+                  "To communicate to a participant the requirements described in 2 CFR 180.435, you must include a term or condition in the transaction that requires the participant's compliance with subpart C of 2 CFR part 180, as supplemented by subpart C of this part, and require the participant to include a similar term or condition in lower-tier covered transactions.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.1.3.3.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Excluded Parties List System [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.1.3.3.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—General Principles Relating to Suspension and Debarment Actions [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "G",
+              "NODE": "2:1.2.1.3.3.7",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart G—Suspension [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "H",
+              "NODE": "2:1.2.1.3.3.8",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart H—Debarment [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "I",
+              "NODE": "2:1.2.1.3.3.9",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart I—Definitions"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 376.935",
+                  "NODE": "2:1.2.1.3.3.9.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.935   Disqualified. (HHS supplement to government-wide definition at 2 CFR 180.935)."
+                ],
+                "P": [
+                  {
+                    "_": " means persons prohibited from participating in specified federal procurement and nonprocurement transactions pursuant to the statutes listed in 2 CFR 180.935, and pursuant to Title XI of the Social Security Act (42 U.S.C. 1320a-7, 1320a-7a, 1320c-5, and 1395ccc) as enforced by the HHS Office of the Inspector General.\n\n\n",
+                    "I": [
+                      "Disqualified"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 376.995",
+                  "NODE": "2:1.2.1.3.3.9.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 376.995   Principal (HHS supplement to government-wide definition at 2 CFR 180.995)."
+                ],
+                "P": [
+                  {
+                    "_": " means individuals, in addition to those listed at 2 CFR 180.995, who participate in HHS covered transactions including:\n",
+                    "I": [
+                      "Principal"
+                    ]
+                  },
+                  "(a) Providers of federally required audit services; and\n",
+                  "(b) Researchers.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "J",
+              "NODE": "2:1.2.1.3.3.10",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart J [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "382",
+          "NODE": "2:1.2.1.3.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 382—REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL ASSISTANCE)\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "41 U.S.C. 701-707.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "74 FR 58190, Nov. 12, 2009, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 382.10",
+              "NODE": "2:1.2.1.3.4.0.47.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 382.10   What does this part do?"
+            ],
+            "P": [
+              "This part requires that the award and administration of HHS grants and cooperative agreements comply with Office of Management and Budget (OMB) guidance implementing the portion of the Drug-Free Workplace Act of 1988 (41 U.S.C. 701-707, as amended, hereafter referred to as “the Act”) that applies to grants. It thereby—\n",
+              "(a) Gives regulatory effect to the OMB guidance (Subparts A through F of 2 CFR part 182) for the HHS grants and cooperative agreements; and\n",
+              "(b) Establishes HHS policies and procedures for compliance with the Act that are the same as those of other Federal agencies, in conformance with the requirement in 41 U.S.C. 705 for Governmentwide implementing regulations.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 382.20",
+              "NODE": "2:1.2.1.3.4.0.47.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 382.20   Does this part apply to me?"
+            ],
+            "P": [
+              "This part and, through this part, pertinent portions of the OMB guidance in subparts A through F of 2 CFR part 182 (see table at 2 CFR 182.115(b)) apply to you if you are a—\n",
+              "(a) Recipient of an HHS grant or cooperative agreement; or\n",
+              "(b) HHS awarding official.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 382.30",
+              "NODE": "2:1.2.1.3.4.0.47.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 382.30   What policies and procedures must I follow?"
+            ],
+            "P": [
+              {
+                "_": "(a)  You must follow the policies and procedures specified in applicable sections of the OMB guidance in subparts A through F of 2 CFR part 182, as implemented by this part.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  In implementing the OMB guidance in 2 CFR part 182, this part supplements four sections of the guidance, as shown in the following table. For each of those sections, you must follow the policies and procedures in the OMB guidance, as supplemented by this part.\n",
+                "I": [
+                  "Specific sections of OMB guidance that this part supplements."
+                ]
+              },
+              {
+                "_": "(c)  For any section of OMB guidance in subparts A through F of 2 CFR part 182 that is not listed in paragraph (b) of this section, HHS policies and procedures are the same as those in the OMB guidance.\n\n\n",
+                "I": [
+                  "Sections of the OMB guidance that this part does not supplement."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Section of OMB guidance\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "Section in this part where supplemented\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "What the supplementation clarifies\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(1) 2 CFR 182.225(a)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 382.225",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in HHS a recipient other than an individual must notify if an employee is convicted for a violation of a criminal drug statute in the workplace.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(2) 2 CFR 182.300(b)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 382.300",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Whom in HHS a recipient who is an individual must notify if he or she is convicted of a criminal drug offense resulting from a violation occurring during the conduct of any award activity.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(3) 2 CFR 182.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 382.500",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in HHS is authorized to determine that a recipient other than an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "(4) 2 CFR 182.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "§ 382.505",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              },
+                              {
+                                "_": "Who in HHS is authorized to determine that a recipient who is an individual is in violation of the requirements of 2 CFR part 182, as implemented by this part.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "2:1.2.1.3.4.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "2:1.2.1.3.4.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Requirements for Recipients Other Than Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 382.225",
+                  "NODE": "2:1.2.1.3.4.2.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 382.225   Whom in HHS does a recipient other than an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient other than an individual that is required under 2 CFR 182.225(a) to notify Federal agencies about an employee's conviction for a criminal drug offense must notify each HHS office from which it currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "2:1.2.1.3.4.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Requirements for Recipients Who Are Individuals"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 382.300",
+                  "NODE": "2:1.2.1.3.4.3.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 382.300   Whom in HHS does a recipient who is an individual notify about a criminal drug conviction?"
+                ],
+                "P": [
+                  "A recipient who is an individual and is required under 2 CFR 182.300(b) to notify Federal agencies about a conviction for a criminal drug offense must notify each HHS office from which it currently has an award.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "2:1.2.1.3.4.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Responsibilities of Agency Awarding Officials"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 382.400",
+                  "NODE": "2:1.2.1.3.4.4.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 382.400   What method do I use as an agency awarding official to obtain a recipient's agreement to comply with the OMB guidance?"
+                ],
+                "P": [
+                  "To obtain a recipient's agreement to comply with applicable requirements in the OMB guidance at 2 CFR part 182, you must include the following term or condition in the award:\n",
+                  {
+                    "_": " You as the recipient must comply with drug-free workplace requirements in Subpart B (or Subpart C, if the recipient is an individual) of part 382, which adopts the Governmentwide implementation (2 CFR part 182) of sec. 5152-5158 of the Drug-Free Workplace Act of 1988 (Pub. L. 100-690, Title V, Subtitle D; 41 U.S.C. 701-707).\n\n\n",
+                    "I": [
+                      "Drug-free workplace."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "2:1.2.1.3.4.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Violations of This Part and Consequences"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 382.500",
+                  "NODE": "2:1.2.1.3.4.5.47.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 382.500   Who in HHS determines that a recipient other than an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The agency head is the official authorized to make the determination under 2 CFR 182.500.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 382.505",
+                  "NODE": "2:1.2.1.3.4.5.47.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 382.505   Who in HHS determines that a recipient who is an individual violated the requirements of this part?"
+                ],
+                "P": [
+                  "The agency head is the official authorized to make the determination under 2 CFR 182.505.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "2:1.2.1.3.4.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "383-399",
+          "NODE": "2:1.2.1.3.5",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 383-399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "number": "XIX",
+  "title": " CHAPTER XIX—U.S. AGENCY FOR GLOBAL MEDIA",
+  "content": {
+    "$": {
+      "N": "XIX",
+      "NODE": "2:1.2.15",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XIX—U.S. AGENCY FOR GLOBAL MEDIA"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1900",
+          "NODE": "2:1.2.15.10.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1900—UNIFORM ADMINISTRATIVE REQUIREMENTS, COST PRINCIPLES, AND AUDIT REQUIREMENTS FOR FEDERAL AWARDS\n\n\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301; 2 CFR part 200\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "89 FR 99696, Dec. 11, 2024, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1900.1",
+              "NODE": "2:1.2.15.10.1.0.69.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1900.1   Adoption of 2 CFR Part 200."
+            ],
+            "P": [
+              "The United States Agency for Global Media adopts the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards set forth at 2 CFR part 200. Thus, this part gives regulatory effect to the terms of 2 CFR part 200 (as effective October 1, 2024).\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 1900.2",
+              "NODE": "2:1.2.15.10.1.0.69.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1900.2   [Reserved]"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1901-1999",
+          "NODE": "2:1.2.15.10.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1901-1999 [Reserved]\n\n\n\n\n\n\n"
+        ]
+      }
+    ]
+  }
+}

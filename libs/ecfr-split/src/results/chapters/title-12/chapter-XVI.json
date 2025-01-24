@@ -1,0 +1,2843 @@
+{
+  "number": "XVI",
+  "title": " CHAPTER XVI—OFFICE OF FINANCIAL RESEARCH, DEPARTMENT OF THE TREASURY",
+  "content": {
+    "$": {
+      "N": "XVI",
+      "NODE": "12:10.0.6",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XVI—OFFICE OF FINANCIAL RESEARCH, DEPARTMENT OF THE TREASURY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "1600",
+          "NODE": "12:10.0.6.8.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1600—ORGANIZATION AND FUNCTIONS OF THE OFFICE OF FINANCIAL RESEARCH\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301, 7301, 31 U.S.C. 321, the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank) (Pub. L. 111-203); E.O. 12674, 3 CFR, 1989 Comp., p. 215, as modified by E.O. 12731, 3 CFR, 1990 Comp., p. 306.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "76 FR 60708, Sept. 30, 2011, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 1600.1",
+              "NODE": "12:10.0.6.8.1.0.5.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 1600.1   Standards of ethical conduct."
+            ],
+            "P": [
+              "This section applies to the employees of the Office of Financial Research and is in addition to 5 CFR 3101.101-104, and 31 CFR part 0:\n",
+              {
+                "_": "(a) —For purposes of this subpart:\n",
+                "I": [
+                  "Definitions"
+                ]
+              },
+              "(1) “Business confidential information” shall include trade secret or other formula, practice, process, design, instrument, pattern, or compilation of information which is not generally known or reasonably ascertainable, by which a business can obtain an economic advantage over competitors or customers. This shall include non-public position and transaction data, as well as data provided to supervisors or regulators that is unpublished.\n",
+              "(2) “Position data” is defined as:\n",
+              "(i) Data on financial assets or liabilities held on the balance sheet of a financial company, where positions are created or changed by the execution of a financial transaction; and\n",
+              "(ii) Includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valuation of the position.\n",
+              "(3) “Transaction data” is defined as the structure and legal description of a financial contract, with sufficient detail to describe the rights and obligations between counterparties and make possible an independent valuation.\n",
+              "(4) “Micro-level data” is defined as information specific to an individual transaction or position.\n",
+              "(5) “Masked data” is defined as data that has been altered to prevent attribution to a particular financial company.\n",
+              {
+                "_": "(6) “Financial company” has the same meaning given to such term in title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act, 12 U.S.C. 5301  (2010), and includes an insured depository institution and an insurance company.\n",
+                "I": [
+                  "et seq."
+                ]
+              },
+              {
+                "_": "(b)  (1) A current or former employee of the Office of Financial Research who has had access to the transaction or position data or business confidential information maintained by the Data Center about financial entities required to report to the Office may not, within one year after last having had access in the course of official duties to such transaction or position data or business confidential information, be employed by or provide advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+                "I": [
+                  "One-year post-employment restriction."
+                ]
+              },
+              "(2) A current or former employee of the Office of Financial Research who has had limited access to the transaction or position data or business confidential information maintained by the Data Center about financial entities required to report to the Office may request a written waiver pursuant to paragraph (c) of this section from the Designated Agency Ethics Official to be employed by or provide advice or consulting services to a financial company, provided that the issuance of the waiver would not compromise any data or business confidential information.\n",
+              {
+                "_": "(c) —The post-employment restrictions set forth in section 152(g) of the Dodd-Frank Wall Street Reform and Consumer Protection Act may be waived in whole or in part for an employee with limited access to the transaction or position data or business confidential information maintained by the Data Center if—\n",
+                "I": [
+                  "Waivers"
+                ]
+              },
+              "(1) The Designated Agency Ethics Official, in consultation with the Director of the Office of Financial Research or the Department's General Counsel in instances where consultation with the Director poses a conflict or the Director's position is vacant, determines in writing that such waiver is unlikely to compromise any financial company's business confidential information, unfairly advantage or disadvantage any financial company, or affect the integrity or effectiveness of the Office of Financial Research.\n",
+              "(2) Relevant factors to be considered by the Designated Agency Ethics Official and the Director or General Counsel include—\n",
+              "(i) The nature and importance of the employee's position and the degree to which the employee had access to non-public or business confidential data for the purpose of analysis, standardization, or performing applied research or essential long-term research;\n",
+              "(ii) Whether the information to which the employee had access revealed positions or transactions of an individual financial company;\n",
+              "(iii) Whether the data, especially position data, remains sensitive considering changing circumstances or the passage of time;\n",
+              "(iv) Whether the employee had access to micro-level data, as compared to aggregated information;\n",
+              "(v) If the employee had access to micro-level data, whether it was sufficiently masked or coded to protect the identity of the provider or the subject financial company;\n",
+              "(vi) Whether the information to which the employee had access would provide a financial company employer with a competitive commercial advantage;\n",
+              "(vii) Whether the financial company employer has made a satisfactory representation that it has adopted screening measures which will effectively prevent a potential employee from sharing any transaction or position data or business confidential information acquired at the Office of Financial Research one year prior to accepting employment with the company;\n",
+              "(viii) Whether granting the waiver would affect the willingness of a financial company to continue to provide transaction or position data or business confidential information to the Office; and\n",
+              "(ix) Whether the proposed employment would create an appearance of impropriety or would otherwise adversely affect the interests of the government or compromise the integrity of the office.\n",
+              "(d) The following examples are illustrative of how the OFR post-employment prohibitions would apply under certain circumstances:\n",
+              {
+                "_": "(1)  (i) Fact pattern: OFR employs a business data manager and such employee has no access to the transaction or position data maintained by the Data Center or other business confidential information about financial entities required to report to OFR.\n",
+                "I": [
+                  "Example 1."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would not be prohibited from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+              {
+                "_": "(2)  (i) Fact pattern: OFR employs a data analyst and such employee has access to transaction or position data across all sectors maintained by the Data Center or other business confidential information about specific financial entities required to report to OFR.\n",
+                "I": [
+                  "Example 2."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would be prohibited, for a period of one year immediately after leaving OFR, from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+              {
+                "_": "(3)  (i) Fact pattern: OFR employs a data analyst and such employee has access to transaction or position data across all sectors maintained by the Data Center or other business confidential information about specific financial entities required to report to OFR. Employee last had access to such data six months before termination of her employment at OFR.\n",
+                "I": [
+                  "Example 3."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of employment by OFR, such employee would be prohibited, for a period of six months immediately after leaving OFR, from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+              {
+                "_": "(4)  (i) Fact pattern: OFR employs a researcher and such employee has access only to “aggregated” or “masked” transaction or position data maintained by the Data Center or other business confidential information about financial entities required to report to OFR.\n",
+                "I": [
+                  "Example 4."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would not be prohibited from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+              {
+                "_": "(5)  (i) Fact pattern: OFR employs a data analyst and such employee has access to transaction or position data maintained by the Data Center or other business confidential information \n",
+                "I": [
+                  "Example 5.",
+                  "relating to a particular sector (i.e. banking)."
+                ]
+              },
+              {
+                "_": "(ii) Designated Agency Ethics Official's Determination: Upon termination of employment by OFR, such employee would be prohibited, for a period of one year immediately after leaving OFR, from being employed by or providing advice or consulting services to a financial company  where such employment or services involves employment or advice or consulting services, regardless of whether that financial company is required to report to the Office. Such employee would be granted a waiver to work in other designated sectors immediately after leaving OFR.\n",
+                "I": [
+                  "in that particular sector (i.e. banking)"
+                ]
+              },
+              {
+                "_": "(6)  (i) Fact pattern: OFR employs a data analyst and such employee has access to business confidential information in an area where data, such as equity mutual fund holdings, changes frequently. Employee last had access to such data six months before termination of her employment at OFR and, because of portfolio turnover, there is no risk of compromising business confidential information.\n",
+                "I": [
+                  "Example 6."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would not be prohibited from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n",
+              {
+                "_": "(7)  (i) Fact pattern: OFR employs an information technology specialist and such employee has access only to “masked” transaction or position data maintained by the Data Center or other “masked” business confidential information about specific financial entities required to report to OFR.\n",
+                "I": [
+                  "Example 7."
+                ]
+              },
+              "(ii) Designated Agency Ethics Official's Determination: Upon termination of their employment by OFR, such employee would not be prohibited from being employed by or providing advice or consulting services to a financial company, regardless of whether that financial company is required to report to the Office.\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1601-1609",
+          "NODE": "12:10.0.6.8.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1601-1609 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "1610",
+          "NODE": "12:10.0.6.8.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 1610—REGULATORY DATA COLLECTIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "12 U.S.C. 5343 and 5344.\n\n\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "84 FR 4984, Feb. 20, 2019, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "12:10.0.6.8.3.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—Collections Generally"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1610.1",
+                  "NODE": "12:10.0.6.8.3.1.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1610.1   General authority."
+                ],
+                "P": [
+                  "The collections under this part are made pursuant to the authority contained in 12 U.S.C. 5343(a) and (c)(1) and 5344(b).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1610.2",
+                  "NODE": "12:10.0.6.8.3.1.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1610.2   General definitions."
+                ],
+                "P": [
+                  {
+                    "_": " means the Financial Stability Oversight Council.\n",
+                    "I": [
+                      "Council"
+                    ]
+                  },
+                  {
+                    "_": " or LEI for an entity means the global legal entity identifier maintained for such entity by a utility accredited by the Global LEI Foundation or by a utility endorsed by the Regulatory Oversight Committee that satisfies the standards implemented by the Global LEI Foundation. As used in this definition:\n",
+                    "I": [
+                      "Legal Entity Identifier"
+                    ]
+                  },
+                  "(1) Regulatory Oversight Committee means the Regulatory Oversight Committee (of the Global LEI System), whose charter was set forth by the Finance Ministers and Central Bank Governors of the Group of Twenty and the Financial Stability Board, or any successor thereof; and\n",
+                  "(2) Global LEI Foundation means the not-for-profit organization organized under Swiss law by the Financial Stability Board in 2014, or any successor thereof.\n",
+                  {
+                    "_": " means the U.S. Department of the Treasury's Office of Financial Research.\n\n\n",
+                    "I": [
+                      "Office"
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1610.3",
+                  "NODE": "12:10.0.6.8.3.1.5.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1610.3   Treatment of collected information."
+                ],
+                "P": [
+                  "The Office will treat any financial transaction data or position data submitted to the Data Center under this part in accordance with the relevant provisions of law, including 12 U.S.C. 5343(b) and 5344(b).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§§ 1610.4-1610.9",
+                  "NODE": "12:10.0.6.8.3.1.5.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§§ 1610.4-1610.9   [Reserved]"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "12:10.0.6.8.3.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Specific Collections"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 1610.10",
+                  "NODE": "12:10.0.6.8.3.2.5.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1610.10   Centrally cleared repurchase agreement data."
+                ],
+                "P": [
+                  {
+                    "_": "(a) \n",
+                    "I": [
+                      "Definitions."
+                    ]
+                  },
+                  {
+                    "_": " means a clearing agency that interposes itself between the counterparties to transactions, acting functionally as the buyer to every seller and the seller to every buyer.\n",
+                    "I": [
+                      "Central counterparty"
+                    ]
+                  },
+                  {
+                    "_": " has the same meaning as set forth in 15 U.S.C. 78c(a)(23).\n",
+                    "I": [
+                      "Clearing agency"
+                    ]
+                  },
+                  {
+                    "_": " means any central counterparty for repurchase agreement transactions that meets the criteria set forth in paragraph (b)(2) of this section; provided, however, that any covered reporter shall cease to be a covered reporter only if it does not meet the dollar threshold specified in paragraph (b)(2) for at least four consecutive calendar quarters.\n",
+                    "I": [
+                      "Covered reporter"
+                    ]
+                  },
+                  {
+                    "_": " means a repurchase agreement transaction in which the trade reported to the central counterparty is for a category of securities as opposed to a specific security.\n",
+                    "I": [
+                      "General collateral trade"
+                    ]
+                  },
+                  {
+                    "_": " or transaction means an agreement of a counterparty to transfer securities to another counterparty in exchange for the receipt of cash, and the simultaneous agreement of the former counterparty to later reacquire the same securities (or any subsequently substituted securities) from that same counterparty in exchange for the payment of cash; or an agreement of a counterparty to acquire securities from another counterparty in exchange for the payment of cash, and the simultaneous agreement of the former party to later transfer back the same securities (or any subsequently substituted securities) to the latter counterparty in exchange for the receipt of cash.\n",
+                    "I": [
+                      "Repurchase agreement transaction"
+                    ]
+                  },
+                  {
+                    "_": " means a repurchase agreement transaction where the trade as reported to the central counterparty is for a mutually agreed upon specific security.\n",
+                    "I": [
+                      "Specific-security trade"
+                    ]
+                  },
+                  {
+                    "_": "(b) —(1)  The purpose of this data collection is to require the reporting of certain information to the Office about repurchase agreement transactions cleared through a central counterparty. The information will be used by the Office to support the Council and Council member agencies by facilitating financial stability monitoring including research consistent with support of the Council and its member agencies, and to support the calculation of certain reference rates.\n",
+                    "I": [
+                      "Purpose and scope",
+                      "Purpose."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Reporting under this Section is required by any central counterparty for repurchase agreement transactions that meets the definition of financial company set forth in 12 U.S.C. 5341(2) and whose average daily total open commitments in repurchase agreement contracts (gross cash positions prior to netting) across all services over all business days during the prior calendar quarter is at least $50 billion.\n",
+                    "I": [
+                      "Scope of application."
+                    ]
+                  },
+                  {
+                    "_": "(c)  (1) Covered reporters shall report trade and collateral information on all repurchase agreement transactions cleared through any of its services, subject to paragraph (c)(2) of this section, in accordance with the prescribed reporting format in this section.\n",
+                    "I": [
+                      "Data required."
+                    ]
+                  },
+                  "(2) Covered reporters shall only report trade and collateral information with respect to any repurchase agreement transaction for which there is a current or future delivery obligation as of the file observation date, including forward-starting transactions.\n",
+                  "(3) Covered reporters shall submit the following data elements for all general collateral trades:\n",
+                  "(4) Covered reporters shall submit the following data elements on the collateral delivered against net general collateral exposures for all general collateral trades:\n",
+                  "(5) Covered reporters shall submit the following data elements for all specific-security trades:\n",
+                  {
+                    "_": "(d)  The Office may designate a collection agent for the data reporting. Covered reporters shall submit the required data for each business day by 6:00 a.m. Eastern time on the following business day.\n",
+                    "I": [
+                      "Reporting process and collection agent."
+                    ]
+                  },
+                  {
+                    "_": "(e)  (1) Any central counterparty that is a covered reporter as of the effective date of this Section shall comply with the reporting requirements pursuant to this Section in the following manner:\n",
+                    "I": [
+                      "Compliance."
+                    ]
+                  },
+                  "(i) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraph (c)(5) of this section within 180 days after April 22, 2019.\n",
+                  "(ii) Subject to paragraph (e)(1)(iii) of this section, a covered reporter shall begin reporting all data elements required to be submitted pursuant to paragraphs (c)(3) and (4) of this section within 240 days after April 22, 2019.\n",
+                  "(iii) If a covered reporter is able to effect a rulemaking through the Securities and Exchange Commission requiring each direct clearing member, counterparty, and broker associated with a repurchase agreement transaction to obtain an LEI and provide it to the covered reporter, the covered reporter shall begin reporting all data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section by the later of the effective date of its rulemaking, or 420 days April 22, 2019, and continue to report all data elements requiring a legal name or internal identifier until 365 days after the date the covered reporter begins reporting all data elements requiring an LEI pursuant to this section. If a covered reporter is unable to effect such a rulemaking, the covered reporter is not required to report any data elements requiring an LEI other than its own pursuant to paragraphs (c)(3) through (5) of this section, except, if available, the LEI for any direct clearing member, counterparty, or broker associated with a repurchase agreement transaction that has an LEI, and shall report all data elements requiring a legal name or internal identifier in any report submitted under this section regardless of whether the relevant entity has an LEI. A covered reporter shall report its own LEI in accordance with the schedules set forth in paragraphs (e)(1)(i) and (ii) of this section.\n",
+                  "(2) The first submission by any central counterparty that is a covered reporter as of the effective date of this Section shall be submitted on the first business day after the applicable compliance date under paragraph (e)(1) of this section.\n",
+                  "(3) Any central counterparty that becomes a covered reporter after the effective date of this Section shall comply with the reporting requirements pursuant to this Section beginning on the later of the schedule set forth in paragraphs (e)(1)(i) through (iii) of this section or the first business day of the third calendar quarter following the calendar quarter in which such central counterparty meets the dollar threshold specified in paragraph (b)(2) of this section.\n"
+                ],
+                "DIV": [
+                  {
+                    "$": {
+                      "width": "100%"
+                    },
+                    "DIV": [
+                      {
+                        "$": {
+                          "class": "table_head"
+                        },
+                        "P": [
+                          {
+                            "_": "Table 1 to § 1610.10—General Collateral Trades\n",
+                            "$": {
+                              "class": "gpotbl_title"
+                            },
+                            "E": [
+                              {
+                                "_": "(c)",
+                                "$": {
+                                  "T": "01"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "class": "gpotbl_div"
+                        },
+                        "TABLE": [
+                          {
+                            "$": {
+                              "border": "1",
+                              "cellpadding": "1",
+                              "cellspacing": "1",
+                              "class": "gpotbl_table",
+                              "frame": "void",
+                              "width": "100%"
+                            },
+                            "TR": [
+                              {
+                                "TH": [
+                                  {
+                                    "_": "Data element\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  },
+                                  {
+                                    "_": "Explanation\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "File Observation Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The observation date of the file (typically one business day before the day the file is submitted).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Covered Reporter LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the covered reporter.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Transaction ID",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Respondent-generated unique transaction identifier.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Submission Timestamp",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Time that trade is first submitted to clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Match Timestamp",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Time that trade is matched by clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Asset Class Identifier Value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Asset class identifier.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Asset Class Identifier Type",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Type of securities identifier used (the numbering system to which the identifier belongs).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the of the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Start Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The start date of the repurchase agreement.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "End Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The date the repurchase agreement matures.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Rate",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The repurchase agreement rate, expressed as an annual percentage rate on an actual/360-day basis.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Principal",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash borrowed or lent.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Optionality",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The type of optionality, if any, in the repurchase agreement.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Minimum Maturity",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The earliest possible date on which the transaction could end in accordance with its contractual terms (taking into account optionality).",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "width": "100%"
+                    },
+                    "DIV": [
+                      {
+                        "$": {
+                          "class": "table_head"
+                        },
+                        "P": [
+                          {
+                            "_": "Table 2 to § 1610.10—General Collateral Net Exposure\n",
+                            "$": {
+                              "class": "gpotbl_title"
+                            },
+                            "E": [
+                              {
+                                "_": "(c)",
+                                "$": {
+                                  "T": "01"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "class": "gpotbl_div"
+                        },
+                        "TABLE": [
+                          {
+                            "$": {
+                              "border": "1",
+                              "cellpadding": "1",
+                              "cellspacing": "1",
+                              "class": "gpotbl_table",
+                              "frame": "void",
+                              "width": "100%"
+                            },
+                            "TR": [
+                              {
+                                "TH": [
+                                  {
+                                    "_": "Data element\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  },
+                                  {
+                                    "_": "Explanation\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "File Observation Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The observation date of the file (typically one business day before the day the file is submitted).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Covered Reporter LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the covered reporter.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Direct Clearing Member LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the direct clearing member of the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Direct Clearing Member Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the direct clearing member.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Direct Clearing Member Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the direct clearing member.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Transaction Side",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Indicates the side of the transaction: Collateral was received by or delivered from the covered reporter.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Identifier Value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Identifier of securities transferred.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Identifier Type",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Type of securities identifier used (the numbering system to which the identifier belongs).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Quantity",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Par value or quantity (as applicable) of securities transferred.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The market value as of most recent valuation of securities transferred, including accrued interest.",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "width": "100%"
+                    },
+                    "DIV": [
+                      {
+                        "$": {
+                          "class": "table_head"
+                        },
+                        "P": [
+                          {
+                            "_": "Table 3 to § 1610.10—Specific-Security Trades\n",
+                            "$": {
+                              "class": "gpotbl_title"
+                            },
+                            "E": [
+                              {
+                                "_": "(c)",
+                                "$": {
+                                  "T": "01"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "class": "gpotbl_div"
+                        },
+                        "TABLE": [
+                          {
+                            "$": {
+                              "border": "1",
+                              "cellpadding": "1",
+                              "cellspacing": "1",
+                              "class": "gpotbl_table",
+                              "frame": "void",
+                              "width": "100%"
+                            },
+                            "TR": [
+                              {
+                                "TH": [
+                                  {
+                                    "_": "Data element\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  },
+                                  {
+                                    "_": "Explanation\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "File Observation Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The observation date of the file (typically one business day before the day the file is submitted).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Covered Reporter LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the covered reporter.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Transaction ID",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Respondent-generated unique transaction identifier.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the cash provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the of the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Direct Clearing Member Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the direct clearing member through which the cash provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the securities provider.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Direct Clearing Member Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the direct clearing member through which the securities provider accessed the clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker Name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Broker Internal Identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned by the covered reporter to the broker.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Submission Timestamp",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Time that trade is first submitted to clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Match Timestamp",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Time that trade is matched by clearing service.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Start Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The start date of the repurchase agreement.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "End Date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The date when the repurchase agreement matures; the close leg settlement date.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Optionality",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The type of optionality, if any.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Minimum Maturity",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The earliest possible date on which the transaction could end in accordance with its contractual terms (taking into account optionality).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Security Identifier Value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Identifier of pledged security.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Identifier Type",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Type of securities identifier used (the numbering system to which the identifier belongs).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Quantity",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Par value or quantity (as applicable) of securities transferred.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Substitution Collateral Identifier Value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Asset class identifier or no substitution.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Substitution Collateral Identifier Type",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Type of securities identifier used (the numbering system to which the identifier belongs).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Start Leg Amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash transferred by the cash provider on the open leg of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Start Leg Amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash received by the securities provider on the open leg of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Rate",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The rate of interest received by the cash provider, expressed as an annual percentage rate on an actual/360-day basis.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Rate",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The rate of interest paid by the securities provider, expressed as an annual percentage rate on an actual/360-day basis.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash Provider Close Leg Settlement Amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash received by the cash provider on the close leg of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities Provider Close Leg Settlement Amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash paid by the securities provider on the close leg of the transaction.",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "NOTE": [
+                  {
+                    "HED": [
+                      {
+                        "_": "Note 1 to paragraph ()(2):",
+                        "E": [
+                          {
+                            "_": "e",
+                            "$": {
+                              "T": "01"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "P": [
+                      "For example, if this section became effective on March 20, 2019, a central counterparty that meets the dollar threshold specified in paragraph (b)(2) of this section for the calendar quarter ending December 31, 2018, would be required to submit its first report under paragraph (e)(1)(i) of this section on the first business day after September 16, 2019, its first report under paragraph (e)(1)(ii) of this section on November 15, 2019, and its first report with data elements requiring an LEI (other than that of the covered reporter) on May 13, 2020 (if the covered reporter effected the rulemaking described in paragraph (e)(1)(iii) of this section)."
+                    ]
+                  },
+                  {
+                    "HED": [
+                      {
+                        "_": "Note 2 to paragraph ()(3):",
+                        "E": [
+                          {
+                            "_": "e",
+                            "$": {
+                              "T": "01"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "P": [
+                      "For example, if this section became effective on March 20, 2019, a central counterparty that first meets the dollar threshold specified in paragraph (b)(2) of this section for the calendar quarter ending June 30, 2019, would be required to submit its first report under paragraphs (e)(1)(i) and (ii) of this section on January 2, 2020, and its first report with data elements requiring an LEI (other than that of the covered reporter) on May 13, 2020 (if the covered reporter effected the rulemaking described in paragraph (e)(1)(iii) of this section by May 13, 2020)."
+                    ]
+                  },
+                  {
+                    "HED": [
+                      {
+                        "_": "Note 3 to paragraph ()(3):",
+                        "E": [
+                          {
+                            "_": "e",
+                            "$": {
+                              "T": "01"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "P": [
+                      "For example, if this section became effective on March 20, 2019, a central counterparty that first met the dollar threshold specified in paragraph (b)(2) for the calendar quarter ending June 30, 2020, would be required to comply with all of the reporting requirements under this section on January 2, 2021 (and would continue to be required to report all data elements requiring a legal name or internal identifier for at least 365 days after the effective date of the covered reporter's rulemaking described in paragraph (e)(1)(iii) if such effective date occurred after January 2, 2021)."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 1610.11",
+                  "NODE": "12:10.0.6.8.3.2.5.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 1610.11   Non-centrally Cleared Bilateral Repurchase Agreement Data."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The terms used in this section have the following meanings:\n",
+                    "I": [
+                      "Definitions."
+                    ]
+                  },
+                  {
+                    "_": " is the period beginning at 6 p.m. Eastern Time on any day that the Fedwire Funds Service is open to 6 p.m. Eastern Time on the next day that the Fedwire Funds Service is open.\n",
+                    "I": [
+                      "Business day"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company that meets the criteria set forth in paragraph (b)(2) of this section; provided, however, that any covered reporter shall cease to be a covered reporter only if it does not meet the dollar thresholds specified in paragraph (b)(2) of this section for at least four consecutive calendar quarters.\n",
+                    "I": [
+                      "Covered reporter"
+                    ]
+                  },
+                  {
+                    "_": " means the date on which any business day ends.\n",
+                    "I": [
+                      "File observation date"
+                    ]
+                  },
+                  {
+                    "_": " has the same meaning as in 12 U.S.C. 5341(2).\n",
+                    "I": [
+                      "Financial company"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company registered as a government securities broker under the Securities Exchange Act of 1934.\n",
+                    "I": [
+                      "Government securities broker"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company registered as a government securities dealer under the Securities Exchange Act of 1934.\n",
+                    "I": [
+                      "Government securities dealer"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company registered as an investment adviser with the Securities and Exchange Commission under the Investment Advisers Act of 1940.\n",
+                    "I": [
+                      "Investment adviser"
+                    ]
+                  },
+                  {
+                    "_": " means an agreement of one party to sell securities to a second party in exchange for the receipt of cash, and the simultaneous agreement of the former party to later reacquire the same securities (or any subsequently substituted securities) from that same second party in exchange for the payment of cash; or an agreement of a party to acquire securities from a second party in exchange for the payment of cash, and the simultaneous agreement of the former party to later transfer back the same securities (or any subsequently substituted securities) to the latter party in exchange for the receipt of cash. The agreement does not involve a tri-party custodian and is not cleared with a central counterparty. This definition includes, but is not limited to, transactions that are executed under a Master Repurchase Agreement (MRA) or Global Master Repurchase Agreement (GMRA), or which are agreed to by the parties as subject to the provisions of 11 U.S.C. 559. Notwithstanding the above, transactions conducted under a Securities Lending Agreement (SLA) or a Master Securities Lending Agreement (MSLA) are not considered repurchase agreements, nor are repurchase agreements arising from either participation in a commercial mortgage loan or the initial securitization of a residential mortgage loan.\n",
+                    "I": [
+                      "Non-centrally cleared bilateral repurchase agreement transaction"
+                    ]
+                  },
+                  {
+                    "_": " means the amount of financial obligations entered into pursuant to any repurchase agreement that opens on any business day or is outstanding as of the end of any business day, including transactions which both opened and closed on the same business day. These financial obligations include all of those that exist prior to netting.\n",
+                    "I": [
+                      "Outstanding commitment"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company registered as a broker with the Securities and Exchange Commission under the Securities Exchange Act of 1934.\n",
+                    "I": [
+                      "Securities broker"
+                    ]
+                  },
+                  {
+                    "_": " means any financial company registered as a dealer with the Securities and Exchange Commission under the Securities Exchange Act of 1934.\n",
+                    "I": [
+                      "Securities dealer"
+                    ]
+                  },
+                  {
+                    "_": "(b) —(1)  The purpose of this data collection is to require the reporting of certain information to the Office about non-centrally cleared bilateral repurchase agreement transactions. The information will be used by the Office to fulfill its responsibilities under Title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act, including support of the Council and Council member agencies by facilitating financial stability monitoring and research consistent with support of the Council and its member agencies.\n",
+                    "I": [
+                      "Purpose and scope",
+                      "Purpose."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Reporting under this section is required by any financial company that participates in a non-centrally cleared bilateral repurchase agreement transaction and that is:\n",
+                    "I": [
+                      "Scope of application."
+                    ]
+                  },
+                  "(i) A securities broker, securities dealer, government securities broker, or government securities dealer whose average daily outstanding commitments to borrow cash and extend guarantees in non-centrally cleared bilateral repurchase agreement transactions with counterparties over all business days during the prior calendar quarter is at least $10 billion, or\n",
+                  "(ii) Any other financial company with over $1 billion in assets or assets under management whose average daily outstanding commitments to borrow cash and extend guarantees in non-centrally cleared bilateral repurchase agreement transactions, including commitments of all funds for which the company serves as an investment adviser, with counterparties that are not securities brokers, securities dealers, government securities brokers, or government securities dealers over all business days during the prior calendar quarter is at least $10 billion.\n",
+                  {
+                    "_": "(c)  (1) Covered reporters shall report trade and collateral information on all non-centrally cleared bilateral repurchase agreement transactions, subject to paragraph (c)(2) of this section, in accordance with the prescribed reporting format in this section.\n",
+                    "I": [
+                      "Data required."
+                    ]
+                  },
+                  "(2) Covered reporters shall only report trade and collateral information with respect to any non-centrally cleared bilateral repurchase agreement transaction which opens on, or is outstanding at any time during the business day, including transactions which both opened and closed during the business day.\n",
+                  "(3) Covered reporters shall submit the following data elements for all transactions:\n",
+                  {
+                    "_": "(d)  Covered reporters shall submit the required data for each business day by 11 a.m. Eastern Time on the following business day. The Office may either collect the data itself or designate a collection agent for that purpose.\n",
+                    "I": [
+                      "Reporting process."
+                    ]
+                  },
+                  {
+                    "_": "(e)  (1) Any financial company that meets the criteria set forth in paragraph (b)(2)(i) of this section as of the effective date of this section shall comply with the reporting requirements pursuant to this section 150 days after the effective date of this section. Any such covered reporter's first submission shall be submitted on the first business day after such compliance date.\n",
+                    "I": [
+                      "Compliance date."
+                    ]
+                  },
+                  "(2) Any financial company that meets the criteria set forth in paragraph (b)(2)(ii) of this section as of the effective date of this section shall comply with the reporting requirements pursuant to this section 270 days after the effective date of this section. Any such covered reporter's first submission shall be submitted on the first business day after such compliance date.\n",
+                  "(3) Any financial company not described in subparagraph (e)(1) or (2) of this section that meets the criteria set forth in paragraph (b)(2)(i) of this section after the effective date of this section shall comply with the reporting requirements pursuant to this section 150 days after the last day of the calendar quarter in which such financial company becomes a covered reporter.\n",
+                  "(4) Any financial company not described in subparagraph (e)(1) or (2) of this section that meets the criteria set forth in paragraph (b)(2)(ii) of this section after the effective date of this section shall comply with the reporting requirements pursuant to this section 270 days after the last day of the calendar quarter in which such financial company becomes a covered reporter.\n\n\n"
+                ],
+                "DIV": [
+                  {
+                    "$": {
+                      "width": "100%"
+                    },
+                    "DIV": [
+                      {
+                        "$": {
+                          "class": "table_head"
+                        },
+                        "P": [
+                          {
+                            "_": "Table 1 to Paragraph \n",
+                            "$": {
+                              "class": "gpotbl_title"
+                            },
+                            "E": [
+                              {
+                                "_": "(c)(3)",
+                                "$": {
+                                  "T": "01"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "$": {
+                          "class": "gpotbl_div"
+                        },
+                        "TABLE": [
+                          {
+                            "$": {
+                              "border": "1",
+                              "cellpadding": "1",
+                              "cellspacing": "1",
+                              "class": "gpotbl_table",
+                              "frame": "void",
+                              "width": "100%"
+                            },
+                            "TR": [
+                              {
+                                "TH": [
+                                  {
+                                    "_": "Data element\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  },
+                                  {
+                                    "_": "Explanation\n",
+                                    "$": {
+                                      "class": "gpotbl_colhed",
+                                      "scope": "col"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "File observation date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The date on which the business day ends.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Covered reporter LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the covered reporter.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash lender LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the cash lender.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash lender name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the cash lender.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash borrower name",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The legal name of the cash borrower.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash borrower LEI",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The Legal Entity Identifier of the cash borrower.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Guarantee",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "Indicator for whether the covered reporter issued a guarantee with respect to the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Transaction ID",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The covered reporter-generated unique transaction identifier in an alphanumeric string format.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Unique transaction ID",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "If available, the Unique Transaction Identifier (UTI).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Trading platform",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "For transactions arranged using an outside vendor's platform, the provider of the platform.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Trade timestamp",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The timestamp that the trade became an obligation of the covered reporter or the covered reporter's affiliate or subsidiary.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Start date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The start date of the repo.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "End date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The date the repo matures.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Minimum maturity date",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The earliest possible date on which the transaction could end in accordance with its contractual terms (taking into account optionality).\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash lender internal identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned to the cash lender by the covered reporter, if the covered reporter is not the cash lender.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Cash borrower internal identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The internal identifier assigned to the cash borrower by the covered reporter, if the covered reporter is not the cash borrower.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Start leg amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash transferred to the cash borrower on the open leg of the transaction at the inception of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Close leg amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash to be transferred by the cash borrower on the end date of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Current cash amount",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The amount of cash to be transferred by the cash borrower, inclusive of principal, accrued interest and other adjustments, as of the end of the business day.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Start leg currency",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The currency which is used in the Start leg amount field.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Rate",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The rate of interest paid by the cash borrower on the transaction, expressed as an annual percentage rate on an actual/360-day basis.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Floating rate benchmark",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The name of the benchmark interest rate upon which the transaction is based.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Floating rate reset frequency",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The time period, in calendar days, describing the frequency of the floating rate resets.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Spread",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The contractual spread over (or below) the benchmark rate referenced in the repurchase agreement.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities identifier type",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The identifier type for the securities transferred between cash borrower and cash lender.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Security identifier",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The identifier of securities transferred between the cash borrower and the cash lender in the repo.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities quantity",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The number of units (e.g., shares, bonds, bills, notes) transferred to the cash lender as of the end of the business day.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities value",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The market value of the transferred securities as of the end of the business day, inclusive of accrued interest.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities value at inception",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The market value of the transferred securities at the inception of the transaction, inclusive of accrued interest.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Securities value currency",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The currency used in the Securities value and Securities value at inception fields.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Haircut",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The difference between the market value of the transferred securities and the purchase price paid at the inception of the transaction.\n",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              },
+                              {
+                                "TD": [
+                                  {
+                                    "_": "Special instructions, notes, or comments",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell",
+                                      "scope": "row"
+                                    }
+                                  },
+                                  {
+                                    "_": "The covered reporter may characterize any detail of the transaction with special instructions, notes, or comments.",
+                                    "$": {
+                                      "align": "left",
+                                      "class": "gpotbl_cell"
+                                    }
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[89 FR 37107, May 6, 2024]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "1611-1699",
+          "NODE": "12:10.0.6.8.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 1611-1699 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

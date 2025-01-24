@@ -1,0 +1,71 @@
+{
+  "number": "114",
+  "title": " CHAPTER 114—DEPARTMENT OF THE INTERIOR",
+  "content": {
+    "$": {
+      "N": "114",
+      "NODE": "41:3.1.5",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 114—DEPARTMENT OF THE INTERIOR"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "114",
+          "NODE": "41:3.1.5.13.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 114-51—GOVERNMENT FURNISHED QUARTERS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 301. \n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "114",
+              "NODE": "41:3.1.5.13.1.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart 114-51.1—General"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 114-51.100",
+                  "NODE": "41:3.1.5.13.1.1.622.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 114-51.100   Departmental Quarters Handbook."
+                ],
+                "P": [
+                  "The Office of Acquisition and Property Management (PAM) has prepared the Departmental Quarters Handbook (DQH), 400 DM, which provides detailed guidelines governing administration, management and rental rate establishment activities relating to Government furnished quarters (GFQ). Officials responsible for administration and management of quarters shall implement and comply with the provisions of the DQH, and shall ensure its availability for examination by all employees.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[60 FR 3555, Jan. 18, 1995]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

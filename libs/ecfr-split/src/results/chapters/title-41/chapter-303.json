@@ -1,0 +1,677 @@
+{
+  "number": "303",
+  "title": " CHAPTER 303—PAYMENT OF EXPENSES CONNECTED WITH THE DEATH OF CERTAIN EMPLOYEES",
+  "content": {
+    "$": {
+      "N": "303",
+      "NODE": "41:4.3.4",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER 303—PAYMENT OF EXPENSES CONNECTED WITH THE DEATH OF CERTAIN EMPLOYEES"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "303-1",
+          "NODE": "41:4.3.4.13.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 303-1-303-69 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "303",
+          "NODE": "41:4.3.4.13.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 303-70—AGENCY REQUIREMENTS FOR PAYMENT OF EXPENSES CONNECTED WITH THE DEATH OF CERTAIN EMPLOYEES AND FAMILY MEMBERS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 5721-5738; 5741-5742; E.O. 11609, 3 CFR, 1971-1975 Comp., p 586; Presidential Memorandum dated September 12, 2011, “Delegation Under Section 2(a) of the Special Agent Samuel Hicks Families of Fallen Heroes Act.”\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "41:4.3.4.13.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General Policies"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.1",
+                  "NODE": "41:4.3.4.13.2.1.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.1   When must we authorize payment of expenses related to an employee's death?"
+                ],
+                "P": [
+                  "You must authorize payment of expenses when, at the time of death, the employee was:\n",
+                  "(a) On official travel status (away from the official station); or\n",
+                  "(b) Performing official duties OCONUS or in transit to or there from; or\n",
+                  "(c) Reassigned away from the employee's actual place of residence under a mandatory mobility agreement; or\n",
+                  "(d) In direct support of or directly related to a military operation, including a contingency operation, or an operation in response to an emergency declared by the President as provided in § 303-70.600; or\n",
+                  "(e) Performing official duties as determined by the head of agency and be a covered employee as provided in § 303-70.700.\n\n\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]\n\n\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.2",
+                  "NODE": "41:4.3.4.13.2.1.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.2   Must we pay death-related expenses when the employee's death is not work-related?"
+                ],
+                "P": [
+                  "Yes, provided the requirements in § 303-70.1 are met.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.3",
+                  "NODE": "41:4.3.4.13.2.1.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.3   Must we pay death-related expenses for an employee who dies while on leave, or who dies on a non-workday, while on temporary duty (TDY) or stationed OCONUS?"
+                ],
+                "P": [
+                  "Yes, provided the requirements in § 303-70.1 are met. However, payment cannot exceed the amount allowed if death had occurred while on duty at the TDY station or at the official station OCONUS.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.4",
+                  "NODE": "41:4.3.4.13.2.1.83.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.4   Must we pay death-related expenses under this chapter if the same expenses are payable under other laws of the United States?"
+                ],
+                "P": [
+                  "No. When an employee dies from injuries sustained while performing official duty, certain death-related expenses are payable under the Federal Employees' Compensation Act (FECA), 5 U.S.C. 8134. For further information contact the: Department of Labor, Division of Federal Employees' Compensation, 200 Constitution Avenue NW., Washington, DC 20210.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.5",
+                  "NODE": "41:4.3.4.13.2.1.83.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.5   Must we pay death-related expenses under this chapter to relocate the immediate family to another location for an employee who dies while at the permanent official station?"
+                ],
+                "P": [
+                  "No, except when the employee dies while performing duties under the provisions of subparts F, G, and H of this chapter.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "41:4.3.4.13.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Allowances for Preparation and Transportation of Employee Remains"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.100",
+                  "NODE": "41:4.3.4.13.2.2.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.100   Must we provide assistance for preparation and transportation of employee remains?"
+                ],
+                "P": [
+                  "Yes, in accordance with §§ 303-70.101 and 303-70.102.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.101",
+                  "NODE": "41:4.3.4.13.2.2.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.101   What costs must we pay for preparation and transportation of employee remains?"
+                ],
+                "P": [
+                  "You must pay all actual costs including but not limited to:\n",
+                  "(a) Preparation of remains, including:\n",
+                  "(1) Embalming or cremation;\n",
+                  "(2) Necessary clothing;\n",
+                  "(3) A casket or container suitable for shipment to place of interment; and\n",
+                  "(4) Expenses necessary to comply with local laws at the port of entry in the United States; and\n",
+                  "(b) Transportation of remains by common carrier (that is normally used for transportation of remains), hearse, other means, or a combination thereof, from the TDY station, OCONUS location, or CONUS location covered by § 303-70.1(e), to the employee's residence, official station, or place of interment, including but not limited to:\n",
+                  "(1) Movement from place of death to a mortuary and/or cemetery;\n",
+                  "(2) Shipping permits;\n",
+                  "(3) Outside case for shipment and sealing of the case if necessary;\n",
+                  "(4) Removal to and from the common carrier; and\n",
+                  "(5) Ferry fares, bridge tolls, and similar charges.\n"
+                ],
+                "NOTE": [
+                  {
+                    "HED": [
+                      "Note to § 303-70.101:"
+                    ],
+                    "P": [
+                      "Costs for an outside case are not authorized for transportation by hearse. Costs for transportation by hearse or other means cannot exceed the cost of common carrier (that is normally used for transportation of remains)."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.102",
+                  "NODE": "41:4.3.4.13.2.2.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.102   Are there any limitations on the place of interment?"
+                ],
+                "P": [
+                  "No. You may pay expenses to transport the remains for interment at the actual residence, the official station, or such other place appropriate for interment as determined by the head of your agency.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "41:4.3.4.13.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Escort of Employee Remains"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.200",
+                  "NODE": "41:4.3.4.13.2.3.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.200   Under what circumstances may we authorize an escort for the remains of a deceased employee?"
+                ],
+                "P": [
+                  "You may authorize the escort of remains when the employee's death occurs:\n",
+                  "(a) While in official travel status away from the official station inside CONUS;\n",
+                  "(b) While assigned to official duties OCONUS or in transit thereto or therefrom; or\n",
+                  "(c) While reassigned away from actual place of residence under a mandatory mobility agreement.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.201",
+                  "NODE": "41:4.3.4.13.2.3.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.201   How many persons may be authorized travel expenses to escort the remains of a deceased employee?"
+                ],
+                "P": [
+                  "You may authorize travel expenses for no more than two persons.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.202",
+                  "NODE": "41:4.3.4.13.2.3.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.202   What travel expenses may we authorize for the escort of a deceased employee's remains?"
+                ],
+                "P": [
+                  "You may authorize any travel expenses in accordance with Chapter 301 of this Title that are necessary for the escort of remains to:\n",
+                  "(a) The home or official station of the deceased; or\n",
+                  "(b) Any other place appropriate for interment as determined by the head of your agency.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "D",
+              "NODE": "41:4.3.4.13.2.4",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart D—Allowances for Preparation and Transportation of the Remains of Immediate Family Members"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.300",
+                  "NODE": "41:4.3.4.13.2.4.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.300   When an immediate family member, residing with the employee, dies while the employee is stationed OCONUS, must we furnish mortuary services?"
+                ],
+                "P": [
+                  "Yes, if requested by the employee and when:\n",
+                  "(a) Local commercial mortuary facilities or supplies are not available; or\n",
+                  "(b) The cost of available mortuary facilities or supplies is prohibitive as determined by your agency head.\n"
+                ],
+                "NOTE": [
+                  {
+                    "HED": [
+                      "Note to § 303-70.300:"
+                    ],
+                    "P": [
+                      "The employee must reimburse you for all furnished mortuary facilities and supplies."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.301",
+                  "NODE": "41:4.3.4.13.2.4.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.301   When an immediate family member, residing with the employee, dies while the employee is stationed OCONUS, must we pay expenses to transport the remains?"
+                ],
+                "P": [
+                  "Yes, if requested by the employee, you must pay to transport the remains to the residence of the immediate family member. The employee may elect an alternate destination, but it must be approved by your agency head or their designated representative.\n\n\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.302",
+                  "NODE": "41:4.3.4.13.2.4.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.302   When an immediate family member, residing with the employee, dies while the employee is stationed OCONUS, may we pay interment expenses?"
+                ],
+                "P": [
+                  "No. You may not pay interment expenses when an immediate family member, residing with the employee, dies while the employee is stationed OCONUS.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.303",
+                  "NODE": "41:4.3.4.13.2.4.83.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.303   When an immediate family member, residing with the employee, dies while in transit to or from the employee's duty station OCONUS, must we furnish mortuary services and/or transportation of the remains?"
+                ],
+                "P": [
+                  "Yes, you must furnish transportation if requested by the employee. You must follow the guidelines in § 303-70.301 for transportation expenses. You must furnish mortuary services only if the conditions in § 303-70.300 are met.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "E",
+              "NODE": "41:4.3.4.13.2.5",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart E—Transportation of Employee's Baggage and Privately Owned Vehicles (POV) From Official Temporary Duty (TDY) Station"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.400",
+                  "NODE": "41:4.3.4.13.2.5.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.400   Must we pay transportation costs to return the deceased employee's baggage from an official TDY station?"
+                ],
+                "P": [
+                  "Yes, you must pay transportation costs to return the deceased employee's baggage to their official station or residence. However, you may not pay insurance of, or reimbursement for, loss or damage to baggage.\n\n\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.401",
+                  "NODE": "41:4.3.4.13.2.5.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.401   Are there any limitations on the baggage we must transport from an official TDY location?"
+                ],
+                "P": [
+                  "Yes. You must only transport Government property and the employee's personal property, including professional books, papers, and equipment (PBP&E).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.402",
+                  "NODE": "41:4.3.4.13.2.5.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.402   Must we pay transportation costs to return the deceased employee's POV from the TDY location?"
+                ],
+                "P": [
+                  "Yes. You must pay costs associated with returning the POV from the TDY location to the employee's permanent official station, but only if the agency had authorized the use of the employee's POV at the TDY location as more advantageous to the Government than other means of transportation.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "F",
+              "NODE": "41:4.3.4.13.2.6",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart F—Transportation of Immediate Family Members, Baggage, Household Goods, and Privately Owned Vehicles (POV)"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.500",
+                  "NODE": "41:4.3.4.13.2.6.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.500   When the employee, on a service agreement or a mandatory mobility agreement, dies at or while in transit to or from the employee's official station OCONUS, must we return the employee's immediate family, baggage, POV, and household goods to the former actual residence, new official station in CONUS, or alternate destination?"
+                ],
+                "P": [
+                  "Yes. Travel and transportation must begin within one year from the date of the employee's death. A one-year extension may be granted if requested by the family prior to the expiration of the one-year limit. The agency head or designated representative may approve the immediate family's relocation to one of the following:\n",
+                  "(a) The place of the employee's former residence at the time of assignment to duty OCONUS; or\n",
+                  "(b) The new CONUS location if in transit; or\n",
+                  "(c) An alternate destination as approved by the agency.\n\n\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, as amended by FTR Case 2022-05, 89 FR 12256, Feb. 16, 2024]\n\n\n\n\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.501",
+                  "NODE": "41:4.3.4.13.2.6.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.501   Must we continue payment of relocation expenses for an employee's immediate family if the employee dies while in transit from an OCONUS official station to the employee's new official station within CONUS?"
+                ],
+                "P": [
+                  "Yes, if the immediate family chooses to continue the relocation, you must continue payment of relocation expenses for the immediate family, provided the immediate family was included on the employee's relocation travel orders. (See § 303-70.503.)\n\n\n\n\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[FTR Amdt. 2013-02, 78 FR 73106, Dec. 5, 2013, as amended by FTR Case 2022-05, 89 FR 12257, Feb. 16, 2024]\n\n\n\n\n\n\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.502",
+                  "NODE": "41:4.3.4.13.2.6.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.502   Must we continue payment of relocation expenses for an employee's immediate family if the employee dies after reporting to the new official station within CONUS, but the family was in transit to the new official station or had not begun its en route travel?"
+                ],
+                "P": [
+                  "Yes, if the immediate family chooses to continue the relocation, you must continue payment of relocation expenses for the immediate family, provided the immediate family was included on the employee's relocation travel orders. (See § 303-70.503.)\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.503",
+                  "NODE": "41:4.3.4.13.2.6.83.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.503   What relocation expenses must we authorize for the immediate family under §§ 303-70.501 and 303-70.502?"
+                ],
+                "P": [
+                  "When the immediate family chooses to continue the relocation, the following expenses must be authorized:\n",
+                  "(a) Travel to the new duty station or alternate destination as approved by the agency.\n",
+                  "(b) Shipment of household goods not to exceed 18,000 pounds net weight to the new duty station, or to an alternate destination selected by the immediate family and approved by the agency.\n",
+                  "(c) Storage of household goods not to exceed 60 days with a additional 90 days extension, if approved by the agency, not to exceed a total of 150 days.\n",
+                  "(d) Reimbursement of real estate expenses incident to the relocation, unless relocation is to the former actual residence.\n",
+                  "(e) Temporary quarters subsistence expense (TQSE) not to exceed 60 days, to be paid at the per diem rate for an unaccompanied spouse or domestic partner, and immediate family, if the TQSE was originally authorized in the relocation travel orders.\n",
+                  "(f) Shipment of one POV to the new duty station, or to an alternate destination selected by the immediate family and approved by the agency, if the POV shipment was originally authorized in the relocation travel orders.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "G",
+              "NODE": "41:4.3.4.13.2.7",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart G—Transportation of Immediate Family Members, Baggage, Household Goods, and Privately Owned Vehicles (POV) for Employees Assigned to Contingency Operation or an Operation in Response to an Emergency Declared by the President"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.600",
+                  "NODE": "41:4.3.4.13.2.7.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.600   When an employee dies while performing official travel duties directly supporting or directly relating to a contingency operation or an operation in response to an emergency declared by the President, must we provide transportation for the employee's immediate family, baggage, and household goods from the current official station to the former actual residence or an alternate destination?"
+                ],
+                "P": [
+                  "Yes. However, the employee must have died as a result of disease or injury incurred while performing official duties:\n",
+                  "(a) In an overseas location where the employee was performing such official duties;\n",
+                  "(b) Within the area of responsibility of the Commander of the United States Central Command; and\n",
+                  "(c) In direct support of or directly related to a military operation, including a contingency operation (as defined in 10 U.S.C. 101(a)(13)) or an operation in response to an emergency declared by the President.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.601",
+                  "NODE": "41:4.3.4.13.2.7.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.601   What relocation expenses must we authorize for the immediate family under § 303-70.600?"
+                ],
+                "P": [
+                  "When the immediate family selects to relocate to the former actual residence or alternate destination as approved by the agency, you must authorize the following expenses:\n",
+                  "(a) Transportation of the immediate family;\n",
+                  "(b) Transportation of household goods of the immediate family, including transporting, packing, crating, draying, and unpacking, not to exceed 18,000 pounds net weight; and\n",
+                  "(c) Storage of household goods moved pursuant to subparagraph (b) of this section, not to exceed 60 days with an additional 90 days extension, if approved by the agency, not to exceed a total of 150 days.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.602",
+                  "NODE": "41:4.3.4.13.2.7.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.602   Must we pay transportation costs to return the deceased employee's POV from the TDY location or from an official station OCONUS under § 303-70.600?"
+                ],
+                "P": [
+                  "Yes. You must pay costs associated with returning the POV from the following:\n",
+                  "(a) TDY location to the employee's permanent official station, if the agency had authorized the use of the employee's POV at the TDY location as more advantageous to the Government than other means of transportation; or\n",
+                  "(b) Official station OCONUS to the employee's former actual residence or alternate destination as approved by the agency, if the agency had determined that the use of the employee's POV was required in accordance with part 302-9 of this Title.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "H",
+              "NODE": "41:4.3.4.13.2.8",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart H—Transportation of Immediate Family Members, Baggage, Household Goods, and Privately Owned Vehicle for Law Enforcement Assignment"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.700",
+                  "NODE": "41:4.3.4.13.2.8.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.700   When an employee dies as a result of personal injury sustained while in the performance of the employee's law enforcement duties, either on official travel duties away from the official station, or at the current official station, must we provide transportation for the employee's immediate family, baggage, and household goods to a alternate residential destination?"
+                ],
+                "P": [
+                  "Yes. If the head of the agency concerned (or a designee) determines that the employee died as a result of personal injury sustained while in the performance of the employee's duties, and the employee was:\n",
+                  "(a) A law enforcement officer as defined in 5 U.S.C. 5541;\n",
+                  "(b) An employee in or under the Federal Bureau of Investigation who is not described in paragraph (a); or\n",
+                  "(c) A Customs and Border Protection officer as defined in 5 U.S.C. 8331(31).\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.701",
+                  "NODE": "41:4.3.4.13.2.8.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.701   What relocation expenses must we authorize for the immediate family under § 303-70.700?"
+                ],
+                "P": [
+                  "If the place where the immediate family will reside is different from the place where the immediate family resided at the time of the employee's death, and within the United States, then the agency must approve the following expenses:\n",
+                  "(a) Transportation of the immediate family;\n",
+                  "(b) Moving the household goods of the immediate family, including transporting, packing, crating, draying, and unpacking, not to exceed 18,000 pounds net weight;\n",
+                  "(c) Storage of household goods moved pursuant to paragraph (b) of this section, not to exceed 60 days with an additional 90 days extension, if approved by the agency, not to exceed a total of 150 days; and\n",
+                  "(d) Transportation of one privately owned motor vehicle.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.702",
+                  "NODE": "41:4.3.4.13.2.8.83.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.702   Must we pay transportation costs to return the deceased employee's privately owned vehicle (POV) from the temporary duty (TDY) location or from an official station OCONUS under § 303-70.700?"
+                ],
+                "P": [
+                  "Yes. The agency must pay cost associated with returning the POV from the following:\n",
+                  "(a) TDY location to the employee's permanent official station if the agency had authorized the use of the employee's POV at the TDY location as being advantageous to the Government; or\n",
+                  "(b) Official station OCONUS to the employee's former actual residence or alternate destination as approved by the agency, if the agency determined that the use of the employee's POV was required in accordance with part 302-9 of this Title.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "I",
+              "NODE": "41:4.3.4.13.2.9",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart I—Policies and Procedures for Payment of Expenses"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 303-70.800",
+                  "NODE": "41:4.3.4.13.2.9.83.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.800   Are receipts required for claims for reimbursement under this part?"
+                ],
+                "P": [
+                  "Yes. Receipts are required for claims for reimbursement under this part.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 303-70.801",
+                  "NODE": "41:4.3.4.13.2.9.83.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 303-70.801   To whom should we make payment?"
+                ],
+                "P": [
+                  "You should:\n",
+                  "(a) Pay the person performing the service; or\n",
+                  "(b) Reimburse the person who made the original payment.\n\n\n"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "303-71",
+          "NODE": "41:4.3.4.13.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 303-71—303-99 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

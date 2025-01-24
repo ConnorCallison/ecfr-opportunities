@@ -1,0 +1,1451 @@
+{
+  "number": "III",
+  "title": " CHAPTER III—NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION, DEPARTMENT OF COMMERCE",
+  "content": {
+    "$": {
+      "N": "III",
+      "NODE": "47:5.0.3",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER III—NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION, DEPARTMENT OF COMMERCE"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "300",
+          "NODE": "47:5.0.3.2.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 300—MANUAL OF REGULATIONS AND PROCEDURES FOR FEDERAL RADIO FREQUENCY MANAGEMENT\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              {
+                "_": "47 U.S.C. 901  Executive Order 12046 (March 27, 1978), 43 FR 13349, 3 CFR 1978 Comp., p. 158.\n\n\n",
+                "I": [
+                  "et seq.,"
+                ]
+              }
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 300.1",
+              "NODE": "47:5.0.3.2.1.0.144.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 300.1   Incorporation by reference of the Manual of Regulations and Procedures for Federal Radio Frequency Management."
+            ],
+            "P": [
+              {
+                "_": "(a) The Manual of Regulations and Procedures for Federal Radio Frequency Management (the NTIA Manual) is issued by the Assistant Secretary of Commerce for Communications and Information, and is specifically designed to cover the Assistant Secretary's frequency management responsibilities pursuant to delegated authority under 47 U.S.C. 901  and Executive Order 12046 (March 27, 1978). Federal agencies must comply with the requirements in the NTIA Manual specified in paragraph (b) of this section.\n",
+                "I": [
+                  "et seq."
+                ]
+              },
+              {
+                "_": "(b) The material listed in this paragraph (b) is incorporated by reference into this section with approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. All approved incorporation by reference (IBR) material is available for inspection at National Telecommunications and Information Administration (NTIA) and the National Archives and Records Administration (NARA). Contact NTIA at: National Telecommunications and Information Administration, Office of Spectrum Management, 1401 Constitution Avenue NW, Room 1087, Washington, DC 20230, telephone: (202) 482-1670. For information on the availability of this material at NARA, visit  or email  The material is available from: Commerce Department, National Telecommunications and Information Administration, Office of Spectrum Management, 1401 Constitution Avenue NW, Washington, DC 20230,  and Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402,  (reference Catalog Number 903-008-00000-8).\n",
+                "I": [
+                  "www.archives.gov/federal-register/cfr/ibr-locations",
+                  "fr.inspection@nara.gov.",
+                  "https://ntia.gov/publications/redbook-manual;",
+                  "https://bookstore.gpo.gov/"
+                ]
+              },
+              "(1) Manual of Regulations and Procedures for Federal Radio Frequency Management, January 2023 Revisions to the January 2021 Edition, approved September 7, 2023.\n",
+              "(2) [Reserved]\n"
+            ],
+            "CITA": [
+              {
+                "_": "[83 FR 28161, June 18, 2018, as amended at 87 FR 2730, Jan. 19, 2022; 88 FR 13176, Mar. 6, 2023; 88 FR 80995, Nov. 21, 2023]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "301",
+          "NODE": "47:5.0.3.2.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 301—RELOCATION OF AND SPECTRUM SHARING BY FEDERAL GOVERNMENT STATIONS\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              {
+                "_": "National Telecommunications and Information Administration Organization Act, 47 U.S.C. 901  as amended by the Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. 112-96, Title VI, Subtitle G, 126 Stat. 245 (Feb. 22, 2012) (47 U.S.C. 923(g)-(l), 928) and the Spectrum Pipeline Act of 2015, Title X of the Bipartisan Budget Act of 2015, Pub. L. 114-74, 129 Stat. 621 (Nov. 5, 2015) (47 U.S.C. 923, 928).\n",
+                "I": [
+                  "et seq.,"
+                ]
+              }
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "78 FR 5315, Jan. 25, 2013, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV6": [
+          {
+            "$": {
+              "N": "A",
+              "NODE": "47:5.0.3.2.2.1",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart A—General Information"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 301.1",
+                  "NODE": "47:5.0.3.2.2.1.144.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.1   Purpose."
+                ],
+                "P": [
+                  "The purpose of this part is to set forth procedures for the Technical Panel and Dispute Resolution Board as required pursuant to the National Telecommunications and Information Administration Organization Act (hereinafter “NTIA Organization Act”), as amended (47 U.S.C. 923(g)-(l) and 928).\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[81 FR 3338, Jan. 21, 2016]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.10",
+                  "NODE": "47:5.0.3.2.2.1.144.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.10   Cross-reference."
+                ],
+                "P": [
+                  {
+                    "_": "The Manual of Regulations and Procedures for Federal Radio Frequency Management (hereinafter referred to as the “NTIA Manual”) issued by the Assistant Secretary of Commerce for Communications and Information, is incorporated by reference in § 300.1 of this chapter and available online at  Annex O of the NTIA Manual, as revised, contains information, policies and procedures applicable to Federal agencies that implement the statutory provisions referenced in § 301.1 of this subpart with regard to such agencies that operate authorized U.S. Government stations in Eligible Frequencies and that incur relocation costs or sharing costs because of planning for an auction or the reallocation of such frequencies from Federal use to exclusive non-Federal use or to shared use. The NTIA Manual applies only to Federal agencies and does not impact the rights or obligations of the public. Accordingly, this cross reference is for information purposes only.\n\n\n",
+                    "I": [
+                      "http://www.ntia.doc.gov/osmhome/redbook/redbook.html."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.20",
+                  "NODE": "47:5.0.3.2.2.1.144.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.20   Definitions."
+                ],
+                "P": [
+                  {
+                    "_": " means the Assistant Secretary of Commerce for Communications and Information.\n",
+                    "I": [
+                      "Assistant Secretary"
+                    ]
+                  },
+                  {
+                    "_": " means the competitive bidding process through which licenses are assigned by the Commission under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)).\n",
+                    "I": [
+                      "Auction"
+                    ]
+                  },
+                  {
+                    "_": " means the Federal Communications Commission.\n",
+                    "I": [
+                      "Commission"
+                    ]
+                  },
+                  {
+                    "_": " means any board established pursuant to section 113(i) of the NTIA Organization Act (47 U.S.C. 923(i)) and subpart C of this part.\n",
+                    "I": [
+                      "Dispute Resolution Board"
+                    ]
+                  },
+                  {
+                    "_": " means any Federal Entity that:\n",
+                    "I": [
+                      "Eligible Federal Entity"
+                    ]
+                  },
+                  "(1) Operates a U.S. Government station; and\n",
+                  "(2) That incurs relocation costs or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use.\n",
+                  {
+                    "_": " means any band of frequencies reallocated from Federal use to non-Federal use or to shared use after January 1, 2003, that is assigned by auction.\n",
+                    "I": [
+                      "Eligible frequencies"
+                    ]
+                  },
+                  {
+                    "_": " means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305). [47 U.S.C. 923(l)]\n",
+                    "I": [
+                      "Federal Entity"
+                    ]
+                  },
+                  {
+                    "_": " means a Commission licensee authorized to use Eligible Frequencies or a winning bidder in a Commission auction for Eligible Frequencies that has fulfilled the Commission's requirements for filing a long-form license application and remitting its final bid payment.\n",
+                    "I": [
+                      "Non-Federal user"
+                    ]
+                  },
+                  {
+                    "_": " means the National Telecommunications and Information Administration.\n",
+                    "I": [
+                      "NTIA"
+                    ]
+                  },
+                  {
+                    "_": " means the Manual of Regulations and Procedures for Federal Radio Frequency Management issued by the Assistant Secretary of Commerce for Communications and Information and incorporated by reference in § 300.1 of this chapter (47 CFR 300.1).\n",
+                    "I": [
+                      "NTIA Manual"
+                    ]
+                  },
+                  {
+                    "_": " means the Office of Management and Budget.\n",
+                    "I": [
+                      "OMB"
+                    ]
+                  },
+                  {
+                    "_": " means a plan submitted by a Federal Entity pursuant to section 118(g)(2)(E)(i) of the NTIA Organization Act (47 U.S.C. 928(g)(2)(E)(i)).\n",
+                    "I": [
+                      "Spectrum Pipeline Plan"
+                    ]
+                  },
+                  {
+                    "_": " means the panel established by section 113(h)(3)(A) of the NTIA Organization Act (47 U.S.C. 923(h)(3)(A)) and governed by subpart B of this part.\n",
+                    "I": [
+                      "Technical Panel"
+                    ]
+                  },
+                  {
+                    "_": " means the plan submitted by a Federal Entity pursuant to section 113(h)(1) of the NTIA Organization Act (47 U.S.C. 923(h)(1).\n",
+                    "I": [
+                      "Transition Plan"
+                    ]
+                  }
+                ],
+                "CITA": [
+                  {
+                    "_": "[78 FR 5315, Jan. 25, 2013, as amended at 81 FR 3338, Jan. 21, 2016]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.30",
+                  "NODE": "47:5.0.3.2.2.1.144.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.30   Address for submissions to the Technical Panel and Dispute Resolution Board."
+                ],
+                "P": [
+                  "Submissions to the Technical Panel and the Dispute Resolution Board under this section shall be made to the Office of the Assistant Secretary, National Telecommunications and Information Administration, Department of Commerce, 1401 Constitution Avenue NW., Washington, DC 20230.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[81 FR 3338, Jan. 21, 2016]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "B",
+              "NODE": "47:5.0.3.2.2.2",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart B—Technical Panel"
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 301.100",
+                  "NODE": "47:5.0.3.2.2.2.144.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.100   Membership."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  The Technical Panel established by section 113(h)(3)(A) of the NTIA Organization Act (47 U.S.C. 923(h)(3)(A)) shall be composed of three (3) members, to be appointed as follows:\n",
+                    "I": [
+                      "Technical Panel membership."
+                    ]
+                  },
+                  "(1) One member to be appointed by the Director of OMB;\n",
+                  "(2) One member to be appointed by the Assistant Secretary, with the approval of the Secretary of Commerce; and\n",
+                  "(3) One member to be appointed by the Chairman of the Commission.\n",
+                  {
+                    "_": "(b)  (1) Each member of the Technical Panel shall be a radio engineer or a technical expert.\n",
+                    "I": [
+                      "Qualifications."
+                    ]
+                  },
+                  "(2) The Assistant Secretary, in consultation with the Director of OMB and the Chairman of the Commission, may impose or suggest additional qualifications for one or more members of the Technical Panel as are necessary pursuant to section 113(g)(6) of the NTIA Organization Act (47 U.S.C. 923(g)(6)), including, but not limited to, the following:\n",
+                  "(i) The member must have the appropriate and current security clearances to enable access to any classified or other sensitive information that may be associated with or relevant to agency Transition Plans;\n",
+                  "(ii) The member should be a Federal employee as defined in 5 U.S.C. 2105(a) or a Special Government Employee as defined in 18 U.S.C. 202(a); and\n",
+                  "(iii) The member should have the necessary expertise to perform his or her duties.\n",
+                  {
+                    "_": "(c)  The term of a member of the Technical Panel shall be eighteen (18) months, and no individual may serve more than one (1) consecutive term.\n",
+                    "I": [
+                      "Term."
+                    ]
+                  },
+                  {
+                    "_": "(d)  (1) Any member of the Technical Panel appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.\n",
+                    "I": [
+                      "Vacancies."
+                    ]
+                  },
+                  "(2) A member of the Technical Panel may serve after the expiration of that member's term until a successor has taken office.\n",
+                  "(3) A vacancy shall be filled in the manner in which the original appointment was made pursuant to paragraph (a) of this section.\n",
+                  {
+                    "_": "(e)  (1) No member of the Technical Panel shall receive compensation for service on the Technical Panel.\n",
+                    "I": [
+                      "Compensation."
+                    ]
+                  },
+                  "(2) If any member of the Technical Panel is an employee of the agency of the official that appointed such member to the Technical Panel pursuant to paragraph (a) of this section, compensation in the member's capacity as a Federal employee shall not be considered compensation under paragraph (e)(1) of this section.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.110",
+                  "NODE": "47:5.0.3.2.2.2.144.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.110   Organization and operations."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  (1) The member of the Technical Panel appointed by the Assistant Secretary pursuant to § 301.100(a) of this subpart shall be the Chair of the Technical Panel.\n",
+                    "I": [
+                      "Chair."
+                    ]
+                  },
+                  "(2) The Chair of the Technical Panel may designate a Vice-Chair who may act as Chair in the absence of the Chair.\n",
+                  {
+                    "_": "(b)  (1) The Technical Panel may meet either in person or by some mutually agreeable electronic means to take action on the reports required by § 301.120 of this subpart or in providing technical assistance to a Dispute Resolution Board pursuant to § 301.130 of this subpart.\n",
+                    "I": [
+                      "Procedures of and actions by the Technical Panel."
+                    ]
+                  },
+                  "(2) Meetings of the Technical Panel may be convened as necessary for the efficient and timely dispatch of business by either NTIA or the Chair of the Technical Panel to consider reports and any action thereon and to provide technical assistance to a Dispute Resolution Board pursuant to § 301.130 of this subpart.\n",
+                  "(3) The Technical Panel shall endeavour to reach its decisions unanimously. Absent unanimous consent of all three members of the Technical Panel, a concurring vote of a majority of the total panel membership constitutes an action of the Technical Panel.\n",
+                  "(4) A majority of the Technical Panel members constitutes a quorum for any purpose.\n",
+                  "(5) The Chair of the Technical Panel, in consultation with the other members, may adopt additional policies and procedures to facilitate the efficient and timely dispatch of panel business.\n",
+                  "(6) The Technical Panel may consult Federal entity subject matter experts as necessary regarding Federal mission risks and other relevant issues while assessing the reasonableness of costs and timelines in the Federal entity's Transition Plans so long as such consultations are disclosed in the Technical Panel's report.\n",
+                  {
+                    "_": "(c)  NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this part.\n\n\n",
+                    "I": [
+                      "Administrative support."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.115",
+                  "NODE": "47:5.0.3.2.2.2.144.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.115   Spectrum Pipeline Plans."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  A Federal Entity that requests payment from OMB as provided in section 118(g) of the NTIA Organization Act (47 U.S.C. 928(g)) must submit a plan to the Technical Panel for approval.\n",
+                    "I": [
+                      "Submission of Spectrum Pipeline Plan."
+                    ]
+                  },
+                  {
+                    "_": "(b)  A Spectrum Pipeline Plan submitted in accordance with this section must describe activities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal Entities in order to make available frequencies for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, for auction in accordance with such reallocation. Activities with respect to systems that improve the efficiency or effectiveness of the spectrum use of Federal Entities shall include:\n",
+                    "I": [
+                      "Contents of Spectrum Pipeline Plan."
+                    ]
+                  },
+                  "(1) Systems that have increased functionality or that increase the ability of a Federal Entity to accommodate spectrum sharing with non-Federal entities;\n",
+                  "(2) Systems that consolidate functions or services that have been provided using separate systems; or\n",
+                  "(3) Non-spectrum technology or systems.\n",
+                  {
+                    "_": "(c) —(1)  Not later than 120 days after a Spectrum Pipeline Plan has been submitted to the Technical Panel in accordance with this section, the Technical Panel shall approve or disapprove such plan.\n",
+                    "I": [
+                      "Review by Technical Panel",
+                      "Deadline for approval."
+                    ]
+                  },
+                  {
+                    "_": "(2)  As part of its review, the Technical Panel shall consider whether:\n",
+                    "I": [
+                      "Criteria for Review."
+                    ]
+                  },
+                  "(i) The activities that the Federal Entity will conduct with the payment will:\n",
+                  "(A) Increase the probability of relocation from or sharing of Federal spectrum;\n",
+                  "(B) Facilitate an auction intended to occur not later than 8 years after the payment; and\n",
+                  "(C) Increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment.\n",
+                  "(ii) The transfer will leave sufficient amounts in the Spectrum Relocation Fund for the other purposes of such fund.\n"
+                ],
+                "CITA": [
+                  {
+                    "_": "[81 FR 3338, Jan. 21, 2016]\n\n\n",
+                    "$": {
+                      "TYPE": "N"
+                    }
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.120",
+                  "NODE": "47:5.0.3.2.2.2.144.4",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.120   Reports on agency Transition Plans."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  Not later than thirty (30) days after the receipt of a Federal Entity's Transition Plan submitted in accordance with applicable procedures set forth in Annex O of the NTIA Manual, the Technical Panel shall submit to NTIA and to such Federal Entity the Technical Panel's report on the sufficiency of the Transition Plan.\n",
+                    "I": [
+                      "Deadline for initial report."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The Technical Panel's report shall include:\n",
+                    "I": [
+                      "Scope and content of initial report."
+                    ]
+                  },
+                  "(1) A finding as to whether the Federal Entity's Transition Plan includes the information required by the applicable provisions set forth in Annex O of the NTIA Manual;\n",
+                  "(2) An assessment of the reasonableness of the proposed timelines contained in the Federal Entity's Transition Plan;\n",
+                  "(3) An assessment of the reasonableness of the estimated relocation or sharing costs itemized in the Federal Entity's Transition Plan, including the costs identified by such plan for any proposed expansion of the capabilities of the Federal Entity's system; and\n",
+                  "(4) A conclusion, based on the finding and assessments pursuant to paragraphs (b)(1) through (3) of this section, as to the sufficiency of the Transition Plan.\n",
+                  {
+                    "_": "(c)  In the event the Technical Panel's initial report concludes that the Federal Entity's Transition Plan is insufficient pursuant to paragraph (b) of this section, the report shall also include a description of the specific information or modifications that are necessary for the Federal entity to include in a revised Transition Plan.\n",
+                    "I": [
+                      "Insufficient Transition Plan."
+                    ]
+                  },
+                  {
+                    "_": "(d)  If the Technical Panel finds the plan insufficient, the applying Federal Entity has up to 90 days to submit to NTIA and the Technical Panel a revised plan.\n",
+                    "I": [
+                      "Revised plan."
+                    ]
+                  },
+                  {
+                    "_": "(e)  (1) Deadline for Supplemental Report. Not later than thirty (30) days after the receipt of a Federal Entity's revised Transition Plan submitted after an initial or revised plan was found by the Technical Panel to be insufficient pursuant to paragraph (c) of this section, the Technical Panel shall submit to NTIA and to such Federal Entity the Technical Panel's supplemental report on the sufficiency of the revised Transition Plan.\n",
+                    "I": [
+                      "Report on revised agency Transition Plans."
+                    ]
+                  },
+                  "(2) Scope and content of supplemental report. The Technical Panel's supplemental report on the revised Transition Plan shall include:\n",
+                  "(i) A finding as to whether the Federal Entity's revised Transition Plan includes the necessary information or modifications identified in the Technical Panel's initial report pursuant to paragraph (b)(1) of this section;\n",
+                  "(ii) A reassessment, if required, of the reasonableness of the proposed timelines contained in the Federal Entity's revised Transition Plan;\n",
+                  "(iii) A reassessment, if required, of the reasonableness of the estimated relocation or sharing costs itemized in the Federal Entity's revised Transition Plan; and\n",
+                  "(iv) A conclusion, based on the finding and reassessments pursuant to paragraphs (e)(2)(i) through (iii) of this section, as to the sufficiency of the revised Transition Plan.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.130",
+                  "NODE": "47:5.0.3.2.2.2.144.5",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.130   Technical assistance to Dispute Resolution Boards."
+                ],
+                "P": [
+                  "Upon request of a Dispute Resolution Board convened pursuant to subpart C of this part, the Technical Panel shall provide the board with such technical assistance as requested.\n\n\n"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "C",
+              "NODE": "47:5.0.3.2.2.3",
+              "TYPE": "SUBPART"
+            },
+            "HEAD": [
+              "Subpart C—Dispute Resolution Boards."
+            ],
+            "DIV8": [
+              {
+                "$": {
+                  "N": "§ 301.200",
+                  "NODE": "47:5.0.3.2.2.3.144.1",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.200   Requests to resolve disputes."
+                ],
+                "P": [
+                  {
+                    "_": "(a) —(1)  A Non-Federal User may submit a written request to NTIA in accordance with this section to establish a Dispute Resolution Board (hereinafter “board”) to resolve an actual, unresolved dispute that has arisen between the Non-Federal User and a Federal Entity regarding the execution, timing, or cost of the Transition Plan submitted by the Federal Entity pursuant to section 113(h)(1) of the NTIA Organization Act (47 U.S.C. 923(h)(1)).\n",
+                    "I": [
+                      "Non-Federal User requests",
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(2)  Any dispute arising out of the execution, timing, or cost of the Transition Plan submitted by a Federal Entity must be raised, in the first instance, with the officer or employee of the Federal Entity identified in the Transition Plan as being responsible for the relocation or sharing efforts of the entity and who is authorized to meet and negotiate with Non-Federal Users regarding the transition. To the extent that the parties cannot resolve such dispute on an informal basis or through good faith negotiation, they are strongly encouraged to use expedited alternative dispute resolution procedures, such as mediation or non-binding arbitration, before submitting a written request in accordance with this section to establish a board.\n",
+                    "I": [
+                      "Negotiation, mediation and arbitration."
+                    ]
+                  },
+                  {
+                    "_": "(3)  To submit a request to establish a board, a Non-Federal User must satisfy the definition of such term in § 301.20 of this part and the dispute must pertain to the execution, timing, or cost of the Transition Plan associated with the license or licenses subject to the winning bid or bids.\n",
+                    "I": [
+                      "Eligibility to request the establishment of a board."
+                    ]
+                  },
+                  {
+                    "_": "(4)  In order to be considered by a board under this subpart, a request must include:\n",
+                    "I": [
+                      "Contents of request."
+                    ]
+                  },
+                  "(i) Specific allegations of fact regarding the Federal Entity's deviation from the Transition Plan sufficient to support the requested resolution of the dispute. Such allegations of fact, except for those of which official notice may be taken by the board, shall be supported by affidavits of a person or persons having personal knowledge thereof;\n",
+                  "(ii) A summary of the parties' prior efforts and attempts to resolve the dispute, including negotiation, mediation, or non-binding arbitration efforts pursuant to paragraph (a)(2) of this section;\n",
+                  "(iii) A detailed description of each of the claims upon which a resolution is sought by and available to the Non-Federal User;\n",
+                  "(iv) A detailed description of the requested resolution of the dispute;\n",
+                  "(v) The requestor's contact information and a certificate of service showing to whom and when an identical copy of the request was provided to the Federal Entity; and\n",
+                  "(vi) A meeting proposal setting forth the proposed date, time, and place (including suggested alternatives) for a meeting with the Federal Entity and the board, the date for which shall be no later than fifteen (15) days from the date the request is sent to NTIA.\n",
+                  "(vii) A self-certification that the Non-Federal User is a licensee authorized to use Eligible Frequencies or winning bidder in an FCC auction for the Eligible Frequencies.\n",
+                  {
+                    "_": "(5)  A Federal Entity has the right to submit a response to the board prior to the date of the scheduled meeting. If so directed by the Chair of the board, the Federal Entity shall submit a written response to the Non-Federal User's request.\n",
+                    "I": [
+                      "Federal Entity response."
+                    ]
+                  },
+                  {
+                    "_": "(b) —(1)  An Eligible Federal Entity may submit a written request in accordance with this section to establish a Dispute Resolution Board to resolve an actual dispute that has arisen between the Federal Entity and a Non-Federal User regarding the execution, timing, or cost of the Transition Plan submitted by the Federal Entity pursuant to section 113(h)(1) of the NTIA Organization Act (47 U.S.C. 923(h)(1)).\n",
+                    "I": [
+                      "Federal Entity requests",
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(2)  To submit a request to establish a board, a Federal Entity, as such term is defined in § 301.20 of this part, must have submitted a Transition Plan pursuant to section 113(h)(1) of the NTIA Organization Act (47 U.S.C. 923(h)(1)) and the dispute must pertain to the execution, timing, or cost of such plan in connection with that Non-Federal User's license or licenses to use the Eligible Frequencies.\n",
+                    "I": [
+                      "Eligibility to request the establishment of a board."
+                    ]
+                  },
+                  {
+                    "_": "(3)  In order to be considered by a board under this subpart, a request must include:\n",
+                    "I": [
+                      "Contents of request."
+                    ]
+                  },
+                  "(i) Specific allegations of fact regarding the factors hindering or affecting the plan's execution, timing, or cost sufficient to support the requested resolution of the dispute. Such allegations of fact, except for those for which official notice may be taken by the board, shall be supported by affidavits of a person or persons having personal knowledge thereof;\n",
+                  "(ii) A summary of the parties' prior efforts and attempts to resolve the dispute;\n",
+                  "(iii) A detailed description of each of the claims upon which a resolution is sought by and available to the Federal Entity;\n",
+                  "(iv) A detailed description of the requested resolution of the dispute;\n",
+                  "(v) The requestor's contact information and a certificate of service showing to whom and when an identical copy of the request was provided to the Non-Federal User; and\n",
+                  "(vi) A meeting proposal setting forth the proposed date, time, and place (including suggested alternatives) for a meeting with the Non-Federal User and the board, the date for which shall be no later than fifteen (15) days from the date the request is sent to NTIA.\n",
+                  {
+                    "_": "(4)  A Non-Federal User has the right to submit a response to the board prior to the date of the scheduled meeting. If so directed by the Chair of the board, the Non-Federal User shall submit a written response to the Federal Entity's request.\n\n\n",
+                    "I": [
+                      "Non-Federal User response."
+                    ]
+                  }
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.210",
+                  "NODE": "47:5.0.3.2.2.3.144.2",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.210   Establishment and operation of a Dispute Resolution Board."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  If NTIA receives a written request under § 301.200, it shall establish a Dispute Resolution Board in accordance with this section.\n",
+                    "I": [
+                      "In general."
+                    ]
+                  },
+                  {
+                    "_": "(b)  A board established under this section shall be composed of three (3) members, to be appointed as follows:\n",
+                    "I": [
+                      "Board membership."
+                    ]
+                  },
+                  "(1) A representative of OMB, to be appointed by the Director of OMB;\n",
+                  "(2) A representative of NTIA, to be appointed by the Assistant Secretary; and\n",
+                  "(3) A representative of the Commission, to be appointed by the Chairman of the Commission.\n",
+                  {
+                    "_": "(c)  The Assistant Secretary, in consultation with the Director of OMB and the Chairman of the Commission, may impose qualifications for one or more members of a board established under this section as are necessary pursuant to section 113(g)(6) of the NTIA Organization Act (47 U.S.C. 923(g)(6)), including, but not limited to, the following:\n",
+                    "I": [
+                      "Qualifications."
+                    ]
+                  },
+                  "(1) The member has the appropriate and current security clearances to enable access to any classified or other sensitive information that may be associated with or relevant to the Transition Plan subject to dispute;\n",
+                  "(2) The member must be an employee of the appointing agency;\n",
+                  "(3) The member must be from a predetermined slate of not less than three (3) qualified candidates from NTIA, OMB, and the Commission and able to serve on a board immediately upon the notification of the establishment of a board under this section until it rules on the dispute that it was established to resolve; and\n",
+                  "(4) The member may not simultaneously be a member of the Technical Panel governed by subpart B of this part or a former member of the Technical Panel that reviewed the Transition Plan subject to dispute.\n",
+                  {
+                    "_": "(d)  (1) The representative of OMB shall be the Chair of any board established under paragraph (a) of this section.\n",
+                    "I": [
+                      "Chair."
+                    ]
+                  },
+                  "(2) The Chair may designate a Vice-Chair who may act as Chair in the absence of the Chair.\n",
+                  {
+                    "_": "(e)  The term of a member of a board shall be until such board is terminated pursuant to paragraph (j) of this section or until a successor or replacement member is appointed under paragraph (b) of this section.\n",
+                    "I": [
+                      "Term."
+                    ]
+                  },
+                  {
+                    "_": "(f)  Any vacancy on a board shall be filled in the manner in which the original appointment was made under paragraph (b) of this section.\n",
+                    "I": [
+                      "Vacancies."
+                    ]
+                  },
+                  {
+                    "_": "(g)  (1) No member of a board shall receive any compensation for service on such board.\n",
+                    "I": [
+                      "Compensation."
+                    ]
+                  },
+                  "(2) Compensation in the member's capacity as an employee of the agency of the official that appointed such member to a board pursuant to paragraph (b) of this section shall not be considered compensation under paragraph (g)(1) of this section.\n",
+                  {
+                    "_": "(h)  (1) Except with respect to meetings with the parties pursuant to § 301.220(a), a board shall meet at the call of the Chair either in person or by some mutually agreeable electronic means to deliberate or rule on the dispute that it was established to resolve under paragraph (a) of this section or to receive technical assistance from the Technical Panel pursuant to § 301.130 of this part.\n",
+                    "I": [
+                      "Procedures of and actions by a board."
+                    ]
+                  },
+                  "(2) A board shall endeavour to rule on the dispute that it was established to resolve under paragraph (a) of this section unanimously. Absent unanimous consent of all three members of a board, a concurring vote of a majority of the total board membership constitutes an action of such board.\n",
+                  "(3) A majority of board members constitutes a quorum for any purpose.\n",
+                  "(4) The Chair of a board, in consultation with the other members, may adopt additional policies and procedures to facilitate the efficient and timely resolution of the dispute that it was established to resolve under paragraph (a) of this section.\n",
+                  {
+                    "_": "(i)  NTIA shall provide any board established pursuant to paragraph (a) of this section with the administrative support services necessary to carry out its duties under this subpart.\n",
+                    "I": [
+                      "Administrative support."
+                    ]
+                  },
+                  {
+                    "_": "(j)  (1) A board established pursuant to paragraph (a) of this section shall terminate after it rules on the dispute that it was established to resolve and the time for appeal of its decision under section 113(i)(7) of the NTIA Organization Act (47 U.S.C. 923(i)(7)) has expired, unless such an appeal has been taken.\n",
+                    "I": [
+                      "Termination of a board."
+                    ]
+                  },
+                  "(2) If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.\n\n\n"
+                ]
+              },
+              {
+                "$": {
+                  "N": "§ 301.220",
+                  "NODE": "47:5.0.3.2.2.3.144.3",
+                  "TYPE": "SECTION"
+                },
+                "HEAD": [
+                  "§ 301.220   Dispute Resolution."
+                ],
+                "P": [
+                  {
+                    "_": "(a)  In consideration of the proposal set forth in a request pursuant to either § 301.200(a)(4)(vi) or (b)(3)(vi) of or at another mutually convenient date, time, and place (including via teleconference or other electronics means), the Chair of the board established under this subpart shall call a meeting of the board to be held simultaneously with representatives of the parties to the dispute to discuss the dispute.\n",
+                    "I": [
+                      "Meeting with parties."
+                    ]
+                  },
+                  {
+                    "_": "(b)  The parties to the dispute shall provide the board with any additional written materials and documents as it may request. In cases where the dispute or an element thereof relates to the impact on the Federal Entity's national security, law enforcement, or public safety operations or functions, the board may request, and the Federal entity shall provide, additional written submissions concerning such impact.\n",
+                    "I": [
+                      "Additional written submissions."
+                    ]
+                  },
+                  {
+                    "_": "(c)  A board established under this subpart may request technical assistance, as necessary, from the Technical Panel governed by subpart B of this part.\n",
+                    "I": [
+                      "Assistance from Technical Panel."
+                    ]
+                  },
+                  {
+                    "_": "(d)  The board shall rule on the dispute not later than thirty (30) days from the date the request was received by the NTIA, unless the parties and the board all agree in writing, and subject to the approval of the Assistant Secretary, to extend this period for a specified number of days.\n",
+                    "I": [
+                      "Deadline for decision."
+                    ]
+                  },
+                  {
+                    "_": "(e)  The decision of a board established under this subpart shall:\n",
+                    "I": [
+                      "Board decision."
+                    ]
+                  },
+                  "(1) Be in writing;\n",
+                  "(2) Be limited to determinations related to the execution, timing, or cost of the Transition Plan submitted by the Federal entity;\n",
+                  "(3) Be based only on the record before it, including the request; meeting(s) with the parties all at the same time; any additional written submissions requested by the board and served on the other party, including submissions from the Federal entity concerning the potential impact on its national security, law enforcement, or public safety operations or functions; input from the Technical Panel, and other matters and material for which it may take official notice;\n",
+                  "(4) Ensure that the decision does not have a detrimental impact on the Federal entity's operations or services that have national security, law enforcement, or public safety functions; and\n",
+                  "(5) Be final upon issuance.\n",
+                  {
+                    "_": "(f)  A decision of the board may include recommendations for remedial or other corrective actions to the appropriate Federal agency with the legal authority to take such actions based on the board's findings.\n\n\n\n\n",
+                    "I": [
+                      "Recommendations."
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "302",
+          "NODE": "47:5.0.3.2.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 302—CONNECTING MINORITY COMMUNITIES PILOT PROGRAM\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "Consolidated Appropriations Act, 2021, Division N, Title IX, section 902, Pub. L. 116-260, 134 Stat. 1182 (Dec. 27, 2020).\n\n\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "86 FR 31641, June 15, 2021, unless otherwise noted.\n\n\n\n\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§  302.1",
+              "NODE": "47:5.0.3.2.3.0.144.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.1   Purpose."
+            ],
+            "P": [
+              "This part establishes uniform application, approval, award, financial and administrative requirements for the Connecting Minority Communities pilot program authorized under Division N, Title IX, section 902, of the Consolidated Appropriations Act, 2021.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.2",
+              "NODE": "47:5.0.3.2.3.0.144.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.2   Definitions."
+            ],
+            "P": [
+              "As used in this part—\n",
+              {
+                "_": " means any area that—\n",
+                "I": [
+                  "Anchor Community"
+                ]
+              },
+              "(1) Except as provided in the definition of Certain Tribal Colleges or Universities below, is not more than 15 miles from a historically Black college or university, a Tribal College or University, or a Minority-serving institution; and\n",
+              "(2) Has an estimated median annual household income (based on U.S. Census Bureau American Community Survey data) of not more than 250 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)). NTIA will use data from the most recent time period for which both household income and poverty line data are available.\n",
+              {
+                "_": " or  means, with respect to a Tribal College or University that is located on land held in trust by the United States, the Assistant Secretary, in consultation with the Secretary of the Interior, may establish a different maximum distance for the purposes of designating an anchor community if the Assistant Secretary is able to ensure that, in establishing that different maximum distance, each anchor community that is established as a result of that action is statistically comparable to other anchor communities described in the definition of Anchor Community in this section. After consultation with the Secretary of the Interior and review of the relevant statistical data, the Assistant Secretary has determined that, for TCUs located on land held in trust by the United States that are also located within a reservation, the boundary of the reservation on which the TCU falls will be substituted for the 15-mile buffer to create an Area of Interest (AOI) for each institution. These AOIs will be used to define the institution's anchor community boundary.\n",
+                "I": [
+                  "Certain Tribal Colleges",
+                  "Universities"
+                ]
+              },
+              {
+                "_": " means the Assistant Secretary of Commerce for Communications and Information, and Administrator of the National Telecommunications and Information Administration (NTIA).\n",
+                "I": [
+                  "Assistant Secretary"
+                ]
+              },
+              {
+                "_": " has the meaning given the term in 47 CFR 8.1(b), or any successor regulation.\n",
+                "I": [
+                  "Broadband internet access service"
+                ]
+              },
+              {
+                "_": " means the Federal Communications Commission.\n",
+                "I": [
+                  "Commission"
+                ]
+              },
+              {
+                "_": " means a laptop computer, tablet computer, or similar device that can connect to broadband internet access service.\n",
+                "I": [
+                  "Connected device"
+                ]
+              },
+              {
+                "_": " means the Director of the Office.\n",
+                "I": [
+                  "Director"
+                ]
+              },
+              {
+                "_": " means—\n",
+                "I": [
+                  "Eligible equipment"
+                ]
+              },
+              "(1) A Wi-Fi hotspot;\n",
+              "(2) A modem;\n",
+              "(3) A router;\n",
+              "(4) A device that combines a modem and router;\n",
+              "(5) A connected device; or\n",
+              "(6) Any other equipment used to provide access to broadband internet access service.\n",
+              {
+                "_": " means—\n",
+                "I": [
+                  "Eligible recipient"
+                ]
+              },
+              "(1) A historically Black college or university;\n",
+              "(2) A Tribal College or University;\n",
+              "(3) A Minority-serving institution; or\n",
+              "(4) A consortium that is led by a historically Black college or university, a Tribal College or University, or a Minority-serving institution and that also includes—\n",
+              "(i) A Minority Business Enterprise; or\n",
+              "(ii) An organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code.\n",
+              {
+                "_": " or  has the meaning given the term “part B institution” in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).\n",
+                "I": [
+                  "Historically Black college",
+                  "university"
+                ]
+              },
+              {
+                "_": " means any of the following:\n",
+                "I": [
+                  "Minority-serving institution"
+                ]
+              },
+              "(1) An Alaska Native-serving institution, as that term is defined in section 317(b) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)).\n",
+              "(2) A Native Hawaiian-serving institution, as that term is defined in section 317(b) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)).\n",
+              "(3) A Hispanic-serving institution, as that term is defined in section 502(a) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)).\n",
+              "(4) A Predominantly Black institution, as that term is defined in section 371(c) of the Higher Education Act of 1965 (20 U.S.C. 1067q(c)).\n",
+              "(5) An Asian American and Native American Pacific Islander-serving institution, as that term is defined in section 320(b) of the Higher Education Act of 1965 (20 U.S.C. 1059g(b)).\n",
+              "(6) A Native American-serving, non-Tribal institution, as that term is defined in section 319(b) of the Higher Education Act of 1965 (20 U.S.C. 1059f(b)).\n",
+              {
+                "_": " has the meaning given the term in 15 CFR 1400.2, or any successor regulation.\n",
+                "I": [
+                  "Minority Business Enterprise"
+                ]
+              },
+              {
+                "_": " means the Office of Minority Broadband Initiatives established pursuant to the Consolidated Appropriations Act, 2021, Division N, Title IX, section 902(b)(1).\n",
+                "I": [
+                  "Office"
+                ]
+              },
+              {
+                "_": " or  has the meaning given the term in section 316(b) of the Higher Education Act of 1965 (20 U.S.C. 1059c(b)).\n",
+                "I": [
+                  "Tribal College",
+                  "University"
+                ]
+              },
+              {
+                "_": " means a wireless networking protocol based on Institute of Electrical and Electronics Engineers standard 802.11, or any successor standard.\n",
+                "I": [
+                  "Wi-Fi"
+                ]
+              },
+              {
+                "_": " means a device that is capable of—\n",
+                "I": [
+                  "Wi-Fi hotspot"
+                ]
+              },
+              "(1) Receiving broadband internet access service; and\n",
+              "(2) Sharing broadband internet access service with another device through the use of Wi-Fi.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.3",
+              "NODE": "47:5.0.3.2.3.0.144.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.3   Who may apply."
+            ],
+            "P": [
+              {
+                "_": "(a)  To apply for a CMC grant under this part, an applicant must be an eligible recipient in an anchor community as defined in § 302.2. NTIA will rely on the following sources of information to determine whether an applicant is an eligible recipient:\n",
+                "I": [
+                  "Eligible recipient."
+                ]
+              },
+              {
+                "_": "(b)  For consortium applications led by eligible recipients described in paragraph (a) of this section, NTIA will require that any Minority Business Enterprise (MBE) consortium member self-certify that it is a MBE-designated entity. For consortium members that claim tax-exempt status, NTIA will utilize the Internal Revenue Service's 501(c)(3) certification portal/database to verify the consortium member's tax-exempt status.\n\n\n\n\n",
+                "I": [
+                  "Eligibility for consortia members."
+                ]
+              }
+            ],
+            "DIV": [
+              {
+                "$": {
+                  "width": "100%"
+                },
+                "DIV": [
+                  {
+                    "$": {
+                      "class": "table_head"
+                    },
+                    "P": [
+                      {
+                        "_": "Table 1 to Paragraph ()\n",
+                        "$": {
+                          "class": "gpotbl_title"
+                        },
+                        "E": [
+                          {
+                            "_": "a",
+                            "$": {
+                              "T": "01"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "$": {
+                      "class": "gpotbl_div"
+                    },
+                    "TABLE": [
+                      {
+                        "$": {
+                          "border": "1",
+                          "cellpadding": "1",
+                          "cellspacing": "1",
+                          "class": "gpotbl_table",
+                          "frame": "void",
+                          "width": "100%"
+                        },
+                        "TR": [
+                          {
+                            "TH": [
+                              {
+                                "_": "Type ",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              },
+                              {
+                                "_": "NTIA Validation method\n",
+                                "$": {
+                                  "class": "gpotbl_colhed",
+                                  "scope": "col"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Historically Black College or University (HBCU)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Most recent NCES list of HBCUs.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Hispanic-Serving Institution (HSI)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the HSI category.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Tribal College or University (TCU)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Most recent NCES list of TCUs.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Alaska Native and Native Hawaiian (ANNH)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the ANNH or ANNH F categories.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Predominantly Black Institution (PBI)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the PBI F or PBI A categories.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Asian American and Native American Pacific Islander-Serving Institution (AANAPISI)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the AANAPISI or AANAPISI F categories.\n",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "TD": [
+                              {
+                                "_": "Native American-Serving Non-Tribal Institution (NASNTI)",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell",
+                                  "scope": "row"
+                                }
+                              },
+                              {
+                                "_": "Defined as eligible or potentially eligible in the most recent Dep't of Education Eligibility Matrix available, in the NASNTI or NASNTI F categories.",
+                                "$": {
+                                  "align": "left",
+                                  "class": "gpotbl_cell"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.4",
+              "NODE": "47:5.0.3.2.3.0.144.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.4   Application requirements."
+            ],
+            "P": [
+              {
+                "_": "(a)  An application for funds for the Connecting Minority Communities Pilot Program must consist of the following components:\n",
+                "I": [
+                  "Contents for an application."
+                ]
+              },
+              {
+                "_": "(1)  The project narrative should describe a clearly defined project that best achieves the purposes of the CMC Pilot Program. The project narrative must demonstrate that every project, activity, and cost listed in the application meets the eligible use requirements in §  302.7. The project narrative should include the following information:\n",
+                "I": [
+                  "Project narrative."
+                ]
+              },
+              {
+                "_": "(i)  Please describe the primary goals of your project, a description of the community needs and challenges that your proposed project will address and who will directly benefit from your project, including the institution, the anchor community, students, minority business enterprises and/or tax-exempt non-profit organizations. The HBCU, TCU, or MSI applicant must include the following information (or as much of the information as is reasonably available to the institution), to include any supplementary information to explain the data:\n",
+                "I": [
+                  "Project justification."
+                ]
+              },
+              "(A) Student population size;\n",
+              "(B) Number and percentage of students that are eligible to receive Federal Pell Grants;\n",
+              "(C) Number and percentage of students that receive other need-based financial aid from the Federal Government, a State, or that institution;\n",
+              "(D) Number and percentage of students that qualify as low-income consumers for the purposes of the program carried out under 47 CFR part 54, subpart E, or any successor regulations;\n",
+              "(E) Number and percentage of students that are low-income individuals as that term is defined in section 312(g) of the Higher Education Act of 1965 (20 U.S.C. 1058(g)); and\n",
+              "(F) Number and percentage of students that have been approved to receive unemployment insurance benefits under any Federal or State law since March 1, 2020.\n",
+              {
+                "_": "(ii)  Please provide details about the specific grant-funded activities you plan to carry out; who will plan, implement, and manage your project, including the lead organization and principal partner organizations; and a project schedule, including significant milestones that describe when and in what sequence your project activities will occur.\n",
+                "I": [
+                  "Project activities."
+                ]
+              },
+              {
+                "_": "(iii)  Please provide a description of your project's intended results and how you plan to evaluate the benefits of your project. Please describe proposed metrics, what data you plan to collect, and the evaluation methodologies.\n",
+                "I": [
+                  "Project results."
+                ]
+              },
+              {
+                "_": "(2)  A project budget for all proposed projects and activities to be funded by the grant funds must be reasonable and the allocation of funds must sufficient to complete the tasks outlined in the project narrative. Budget clarity and cost effectiveness are essential. The budget is a description of the resources the applicant proposes to use to complete the project in the time period that the applicant specifies. The budget should include the cost of all items needed to complete the project. The administrative requirements, cost principles, and audit requirements listed in 2 CFR part 200, the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, will be incorporated into each award.\n",
+                "I": [
+                  "Project budget."
+                ]
+              },
+              {
+                "_": "(3)  The application must include a budget narrative that clearly relates each of the activities the applicant proposes in the Project Narrative to the relevant section of the Project Budget.\n",
+                "I": [
+                  "Budget narrative."
+                ]
+              },
+              {
+                "_": "(b) — The applicant must submit the completed application by the application deadline provided in the Notice of Funding Opportunity, which will be subsequently published by NTIA and publicly accessible at  Failure to meet the application deadline will generally preclude the applicant from receiving consideration for a grant award.\n\n\n\n\n",
+                "I": [
+                  "Due dates",
+                  "application deadline.",
+                  "www.grants.gov."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 302.5",
+              "NODE": "47:5.0.3.2.3.0.144.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 302.5   Approval and award."
+            ],
+            "P": [
+              "(a) NTIA will review each application for compliance with the requirements of this part.\n",
+              "(b) NTIA may request additional information from the applicant, with respect to any of the application submission requirements of § 302.4, prior to making a recommendation for an award. Failure to submit such additional information may preclude the applicant from further consideration for award.\n",
+              "(c) When making grant awards, NTIA will coordinate with other Federal agencies, including the Commission, the National Science Foundation, and the Department of Education, to ensure the efficient expenditure of Federal funds, including by preventing multiple expenditures of Federal funds for the same purpose.\n",
+              "(d) The Assistant Secretary will recommend to the National Institute of Standards and Technology (NIST), Grants Management Division, approval of grant awards to qualifying applicants. NIST, serving as the Grants Office for the CMC grant program, will then issue grant awards in writing to the successful applicants.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.6",
+              "NODE": "47:5.0.3.2.3.0.144.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.6   Distribution of grant funds."
+            ],
+            "P": [
+              {
+                "_": "(a)  Except as provided in paragraph (b) of this section—\n",
+                "I": [
+                  "Funding allocation."
+                ]
+              },
+              {
+                "_": "(1)  (i) Grant funds for each eligible recipient that meets the eligibility and/or certification requirements set forth in § 302.3 will be allocated to the applicants with the greatest unmet financial needs, based on evaluation of the following data provided by the applicant (including any supplementary information provided to explain the data) or by other Federal agencies:\n",
+                "I": [
+                  "In general."
+                ]
+              },
+              "(A) Student population size;\n",
+              "(B) Number and percentage of students that are eligible to receive Federal Pell Grants;\n",
+              "(C) Number and percentage of students that receive other need-based financial aid from the Federal Government, a State, or that eligible recipient;\n",
+              "(D) Number and percentage of students that are qualifying low-income consumers for the purposes of the program carried out under 47 CFR part 54, subpart E, or any successor regulations;\n",
+              "(E) Number and percentage of students that are low-income individuals as that term is defined in section 312(g) of the Higher Education Act of 1965 (20 U.S.C. 1058(g)); and\n",
+              "(F) Number and percentage of students that have been approved to receive unemployment insurance benefits under any Federal or State law since March 1, 2020.\n",
+              "(ii) Upon submission, NTIA will assess each institution's student body-based unmet financial needs. These assessments will be compared across all submitted applications during the merit review phase and program eligibility determinations will be made based on an evaluation of the data provided and any accompanying explanatory information. Final recommendations for project approval and grant funding will generally be made for those eligible anchor institutions that have demonstrated the greatest unmet financial need.\n",
+              {
+                "_": "(2)  or  In accordance with the requirement set forth in the Consolidated Appropriations Act, 2021, at least 40 percent of the grant funds awarded pursuant to the CMC Pilot Program will be set aside for distribution to qualifying historically Black colleges or universities.\n",
+                "I": [
+                  "Historically Black colleges",
+                  "universities set-aside."
+                ]
+              },
+              {
+                "_": "(3)  In accordance with the requirement set forth in the Consolidated Appropriations Act, 2021, at least 20 percent of grant funds awarded pursuant to the CMC Pilot Program will be set aside for eligible HBCUs, TCUs and MSIs to provide broadband internet access service or eligible equipment to their students.\n",
+                "I": [
+                  "Student support set-aside."
+                ]
+              },
+              {
+                "_": "(b)  Grant funds that are not distributed under paragraph (a) of this section may be made available to applicants through subsequent Notices of Funding Opportunity, which will be published by NTIA and publicly accessible via .\n\n\n\n\n",
+                "I": [
+                  "Additional notices of funding opportunity.",
+                  "www.grants.gov"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.7",
+              "NODE": "47:5.0.3.2.3.0.144.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.7   Eligible uses for grant funds."
+            ],
+            "P": [
+              {
+                "_": "(a)  In general and subject to the more specific uses listed in paragraphs (a)(1) through (3) of this section, grant funds awarded to HBCUs, TCUs or MSIs may be used as appropriate to facilitate educational instruction and learning, including through remote instruction; and grant funds awarded to consortia including Minority Business Enterprises (MBEs) or Tax-Exempt Organizations may be used to operate that MBE or Tax-Exempt Organization. Grant funds awarded under this part may only be used for the following purposes:\n",
+                "I": [
+                  "Eligible uses."
+                ]
+              },
+              "(1) The purchase of broadband internet access service, including the installation or upgrade of broadband facilities on a one-time, capital improvement, basis in order to increase or expand broadband capacity and/or connectivity at the eligible institution;\n",
+              "(2) The purchase or lease of eligible equipment and devices for student or patron use, subject to any restrictions and prohibited uses identified in paragraph (d) of this section; and\n",
+              "(3) To hire and train information technology personnel who are a part of the eligible anchor institution, MBE or Tax-Exempt Organization.\n",
+              {
+                "_": "(b)  The HBCUs, TCUs or MSI applicant must certify that if it receives a grant under this part to provide broadband internet access service or eligible equipment to students that it will, as a condition of that grant, prioritize students in need, in accordance with the following criteria:\n",
+                "I": [
+                  "Student priority for the provision of broadband services, devices, and equipment."
+                ]
+              },
+              "(1) Students who are eligible to receive Federal Pell Grants;\n",
+              "(2) Students who receive any other need-based financial aid from the Federal Government, a State, or the eligible recipient;\n",
+              "(3) Students who are qualifying low-income consumers for the purposes of the program carried out under 47 CFR part 54, subpart E, or any successor regulations;\n",
+              "(4) Students who are low-income individuals as that term is defined in section 312(g) of the Higher Education Act of 1965 (20 U.S.C. 1058(g)); or\n",
+              "(5) Students who have been approved to receive unemployment insurance benefits under any Federal or State law since March 1, 2020.\n",
+              {
+                "_": "(c)  Any recipient that lends or provides eligible equipment to students or patrons must prioritize the lending or providing of such equipment or devices to students or patrons that the recipient believes do not have access to such equipment.\n",
+                "I": [
+                  "Prioritization of students and patrons without equipment and/or broadband access."
+                ]
+              },
+              {
+                "_": "(d)  The sale or transfer of any portion of the grant-funded equipment for a thing (including a service) of value during the life of equipment is prohibited. Recipients are required to comply with the property standards, including the use and disposition requirements, contained in 2 CFR 200.311 through 200.316, and with the terms and conditions set forth in the grant award.\n\n\n\n\n",
+                "I": [
+                  "Prohibited uses."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§  302.8",
+              "NODE": "47:5.0.3.2.3.0.144.8",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§  302.8   Continuing compliance."
+            ],
+            "P": [
+              "(a) The applicant must certify that it has complied with the required statutory and programmatic conditions in submitting its application.\n",
+              "(b) A grant recipient must submit on an annual basis, 30 days after the end of each Federal fiscal year in which grant funds are available, a certification regarding compliance and use of CMC grant funds as outlined in § 302.7.\n",
+              "(c) Where a recipient knowingly provides false or inaccurate information in its certification related use of CMC grant funds, the recipient shall—\n",
+              "(1) Not be eligible to receive the grant under this part;\n",
+              "(2) Return any grant awarded under this part during the time that the certification was not valid; and\n",
+              "(3) Not be eligible to receive any subsequent grants under this part.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 302.9",
+              "NODE": "47:5.0.3.2.3.0.144.9",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 302.9   Financial and administrative requirements."
+            ],
+            "P": [
+              {
+                "_": "(a)  The requirements of 2 CFR part 200, the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, govern the implementation and management of grants awarded under this part. Awards issued pursuant to this program will also be subject to the  that are in effect on the date of the award. The current version, dated November 12, 2020, is accessible at: . Awards issued pursuant to this program may also be subject to specific award conditions as authorized by 2 CFR 200.208.\n",
+                "I": [
+                  "General.",
+                  "Department of Commerce Standard Terms and Conditions for Financial Assistance Awards",
+                  "https://www.commerce.gov/sites/default/files/2020-11/DOC%20Standard%20Terms%20and%20Conditions%20-%2012%20November%202020%20PDF_0.pdf"
+                ]
+              },
+              {
+                "_": "(b) —(1)  Each grant recipient shall submit semi-annual and annual performance reports to NTIA, following the procedures of 2 CFR 200.329. Semi-annual performance reports are due within 30 calendar days after the reporting period. Annual performance reports are due within 90 calendar days after the reporting period, except when a final report is required under § 302.10.\n",
+                "I": [
+                  "Reporting requirements",
+                  "Performance reports."
+                ]
+              },
+              {
+                "_": "(2)  Each recipient shall submit quarterly financial reports to NTIA and the National Institute of Standards and Technology (NIST), following the procedures of 2 CFR 200.328, within 30 calendar days after the reporting period, except when a final financial report is required under § 302.10.\n",
+                "I": [
+                  "Financial reports."
+                ]
+              },
+              {
+                "_": "(c)  All CMC grant awards are subject to audit in accordance with 2 CFR part 200, subpart F and the . Specifically, 2 CFR part 200, subpart F, adopted by the Department of Commerce through 2 CFR 1327.101 requires any non-federal entity (as defined in 2 CFR 200.1) that expends Federal awards of $750,000 or more in the recipient's fiscal year to conduct a single or program-specific audit in accordance with the requirements set out in subpart F. Additionally, unless otherwise specified in the terms and conditions of the award, entities that are not subject to subpart F of 2 CFR part 200 (e.g., commercial entities) that expend $750,000 or more in DOC funds during their fiscal year must submit to the Grants Officer either: A financial related audit of each DOC award or subaward in accordance with Generally Accepted Government Auditing Standards; or a project specific audit for each award or subaward in accordance with the requirements contained in 2 CFR 200.507. Applicants are reminded that NTIA, NIST, the Department of Commerce Office of Inspector General, or another authorized Federal agency may conduct an audit of an award at any time.\n\n\n\n\n",
+                "I": [
+                  "Audit requirements.",
+                  "Department of Commerce Financial Assistance Standard Terms and Conditions"
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 302.10",
+              "NODE": "47:5.0.3.2.3.0.144.10",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 302.10   Closeout."
+            ],
+            "P": [
+              {
+                "_": "(a)  The right to incur programmatic costs under this part will expire at the end of the period of performance. The right to incur closeout costs under this part will expire at the end of the 120-day closeout period, unless this period is extended in writing by the Grants Officer.\n",
+                "I": [
+                  "Expiration of the right to incur costs."
+                ]
+              },
+              {
+                "_": "(b)  Within 120 calendar days after the completion of projects and activities funded under this part, but in no event later than the closeout period expiration date identified in paragraph (a) of this section, each grant recipient must submit—\n",
+                "I": [
+                  "Final submissions."
+                ]
+              },
+              "(1) A final financial report to NTIA/NIST, following the procedures of 2 CFR 200.344(a); and\n",
+              "(2) A final performance report to NTIA/NIST, following the procedures of 2 CFR 200.344(a).\n",
+              {
+                "_": "(c)  Any funds that remain unexpended after closeout shall cease to be available to the recipient and shall be returned to the Federal Government.\n\n\n\n\n",
+                "I": [
+                  "Disposition of unexpended balances."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 302.11",
+              "NODE": "47:5.0.3.2.3.0.144.11",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 302.11   Waiver authority."
+            ],
+            "P": [
+              "It is the general intent of NTIA not to waive any of the provisions set forth in this part. However, under extraordinary circumstances and when it is in the best interest of the Federal government, NTIA, upon its own initiative or when requested, may waive the provisions in this part. Waivers may only be granted for requirements that are discretionary and not mandated by statute or other applicable law. Any request for a waiver must set forth the extraordinary circumstances for the request.\n\n\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 302.12",
+              "NODE": "47:5.0.3.2.3.0.144.12",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 302.12   Program termination."
+            ],
+            "P": [
+              "Except with respect to the report required under the Consolidated Appropriations Act, 2021, Division N, Title IX, section 902(c)(7), and the authority of the Secretary of Commerce and the Inspector General of the Department of Commerce described in section 902(c)(8), the CMC Pilot Program, including all reporting requirements under section 902, shall terminate on the date on which the amounts made available to carry out the CMC Pilot Program are fully expended.\n\n\n\n\n"
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "303-399",
+          "NODE": "47:5.0.3.2.4",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 303-399 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

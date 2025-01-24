@@ -1,0 +1,184 @@
+{
+  "number": "IX",
+  "title": " CHAPTER IX—CONSTRUCTION INDUSTRY COLLECTIVE BARGAINING COMMISSION",
+  "content": {
+    "$": {
+      "N": "IX",
+      "NODE": "29:4.1.1",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER IX—CONSTRUCTION INDUSTRY COLLECTIVE BARGAINING COMMISSION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "900",
+          "NODE": "29:4.1.1.1.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 900 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "901",
+          "NODE": "29:4.1.1.1.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 901—POLICY STATEMENT ON COLLECTIVE BARGAINING DISPUTES AND APPLICABLE PROCEDURES\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "E.O. 11482; 3 CFR, 1969 Comp., p. 139.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "35 FR 4752, Mar. 19, 1970, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 901.1",
+              "NODE": "29:4.1.1.1.2.0.1.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.1   Scope and application."
+            ],
+            "P": [
+              "The Construction Industry Collective Bargaining Commission hereby states its policy and sets forth procedures for handling disputes involving the standard labor and management organizations in the building and construction industry. These procedures are pursuant to the authority set forth in Executive Order 11482, dated September 22, 1969. Section 6 of the order states that, “The Commission is authorized to issue such rules and regulations, and to adopt such procedures governing its affairs, including the conduct of its disputes settlement functions, as shall be necessary and appropriate to effectuate the objectives of this order.”\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.2",
+              "NODE": "29:4.1.1.1.2.0.1.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.2   Policy of Commission."
+            ],
+            "P": [
+              "Section 3(c) of the Executive order provides that it is an objective of the Commission “to establish more effective machinery for the resolution of disputes over the terms of collective bargaining agreements which at the same time recognizes the interests of each branch of the industry and preserves existing procedures that have been effective.” Accordingly, it is the policy of the Commission:\n",
+              "(a) To encourage each branch of the industry without such a procedure to establish its own procedures to facilitate the settlement of disputes over the terms and application of collective bargaining agreements.\n",
+              "(b) To encourage each branch of the industry having such a procedure, but which procedure is limited in application, to expand the application of such procedure.\n",
+              "(c) To encourage parties in each branch of construction with a procedure to utilize that machinery in all possible cases.\n",
+              "(d) To encourage the Federal Mediation and Conciliation Service to refer disputes wherever possible to such machinery established in various branches of the industry.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.3",
+              "NODE": "29:4.1.1.1.2.0.1.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.3   Participation by Commission."
+            ],
+            "P": [
+              "(a) The Commission will consider participation in specific disputes which conform with the following criteria:\n",
+              "(1) The disputes will have a significant impact on construction activity in the area involved. \n",
+              "(2) The dispute concerns negotiations for a new or expiring agreement, or a question of interpretation or application of an existing agreement, where all other internal methods of resolution have been exhausted.\n",
+              "(b) The Commission will normally refrain from participating in specific disputes where;\n",
+              "(1) The dispute involved concerns jurisdiction of work.\n",
+              "(2) The parties have failed to utilize an independent disputes handling procedure presently in existence or subsequently established. (A number of such procedures exists currently in several branches of the industry.)\n",
+              "(3) The parties have not fully utilized the service of the Federal Mediation and Conciliation Service.\n",
+              "(c) In setting forth a disputes procedure the Commission emphasizes that it is not intended to provide a substitute for the collective bargaining process. Nor is it a means to bypass or neglect existing mediation facilities or industry branch dispute settling procedures. The standard procedure for the Commission to accept cognizance over a collective bargaining dispute is through referral to the Commission by the Director of the Federal Mediation and Conciliation Service. The Commission will exercise its judgment in accepting or declining specific disputes. The staff of the Commission is directed to maintain close contact with the Federal Mediation and Conciliation Service on all aspects of bargaining in the construction industry and to see that critical disputes are brought to the attention of the appropriate International Union and the national offices of an appropriate contractor association.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.4",
+              "NODE": "29:4.1.1.1.2.0.1.4",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.4   Handling of disputes by Commission."
+            ],
+            "P": [
+              "The Commission will determine the particular method of dispute handling appropriate for each dispute. Section 5(a) of the Executive order states, \n"
+            ],
+            "EXTRACT": [
+              {
+                "P": [
+                  "The Commission or a panel designated by the Commission may, with the assistance of national labor organizations and national contractor associations where appropriate, seek to mediate such dispute, or make an investigation of the facts of the dispute and make such recommendations to the parties for the resolution thereof as it determines appropriate."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.5",
+              "NODE": "29:4.1.1.1.2.0.1.5",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.5   Agreement to refrain from strike or lockout."
+            ],
+            "P": [
+              "As part of its conditions for entering the dispute, the Commission may request the parties to continue the terms or conditions of employment without the occurrence of a strike or lockout for a 30-day period, as set forth in section 5(a) of the Executive Order, to enhance the functions of mediation and other related activities.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.6",
+              "NODE": "29:4.1.1.1.2.0.1.6",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.6   Authority of Executive Director."
+            ],
+            "P": [
+              "The Commission delegates authority to the Executive Director to accept or reject requests for Commission involvement in those instances where a Commission meeting would not occur in sufficient time prior to a contract expiration date to permit such involvement.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 901.7",
+              "NODE": "29:4.1.1.1.2.0.1.7",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 901.7   Inquiries and correspondence with Commission."
+            ],
+            "P": [
+              "Inquiries to the Commission about the status of disputes or other matters should be directed as follows:\n"
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": [
+                  "Executive Director, Construction Industry Collective Bargaining Commission, room 5220, Department of Labor Building, 14th and Constitution Avenue NW., Washington, DC 20210. Telephone: (202) 961-3736."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "902-999",
+          "NODE": "29:4.1.1.1.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 902-999 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

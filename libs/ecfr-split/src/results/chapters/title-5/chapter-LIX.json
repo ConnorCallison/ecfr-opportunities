@@ -1,0 +1,216 @@
+{
+  "number": "LIX",
+  "title": " CHAPTER LIX—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+  "content": {
+    "$": {
+      "N": "LIX",
+      "NODE": "5:3.0.43",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER LIX—NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "6900",
+          "NODE": "5:3.0.43.11.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 6900 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "6901",
+          "NODE": "5:3.0.43.11.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 6901—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 7301; 5 U.S.C. App. (Ethics in Government Act of 1978); 51 U.S.C. 20113(a); E.O. 12674, 54 FR 15159, 3 CFR, 1989 Comp., p. 215, as modified by E.O. 12731, 55 FR 42547, 3 CFR, 1990 Comp., p. 306; 5 CFR 2635.105, 2635.403(a), 2635.802(a), 2635.803.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "59 FR 49336, Sept. 28, 1994, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 6901.101",
+              "NODE": "5:3.0.43.11.2.0.53.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 6901.101   General."
+            ],
+            "P": [
+              "In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the National Aeronautics and Space Administration (NASA) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch contained in 5 CFR part 2635. In addition to the standards in 5 CFR part 2635 and this part, employees are subject to the executive branch financial disclosure regulations contained in 5 CFR part 2634, and to additional regulations regarding their conduct contained in 5 CFR part 735 and 14 CFR part 1207.\n\n\n"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 6901.102",
+              "NODE": "5:3.0.43.11.2.0.53.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 6901.102   [Reserved]"
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 6901.103",
+              "NODE": "5:3.0.43.11.2.0.53.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 6901.103   Outside employment."
+            ],
+            "P": [
+              {
+                "_": "(a)  A NASA employee shall not engage in outside employment prohibited by paragraph (c) of this section and shall obtain approval before engaging in the outside employment activities specified in paragraph (d) of this section.\n",
+                "I": [
+                  "General."
+                ]
+              },
+              {
+                "_": "(b)  Unless a term is otherwise defined in this part, the definitions set forth in 5 CFR part 2635 apply to terms used in this section. In addition, for purposes of this section:\n",
+                "I": [
+                  "Definitions."
+                ]
+              },
+              {
+                "_": "(1)  means any form of compensated or uncompensated non-Federal employment or business relationship involving the provision of personal services by the employee. It includes, but is not limited to, personal services as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher, or speaker. It includes writing when done under an arrangement with another person for production or publication of the written product. It does not, however, include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service, or civic organization, unless the organization is a prohibited source or unless such activities involve the provision of professional services or advice, or are for compensation other than reimbursement of expenses.\n",
+                "I": [
+                  "Outside employment"
+                ]
+              },
+              {
+                "_": "(2)  has the meaning set forth in 5 CFR 2636.305(b)(1).\n",
+                "I": [
+                  "Profession"
+                ]
+              },
+              {
+                "_": "(3)  means a student employed through a student internship program implemented by the Office of Personnel Management (OPM).\n",
+                "I": [
+                  "Student intern"
+                ]
+              },
+              {
+                "_": "(c)  A NASA employee, other than a special Government employee or a student intern, shall not engage in outside employment with the following:\n",
+                "I": [
+                  "Prohibited outside employment."
+                ]
+              },
+              "(1) A NASA contractor, subcontractor, or grantee in connection with work performed by that entity for NASA; or\n",
+              "(2) A party to a Space Act agreement, Commercial Launch Act agreement, or other agreement to which NASA is a party pursuant to specific statutory authority, if the employment is in connection with work performed under that agreement.\n",
+              {
+                "_": "(d)  A NASA employee, other than a special Government employee, shall request and obtain approval before engaging in the following outside employment activities:\n",
+                "I": [
+                  "Prior approval for outside employment."
+                ]
+              },
+              "(1) Teaching, speaking, writing, or editing, unless the subject matter pertains to the private interests of the employee, such as a hobby, cultural activity, or a professional pursuit unrelated to the employee's official duties;\n",
+              "(2) The practice of a profession or the rendering of professional consulting services;\n",
+              "(3) The management or conduct of a business in which the employee or the employee's spouse has an ownership interest, if that business performs, or may seek to perform, work (other than routine consumer transactions) for the Federal Government or for a NASA contractor, grantee, or other party to an agreement with NASA;\n",
+              "(4) Holding State or local public office, whether by election or appointment;\n",
+              "(5) Employment with a NASA contractor, subcontractor, or grantee;\n",
+              "(6) Employment with a party to a Space Act agreement, Commercial Launch Act agreement, or other agreement to which NASA is a party pursuant to specific statutory authority;\n",
+              "(7) Serving as an officer, trustee, or member of a board, directorate, or other such body of a for profit organization or of a nonprofit organization that is a prohibited source; or\n",
+              "(8) Employment which involves the practice of a NASA-owned invention or the performance of experimental, developmental, research, design, or engineering work that relates to the official duties of such employee.\n",
+              {
+                "_": "(e)  Even when not required by paragraph (d) of this section, a NASA employee may request prior approval using the procedures set forth in this section.\n",
+                "I": [
+                  "Prior approval requested by employee."
+                ]
+              },
+              {
+                "_": "(f)  A request for approval of outside employment shall be in writing and shall include the following:\n",
+                "I": [
+                  "Form of request for approval."
+                ]
+              },
+              "(1) The employee's name and occupational title;\n",
+              "(2) The nature of the employment, including a full description of the specific duties or services to be performed and a statement explaining any relationship between the outside activity and the official duties of the employee;\n",
+              "(3) The name and address of the person or organization for which work will be done;\n",
+              "(4) The estimated total time that will be devoted to the activity. If the employment is on a continuing basis, indicate the estimated number of hours per year; for other employment, indicate the anticipated beginning and ending date;\n",
+              "(5) A statement as to whether the work can be performed entirely outside of the employee's regular duty hours and, if not, the estimated number of hours of absence from work that will be required;\n",
+              "(6) Whether the employee will receive compensation for the outside activity, and, if the employee is a covered noncareer employee as defined by 5 CFR 2636.303, the amount of compensation to be received; and\n",
+              "(7) A statement that the employee currently has no official duties involving a matter that affects the outside employer and will disqualify from future participation in matters that could directly affect the outside employer.\n",
+              {
+                "_": "(g) —(1) When required to obtain approval prior to commencing outside employment pursuant to paragraph (d) of this section, a NASA employee shall receive approval from the employee's immediate supervisor. Additional authority to approve requests is as follows:\n",
+                "I": [
+                  "Approval of requests"
+                ]
+              },
+              "(i) Center Directors and Deputy Center Directors shall receive approval by the Associate Administrator;\n",
+              "(ii) Center employees shall receive approval from the Center Director or a person designated to act for the Center Director; and\n",
+              "(iii) Headquarters employees shall receive approval from the employee's Official-in-Charge.\n",
+              "(2) Prior to approval, the Office of the General Counsel shall review requests by Headquarters employees, Center Directors, Deputy Center Directors, and Center Chief Counsel. All other requests shall be reviewed by the Center Chief Counsel's office, and for Office of Inspector General employees, by the Counsel to the Inspector General.\n",
+              {
+                "_": "(3)  Approval will be granted unless a determination is made that the prospective outside employment is expected to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635 and this part.\n",
+                "I": [
+                  "Standard for approval."
+                ]
+              },
+              {
+                "_": "(4)  Approval will be for a period not to exceed five years. Upon a significant change in the nature or scope of the outside employment or in the employee's NASA position, the employee shall submit a revised request for approval.\n",
+                "I": [
+                  "Scope of approval."
+                ]
+              },
+              {
+                "_": "(5)  Employees will be notified in writing of the action taken on their requests.\n",
+                "I": [
+                  "Notification of approval or disapproval."
+                ]
+              },
+              {
+                "_": "(6)  All requests for approval will be maintained in the local human resources/personnel office where the requesting employee works, or alternatively by the local NASA legal office upon the determination of the Center Chief Counsel and by the Office of the General Counsel upon the determination of the General Counsel.\n",
+                "I": [
+                  "Records of requests."
+                ]
+              }
+            ],
+            "CITA": [
+              {
+                "_": "[59 FR 49336, Sept. 28, 1994, as amended at 79 FR 7566, Feb. 10, 2014]\n\n\n",
+                "$": {
+                  "TYPE": "N"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "6902-6999",
+          "NODE": "5:3.0.43.11.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 6902-6999 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}

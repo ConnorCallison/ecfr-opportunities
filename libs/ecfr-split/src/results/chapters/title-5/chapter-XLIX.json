@@ -1,0 +1,203 @@
+{
+  "number": "XLIX",
+  "title": " CHAPTER XLIX—FEDERAL LABOR RELATIONS AUTHORITY",
+  "content": {
+    "$": {
+      "N": "XLIX",
+      "NODE": "5:3.0.34",
+      "TYPE": "CHAPTER"
+    },
+    "HEAD": [
+      " CHAPTER XLIX—FEDERAL LABOR RELATIONS AUTHORITY"
+    ],
+    "DIV5": [
+      {
+        "$": {
+          "N": "5900",
+          "NODE": "5:3.0.34.11.1",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5900 [RESERVED]\n\n\n"
+        ]
+      },
+      {
+        "$": {
+          "N": "5901",
+          "NODE": "5:3.0.34.11.2",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PART 5901—SUPPLEMENTAL STANDARDS OF ETHICAL CONDUCT FOR EMPLOYEES OF THE FEDERAL LABOR RELATIONS AUTHORITY\n"
+        ],
+        "AUTH": [
+          {
+            "HED": [
+              "Authority:"
+            ],
+            "PSPACE": [
+              "5 U.S.C. 7105; 5 U.S.C. App. (Ethics in Government Act of 1978); E.O. 12674, 54 FR 15159, 3 CFR, 1989 Comp., p. 215, as modified by E.O. 12731, 55 FR 42547, 3 CFR, 1990 Comp., p. 306; 5 CFR 2635.105, 2635.803.\n"
+            ]
+          }
+        ],
+        "SOURCE": [
+          {
+            "HED": [
+              "Source:"
+            ],
+            "PSPACE": [
+              "75 FR 79262, Dec. 20, 2010, unless otherwise noted.\n\n\n"
+            ]
+          }
+        ],
+        "DIV8": [
+          {
+            "$": {
+              "N": "§ 5901.101",
+              "NODE": "5:3.0.34.11.2.0.53.1",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5901.101   General."
+            ],
+            "P": [
+              {
+                "_": "(a)  In accordance with 5 CFR 2635.105, and unless provided elsewhere in this part, these regulations apply to all employees of the Federal Labor Relations Authority (FLRA), including employees of the Federal Service Impasses Panel and the Office of the General Counsel, and supplement the Standards of Ethical Conduct for Employees of the Executive Branch (Standards) contained in 5 CFR part 2635.\n",
+                "I": [
+                  "Applicability."
+                ]
+              },
+              {
+                "_": "(b)  In addition to 5 CFR part 2635 and this part, FLRA employees are required to comply with implementing guidance and procedures issued by the FLRA in accordance with 5 CFR 2635.105(c). FLRA employees are also subject to the regulations concerning executive branch financial disclosure contained in 5 CFR part 2634, the regulations concerning executive branch financial interests contained in 5 CFR part 2640, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.\n",
+                "I": [
+                  "Cross-references."
+                ]
+              },
+              {
+                "_": "(c)  The Designated Agency Ethics Official (DAEO) and the Alternate Designated Agency Ethics Official (Alternate DAEO) shall serve as the FLRA's designees to make determinations, grant approvals, and take other actions under 5 CFR part 2635 and this part.\n\n\n",
+                "I": [
+                  "Agency designees."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 5901.102",
+              "NODE": "5:3.0.34.11.2.0.53.2",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5901.102   Prior approval for outside employment."
+            ],
+            "P": [
+              {
+                "_": "(a)  Any FLRA employee, excluding all special Government employees ( employees expected to work no more than 130 days in any 365-day period), shall obtain prior written approval from the DAEO or the Alternate DAEO before engaging in any outside employment, except to the extent that the DAEO or the Alternate DAEO has issued an instruction or manual pursuant to paragraph (e) of this section. Nonetheless, special Government employees remain subject to other statutory and regulatory provisions governing their outside activities, including 18 U.S.C. 203(c) and 205(c), as well as applicable provisions of 5 CFR part 2635.\n",
+                "I": [
+                  "General requirement.",
+                  "i.e.,"
+                ]
+              },
+              {
+                "_": "(b)  (1) For the purposes of this section, “employment” means any form of non-Federal employment or business relationship involving the provision of personal services by the employee for direct, indirect, or deferred compensation other than reimbursement of actual and necessary expenses. It also includes, irrespective of compensation, the following outside activities:\n",
+                "I": [
+                  "Definition of “employment.”"
+                ]
+              },
+              "(i) Providing personal services as a consultant or professional, including service as an expert witness or as an attorney;\n",
+              "(ii) Providing personal services to a for-profit entity as an officer, director, employee, agent, attorney, consultant, contractor, general partner, trustee, teacher, or speaker; and\n",
+              "(iii) Writing when done under an arrangement with another person for production or publication of the written product.\n",
+              "(2) The definition does not include participation in the activities of a nonprofit charitable, religious, professional, social, fraternal, educational, recreational, public service or civic organization, unless:\n",
+              "(i) The employee will receive compensation other than reimbursement of expenses;\n",
+              "(ii) The organization's activities are devoted substantially to matters relating to the employee's official duties as defined in 5 CFR 2635.807(a)(2)(i)(B) through (E) and the employee will serve as officer or director of the organization; or\n",
+              "(iii) The activities will involve the provision of consultative or professional services. Consultative services means the provision of personal services by an employee, including the rendering of advice or consultation, which requires advanced knowledge in a field of science or learning customarily acquired by a course of specialized instruction and study in an institution of higher education, hospital, or similar facility. Professional services means the provision of personal services by an employee, including the rendering of advice or consultation, which involves application of the skills of a profession as defined in 5 CFR 2636.305(b)(1) or involves a fiduciary relationship as defined in 5 CFR 2636.305(b)(2).\n",
+              {
+                "_": "(c)  (1) Requests for approval of outside employment shall be sent to either the DAEO or the Alternate DAEO through the employee's normal supervisory channels and shall include the following information:\n",
+                "I": [
+                  "Procedure for requesting approval."
+                ]
+              },
+              "(i) The name of the person, group, or organization for which the outside employment is proposed to be performed;\n",
+              "(ii) The nature of the service to be performed and the position's title, if any;\n",
+              "(iii) The proposed hours of work (if regularly scheduled) and the approximate dates of employment;\n",
+              "(iv) The employee's explanation as to whether the proposed outside employment (including teaching, speaking, or writing) will implicate in any way information obtained as a result of the employee's official Federal position; and\n",
+              "(v) The employee's explanation that no Federal property, resources, or facilities not available to the general public will be used in connection with the outside employment.\n",
+              "(2) Upon a significant change in the nature or scope of the outside employment or in the employee's official position within the FLRA, the employee must, within seven calendar days of the change, submit a revised request for approval.\n",
+              "(3) The DAEO or the Alternate DAEO shall grant approval only on a determination that the outside employment is not expected to involve conduct prohibited by statute or Federal regulation, including part 2635 of this title, or paragraph (d) of this section. The DAEO or the Alternate DAEO will advise the employee, in writing, of the approval or denial of the request for outside employment and will maintain a record of the written request and determination.\n",
+              {
+                "_": "(d)  (1) Employees shall not engage in:\n",
+                "I": [
+                  "Prohibited outside employment."
+                ]
+              },
+              "(i) Rendering legal advice regarding, or preparing an individual or group in any matter relating to, labor relations in either the private or public sector, outside the employee's official duties. This prohibition shall not apply to a special Government employee unless he or she:\n",
+              "(A) Has participated personally and substantially as a Government employee or special Government employee in the same matter; or\n",
+              "(B) Has served with the FLRA 60 days or more during the immediately preceding period of 365 consecutive days; or\n",
+              "(C) Any other outside employment that conflicts with the employee's official Government duties or responsibilities.\n",
+              {
+                "_": "(2)  Nothing in this paragraph (d) prevents an employee from:\n",
+                "I": [
+                  "Exceptions."
+                ]
+              },
+              "(i) Acting, with or without compensation, as an agent or attorney for, or otherwise representing, the employee's parents, spouse, child, or any other person for whom, or for any estate for which, the employee is serving as guardian, executor, administrator, trustee, or other personal fiduciary to the extent permitted by 18 U.S.C. 203(d) and 205(e), or from providing advice or counsel to such persons or estate; or\n",
+              "(ii) Acting, without compensation, as an agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings, to the extent permitted by 18 U.S.C. 205.\n",
+              {
+                "_": "(e)  The FLRA DAEO or Alternate DAEO may issue instructions or manual issuances governing the submission of requests for approval of outside employment. The instructions or manual issuances may exempt categories of employment from the prior approval requirement of this section based on a determination that employment within those categories of employment would generally be approved and is not likely to involve conduct prohibited by statute or Federal regulation, including 5 CFR part 2635. The DAEO or Alternate DAEO may include in these instructions or issuances examples of outside employment that are permissible or impermissible consistent with this part and 5 CFR part 2635.\n\n\n",
+                "I": [
+                  "DAEO's and Alternate DAEO's responsibilities."
+                ]
+              }
+            ]
+          },
+          {
+            "$": {
+              "N": "§ 5901.103",
+              "NODE": "5:3.0.34.11.2.0.53.3",
+              "TYPE": "SECTION"
+            },
+            "HEAD": [
+              "§ 5901.103   Procedure for accomplishing disqualification."
+            ],
+            "P": [
+              {
+                "_": "(a)  An FLRA employee who is required, in accordance with 5 CFR 2635.402(c), to disqualify himself or herself from participation in a particular matter to which he or she has been assigned shall, notwithstanding the guidance in 5 CFR 2635.402(c)(1) and (2), provide written notice of disqualification to his or her supervisor and the DAEO upon determining that he or she will not participate in the matter.\n",
+                "I": [
+                  "Disqualifying financial interest."
+                ]
+              },
+              {
+                "_": "(b)  An FLRA employee who is required, in accordance with 5 CFR 2635.502(e), to disqualify himself or herself from participation in a particular matter involving specific parties to which he has been assigned shall, notwithstanding the guidance in 5 CFR 2635.502(e)(1) and (2), provide written notice of disqualification to his or her supervisor and the DAEO upon determining that he will not participate in the matter.\n",
+                "I": [
+                  "Disqualification to ensure impartiality."
+                ]
+              },
+              {
+                "_": "(c)  An FLRA employee who is required, in accordance with 5 CFR 2635.604(a), to disqualify himself or herself from participation in a particular matter to which he has been assigned shall, notwithstanding the guidance in 5 CFR 2635.604(b) and (c), provide written notice of disqualification to his or her supervisor and the DAEO upon determining that he will not participate in the matter.\n",
+                "I": [
+                  "Disqualification from matters affecting prospective employers."
+                ]
+              },
+              {
+                "_": "(d)  An FLRA employee may withdraw written notice under paragraphs (a), (b), or (c) of this section upon deciding that disqualification from participation in the matter is no longer required. A withdrawal of notification shall be in writing and provided to the employee's supervisor and the DAEO.\n\n\n",
+                "I": [
+                  "Withdrawal of notification."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "$": {
+          "N": "5902-5999",
+          "NODE": "5:3.0.34.11.3",
+          "TYPE": "PART"
+        },
+        "HEAD": [
+          "PARTS 5902-5999 [RESERVED]\n\n\n"
+        ]
+      }
+    ]
+  }
+}
