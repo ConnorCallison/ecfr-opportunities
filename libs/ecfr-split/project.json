@@ -1,0 +1,20 @@
+{
+  "name": "ecfr-split",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/ecfr-split/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/ecfr-split",
+        "tsConfig": "libs/ecfr-split/tsconfig.lib.json",
+        "packageJson": "libs/ecfr-split/package.json",
+        "main": "libs/ecfr-split/src/index.ts",
+        "assets": ["libs/ecfr-split/*.md"]
+      }
+    }
+  }
+}

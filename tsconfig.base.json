@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@ecfr-opportunities/ecfr-split": ["libs/ecfr-split/src/index.ts"],
       "@ecfr-opportunities/ecfr-xml": ["libs/ecfr-xml/src/index.ts"]
     }
   },
