@@ -1,0 +1,28 @@
+---
+title: CHAPTER XIII—EAST-WEST FOREIGN TRADE BOARD
+chapter: XIII
+title_number: 15
+---
+
+CHAPTER XIII—EAST-WEST FOREIGN TRADE BOARD
+
+# Chapter XIII
+
+  PART 1300—REPORTS ON EXPORTS OF TECHNOLOGY
+
+### Part 1300
+
+    § 1300.1   Reporting of exports of technology to nonmarket economy countries.
+
+#### § § 1300.1
+
+    (a) For purposes of complying with the reporting requirements of section 411 of the Trade Act of 1974 (19 U.S.C. 2441) relating to the export of technology to a nonmarket economy country, exporters of such technology shall be deemed to have complied with the requirements of such section by complying with the applicable provisions of the export control regulations of the Department of Commerce (15 CFR 368.1 through 399.2) issued pursuant to the Export Administration Act of 1969, as amended, (50 U.S.C. App. 2401 through 2413).
+
+    (b) Nonmarket Economy Country. For purposes of section 411(b) of the Trade Act of 1974 (19 U.S.C. 2441) the term “nonmarket economy country” includes those countries included in Country Groups Q, W, Y, and Z of the export control regulations of the Department of Commerce (15 CFR Part 370 (Supplement 1)).
+
+> [40 FR 29534, July 14, 1975]
+
+  PARTS 1301-1399 [RESERVED]
+
+### Part 1301-1399
+

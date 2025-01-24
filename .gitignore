@@ -47,3 +47,4 @@ vitest.config.*.timestamp*
 # eCFR XML files
 libs/ecfr-xml/src/results/**/*.xml
 # libs/ecfr-split/src/results/**/*.json
+# libs/ecfr-markdown/src/results/**/*.md
