@@ -3,6 +3,7 @@ import * as path from 'path';
 import axios from 'axios';
 import { promisify } from 'util';
 import { mkdir } from 'fs/promises';
+import pLimit from 'p-limit';
 
 const mkdirAsync = promisify(fs.mkdir);
 const writeFileAsync = promisify(fs.writeFile);
@@ -22,11 +23,10 @@ export async function downloadECFRTitle(
 
   try {
     const response = await axios.get(url, { responseType: 'text' });
-
     await writeFileAsync(outputPath, response.data);
     console.log(`✅ Successfully downloaded Title ${title}`);
     return { title, success: true };
-  } catch (error) {
+  } catch (error: any) {
     console.error(`❌ Failed to download Title ${title}:`, error.message);
     return { title, success: false, error: error.message };
   }
@@ -43,9 +43,15 @@ export async function downloadAllTitles(): Promise<DownloadResult[]> {
     // Ensure output directory exists
     await mkdir(outputDir, { recursive: true });
 
-    // Download titles 1-50 concurrently
+    // Create a limit of 5 concurrent downloads
+    const limit = pLimit(5);
+
+    // Create an array of limited download promises
     const downloads = Array.from({ length: 50 }, (_, i) => i + 1).map((title) =>
-      downloadECFRTitle(title, outputDir)
+      limit(() => {
+        console.log(`🔄 Queuing download of Title ${title}...`);
+        return downloadECFRTitle(title, outputDir);
+      })
     );
 
     return await Promise.all(downloads);
@@ -58,6 +64,8 @@ export async function downloadAllTitles(): Promise<DownloadResult[]> {
 // This will be our main entry point for the build command
 export async function main() {
   console.log('Starting eCFR XML download...');
+  console.log('Downloads will be processed with a concurrency of 5...\n');
+
   try {
     const results = await downloadAllTitles();
     const successful = results.filter((r) => r.success).length;
