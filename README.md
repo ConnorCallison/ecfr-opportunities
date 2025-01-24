@@ -10,7 +10,18 @@ This project aims to download the entire electronic Code of Federal Regulations 
 - Stores files in `libs/ecfr-xml/src/results/xml-data`
 - Provides detailed success/failure reporting
 
-🚧 **Other Components**: In Development
+✅ **eCFR Chapter Splitter**: Operational
+
+- Extracts individual chapters from each title
+- Stores chapters as JSON files in `libs/ecfr-split/src/results/chapters`
+- Recursively finds all chapters regardless of nesting level
+
+🚧 **Markdown Converter**: In Development
+
+- Converting chapter JSON files to markdown format
+- Work in progress...
+
+🔲 **Other Components**: Not Started
 
 ## Project Plan
 
@@ -56,19 +67,28 @@ Then, install the dependencies for the repo:
 npm install
 ```
 
-### Downloading the eCFR
+### Processing the eCFR
 
-To download all titles of the eCFR in XML format:
+To process the eCFR, run these commands in sequence:
+
+1. Download all titles:
 
 ```bash
 nx download ecfr-xml
 ```
 
+2. Split titles into chapters:
+
+```bash
+nx split ecfr-split
+```
+
 This will:
 
-- Download all 50 titles
-- Save them to `libs/ecfr-xml/src/results/xml-data`
-- Provide a summary of successful and failed downloads
+- Download all 50 titles of the eCFR
+- Split each title into its constituent chapters
+- Save both the raw XML and processed JSON files
+- Provide detailed summaries of each operation
 
 ### Running the Application
 
