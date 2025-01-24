@@ -2,6 +2,16 @@
 
 This project aims to download the entire electronic Code of Federal Regulations (eCFR), parse it into Markdown format, pass it to OpenAI embeddings, and then build a web application where users can ask natural language questions about the regulations. Additionally, we will develop a node job to evaluate various subsections of the eCFR, generating complexity and cost scores to help identify potential areas of efficiency improvement in the government.
 
+## Project Status
+
+✅ **eCFR XML Downloader**: Operational
+
+- Downloads all 50 titles of the eCFR in XML format
+- Stores files in `libs/ecfr-xml/src/results/xml-data`
+- Provides detailed success/failure reporting
+
+🚧 **Other Components**: In Development
+
 ## Project Plan
 
 1. **Download eCFR**:
@@ -45,6 +55,20 @@ Then, install the dependencies for the repo:
 ```bash
 npm install
 ```
+
+### Downloading the eCFR
+
+To download all titles of the eCFR in XML format:
+
+```bash
+nx download ecfr-xml
+```
+
+This will:
+
+- Download all 50 titles
+- Save them to `libs/ecfr-xml/src/results/xml-data`
+- Provide a summary of successful and failed downloads
 
 ### Running the Application
 
