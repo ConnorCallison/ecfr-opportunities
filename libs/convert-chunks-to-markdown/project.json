@@ -1,0 +1,20 @@
+{
+  "name": "convert-chunks-to-markdown",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/convert-chunks-to-markdown/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/convert-chunks-to-markdown",
+        "tsConfig": "libs/convert-chunks-to-markdown/tsconfig.lib.json",
+        "packageJson": "libs/convert-chunks-to-markdown/package.json",
+        "main": "libs/convert-chunks-to-markdown/src/index.ts",
+        "assets": ["libs/convert-chunks-to-markdown/*.md"]
+      }
+    }
+  }
+}
