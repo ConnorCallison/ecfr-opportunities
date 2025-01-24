@@ -858,6 +858,8 @@ CHAPTER XIII—FINANCIAL STABILITY OVERSIGHT COUNCIL
 
       (2) The final date on which the Council convenes for the financial market utility to present oral testimony.
 
+      
+
       (1) The term “payment, clearing, or settlement activity” means an activity carried out by 1 or more financial institutions to facilitate the completion of financial transactions, but shall not include any offer or sale of a security under the Securities Act of 1933 (15 U.S.C. 77a ), or any quotation, order entry, negotiation, or other pre-trade activity or execution activity.
 
       (2) For purposes of paragraph (1) of this definition, the term “financial transaction” includes—

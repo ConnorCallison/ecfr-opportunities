@@ -952,6 +952,8 @@ CHAPTER XVII—DEFENSE NUCLEAR FACILITIES SAFETY BOARD
 
       means any matter before a court of law, administrative board or tribunal, commission, administrative law judge, hearing officer, or other body that conducts a legal or administrative proceeding. _Legal proceeding_ includes all phases of litigation.
 
+      
+
       (1) All documents and materials which are DNFSB agency records under the Freedom of Information Act, 5 U.S.C. 552;
 
       (2) All other documents and materials contained in DNFSB files; and

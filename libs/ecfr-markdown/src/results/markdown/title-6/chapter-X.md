@@ -550,6 +550,8 @@ CHAPTER X—PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD
 
 #### § § 1002.5
 
+    
+
     (1) You may appeal any decision by the Board to deny, in whole or in part, your request under § 1002.3 no later than 60 days after the decision is rendered.
 
     (2) Your appeal must be in writing, sent to the General Counsel at the address specified in § 1002.3(b) and contain the following information:

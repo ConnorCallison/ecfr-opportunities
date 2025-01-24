@@ -428,6 +428,8 @@ CHAPTER XII—OFFICE OF INSPECTOR GENERAL, DEPARTMENT OF HOUSING AND URBAN DEVEL
 
       (3) Any individual who served or is serving in any consulting or advisory capacity to OIG, whether formal or informal.
 
+      
+
       (1) All documents and materials that are OIG agency records under the Freedom of Information Act, 5 U.S.C. 552;
 
       (2) All other documents and materials contained in OIG files; and

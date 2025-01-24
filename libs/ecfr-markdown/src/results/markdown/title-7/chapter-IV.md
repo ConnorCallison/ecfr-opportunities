@@ -4540,6 +4540,8 @@ CHAPTER IV—FEDERAL CROP INSURANCE CORPORATION, DEPARTMENT OF AGRICULTURE
 
     In lieu of the definition in the Basic Provisions, separately-named, high-density aquaculture lease sites or shellfish sites are considered non-contiguous, unless limited by the Special Provisions. Individual land parcels within such sites are not considered non-contiguous.
 
+    
+
     (a) This deductible allows a smaller deductible than the crop year deductible to be used when:
 
     (1) Inventory values are less than the reported basic unit value; or
@@ -4565,6 +4567,8 @@ CHAPTER IV—FEDERAL CROP INSURANCE CORPORATION, DEPARTMENT OF AGRICULTURE
     Unless limited by the Special Provisions, performing the cultural practices necessary to prepare for replacement of insurable clams that were destroyed by an insurable cause of loss and then placing living insurable clams into mesh bags or pens, or seeding them into prepared growout beds, bottom culture, bottom trays, or floating trays on insurable acreage.
 
     The dissolved solids (typically salts such as chloride, sodium, and potassium) in ocean water expressed as parts per thousand.
+
+    
 
     (a) For clams placed in a field nursery or a nursery bag—a clam that is a minimum of 5 millimeters, measured at the longest shell distance that is parallel to the hinge.
 

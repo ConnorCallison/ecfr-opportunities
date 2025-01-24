@@ -2268,6 +2268,8 @@ CHAPTER 3—HEALTH AND HUMAN SERVICES
 
         As prescribed in HHSAR 336.570(a), the Contracting Officer shall insert the following clause:
 
+        
+
         352.237-70   Pro-Children Act.
 
 #### § 352.237-70
@@ -2325,6 +2327,8 @@ CHAPTER 3—HEALTH AND HUMAN SERVICES
 #### § 352.270-4a
 
         As prescribed in HHSAR 370.303(a), the Contracting Officer shall insert the following provision:
+
+        
 
         352.270-4b   Protection of Human Subjects.
 

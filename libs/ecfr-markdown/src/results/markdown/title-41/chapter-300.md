@@ -216,6 +216,8 @@ CHAPTER 300—GENERAL
 
       —A train that operates at an increased fare due to the extra performance of the train,  faster speed or fewer stops, or both.
 
+      
+
       —For the purposes of 41 CFR 301-10.260-266 and 301-70.800-910, a person who travels on a Government aircraft and who is either—
 
       (1) A civilian employee in the Government service;

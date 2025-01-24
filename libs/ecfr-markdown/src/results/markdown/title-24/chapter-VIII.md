@@ -7218,6 +7218,8 @@ CHAPTER VIII—OFFICE OF THE ASSISTANT SECRETARY FOR HOUSING-FEDERAL HOUSING COM
 
 #### § § 891.809
 
+      
+
       (a) Acquisition of facilities currently owned and operated by the sponsor as housing for the elderly, except with rehabilitation as defined in 24 CFR 891.105;
 
       (b) The financing or refinancing of federally assisted or insured projects;

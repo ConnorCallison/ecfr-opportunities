@@ -3382,6 +3382,8 @@ CHAPTER 5—GENERAL SERVICES ADMINISTRATION
 
         (AUG 2010). As prescribed in 516.203-4(a)(2), add the following paragraph (g) to the basic clause.
 
+        
+
 > [64 FR 37229, July 9, 1999, as amended at 75 FR 41096, July 15, 2010]
 
         552.216-72   Placement of Orders.
@@ -4241,6 +4243,8 @@ CHAPTER 5—GENERAL SERVICES ADMINISTRATION
 #### § 552.246-71
 
         As prescribed in 546.302-71, insert the following clause:
+
+        
 
 > [64 FR 37229, July 9, 1999, as amended at 74 FR 26110, June 1, 2009; 86 FR 55524, Oct. 6, 2021]
 

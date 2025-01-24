@@ -7330,6 +7330,8 @@ CHAPTER I—COAST GUARD, DEPARTMENT OF HOMELAND SECURITY (CONTINUED)
 
         or  means any individual or organization, other than the operator, permitted by the Commandant (CG-5P) to act on behalf of the Coast Guard pursuant to section 148.8 of this subpart. The activities may include reviewing plans and calculations for construction of deepwater ports, conducting inspections, witnessing tests, and certifying systems and/or components associated with deepwater ports as safe and suitable for their intended purpose.
 
+        
+
         (1) Any person who is a United States citizen by law, birth, or naturalization;
 
         (2) Any State, State agency, or group of States; or
@@ -7377,6 +7379,8 @@ CHAPTER I—COAST GUARD, DEPARTMENT OF HOMELAND SECURITY (CONTINUED)
         (1) May expose personnel to the risk of death, incapacitation, injury, or acute illness; or
 
         (2) May impair ability to escape from the atmosphere unaided.
+
+        
 
         (1) Means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond State seaward boundaries that are used or are intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to any State, except as otherwise provided in the Deepwater Port Act of 1974, as amended, and for other uses not inconsistent with the purposes of the Deepwater Ports Act, including transportation of oil or natural gas from the United States' OCS;
 
