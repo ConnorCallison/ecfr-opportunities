@@ -45,4 +45,4 @@ vite.config.*.timestamp*
 vitest.config.*.timestamp*
 
 # eCFR XML files
-# libs/ecfr-xml/src/results/
+libs/ecfr-xml/src/results/**/*.xml
