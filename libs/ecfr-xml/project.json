@@ -1,0 +1,20 @@
+{
+  "name": "ecfr-xml",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/ecfr-xml/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/libs/ecfr-xml",
+        "tsConfig": "libs/ecfr-xml/tsconfig.lib.json",
+        "packageJson": "libs/ecfr-xml/package.json",
+        "main": "libs/ecfr-xml/src/index.ts",
+        "assets": ["libs/ecfr-xml/*.md"]
+      }
+    }
+  }
+}
