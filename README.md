@@ -142,6 +142,11 @@ nx test [app-name]
 
 For more details on how to use Nx in this project, refer to the Nx documentation.
 
+## Deployment
+
+All services in this application are deployed on Railway. You can find the project here:
+[Railway Project Dashboard](https://railway.com/project/73bc232c-73ae-4f52-865e-a12d710336d9?environmentId=e10c6441-5dbd-4c0b-885d-05a5a42e0dc7)
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, submit a pull request, or create an issue for any bugs or feature requests.
