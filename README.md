@@ -93,11 +93,25 @@ nx split ecfr-split
 nx markdown ecfr-markdown
 ```
 
+4. Set up the database:
+
+```bash
+# Generate database migrations (new syntax)
+nx run database:db:generate
+
+# Push schema changes to database (new syntax)
+nx run database:db:push
+
+# (Optional) Open database studio UI
+nx run database:db:studio
+```
+
 This will:
 
 - Download all 50 titles of the eCFR
 - Split each title into its constituent chapters
 - Convert chapters into well-formatted markdown documents
+- Set up the database schema and migrations
 - Save files at each stage of processing
 - Provide detailed summaries of each operation
 

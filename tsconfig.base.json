@@ -18,8 +18,12 @@
       "@ecfr-opportunities/convert-chunks-to-markdown": [
         "libs/convert-chunks-to-markdown/src/index.ts"
       ],
+      "@ecfr-opportunities/database": ["libs/database/src/index.ts"],
       "@ecfr-opportunities/ecfr-split": ["libs/ecfr-split/src/index.ts"],
-      "@ecfr-opportunities/ecfr-xml": ["libs/ecfr-xml/src/index.ts"]
+      "@ecfr-opportunities/ecfr-xml": ["libs/ecfr-xml/src/index.ts"],
+      "@ecfr-opportunities/llm-chapter-analyzer": [
+        "libs/llm-chapter-analyzer/src/index.ts"
+      ]
     }
   },
   "exclude": ["node_modules", "tmp"]
