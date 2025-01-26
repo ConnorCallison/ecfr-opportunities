@@ -1,10 +1,9 @@
 import { json, type LoaderFunctionArgs } from '@remix-run/node';
 import { useLoaderData } from '@remix-run/react';
-import { db, schema } from '@ecfr-opportunities/database';
-import * as React from 'react';
+import { getTitles, type Title } from '../models/title.server';
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  const titles = await db.select().from(schema.titles);
+  const titles = await getTitles();
   return json({ titles });
 }
 
@@ -24,7 +23,7 @@ export default function Index() {
           </tr>
         </thead>
         <tbody>
-          {titles.map((title) => (
+          {titles.map((title: Title) => (
             <tr key={title.id}>
               <td className="border px-4 py-2">{title.id}</td>
               <td className="border px-4 py-2">{title.name}</td>

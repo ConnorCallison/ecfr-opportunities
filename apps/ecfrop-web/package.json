@@ -2,7 +2,11 @@
   "name": "ecfrop-web",
   "private": true,
   "type": "module",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc && remix build",
+    "clean": "rm -rf dist",
+    "dev": "remix dev"
+  },
   "engines": {
     "node": ">=20"
   },
