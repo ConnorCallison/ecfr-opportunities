@@ -7,6 +7,10 @@
     "db:push": "drizzle-kit push",
     "db:studio": "drizzle-kit studio"
   },
+  "workspaces": [
+    "apps/**",
+    "libs/**"
+  ],
   "private": true,
   "devDependencies": {
     "@eslint/js": "^9.8.0",
@@ -57,6 +61,7 @@
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.38.4",
     "isbot": "^4.4.0",
+    "openai": "^4.80.1",
     "pg": "^8.13.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

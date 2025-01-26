@@ -7,7 +7,6 @@ import {
   varchar,
   index,
 } from 'drizzle-orm/pg-core';
-import { sql } from 'drizzle-orm';
 
 // Core eCFR structure
 export const titles = pgTable('titles', {
@@ -46,7 +45,7 @@ export const analyses = pgTable('analyses', {
   // Analysis metadata
   modelVersion: varchar('model_version', { length: 50 }).notNull(),
   promptVersion: varchar('prompt_version', { length: 50 }).notNull(),
-  analysisDate: timestamp('analysis_date').defaultNow().notNull(),
+  analysisDate: timestamp('analysis_date').notNull().defaultNow(),
 
   // Detailed analysis
   complexityReasoning: text('complexity_reasoning').notNull(),
