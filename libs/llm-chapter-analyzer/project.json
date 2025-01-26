@@ -10,11 +10,24 @@
       "outputs": ["{options.outputPath}"],
       "options": {
         "outputPath": "dist/libs/llm-chapter-analyzer",
-        "tsConfig": "libs/llm-chapter-analyzer/tsconfig.lib.json",
-        "packageJson": "libs/llm-chapter-analyzer/package.json",
         "main": "libs/llm-chapter-analyzer/src/index.ts",
+        "tsConfig": "libs/llm-chapter-analyzer/tsconfig.lib.json",
         "assets": ["libs/llm-chapter-analyzer/*.md"]
       }
+    },
+    "analyze": {
+      "executor": "nx:run-commands",
+      "options": {
+        "cwd": "dist/libs/llm-chapter-analyzer",
+        "command": "node src/main.js"
+      },
+      "dependsOn": [
+        "build",
+        {
+          "target": "build",
+          "projects": "dependencies"
+        }
+      ]
     }
   }
 }

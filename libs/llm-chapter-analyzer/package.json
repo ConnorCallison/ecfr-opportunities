@@ -15,6 +15,9 @@
     }
   },
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "openai": "^4.28.0",
+    "@ecfr-opportunities/database": "*",
+    "drizzle-orm": "^0.38.4"
   }
 }

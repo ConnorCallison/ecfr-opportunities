@@ -1,1 +1,1 @@
-export * from './lib/llm-chapter-analyzer';
+export * from './lib/analyzer';
