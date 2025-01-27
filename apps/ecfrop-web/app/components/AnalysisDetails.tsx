@@ -58,43 +58,46 @@ export function AnalysisDetails({
 }: AnalysisDetailsProps) {
   return (
     <details className="group/category bg-white rounded-xl shadow-sm [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden divide-y divide-gray-100">
-      <summary className="flex items-center gap-4 p-6 cursor-pointer list-none hover:bg-gray-50 transition-colors">
-        <svg
-          className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open/category:rotate-180"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth={2}
-            d="M19 9l-7 7-7-7"
-          />
-        </svg>
-        <div className="flex-1">
-          <div className="flex flex-col">
-            <p className="text-sm text-gray-500">Title {analysis.titleId}</p>
-            <h3 className="text-xl font-semibold text-gray-900">
-              {analysis.chapterName}
-            </h3>
+      <summary className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 p-6 pr-8 cursor-pointer list-none hover:bg-gray-50 transition-colors">
+        <div className="flex items-center gap-4 md:justify-start md:max-w-[50%]">
+          <svg
+            className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open/category:rotate-180"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+          >
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M19 9l-7 7-7-7"
+            />
+          </svg>
+          <div className="flex-1">
+            <div className="flex flex-col">
+              <p className="text-sm text-gray-500">Title {analysis.titleId}</p>
+              <h3 className="text-xl font-semibold text-gray-900">
+                {analysis.chapterName}
+              </h3>
+            </div>
           </div>
         </div>
-        <div className="flex flex-col gap-2 min-w-[300px]">
-          <div className="flex items-center gap-4">
-            <div className="w-80 h-60">
+        <div className="mt-4 md:mt-0 flex flex-col gap-2 md:min-w-[450px]">
+          <div className="flex flex-col md:flex-row items-start md:items-center gap-4">
+            <div className="hidden md:block h-60">
               <ScoreRadar analysis={analysis} compact />
             </div>
-            <div className="flex flex-col gap-1 items-end">
+            <div className="w-full overflow-x-auto md:w-auto md:min-w-[225px] flex flex-row md:flex-col gap-2 md:gap-1 md:items-end pb-2 md:pb-0">
               {categories.map((category) => (
-                <ScorePill
-                  key={category.id}
-                  label={category.label}
-                  score={
-                    analysis[category.scoreField as keyof Analysis] as number
-                  }
-                  emoji={category.emoji}
-                />
+                <div key={category.id} className="flex-shrink-0">
+                  <ScorePill
+                    label={category.label}
+                    score={
+                      analysis[category.scoreField as keyof Analysis] as number
+                    }
+                    emoji={category.emoji}
+                  />
+                </div>
               ))}
             </div>
           </div>
