@@ -15,6 +15,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build database package
+        run: npx nx build database
+
+      - name: Build web app
+        run: npx nx build ecfrop-web
+
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
 
