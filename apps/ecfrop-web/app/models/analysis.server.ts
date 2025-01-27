@@ -1,14 +1,7 @@
 import { db, schema } from '@ecfr-opportunities/database';
 import { desc, gt, sql, eq, asc } from 'drizzle-orm';
+import type { AnalysisFilter } from '../types/analysis';
 const { analyses, chapters, titles } = schema;
-
-export type AnalysisFilter =
-  | 'complexity'
-  | 'business'
-  | 'admin'
-  | 'market'
-  | 'dei'
-  | 'automation';
 
 export interface AnalysisQueryParams {
   filter: AnalysisFilter;
