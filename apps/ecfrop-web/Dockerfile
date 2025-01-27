@@ -1,26 +1,45 @@
-FROM node:20-slim AS base
+FROM node:20-slim AS builder
+
+# Install OpenSSL and other build dependencies
 RUN apt-get update && apt-get install -y openssl
 
-# Setup workspace
-FROM base AS workspace
 WORKDIR /app
+
+# Copy package files
+COPY package.json package-lock.json ./
+
+# Copy the entire workspace for Nx build
 COPY . .
+
+# Install all dependencies (including dev dependencies)
 RUN npm install
+
+# Build the app using Nx
 RUN npx nx build ecfrop-web
 
-# Production image
-FROM base AS runner
+# Production stage
+FROM node:20-slim
+
+RUN apt-get update && apt-get install -y openssl
+
 WORKDIR /app
-ENV NODE_ENV=production
 
-# Copy built app and dependencies
-COPY --from=workspace /app/apps/ecfrop-web/build ./build
-COPY --from=workspace /app/apps/ecfrop-web/public ./public
-COPY --from=workspace /app/apps/ecfrop-web/package.json .
-COPY --from=workspace /app/libs/database ./libs/database
+# Copy package files
+COPY package.json package-lock.json ./
 
-# Install production dependencies
+# Copy built app from builder stage
+COPY --from=builder /app/dist/apps/ecfrop-web/build ./build
+COPY --from=builder /app/apps/ecfrop-web/public ./public
+
+# Copy database package
+COPY libs/database ./libs/database
+
+# Install only production dependencies
 RUN npm install --omit=dev
 
-# Start the app
+ENV NODE_ENV=production
+ENV PORT=3000
+
+EXPOSE 3000
+
 CMD ["npm", "start"] 
