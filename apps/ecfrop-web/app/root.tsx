@@ -8,7 +8,6 @@ import {
   ScrollRestoration,
 } from '@remix-run/react';
 import styles from './styles/tailwind.css';
-
 export const meta: MetaFunction = () => [
   { title: 'eCFR Opportunities' },
   { name: 'description', content: 'Explore and analyze eCFR regulations' },
