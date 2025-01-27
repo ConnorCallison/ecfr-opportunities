@@ -192,14 +192,32 @@ export default function Analysis() {
         {/* Analysis Table */}
         <div className="bg-white shadow-lg rounded-2xl overflow-hidden border border-gray-100">
           {data.results.map((analysis: Analysis) => (
-            <details key={analysis.id} className="group">
-              <summary className="p-6 cursor-pointer hover:bg-gray-50 border-b border-gray-100">
+            <details
+              key={analysis.id}
+              className="group [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden"
+            >
+              <summary className="p-6 cursor-pointer hover:bg-gray-50 border-b border-gray-100 list-none">
                 <div className="flex flex-col sm:flex-row justify-between gap-4">
-                  <div>
-                    <h3 className="text-xl font-semibold text-gray-900 mb-1">
-                      {analysis.titleName}
-                    </h3>
-                    <p className="text-gray-600">{analysis.chapterName}</p>
+                  <div className="flex items-center gap-4">
+                    <svg
+                      className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open:rotate-180"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M19 9l-7 7-7-7"
+                      />
+                    </svg>
+                    <div>
+                      <h3 className="text-xl font-semibold text-gray-900 mb-1">
+                        {analysis.titleName}
+                      </h3>
+                      <p className="text-gray-600">{analysis.chapterName}</p>
+                    </div>
                   </div>
                   <div className="flex flex-wrap gap-2">
                     {categories.map((category) => (
@@ -251,16 +269,37 @@ export default function Analysis() {
 
                 {/* Analysis Details */}
                 <div className="grid grid-cols-1 gap-4">
+                  <div className="flex flex-col gap-2">
+                    <h4 className="text-sm font-medium text-gray-500">
+                      Approximated metrics
+                    </h4>
+                    <hr className="border-gray-200" />
+                  </div>
                   {categories.map((category) => (
                     <details
                       key={category.id}
-                      className="bg-white rounded-xl shadow-sm group"
+                      className="group/category bg-white rounded-xl shadow-sm [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden"
                     >
-                      <summary className="p-4 cursor-pointer hover:bg-gray-50 flex justify-between items-center">
-                        <span className="font-semibold flex items-center gap-2">
-                          <span>{category.emoji}</span>
-                          <span>{category.label}</span>
-                        </span>
+                      <summary className="p-4 cursor-pointer hover:bg-gray-50 flex justify-between items-center list-none">
+                        <div className="flex items-center gap-2">
+                          <svg
+                            className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open/category:rotate-180"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M19 9l-7 7-7-7"
+                            />
+                          </svg>
+                          <span className="font-semibold flex items-center gap-2">
+                            <span>{category.emoji}</span>
+                            <span>{category.label}</span>
+                          </span>
+                        </div>
                         <ScorePill
                           label="Score"
                           score={
@@ -333,7 +372,15 @@ function ScorePill({
   score: number;
   emoji: string;
 }) {
-  const getColor = (score: number) => {
+  const getColor = (score: number, label: string) => {
+    // Invert the color scale for DEI scores
+    if (label.includes('DEI')) {
+      if (score >= 80) return 'bg-green-100 text-green-800';
+      if (score >= 60) return 'bg-yellow-100 text-yellow-800';
+      if (score >= 40) return 'bg-orange-100 text-orange-800';
+      return 'bg-red-100 text-red-800';
+    }
+    // Normal color scale for other metrics
     if (score >= 80) return 'bg-red-100 text-red-800';
     if (score >= 60) return 'bg-orange-100 text-orange-800';
     if (score >= 40) return 'bg-yellow-100 text-yellow-800';
@@ -343,7 +390,8 @@ function ScorePill({
   return (
     <div
       className={`px-3 py-1 rounded-full text-sm flex items-center gap-1 ${getColor(
-        score
+        score,
+        label
       )}`}
     >
       <span>{emoji}</span>
