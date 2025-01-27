@@ -12,7 +12,8 @@
   },
   "workspaces": [
     "apps/**",
-    "libs/**"
+    "libs/**",
+    "libs/*"
   ],
   "private": true,
   "devDependencies": {
