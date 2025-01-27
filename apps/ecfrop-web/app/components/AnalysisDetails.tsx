@@ -1,4 +1,5 @@
 import type { Analysis } from '../types/analysis';
+import { ScoreRadar } from './ScoreRadar';
 import { ScorePill } from './ScorePill';
 
 export const categories = [
@@ -56,131 +57,98 @@ export function AnalysisDetails({
   onViewRegulations,
 }: AnalysisDetailsProps) {
   return (
-    <details className="group [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden">
-      <summary className="p-6 cursor-pointer hover:bg-gray-50 border-b border-gray-100 list-none">
-        <div className="flex flex-col sm:flex-row justify-between gap-4">
-          <div className="flex items-center gap-4">
-            <svg
-              className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open:rotate-180"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M19 9l-7 7-7-7"
-              />
-            </svg>
-            <div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-1">
-                {analysis.titleName}
-              </h3>
-              <p className="text-gray-600">{analysis.chapterName}</p>
-            </div>
+    <details className="group/category bg-white rounded-xl shadow-sm [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden divide-y divide-gray-100">
+      <summary className="flex items-center gap-4 p-6 cursor-pointer list-none hover:bg-gray-50 transition-colors">
+        <svg
+          className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open/category:rotate-180"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke="currentColor"
+        >
+          <path
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={2}
+            d="M19 9l-7 7-7-7"
+          />
+        </svg>
+        <div className="flex-1">
+          <div className="flex flex-col">
+            <p className="text-sm text-gray-500">Title {analysis.titleId}</p>
+            <h3 className="text-xl font-semibold text-gray-900">
+              {analysis.chapterName}
+            </h3>
           </div>
-          <div className="flex flex-wrap gap-2">
-            {categories.map((category) => (
-              <ScorePill
-                key={category.id}
-                label={category.label}
-                score={
-                  analysis[
-                    category.scoreField as keyof typeof analysis
-                  ] as number
-                }
-                emoji={category.emoji}
-              />
-            ))}
+        </div>
+        <div className="flex flex-col gap-2 min-w-[300px]">
+          <div className="flex items-center gap-4">
+            <div className="w-80 h-60">
+              <ScoreRadar analysis={analysis} compact />
+            </div>
+            <div className="flex flex-col gap-1 items-end">
+              {categories.map((category) => (
+                <ScorePill
+                  key={category.id}
+                  label={category.label}
+                  score={
+                    analysis[category.scoreField as keyof Analysis] as number
+                  }
+                  emoji={category.emoji}
+                />
+              ))}
+            </div>
           </div>
         </div>
       </summary>
 
-      <div className="p-6 bg-gray-50 border-b border-gray-100">
-        {/* View Regulations Button */}
-        <div className="mb-6 flex justify-end">
+      <div className="px-6 pb-6">
+        <div className="mb-8">
+          <ScoreRadar analysis={analysis} />
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-x-6 divide-y divide-gray-100">
+          {categories.map((category, index) => (
+            <div
+              key={category.id}
+              className={`py-6 ${
+                index % 2 === 0 && index === categories.length - 1
+                  ? 'md:border-b md:border-gray-100'
+                  : ''
+              }`}
+            >
+              <div className="flex items-center justify-between mb-3">
+                <h4 className="font-medium text-gray-900 flex items-center gap-2">
+                  <span>{category.emoji}</span>
+                  <span>{category.label}</span>
+                </h4>
+                <ScorePill
+                  label={category.label}
+                  score={
+                    analysis[category.scoreField as keyof Analysis] as number
+                  }
+                  emoji={category.emoji}
+                />
+              </div>
+              <p className="text-sm text-gray-600">
+                {analysis[category.reasoningField as keyof Analysis]}
+              </p>
+            </div>
+          ))}
+        </div>
+
+        <div className="mt-8 flex justify-center pt-6 border-t border-gray-100">
           <button
             onClick={() =>
               onViewRegulations(
                 analysis.chapterId,
-                `${analysis.titleName} - ${analysis.chapterName}`
+                `${analysis.chapterNumber} - ${analysis.chapterName}`
               )
             }
             className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2"
           >
             <span>📋</span>
-            <span className="">View Regulation Text</span>
+            <span>View Regulation Text</span>
           </button>
-        </div>
-
-        {/* Recommendations Section */}
-        <div className="mb-8">
-          <h4 className="text-lg font-semibold mb-3 flex items-center gap-2">
-            <span>💡</span>
-            <span>Key Recommendations</span>
-          </h4>
-          <div className="bg-white p-6 rounded-xl shadow-sm">
-            <p className="whitespace-pre-wrap text-gray-700">
-              {analysis.recommendations}
-            </p>
-          </div>
-        </div>
-
-        {/* Analysis Details */}
-        <div className="grid grid-cols-1 gap-4">
-          <div className="flex flex-col gap-2">
-            <h4 className="text-sm font-medium text-gray-500">
-              Approximated metrics
-            </h4>
-            <hr className="border-gray-200" />
-          </div>
-          {categories.map((category) => (
-            <details
-              key={category.id}
-              className="group/category bg-white rounded-xl shadow-sm [&>summary::-webkit-details-marker]:hidden [&>summary::marker]:hidden"
-            >
-              <summary className="p-4 cursor-pointer hover:bg-gray-50 flex justify-between items-center list-none">
-                <div className="flex items-center gap-2">
-                  <svg
-                    className="w-5 h-5 text-gray-500 transform transition-transform duration-200 flex-shrink-0 group-open/category:rotate-180"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M19 9l-7 7-7-7"
-                    />
-                  </svg>
-                  <span className="font-semibold flex items-center gap-2">
-                    <span>{category.emoji}</span>
-                    <span>{category.label}</span>
-                  </span>
-                </div>
-                <ScorePill
-                  label="Score"
-                  score={
-                    analysis[
-                      category.scoreField as keyof typeof analysis
-                    ] as number
-                  }
-                  emoji={category.emoji}
-                />
-              </summary>
-              <div className="p-4 border-t border-gray-100">
-                <p className="whitespace-pre-wrap text-gray-700">
-                  {
-                    analysis[
-                      category.reasoningField as keyof typeof analysis
-                    ] as string
-                  }
-                </p>
-              </div>
-            </details>
-          ))}
         </div>
       </div>
     </details>

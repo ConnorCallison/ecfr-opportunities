@@ -6,6 +6,7 @@ import { useState, useEffect } from 'react';
 import { RegulationsModal } from '../components/RegulationsModal';
 import { FilterOptions } from '../components/FilterOptions';
 import { AnalysisDetails } from '../components/AnalysisDetails';
+import { InfoModal } from '../components/InfoModal';
 
 interface AnalysisData {
   results: Analysis[];
@@ -45,6 +46,7 @@ export default function Analysis() {
     content: '',
     title: '',
   });
+  const [showInfoModal, setShowInfoModal] = useState(false);
 
   useEffect(() => {
     if (fetcher.state === 'idle' && fetcher.data && modalContent.isOpen) {
@@ -88,18 +90,41 @@ export default function Analysis() {
     <div className="min-h-screen bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-8">
-          <h1 className="text-4xl font-bold text-gray-900 mb-2">
-            Analysis Dashboard
-          </h1>
-          <p className="text-gray-600">
-            Explore and analyze federal regulations
-          </p>
-        </div>
+          <div className="flex justify-between items-start mb-4">
+            <div>
+              <h1 className="text-4xl font-bold text-gray-900 mb-2">
+                Analysis Dashboard
+              </h1>
+              <p className="text-gray-600">
+                Explore and analyze federal regulations
+              </p>
+            </div>
+            <button
+              onClick={() => setShowInfoModal(true)}
+              className="inline-flex items-center gap-2 px-4 py-2 text-sm font-medium text-gray-700 bg-white rounded-lg shadow-sm hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            >
+              <svg
+                className="w-5 h-5"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                />
+              </svg>
+              <span>Score Guide</span>
+            </button>
+          </div>
 
-        <FilterOptions
-          currentFilter={currentFilter}
-          onFilterChange={handleFilterChange}
-        />
+          <FilterOptions
+            currentFilter={currentFilter}
+            onFilterChange={handleFilterChange}
+          />
+        </div>
 
         {/* Analysis Table */}
         <div className="bg-white shadow-lg rounded-2xl overflow-hidden border border-gray-100">
@@ -112,7 +137,7 @@ export default function Analysis() {
           ))}
         </div>
 
-        {/* Regulations Modal */}
+        {/* Modals */}
         <RegulationsModal
           isOpen={modalContent.isOpen}
           onClose={() =>
@@ -120,6 +145,11 @@ export default function Analysis() {
           }
           content={modalContent.content}
           title={modalContent.title}
+        />
+
+        <InfoModal
+          isOpen={showInfoModal}
+          onClose={() => setShowInfoModal(false)}
         />
 
         {/* Pagination */}
