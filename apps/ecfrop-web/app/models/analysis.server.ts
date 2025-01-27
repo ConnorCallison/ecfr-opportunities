@@ -1,5 +1,5 @@
 import { db, schema } from '@ecfr-opportunities/database';
-import { desc, gt, sql, eq } from 'drizzle-orm';
+import { desc, gt, sql, eq, asc } from 'drizzle-orm';
 const { analyses, chapters, titles } = schema;
 
 export type AnalysisFilter =
@@ -33,24 +33,14 @@ export async function getAnalyses({
 }: AnalysisQueryParams) {
   const offset = (page - 1) * pageSize;
 
-  // Determine sort column based on filter
-  const sortColumn = {
-    complexity: analyses.complexityScore,
-    business: analyses.businessCostScore,
-    admin: analyses.administrativeCostScore,
-    market: analyses.marketImpactScore,
-    dei: analyses.deiScore,
-    automation: analyses.automationPotential,
-  }[filter];
-
   // Get total count for pagination
   const [{ count }] = await db
-    .select({ count: sql<number>`count(*)` })
+    .select({ count: sql`count(*)` })
     .from(analyses)
     .where(gt(analyses.complexityScore, 1));
 
   // Get paginated and filtered results
-  const results = await db
+  const query = db
     .select({
       id: analyses.id,
       chapterId: analyses.chapterId,
@@ -73,11 +63,23 @@ export async function getAnalyses({
     })
     .from(analyses)
     .where(gt(analyses.complexityScore, 1))
-    .innerJoin(chapters, sql`${analyses.chapterId} = ${chapters.id}`)
-    .innerJoin(titles, sql`${chapters.titleId} = ${titles.id}`)
-    .orderBy(desc(sortColumn))
+    .innerJoin(chapters, eq(analyses.chapterId, chapters.id))
+    .innerJoin(titles, eq(chapters.titleId, titles.id))
     .limit(pageSize)
     .offset(offset);
+
+  // Apply ordering based on filter
+  const results = await (filter === 'dei'
+    ? query.orderBy(asc(analyses.deiScore))
+    : filter === 'complexity'
+    ? query.orderBy(desc(analyses.complexityScore))
+    : filter === 'business'
+    ? query.orderBy(desc(analyses.businessCostScore))
+    : filter === 'admin'
+    ? query.orderBy(desc(analyses.administrativeCostScore))
+    : filter === 'market'
+    ? query.orderBy(desc(analyses.marketImpactScore))
+    : query.orderBy(desc(analyses.automationPotential)));
 
   return {
     results,

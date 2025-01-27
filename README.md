@@ -23,9 +23,21 @@ This project aims to download the entire electronic Code of Federal Regulations 
 - Handles complex elements like citations, authorities, and nested content
 - Stores markdown files in `libs/ecfr-markdown/src/results/markdown`
 
+✅ **Web Application**: Operational
+
+- Interactive web interface for exploring regulations
+- Displays complexity and cost analysis scores
+- Allows filtering and sorting of regulations by various metrics
+- Provides detailed views of individual chapters and their analyses
+
+✅ **Complexity Analysis**: Operational
+
+- LLM-powered analysis of all eCFR regulations
+- Generates scores for complexity, business costs, market impact, and administrative burden
+- Stores analysis results in database for querying
+- Provides detailed reasoning for each score
+
 🔲 **OpenAI Embeddings**: Not Started
-🔲 **Web Application**: Not Started
-🔲 **Complexity Analysis**: Not Started
 
 ## Project Plan
 
