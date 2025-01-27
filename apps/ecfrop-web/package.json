@@ -3,9 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "tsc && remix build",
+    "build": "npm run build:css && remix build",
+    "build:css": "tailwindcss -m -i ./app/styles/tailwind.css -o app/styles/app.css",
     "clean": "rm -rf dist",
-    "dev": "remix dev"
+    "dev": "remix dev",
+    "start": "remix-serve ./build/index.js"
   },
   "engines": {
     "node": ">=20"
