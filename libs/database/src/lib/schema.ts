@@ -41,6 +41,7 @@ export const analyses = pgTable('analyses', {
   businessCostScore: integer('business_cost_score').notNull(), // Direct cost impact
   marketImpactScore: integer('market_impact_score').notNull(), // Market effect
   administrativeCostScore: integer('administrative_cost_score').notNull(), // Admin burden
+  deiScore: integer('dei_score').notNull(), // Merit vs identity-based policies (100 = purely merit-based)
 
   // Analysis metadata
   modelVersion: varchar('model_version', { length: 50 }).notNull(),
@@ -52,6 +53,7 @@ export const analyses = pgTable('analyses', {
   costReasoning: text('cost_reasoning').notNull(),
   impactReasoning: text('impact_reasoning').notNull(),
   adminReasoning: text('admin_reasoning').notNull(),
+  deiReasoning: text('dei_reasoning').notNull(), // Explanation of merit vs identity-based policy analysis
 
   // Aggregate metrics
   totalScore: integer('total_score').notNull(),

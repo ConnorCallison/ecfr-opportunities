@@ -1,7 +1,9 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "module": "ESNext",
+    "module": "NodeNext", // Ensures compatibility with ESM
+    "moduleResolution": "NodeNext", // Resolves ESM imports
+    "target": "ESNext",
     "outDir": "./dist",
     "rootDir": ".",
     "types": ["node"]

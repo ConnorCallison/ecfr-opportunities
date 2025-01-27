@@ -1,13 +1,19 @@
 {
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
-    "module": "commonjs"
+    "module": "NodeNext", // Ensures compatibility with ESM
+    "moduleResolution": "NodeNext", // Resolves ESM imports
+    "target": "ESNext",
+    "outDir": "./dist",
+    "rootDir": ".",
+    "types": ["node"],
+    "baseUrl": "."
   },
-  "files": [],
-  "include": [],
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist"],
   "references": [
     {
-      "path": "./tsconfig.lib.json"
+      "path": "../database"
     }
   ]
 }

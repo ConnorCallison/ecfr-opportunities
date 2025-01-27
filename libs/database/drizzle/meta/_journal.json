@@ -8,6 +8,13 @@
       "when": 1737782411637,
       "tag": "0000_parallel_harrier",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1737939529150,
+      "tag": "0001_pink_hitman",
+      "breakpoints": true
     }
   ]
 }

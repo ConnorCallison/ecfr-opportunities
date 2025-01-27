@@ -2,22 +2,26 @@
   "name": "@ecfr-opportunities/llm-chapter-analyzer",
   "version": "0.0.1",
   "private": true,
-  "type": "commonjs",
-  "main": "./src/index.js",
-  "module": "./dist/index.js",
-  "types": "./src/index.d.ts",
+  "type": "module",
+  "main": "./dist/src/index.js",
+  "types": "./dist/src/index.d.ts",
   "exports": {
     "./package.json": "./package.json",
     ".": {
-      "types": "./dist/index.d.ts",
-      "import": "./dist/index.js",
-      "default": "./dist/index.js"
+      "types": "./dist/src/index.d.ts",
+      "import": "./dist/src/index.js",
+      "default": "./dist/src/index.js"
     }
   },
   "dependencies": {
-    "tslib": "^2.3.0",
-    "openai": "^4.28.0",
     "@ecfr-opportunities/database": "*",
-    "drizzle-orm": "^0.38.4"
+    "drizzle-orm": "^0.38.4",
+    "openai": "^4.28.0"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "rm -rf dist",
+    "dev": "tsc --build --watch",
+    "analyze": "node dist/src/main.js"
   }
 }
