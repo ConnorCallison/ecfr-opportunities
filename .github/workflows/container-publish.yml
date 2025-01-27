@@ -35,7 +35,7 @@ jobs:
           file: apps/ecfrop-web/Dockerfile
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: ghcr.io/${{ github.repository }}/ecfrop-web:latest
+          tags: ghcr.io/connorcallison/ecfr-opportunities/ecfrop-web:latest/ecfrop-web:latest
           labels: |
             org.opencontainers.image.source=https://github.com/${{ github.repository }}
             org.opencontainers.image.visibility=public
