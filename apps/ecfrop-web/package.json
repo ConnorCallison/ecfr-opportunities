@@ -17,7 +17,7 @@
     "@remix-run/node": "^2.14.0",
     "@remix-run/react": "^2.14.0",
     "@remix-run/serve": "^2.14.0",
-    "@ecfr-opportunities/database": "*",
+    "@ecfr-opportunities/database": "file:../../libs/database",
     "isbot": "^4.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

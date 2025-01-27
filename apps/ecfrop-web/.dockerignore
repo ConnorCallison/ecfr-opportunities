@@ -1,5 +1,11 @@
+# Dependencies
 node_modules
+!libs/database/node_modules
+
+# Build outputs
 .cache
 build
 public/build
+
+# Environment
 .env 
